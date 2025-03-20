@@ -1,0 +1,142 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Olgas Kost i Hedensted søger en dygtig rengøringsassistent til fast rute samt afløser,Olgas Kost i Hedensted søger en dygtig rengøringsassistent til fast rute samt afløser,"Olgas Kost&nbsp;søger en medarbejder til almendelig rengøring af kontorarealer, hertilhørende toiletter, kantiner mm. Vi søger en moden og ansvarsbevidst person der har styr på sin tilværelse og so",Olga`s kost,Ndr. Fabriksvej 1C  ,8722,Hedensted,False,False,False,True,2025-02-03T00:00:00,2025-03-07T00:00:00,7. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/bd3e5259-48b6-430d-9d63-b584cd3532cc,Midtjylland,Hedensted,Danmark,8722,,Hotjob,Fastansættelse,Deltid,"Rengøring, ejendomsservice og renovation",Rengøring mv.,Rengøringsassistent,55.7651,9.7113,(10 - 30 timer ugentligt),"Morgen, dag, aften",1017998613,,34306206,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/bd3e5259-48b6-430d-9d63-b584cd3532cc,https://job.jobnet.dk/CV/FindWork/Details/bd3e5259-48b6-430d-9d63-b584cd3532cc,https://job.jobnet.dk/CV/FindWork/Details/bd3e5259-48b6-430d-9d63-b584cd3532cc,True,bd3e5259-48b6-430d-9d63-b584cd3532cc,55.7651,9.7113,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Olga`s kost,Ndr. Fabriksvej 1C,58,Danmark,766,Hedensted,2,Midtjylland,8722,Hedensted,,0,Primary,,,https://olgaskost.dk/job/,None,,1017998613,34306206,None,bd3e5259-48b6-430d-9d63-b584cd3532cc,Olga`s kost,Ndr. Fabriksvej 1C,58,Danmark,766,Hedensted,2,Midtjylland,8722,Hedensted,,0,Primary,,,https://olgaskost.dk/job/,None,,1017998613,34306206,None,,2025-02-03T00:00:00+01:00,2025-03-07T12:28:34.279+01:00,Olgas Kost i Hedensted søger en dygtig rengøringsassistent til fast rute samt afløser,"Olgas Kost søger en medarbejder til almendelig rengøring af kontorarealer, hertilhørende toiletter, kantiner mm. Vi søger en moden og ansvarsbevidst person der har styr på sin tilværelse og som kan se sig selv i dette job i længere tid. 
+   
+ Jobbet kan ansøges via vores hjemmeside under fanen  job , du er meget velkommen til at ringe efter du har udfyldt og sendt formularen, i tidsrummet mellem kl.: 10:00 - 17:00 
+   
+ Vi lever af vores meget høje kvalitetsniveau det er derfor vigtig at du er har øje for detaljen, grundet vores høje standard vil alle medarbejdere blive oplært grundigt ved alle kunder på ruten. 
+ Du møder mandag til fredag på vores virksomhed i Hedensted. 
+   
+ Ugetiden vil som udgangspunkt være 25 timer med mulighed for flere eller færre timer hvis dette ønskes, Du skal som udgangspunkt møde på vores adresse i Hedensted, hvor du henter en firmabil. Du kommer til at køre en fast planlagt rute (der naturligvis er sammenhængende), du vil derfor altid kende dine arbejdstider. 
+ 2-4 kunder hver dag (hver uge gentages), alle rekvisitter findes ved hver kunde, for at minimere løft. 
+ Du kan læse meget mere om vores gode arbejdsforhold på vores hjemmeside, hvor du også kan søge jobbet, alternativ kan du ringe til Peter Stefansen mellem kl.: 10:00 - 17:00 
+ I denne stilling aftaler vi faste arbejdstider der passer til dine ønsker, du vil køre en mindre fast ugerute. 
+ Du vil hver uge få en liste over opgaver der skal udførers hos vores eksisterende kunder som du køre til efter din faste rute, hvis der er sygemelding blandt dine kollegaer vil du skulle afløse dem i stedet for de sporadiske opgaver, det kan være på morgenrute såvel som aften.   
+ Mødetider: 
+ man kl.: 16:00  
+ tir kl.:    16:00  
+ ons kl.:  16:00  
+ tor kl.:   16:00 
+ fre kl.:   14:00 
+   
+ Vi forventer af dig: 
+ Du er flexibel 
+ Du kan lide at gøre rent og har lyst til at blive i jobbet i mange år 
+ Du er bosat i Vejle, Hedensted, Juelsminde eller der imellem 
+ Du har kørekort til alm bil 
+ Du kan fremvise en straffeattest 
+ Du er i fysisk god form 
+ Du kan møde til tiden 
+ Sætter en ære i at levere ordentligt stykke arbejde 
+ taler dansk, engelsk 
+   
+ Vi tilbyder: 
+ Løn efter kvalifikationer 
+ Pensionsordning efter 6 måneder 
+ En arbejdsplads med gode forhold 
+ Et godt arbejdsmiljø 
+ Firmabil der hentes på vores firmaadresse 
+ Ordentligt, nyt og opdateret udstyr af den bedste kvalitet 
+ Fast planlagt arbejdsdag/arbejdsuge 
+ De bedste midler der skåner både miljø og medarbejder 
+   
+   
+ Jeg ser frem til at høre fra dig! 
+   
+ Med venlig hilsen 
+ Peter Stefansen 
+ Olgas kost 
+ Tlf.: 31 243 243 
+ Kørekort: B Almindelig bil 
+   
+ Vi forventer af dig: 
+ Du er bosat i Vejle, Hedensted eller der imellem 
+ Du har kørekort til alm bil og egen bil 
+ Du kan fremvise en straffeattest 
+ Fleksibel 
+ Sætter en ære i at levere ordentligt stykke arbejde 
+ taler og skriver dansk eller engelsk 
+   
+ Vi tilbyder: 
+ En arbejdsplads med styr på tingene 
+ Et godt arbejdsmiljø 
+ Pensionsordning og sundhedsforsikring efter 6 måneder 
+ Firmabil der hentes på vores firmaadresse 
+ Ordentligt, nyt og opdateret udstyr 
+ Fast planlagt arbejdsdag 
+ De bedste midler der skåner både miljø og medarbejder 
+   
+ Jeg ser frem til at høre fra dig! 
+   
+ Med venlig hilsen 
+ Peter Stefansen",Ndr. Fabriksvej 1C,58,Danmark,766,Hedensted,2,Midtjylland,8722,Hedensted,1,16,Deltid,None,None,1,"{'DriversLicenceType': 3, 'Name': 'Almindelig bil', 'Description': ''}",Rengøringsassistent,0,"Bilvaskmedarbejder, Toiletpasser, Strygemedarbejder - beklædning, Rengøringspersonale, Rengøringshjælp, Rengøringsassistent i tog, Rengøringsassistent i fly, Rengøringsassistent i en forlystelsespark, Møbelrenser, Linnedassistent, 5582",0,0,False,,,False,False,False,False,4,30,10,False,False,True,True,True,False,,,,,https://olgaskost.dk/job/,False,2025-03-07T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=bd3e5259-48b6-430d-9d63-b584cd3532cc&Organisation=34306206,"Ndr. Fabriksvej 1C,8722, Hedensted",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=bd3e5259-48b6-430d-9d63-b584cd3532cc&Company.Name=Olga`s kost&SubmissionDeadlineDate=2025-3-7&Title=Olgas Kost i Hedensted søger en dygtig rengøringsassistent til fast rute samt afløser&WeeklyWorkTime=2,00000000-0000-0000-0000-000000000000,True,0,,,Olgas Kost i Hedensted søger en dygtig rengøringsassistent til fast rute samt afløser,True,,True,2,,bd3e5259-48b6-430d-9d63-b584cd3532cc,,,False,False,,0,False,Olga`s kost,Ndr. Fabriksvej 1C,,,8722,False,False,False,Hedensted,,,,,,,,False,,2025-03-07T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,(10 - 30 timer ugentligt),"Morgen, dag, aften",Arbejdspladsen ligger i Hedensted kommune,False,Olga`s kost,,None,,False,False,"Olgas Kostsøger en medarbejder til almendelig rengøring af kontorarealer, hertilhørende toiletter, kantiner mm. Vi søger en moden og ansvarsbevidst person der har styr på sin tilværelse og som kan se sig selv i dette job i længere tid.
+
+Jobbet kan ansøges via vores hjemmeside under fanenjob, du er meget velkommen til at ringe efter du har udfyldt o","""Olgas Kostsøger en medarbejder til almendelig rengøring af kontorarealer, hertilhørende toiletter, kantiner mm. Vi søger en moden og ansvarsbevidst person der har styr på sin tilværelse og som kan se sig selv i dette job i længere tid.\n\nJobbet kan ansøges via vores hjemmeside under fanenjob, du er meget velkommen til at ringe efter du har udfyldt o""","""Olgas Kost i Hedensted søger en dygtig rengøringsassistent til fast rute samt afløser""","https://www.google.dk/maps/dir//Ndr.+Fabriksvej+1C,8722,+Hedensted/","Olgas Kost søger en medarbejder til almendelig rengøring af kontorarealer, hertilhørende toiletter, kantiner mm. Vi søger en moden og ansvarsbevidst person der har styr på sin tilværelse og som kan se sig selv i dette job i længere tid. 
+   
+ Jobbet kan ansøges via vores hjemmeside under fanen  job , du er meget velkommen til at ringe efter du har udfyldt og sendt formularen, i tidsrummet mellem kl.: 10:00 - 17:00 
+   
+ Vi lever af vores meget høje kvalitetsniveau det er derfor vigtig at du er har øje for detaljen, grundet vores høje standard vil alle medarbejdere blive oplært grundigt ved alle kunder på ruten. 
+ Du møder mandag til fredag på vores virksomhed i Hedensted. 
+   
+ Ugetiden vil som udgangspunkt være 25 timer med mulighed for flere eller færre timer hvis dette ønskes, Du skal som udgangspunkt møde på vores adresse i Hedensted, hvor du henter en firmabil. Du kommer til at køre en fast planlagt rute (der naturligvis er sammenhængende), du vil derfor altid kende dine arbejdstider. 
+ 2-4 kunder hver dag (hver uge gentages), alle rekvisitter findes ved hver kunde, for at minimere løft. 
+ Du kan læse meget mere om vores gode arbejdsforhold på vores hjemmeside, hvor du også kan søge jobbet, alternativ kan du ringe til Peter Stefansen mellem kl.: 10:00 - 17:00 
+ I denne stilling aftaler vi faste arbejdstider der passer til dine ønsker, du vil køre en mindre fast ugerute. 
+ Du vil hver uge få en liste over opgaver der skal udførers hos vores eksisterende kunder som du køre til efter din faste rute, hvis der er sygemelding blandt dine kollegaer vil du skulle afløse dem i stedet for de sporadiske opgaver, det kan være på morgenrute såvel som aften.   
+ Mødetider: 
+ man kl.: 16:00  
+ tir kl.:    16:00  
+ ons kl.:  16:00  
+ tor kl.:   16:00 
+ fre kl.:   14:00 
+   
+ Vi forventer af dig: 
+ Du er flexibel 
+ Du kan lide at gøre rent og har lyst til at blive i jobbet i mange år 
+ Du er bosat i Vejle, Hedensted, Juelsminde eller der imellem 
+ Du har kørekort til alm bil 
+ Du kan fremvise en straffeattest 
+ Du er i fysisk god form 
+ Du kan møde til tiden 
+ Sætter en ære i at levere ordentligt stykke arbejde 
+ taler dansk, engelsk 
+   
+ Vi tilbyder: 
+ Løn efter kvalifikationer 
+ Pensionsordning efter 6 måneder 
+ En arbejdsplads med gode forhold 
+ Et godt arbejdsmiljø 
+ Firmabil der hentes på vores firmaadresse 
+ Ordentligt, nyt og opdateret udstyr af den bedste kvalitet 
+ Fast planlagt arbejdsdag/arbejdsuge 
+ De bedste midler der skåner både miljø og medarbejder 
+   
+   
+ Jeg ser frem til at høre fra dig! 
+   
+ Med venlig hilsen 
+ Peter Stefansen 
+ Olgas kost 
+ Tlf.: 31 243 243 
+ Kørekort: B Almindelig bil 
+   
+ Vi forventer af dig: 
+ Du er bosat i Vejle, Hedensted eller der imellem 
+ Du har kørekort til alm bil og egen bil 
+ Du kan fremvise en straffeattest 
+ Fleksibel 
+ Sætter en ære i at levere ordentligt stykke arbejde 
+ taler og skriver dansk eller engelsk 
+   
+ Vi tilbyder: 
+ En arbejdsplads med styr på tingene 
+ Et godt arbejdsmiljø 
+ Pensionsordning og sundhedsforsikring efter 6 måneder 
+ Firmabil der hentes på vores firmaadresse 
+ Ordentligt, nyt og opdateret udstyr 
+ Fast planlagt arbejdsdag 
+ De bedste midler der skåner både miljø og medarbejder 
+   
+ Jeg ser frem til at høre fra dig! 
+   
+ Med venlig hilsen 
+ Peter Stefansen","https://www.google.dk/maps/place/Ndr.+Fabriksvej+1C,8722,+Hedensted/",34306206,False,False,,False

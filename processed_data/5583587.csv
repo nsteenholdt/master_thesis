@@ -1,0 +1,140 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Sygeplejerske til dagvagt i Tårnby Kommunes Hjemmesygepleje,Sygeplejerske til dagvagt i Tårnby Kommunes Hjemmesygepleje,I Tårnby Kommunes Hjemmesygepleje har vi valgt at opprioritere sygeplejerområdet og søger derfor en sygeplejerske. Vil du arbejde med borgernær sygepleje i samarbejde med dine kollegaer og andr,Tårnby Kommune,Oliefabriksvej 106,2770,Kastrup,False,False,False,True,2022-04-26T00:00:00,2022-05-16T00:00:00,16. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5583587,Hovedstaden og Bornholm,Tårnby,Danmark,2770,,,,Fuldtid,"Sundhed, omsorg og personlig pleje",Sygepleje og jordemoderarbejde,Sygeplejerske,55.6224,12.5913,,,6281,7543,20310413,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5583587,https://job.jobnet.dk/CV/FindWork/Details/5583587,https://job.jobnet.dk/CV/FindWork/Details/5583587,True,5583587,55.6224,12.5913,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Tårnby Kommune,Amager Landevej 76,58,Danmark,185,Tårnby,4,"Hovedstaden, Sjælland og Bornholm",2770,Kastrup,,0,Primary,,,,None,,1003273158,20310413,None,5583587,5583587,Tårnby Kommune,Amager Landevej 76,58,Danmark,185,Tårnby,4,"Hovedstaden, Sjælland og Bornholm",2770,Kastrup,,0,Primary,,,,None,,1003273158,20310413,None,,2022-04-26T00:00:00,2022-05-16T00:00:00,Sygeplejerske til dagvagt i Tårnby Kommunes Hjemmesygepleje,"I Tårnby Kommunes Hjemmesygepleje har vi valgt at opprioritere sygeplejerområdet og søger derfor en sygeplejerske. Vil du arbejde med borgernær sygepleje i samarbejde med dine kollegaer og andre faggrupper? Vil du arbejde i teams med sygeplejefaglig sparring og med kontinuitet i borgerforløb? Vil du arbejde i fortrinsvist dagvagt 32-37 timer pr. uge med en weekendvagt hver 4. uge? ​Så læs vores annonce færdig og søg en stilling hos os! 
+
+Hvem er vi, og hvad kan vi tilbyde?
+
+ Vi er en gruppe på 13 hjemmesygeplejersker, 1 farmakonom, 1 opfølgende hjemmesygeplejerske og 1 sygepleje-koordinator. Vi udvider sygeplejegruppen med yderligere en 1 sygeplejerske i distrikt Vest lokaliseret på Oliefabriksvej 106. 
+ Vi brænder alle for sygeplejen og borgerne, samt udfordres dagligt af den kompleksitet, der er i opgaverne. Vi sætter en ære i at levere sygepleje af høj kvalitet, enten i borgernes hjem eller i vores klinik. Arbejdsglæde er en af vores daglige drivkræfter, som vi vægter højt i form af blandt andet sammenhold, sparring og humor. Vi har sygeplejefaglige specialister, både i vores egen gruppe, men har også flere tværfaglige samarbejdspartnere, vi kan gå i dialog med. 
+ Hjemmesygeplejen og Hjemmeplejen i Tårnby Kommune arbejder med kompetenceudvikling og delegering af kompetencer. Målet er at skabe et tættere fagligt samarbejde mellem faggrupperne. Dette for at sikre borgeren den højeste faglige kvalitet -og kontinuitet i vore pleje- og omsorgsindsatser. 
+ Du kommer til at gennemgå et introduktionsprogram, hvor du får en mentor tilknyttet. Hun introducerer og vil støtte dig i de første par måneder. Du vil køre sammen med hende, til du føler dig godt rustet til at varetage de enkelte opgaver selvstændigt. 
+ I din introduktionsperiode og som helhed har du ledelsesmæssig dialog og opfølgning. 
+
+Hvad skal du?
+
+ Som udkørende sygeplejerske i hjemmesygeplejen vil du indgå i et team med fagligt overordnet ansvar og du skal trække på hele din faglighed i dine daglige opgaver. 
+ Du skal arbejde tæt sammen med sygeplejerskekollegaer omkring det kliniske og koordination, og du skal desuden arbejde tæt sammen med social- og sundhedsassistenter og -hjælpere om borgerforløb. 
+ Du vil sammen med det team, du indgår i, køre i et fast afgrænset område i Tårnby Kommunes vestlige del af byen. Der vil være ugentlige planlagte teammøder til borgergennemgang, faglig sparring, kompetenceudvikling og undervisning. 
+
+Vi forventer, at du:
+
+ 
+ Er uddannet sygeplejerske, har minimum nogle års erfaring og brænder for at arbejde ud fra en rehabiliterende tilgang 
+ Er god til at identificere, opspore og vurdere sygeplejefaglige problemstillinger 
+ Iværksætter relevante indsatser og sikrer løbende opfølgning 
+ Deltager i udvikling af hjemmeplejen som helhed og den primære sygepleje i særdeleshed 
+ Er god til at arbejde selvstændigt og struktureret, selv når en arbejdsdag kan være travl 
+ Bidrager med dine kompetencer, meninger og holdninger i en tillidsbaseret dialog 
+ Ser kompleksitet i opgaveløsningen som en spændende udfordring, og ved at det faglige ansvar er dit 
+ Er rollemodel i forhold til at sikre en høj sygeplejefaglig standard og kan videreformidle din viden til hjemmehjælpsgruppen f.eks. i form af undervisning i teori og praksis 
+ Har kørekort 
+ 
+
+Vi kan tilbyde dig:
+
+ 
+ Ansættelse i dagvagt med weekendvagt hver 4 weekend 
+ En god introduktion til Tårnby Kommune og hjemmesygeplejen 
+ Mulighed for kursus i telemedicinsk sårvurdering, anden relevant kompetenceudvikling eller diplommoduler i et særligt sundhedsfagligt interesseområde 
+ Fokus på patientsikkerhed 
+ Du får stillet EL-cykel eller bil til rådighed i arbejdstiden, afhængig af den rute du har 
+ Tæt samarbejde med tværfaglige samarbejdspartnere 
+ Medansvar for uddannelse af fremtidens sygeplejersker 
+ Vi arbejder med CURA som planlægningssystem og elektronisk patientjournal 
+ Ugentlige møder, både i egen sygeplejegruppe, men også med hjælpergruppen til triageringsmøder 
+ Synlig ledelse 
+ Der er forhandlet et årligt tillæg for klinisk ansvar på 25.497 (ved 37 timer). 
+ 
+
+Løn- og ansættelsesvilkår
+
+ Ansættelsen sker i henhold til gældende overenskomst med Dansk Sygeplejeråd efter forhandling. 
+ Kommunens ansættelsespolitik indebærer, at der ved ansættelse indhentes referencer fra tidligere og nuværende arbejdssteder. Har du været ansat i Tårnby Kommune, vil der altid blive taget reference herfra. Der skal desuden ved ansættelse forevises straffeattest. Ansættelsen vil være betinget af, at disse er tilfredsstillende. 
+ Tårnby Kommune tilbyder en række personalegoder. Disse kan ses  her . 
+
+Yderligere oplysninger
+
+ Ønsker du yderligere oplysninger om stillingen, er du velkommen til at rette henvendelse til teamleder Tina Warming på telefon 21510382. 
+ Ansøgningsfristen er d. 16. maj. Vi forventer at afholde ansættelsessamtaler løbende. 
+
+Ansøgning
+
+ Ansøgning med dokumentation for uddannelse, oplysning om eventuel tidligere beskæftigelse, eventuel arbejdstilladelse og bilag sendes via nedenstående link. Vær opmærksom på, at Tårnby Kommune benytter et elektronisk rekrutteringssystem. Du bedes derfor så vidt muligt søge stillingen via nedenstående link. Såfremt du søger stillingen pr. brev, skal dette indeholde de samme oplysninger, som kræves af det elektroniske rekrutteringssystem. 
+
+Behandling af personoplysninger
+
+ Tårnby Kommune er dataansvarlig for de personoplysninger, som du registrerer og sender til kommunen via rekrutteringssystemet eller på anden vis ved ansøgning om job. 
+ Oplysningerne vil alene blive brugt i rekrutteringsprocessen. Medlemmer af ansættelsesudvalget, for den stilling du søger, får adgang til dine registrerede personoplysninger i den tid rekrutteringsprocessen løber. Behandlingen af oplysningerne vil naturligvis være fortrolig og sikker. 
+ Vi opbevarer din ansøgning samt øvrige oplysninger i op til 6 måneder efter endt rekrutteringsproces. Herefter slettes de automatisk. 
+ Du har efter databeskyttelsesforordningen en række rettigheder. Herunder ret til at se de personoplysninger du har registreret hos os og ret til sletning af oplysninger. Læs i øvrigt  her  om dine rettigheder. Hvis du vil gøre brug af dine rettigheder skal du kontakte Tårnby Kommune, Organisations- og Personaleafdelingen. Adresse: Amager Landevej 76, 2770 Kastrup. Telefon: 3247 1280. E-mail:  op2@taarnby.dk .   
+ For henvendelse vedrørende den ledige stilling se kontaktoplysninger under overskriften 'Yderligere oplysninger'. 
+ Har du spørgsmål til behandlingen af dine personoplysninger, og til hvordan dine rettigheder bliver udøvet i henhold til databeskyttelsesreguleringen, kan du kontakte Tårnby Kommunes databeskyttelsesrådgiver. Send e-mail sikkert:  Link til Borger.dk 
+Telefon: 3247 1230. Ved brev: Tårnby Kommune, Organisations- og Personaleafdelingen, Amager Landevej 76, 2770 Kastrup, Att.: ”Databeskyttelsesrådgiver”.",Oliefabriksvej 106,58,Danmark,185,Tårnby,4,"Hovedstaden, Sjælland og Bornholm",2770,Kastrup,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7932882, 'Email': None, 'FaxNumber': None, 'PersonName': 'Tina Warming', 'FirstName': 'Tina', 'LastName': 'Warming', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '21510382', 'Type': 0, 'Description': 'Hovednummer'}]}",,False,False,False,False,4,,,False,False,False,False,,,,,https://www.taarnby.dk/om-kommunen/job/ledige-stillinger/?hr=show-job/96033,False,2022-05-16T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5583587&Organisation=20310413,"Oliefabriksvej 106,2770, Kastrup",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5583587&Company.Name=Tårnby Kommune&SubmissionDeadlineDate=2022-5-16&Title=Sygeplejerske til dagvagt i Tårnby Kommunes Hjemmesygepleje&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Sygeplejerske til dagvagt i Tårnby Kommunes Hjemmesygepleje,True,,True,1,,5583587,,,False,False,,0,False,Tårnby Kommune,Amager Landevej 76,,,2770,False,False,False,Kastrup,Tina Warming,21510382,,,,,,False,,2022-05-16T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Tårnby kommune,False,Tårnby Kommune,,None,,False,False,I T&aring;rnby Kommunes Hjemmesygepleje har vi valgt at opprioritere sygeplejeromr&aring;det og s&oslash;ger derfor en sygeplejerske. Vil du arbejde med borgern&aelig;r sygepleje i samarbejde med dine kollegaer og andre faggrupper? Vil du arbejde i teams med sygeplejefaglig sparring og med kontinuitet i borgerforl&oslash;b? Vil du arbejde i fortrin,"""I T\u0026aring;rnby Kommunes Hjemmesygepleje har vi valgt at opprioritere sygeplejeromr\u0026aring;det og s\u0026oslash;ger derfor en sygeplejerske. Vil du arbejde med borgern\u0026aelig;r sygepleje i samarbejde med dine kollegaer og andre faggrupper? Vil du arbejde i teams med sygeplejefaglig sparring og med kontinuitet i borgerforl\u0026oslash;b? Vil du arbejde i fortrin""","""Sygeplejerske til dagvagt i Tårnby Kommunes Hjemmesygepleje""","https://www.google.dk/maps/dir//Oliefabriksvej+106,2770,+Kastrup/","I Tårnby Kommunes Hjemmesygepleje har vi valgt at opprioritere sygeplejerområdet og søger derfor en sygeplejerske. Vil du arbejde med borgernær sygepleje i samarbejde med dine kollegaer og andre faggrupper? Vil du arbejde i teams med sygeplejefaglig sparring og med kontinuitet i borgerforløb? Vil du arbejde i fortrinsvist dagvagt 32-37 timer pr. uge med en weekendvagt hver 4. uge? ​Så læs vores annonce færdig og søg en stilling hos os! 
+
+Hvem er vi, og hvad kan vi tilbyde?
+
+ Vi er en gruppe på 13 hjemmesygeplejersker, 1 farmakonom, 1 opfølgende hjemmesygeplejerske og 1 sygepleje-koordinator. Vi udvider sygeplejegruppen med yderligere en 1 sygeplejerske i distrikt Vest lokaliseret på Oliefabriksvej 106. 
+ Vi brænder alle for sygeplejen og borgerne, samt udfordres dagligt af den kompleksitet, der er i opgaverne. Vi sætter en ære i at levere sygepleje af høj kvalitet, enten i borgernes hjem eller i vores klinik. Arbejdsglæde er en af vores daglige drivkræfter, som vi vægter højt i form af blandt andet sammenhold, sparring og humor. Vi har sygeplejefaglige specialister, både i vores egen gruppe, men har også flere tværfaglige samarbejdspartnere, vi kan gå i dialog med. 
+ Hjemmesygeplejen og Hjemmeplejen i Tårnby Kommune arbejder med kompetenceudvikling og delegering af kompetencer. Målet er at skabe et tættere fagligt samarbejde mellem faggrupperne. Dette for at sikre borgeren den højeste faglige kvalitet -og kontinuitet i vore pleje- og omsorgsindsatser. 
+ Du kommer til at gennemgå et introduktionsprogram, hvor du får en mentor tilknyttet. Hun introducerer og vil støtte dig i de første par måneder. Du vil køre sammen med hende, til du føler dig godt rustet til at varetage de enkelte opgaver selvstændigt. 
+ I din introduktionsperiode og som helhed har du ledelsesmæssig dialog og opfølgning. 
+
+Hvad skal du?
+
+ Som udkørende sygeplejerske i hjemmesygeplejen vil du indgå i et team med fagligt overordnet ansvar og du skal trække på hele din faglighed i dine daglige opgaver. 
+ Du skal arbejde tæt sammen med sygeplejerskekollegaer omkring det kliniske og koordination, og du skal desuden arbejde tæt sammen med social- og sundhedsassistenter og -hjælpere om borgerforløb. 
+ Du vil sammen med det team, du indgår i, køre i et fast afgrænset område i Tårnby Kommunes vestlige del af byen. Der vil være ugentlige planlagte teammøder til borgergennemgang, faglig sparring, kompetenceudvikling og undervisning. 
+
+Vi forventer, at du:
+
+ 
+ Er uddannet sygeplejerske, har minimum nogle års erfaring og brænder for at arbejde ud fra en rehabiliterende tilgang 
+ Er god til at identificere, opspore og vurdere sygeplejefaglige problemstillinger 
+ Iværksætter relevante indsatser og sikrer løbende opfølgning 
+ Deltager i udvikling af hjemmeplejen som helhed og den primære sygepleje i særdeleshed 
+ Er god til at arbejde selvstændigt og struktureret, selv når en arbejdsdag kan være travl 
+ Bidrager med dine kompetencer, meninger og holdninger i en tillidsbaseret dialog 
+ Ser kompleksitet i opgaveløsningen som en spændende udfordring, og ved at det faglige ansvar er dit 
+ Er rollemodel i forhold til at sikre en høj sygeplejefaglig standard og kan videreformidle din viden til hjemmehjælpsgruppen f.eks. i form af undervisning i teori og praksis 
+ Har kørekort 
+ 
+
+Vi kan tilbyde dig:
+
+ 
+ Ansættelse i dagvagt med weekendvagt hver 4 weekend 
+ En god introduktion til Tårnby Kommune og hjemmesygeplejen 
+ Mulighed for kursus i telemedicinsk sårvurdering, anden relevant kompetenceudvikling eller diplommoduler i et særligt sundhedsfagligt interesseområde 
+ Fokus på patientsikkerhed 
+ Du får stillet EL-cykel eller bil til rådighed i arbejdstiden, afhængig af den rute du har 
+ Tæt samarbejde med tværfaglige samarbejdspartnere 
+ Medansvar for uddannelse af fremtidens sygeplejersker 
+ Vi arbejder med CURA som planlægningssystem og elektronisk patientjournal 
+ Ugentlige møder, både i egen sygeplejegruppe, men også med hjælpergruppen til triageringsmøder 
+ Synlig ledelse 
+ Der er forhandlet et årligt tillæg for klinisk ansvar på 25.497 (ved 37 timer). 
+ 
+
+Løn- og ansættelsesvilkår
+
+ Ansættelsen sker i henhold til gældende overenskomst med Dansk Sygeplejeråd efter forhandling. 
+ Kommunens ansættelsespolitik indebærer, at der ved ansættelse indhentes referencer fra tidligere og nuværende arbejdssteder. Har du været ansat i Tårnby Kommune, vil der altid blive taget reference herfra. Der skal desuden ved ansættelse forevises straffeattest. Ansættelsen vil være betinget af, at disse er tilfredsstillende. 
+ Tårnby Kommune tilbyder en række personalegoder. Disse kan ses  her . 
+
+Yderligere oplysninger
+
+ Ønsker du yderligere oplysninger om stillingen, er du velkommen til at rette henvendelse til teamleder Tina Warming på telefon 21510382. 
+ Ansøgningsfristen er d. 16. maj. Vi forventer at afholde ansættelsessamtaler løbende. 
+
+Ansøgning
+
+ Ansøgning med dokumentation for uddannelse, oplysning om eventuel tidligere beskæftigelse, eventuel arbejdstilladelse og bilag sendes via nedenstående link. Vær opmærksom på, at Tårnby Kommune benytter et elektronisk rekrutteringssystem. Du bedes derfor så vidt muligt søge stillingen via nedenstående link. Såfremt du søger stillingen pr. brev, skal dette indeholde de samme oplysninger, som kræves af det elektroniske rekrutteringssystem. 
+
+Behandling af personoplysninger
+
+ Tårnby Kommune er dataansvarlig for de personoplysninger, som du registrerer og sender til kommunen via rekrutteringssystemet eller på anden vis ved ansøgning om job. 
+ Oplysningerne vil alene blive brugt i rekrutteringsprocessen. Medlemmer af ansættelsesudvalget, for den stilling du søger, får adgang til dine registrerede personoplysninger i den tid rekrutteringsprocessen løber. Behandlingen af oplysningerne vil naturligvis være fortrolig og sikker. 
+ Vi opbevarer din ansøgning samt øvrige oplysninger i op til 6 måneder efter endt rekrutteringsproces. Herefter slettes de automatisk. 
+ Du har efter databeskyttelsesforordningen en række rettigheder. Herunder ret til at se de personoplysninger du har registreret hos os og ret til sletning af oplysninger. Læs i øvrigt  her  om dine rettigheder. Hvis du vil gøre brug af dine rettigheder skal du kontakte Tårnby Kommune, Organisations- og Personaleafdelingen. Adresse: Amager Landevej 76, 2770 Kastrup. Telefon: 3247 1280. E-mail:  op2@taarnby.dk .   
+ For henvendelse vedrørende den ledige stilling se kontaktoplysninger under overskriften 'Yderligere oplysninger'. 
+ Har du spørgsmål til behandlingen af dine personoplysninger, og til hvordan dine rettigheder bliver udøvet i henhold til databeskyttelsesreguleringen, kan du kontakte Tårnby Kommunes databeskyttelsesrådgiver. Send e-mail sikkert:  Link til Borger.dk 
+Telefon: 3247 1230. Ved brev: Tårnby Kommune, Organisations- og Personaleafdelingen, Amager Landevej 76, 2770 Kastrup, Att.: ”Databeskyttelsesrådgiver”.","https://www.google.dk/maps/place/Oliefabriksvej+106,2770,+Kastrup/",20310413,False,False,,False

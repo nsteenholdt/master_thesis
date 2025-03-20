@@ -1,0 +1,92 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Blokform operatør til BEWI Denmark A/S i Hobro,Blokform operatør til BEWI Denmark A/S i Hobro,"Da vi vækster i vores produktioner, ønsker vi at styrke vores stab af dygtige Operatører, og vi søger derfor en dygtig blokform operatør med en teamkoordinator i maven.
+",BEWI Denmark A/S,Havrevænget 1,9500,Hobro,False,False,False,True,2022-04-26T00:00:00,2022-05-17T00:00:00,17. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5583520,Nordjylland,Mariagerfjord,Danmark,9500,,,,Fuldtid,Industriel produktion,"Plast-, fiber- og skumgummiarbejde","Operatør, emballage",56.6529,9.8096,,Dag,140362,122759,31867304,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5583520,https://job.jobnet.dk/CV/FindWork/Details/5583520,https://job.jobnet.dk/CV/FindWork/Details/5583520,True,5583520,56.6529,9.8096,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",BEWI Denmark A/S,Havrevænget 1,58,Danmark,846,Mariagerfjord,1,Nordjylland,9500,Hobro,,0,Primary,,,,None,,1007536999,31867304,None,5583520,5583520,BEWI Denmark A/S,Havrevænget 1,58,Danmark,846,Mariagerfjord,1,Nordjylland,9500,Hobro,,0,Primary,,,,None,,1007536999,31867304,None,,2022-04-26T00:00:00,2022-05-17T00:00:00,Blokform operatør til BEWI Denmark A/S i Hobro,"Da vi vækster i vores produktioner, ønsker vi at styrke vores stab af dygtige Operatører, og vi søger derfor en dygtig blokform operatør med en teamkoordinator i maven. 
+   
+ Kort om arbejdet – opgaver og kvalifikationer: 
+ Du vil blive en del af vores team i Hobro, som operatør på dagholdet og være teamkoordinator for vores produktion af blokke. 
+ 
+ Planlægning af produktion og sikre at der bliver støbt de korrekte blokke. 
+ Være med til at optimere/trimme produktionen sammen med værkføreren. 
+ Udfærdigelse af blokrapporter. 
+ Deltage i planlægning af vedligehold. 
+ Kunne betjene relevant måleudstyr og være bevidst om de parametre som har betydning for kvalitetsmålingerne. 
+ Du vil blive bekendt med vores affaldshåndtering; Håndtering af fraskær til granulat samt den alm. daglige rengøring. 
+ 
+   
+ Dine kompetencer: 
+ 
+ Dygtig til regneark / Excel 
+ Gerne teknisk indsigt 
+ Fleksibel 
+ Stabil 
+ God til at bevare overblikket 
+ Kvalitetsbevidst 
+ Fornuftig til at regne 
+ Truck kørekort 
+ Ufaglært el. faglært procesoperatør 
+ 
+ Du bor gerne inden for en rimelig køreafstand fra Hobro. 
+   
+ Vi tilbyder: 
+ 
+ En virksomhed i konstant udvikling 
+ Løn efter kvalifikationer 
+ Gode og støttende kollegaer 
+ Tavlemøder og idékasse 
+ Sociale arrangementer 
+ Pension, sundhedsforsikring, frugt og kaffeordning mv. 
+ Parkering ved arbejdspladsen 
+ 
+   
+ Ansøgning og kontakt: 
+ Har du spørgsmål til stillingen, er du meget velkommen til at kontakte Operations Manager Dan Jacobi på +45 72 15 79 04. 
+ Vi glæder os til at modtage din ansøgning og dit CV hurtigst muligt. Din mail bedes mærket med ’Blokform operatør’ i emnefeltet, og sendes til  dan.jacobi@bewi.com 
+   
+ Om BEWI: 
+ BEWI er en førende international leverandør af emballage-, komponent- og isoleringsløsninger. Vores forpligtelse til bæredygtighed er integreret i hele værdikæden, fra produktion af råvarer og slutvarer til genbrug af brugte produkter. Drevet af vores vision ""Protecting people and goods for a better everyday"" går vi forrest i forandringen imod den cirkulære økonomi.",Havrevænget 1,58,Danmark,846,Mariagerfjord,1,Nordjylland,9500,Hobro,1,1,Fuldtid,None,None,1,"{'DriversLicenceType': 103, 'Name': 'Truck', 'Description': 'Truckcertifikat'}",0,,0,0,0,,False,"{'Id': 7932547, 'Email': 'dan.jacobi@bewi.com', 'FaxNumber': None, 'PersonName': 'Dan Jacobi', 'FirstName': 'Dan', 'LastName': 'Jacobi', 'PositionTitle': 'Operations Manager', 'PhoneNumbers': [{'Number': '72157900', 'Type': 0, 'Description': 'Hovednummer'}, {'Number': '72157904', 'Type': 2, 'Description': 'Mobil'}]}",,True,False,False,False,4,,,False,False,False,True,,,dan.jacobi@bewi.com,,,True,2022-05-17T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5583520&Organisation=31867304,"Havrevænget 1,9500, Hobro",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5583520&Company.Name=BEWI Denmark A/S&SubmissionDeadlineDate=2022-5-17&Title=Blokform operatør til BEWI Denmark A/S i Hobro&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Blokform operatør til BEWI Denmark A/S i Hobro,True,,True,1,,5583520,,,False,False,,0,False,BEWI Denmark A/S,Havrevænget 1,,,9500,False,False,False,Hobro,Dan Jacobi,72157900,dan.jacobi@bewi.com,,,,,False,,2022-05-17T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Dag,Arbejdspladsen ligger i Mariagerfjord kommune,False,BEWI Denmark A/S,,None,,False,False,"Da vi v&aelig;kster i vores produktioner, &oslash;nsker vi at styrke vores stab af dygtige Operat&oslash;rer, og vi s&oslash;ger derfor en dygtig blokform operat&oslash;r med en teamkoordinator i maven.
+
+Kort om arbejdet &ndash; opgaver og kvalifikationer:
+Du vil blive en del af vores team i Hobro, som operat&oslash;r p&aring; dagholdet og v&aelig;","""Da vi v\u0026aelig;kster i vores produktioner, \u0026oslash;nsker vi at styrke vores stab af dygtige Operat\u0026oslash;rer, og vi s\u0026oslash;ger derfor en dygtig blokform operat\u0026oslash;r med en teamkoordinator i maven.\n\nKort om arbejdet \u0026ndash; opgaver og kvalifikationer:\nDu vil blive en del af vores team i Hobro, som operat\u0026oslash;r p\u0026aring; dagholdet og v\u0026aelig;""","""Blokform operatør til BEWI Denmark A/S i Hobro""","https://www.google.dk/maps/dir//Havrevænget+1,9500,+Hobro/","Da vi vækster i vores produktioner, ønsker vi at styrke vores stab af dygtige Operatører, og vi søger derfor en dygtig blokform operatør med en teamkoordinator i maven. 
+   
+ Kort om arbejdet – opgaver og kvalifikationer: 
+ Du vil blive en del af vores team i Hobro, som operatør på dagholdet og være teamkoordinator for vores produktion af blokke. 
+ 
+ Planlægning af produktion og sikre at der bliver støbt de korrekte blokke. 
+ Være med til at optimere/trimme produktionen sammen med værkføreren. 
+ Udfærdigelse af blokrapporter. 
+ Deltage i planlægning af vedligehold. 
+ Kunne betjene relevant måleudstyr og være bevidst om de parametre som har betydning for kvalitetsmålingerne. 
+ Du vil blive bekendt med vores affaldshåndtering; Håndtering af fraskær til granulat samt den alm. daglige rengøring. 
+ 
+   
+ Dine kompetencer: 
+ 
+ Dygtig til regneark / Excel 
+ Gerne teknisk indsigt 
+ Fleksibel 
+ Stabil 
+ God til at bevare overblikket 
+ Kvalitetsbevidst 
+ Fornuftig til at regne 
+ Truck kørekort 
+ Ufaglært el. faglært procesoperatør 
+ 
+ Du bor gerne inden for en rimelig køreafstand fra Hobro. 
+   
+ Vi tilbyder: 
+ 
+ En virksomhed i konstant udvikling 
+ Løn efter kvalifikationer 
+ Gode og støttende kollegaer 
+ Tavlemøder og idékasse 
+ Sociale arrangementer 
+ Pension, sundhedsforsikring, frugt og kaffeordning mv. 
+ Parkering ved arbejdspladsen 
+ 
+   
+ Ansøgning og kontakt: 
+ Har du spørgsmål til stillingen, er du meget velkommen til at kontakte Operations Manager Dan Jacobi på +45 72 15 79 04. 
+ Vi glæder os til at modtage din ansøgning og dit CV hurtigst muligt. Din mail bedes mærket med ’Blokform operatør’ i emnefeltet, og sendes til  dan.jacobi@bewi.com 
+   
+ Om BEWI: 
+ BEWI er en førende international leverandør af emballage-, komponent- og isoleringsløsninger. Vores forpligtelse til bæredygtighed er integreret i hele værdikæden, fra produktion af råvarer og slutvarer til genbrug af brugte produkter. Drevet af vores vision ""Protecting people and goods for a better everyday"" går vi forrest i forandringen imod den cirkulære økonomi.","https://www.google.dk/maps/place/Havrevænget+1,9500,+Hobro/",31867304,False,False,,False

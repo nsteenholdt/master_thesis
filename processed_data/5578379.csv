@@ -1,0 +1,110 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Souschef på Restaurant Flammen Nyropsgade ved søerne,Souschef på Restaurant Flammen Nyropsgade ved søerne,"Souschef med potentiale til restaurantchef – opnå din drøm på vores Academy
+
+Et karriereskridt hvor vi sammen udvikler dig som menneske og som leder. Flammens Academy forløb på 12-",Restaurant Flammen,Nyropsgade 2,1602,København V,True,False,False,False,2022-04-19T00:00:00,2022-05-18T00:00:00,18. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5578379,Hovedstaden og Bornholm,København,Danmark,1602,,,,Fuldtid,Ledelse,"Hotel, køkken og restaurant",Restaurantchef,55.6803,12.5615,,,126497,109998,32304508,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5578379,https://job.jobnet.dk/CV/FindWork/Details/5578379,https://job.jobnet.dk/CV/FindWork/Details/5578379,True,5578379,55.6803,12.5615,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Restaurant Flammen,Skovvangen 57,58,Danmark,621,Kolding,3,Syddanmark,6000,Kolding,,0,Primary,,,,None,,1021946946,32304508,None,5578379,5578379,Restaurant Flammen,Skovvangen 57,58,Danmark,621,Kolding,3,Syddanmark,6000,Kolding,,0,Primary,,,,None,,1021946946,32304508,None,,2022-04-19T00:00:00,2022-05-18T00:00:00,Souschef på Restaurant Flammen Nyropsgade ved søerne,"Souschef med potentiale til restaurantchef – opnå din drøm på vores Academy 
+ Et karriereskridt hvor vi sammen udvikler dig som menneske og som leder. Flammens Academy forløb på 12-18 måneder gør dig klar som chef for din egen Flammen Restaurant. 
+ Som Souschef hos Restaurant Flammen har du medansvaret for at skabe vækst i restauranten, både forretningsmæssigt og menneskeligt. Du har sammen med restaurantchefen ansvaret for, at vi leverer værtskab i verdensklasse, og at vi altid sikrer topkvalitet i buffeten samt at du går forrest i rejsen mod at skabe branchens bedste arbejdsplads. 
+ Grib chancen hos Flammen og få en mulighed for at: 
+ 
+ tage næste skridt i din karriere og videreudvikle din leder-værktøjskasse 
+ prøve kræfter med alle ledelsesmæssige udfordringer 
+ få erfaring med alle aspekter af restaurantdrift 
+ blive chef for din egen Flammen restaurant 
+ 
+ Velkommen til restaurant Flammen 
+ Du kender os sikkert allerede. Vi er vokset fra at være en lille kro i Sønderjylland til at have 15 restauranter i hele Danmark. Vi har vundet plads i danskernes hjerter – og ikke mindst maver – med en simpel opskrift: en velforsynet buffet tilberedt med masser af kærlighed og de bedste råvarer. 
+ Din hverdag som Souschef 
+ Som souschef har du et tæt parløb med restaurantchefen, om hvilke opgaver I hver især har ansvar for, og dine opgaver vil selvfølgelig også udvikle sig, jo mere erfaring du får i rollen. Du vil fra start være involveret i den daglige ledelse af restaurantens medarbejdere. Som Souschef får du mulighed for at prøve kræfter med alle slags ledelsesmæssige udfordringer og da du fungerer som stedfortræder for restaurantchefen, vil der være mange beslutninger, du kommer til at tage selvstændigt og du er i det hele taget tæt på medarbejderne. Dine opgaver indebærer f.eks.:  
+ 
+ Være medarbejdernes nærmeste sparringspartner og coach 
+ Deltage i salgs-, drift- og ressourceplanlægning 
+ Være med til at ansætte nye medarbejdere 
+ Bidrage til den fortsatte udvikling af restauranten 
+ 
+ Vi tilbyder: 
+ 
+ Et særligt tilrettelagt udviklings- og karriereforløb tilpasset dig 
+ Ledertræning og uddannelse via Flammens Academy for Souschefer 
+ Tæt coaching, udviklingsprogram og samtaler gennem hele forløbet 
+ En masse dygtige og læringsivrige medarbejdere 
+ Et godt, sundt og travlt arbejdsmiljø, hvor tillid er i højsædet 
+ En varierende arbejdsuge med stor indflydelse på dagligdagen 
+ En udfordrende hverdag med et fast koncept, hvor dagene alligevel ikke er ens 
+ 
+ Vi forventer, at du: 
+ 
+ Ønsker karriere og brænder for at tage næste skridt på vej mod ”din egen” Flammen restaurant 
+ Ledelseserfaring, branchekendskab og lyst til at skabe relationer 
+ Har lyst til at gå forrest og være en del af driften 
+ Bidrager til varme og hyggelige gæsteoplevelser gennem tilfredse og engagerede medarbejdere 
+ I samarbejde varetager den daglige drift med øje for gæster og drift 
+ Evner at samarbejde på tværs og følger arbejdsopgaverne til dørs 
+ Har kendskab til branchen samt forståelse for almen IT og systemer 
+ 
+ Dit overordnet ansvar bliver at: 
+ 
+ Sikre gode gæsteoplevelser hver gang 
+ Rekruttering, optræning og udvikling af dine medarbejdere 
+ Kvalitetssikre af konceptet og restauranten som helhed 
+ Opnåelse af indtjenings- og omkostningsbudgetter 
+ Sikre, at procedurer og arbejdsgange er optimale 
+ Daglige driftsopgaver som vagtplanering, bookingopsætning, leverandørkontakt og vedligehold 
+ 
+ Alt i alt bliver du klædt endnu mere på som menneske og leder, hvilket selvfølgelig bakkes op af uddannelse, coaching mv. i Flammen-regi. 
+ Vi inviterer løbende til samtale, så send os dit motiverede CV vedhæftet ansøgning, billede og relevante bilag allerede nu ved at trykke på ”Søg job” nederst på siden. 
+ Vi glæder os til at høre fra dig :)",Nyropsgade 2,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1602,København V,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7911941, 'Email': None, 'FaxNumber': None, 'PersonName': 'Mikkel Guldfeldt', 'FirstName': 'Mikkel', 'LastName': 'Guldfeldt', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '41448889', 'Type': 0, 'Description': 'Hovednummer'}]}",,False,False,False,False,4,,,False,False,False,False,,,,,https://www.restaurant-flammen.dk/job-karriere/?hr=show-job/95565,False,2022-05-18T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5578379&Organisation=32304508,"Nyropsgade 2,1602, København V",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5578379&Company.Name=Restaurant Flammen&SubmissionDeadlineDate=2022-5-18&Title=Souschef på Restaurant Flammen Nyropsgade ved søerne&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Souschef på Restaurant Flammen Nyropsgade ved søerne,True,,True,1,,5578379,,,False,False,,0,False,Restaurant Flammen,Skovvangen 57,,,6000,False,False,False,Kolding,Mikkel Guldfeldt,41448889,,,,,,False,,2022-05-18T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i København kommune,False,Restaurant Flammen,,None,,False,False,"Souschef med potentiale til restaurantchef &ndash; opn&aring; din dr&oslash;m p&aring; vores Academy
+
+Et karriereskridt hvor vi sammen udvikler dig som menneske og som leder. Flammens Academy forl&oslash;b p&aring; 12-18 m&aring;neder g&oslash;r dig klar som chef for din egen Flammen Restaurant.
+
+Som Souschef hos Restaurant Flammen har du medan","""Souschef med potentiale til restaurantchef \u0026ndash; opn\u0026aring; din dr\u0026oslash;m p\u0026aring; vores Academy\r\n\r\nEt karriereskridt hvor vi sammen udvikler dig som menneske og som leder. Flammens Academy forl\u0026oslash;b p\u0026aring; 12-18 m\u0026aring;neder g\u0026oslash;r dig klar som chef for din egen Flammen Restaurant.\r\n\r\nSom Souschef hos Restaurant Flammen har du medan""","""Souschef på Restaurant Flammen Nyropsgade ved søerne""","https://www.google.dk/maps/dir//Nyropsgade+2,1602,+København+V/","Souschef med potentiale til restaurantchef – opnå din drøm på vores Academy 
+ Et karriereskridt hvor vi sammen udvikler dig som menneske og som leder. Flammens Academy forløb på 12-18 måneder gør dig klar som chef for din egen Flammen Restaurant. 
+ Som Souschef hos Restaurant Flammen har du medansvaret for at skabe vækst i restauranten, både forretningsmæssigt og menneskeligt. Du har sammen med restaurantchefen ansvaret for, at vi leverer værtskab i verdensklasse, og at vi altid sikrer topkvalitet i buffeten samt at du går forrest i rejsen mod at skabe branchens bedste arbejdsplads. 
+ Grib chancen hos Flammen og få en mulighed for at: 
+ 
+ tage næste skridt i din karriere og videreudvikle din leder-værktøjskasse 
+ prøve kræfter med alle ledelsesmæssige udfordringer 
+ få erfaring med alle aspekter af restaurantdrift 
+ blive chef for din egen Flammen restaurant 
+ 
+ Velkommen til restaurant Flammen 
+ Du kender os sikkert allerede. Vi er vokset fra at være en lille kro i Sønderjylland til at have 15 restauranter i hele Danmark. Vi har vundet plads i danskernes hjerter – og ikke mindst maver – med en simpel opskrift: en velforsynet buffet tilberedt med masser af kærlighed og de bedste råvarer. 
+ Din hverdag som Souschef 
+ Som souschef har du et tæt parløb med restaurantchefen, om hvilke opgaver I hver især har ansvar for, og dine opgaver vil selvfølgelig også udvikle sig, jo mere erfaring du får i rollen. Du vil fra start være involveret i den daglige ledelse af restaurantens medarbejdere. Som Souschef får du mulighed for at prøve kræfter med alle slags ledelsesmæssige udfordringer og da du fungerer som stedfortræder for restaurantchefen, vil der være mange beslutninger, du kommer til at tage selvstændigt og du er i det hele taget tæt på medarbejderne. Dine opgaver indebærer f.eks.:  
+ 
+ Være medarbejdernes nærmeste sparringspartner og coach 
+ Deltage i salgs-, drift- og ressourceplanlægning 
+ Være med til at ansætte nye medarbejdere 
+ Bidrage til den fortsatte udvikling af restauranten 
+ 
+ Vi tilbyder: 
+ 
+ Et særligt tilrettelagt udviklings- og karriereforløb tilpasset dig 
+ Ledertræning og uddannelse via Flammens Academy for Souschefer 
+ Tæt coaching, udviklingsprogram og samtaler gennem hele forløbet 
+ En masse dygtige og læringsivrige medarbejdere 
+ Et godt, sundt og travlt arbejdsmiljø, hvor tillid er i højsædet 
+ En varierende arbejdsuge med stor indflydelse på dagligdagen 
+ En udfordrende hverdag med et fast koncept, hvor dagene alligevel ikke er ens 
+ 
+ Vi forventer, at du: 
+ 
+ Ønsker karriere og brænder for at tage næste skridt på vej mod ”din egen” Flammen restaurant 
+ Ledelseserfaring, branchekendskab og lyst til at skabe relationer 
+ Har lyst til at gå forrest og være en del af driften 
+ Bidrager til varme og hyggelige gæsteoplevelser gennem tilfredse og engagerede medarbejdere 
+ I samarbejde varetager den daglige drift med øje for gæster og drift 
+ Evner at samarbejde på tværs og følger arbejdsopgaverne til dørs 
+ Har kendskab til branchen samt forståelse for almen IT og systemer 
+ 
+ Dit overordnet ansvar bliver at: 
+ 
+ Sikre gode gæsteoplevelser hver gang 
+ Rekruttering, optræning og udvikling af dine medarbejdere 
+ Kvalitetssikre af konceptet og restauranten som helhed 
+ Opnåelse af indtjenings- og omkostningsbudgetter 
+ Sikre, at procedurer og arbejdsgange er optimale 
+ Daglige driftsopgaver som vagtplanering, bookingopsætning, leverandørkontakt og vedligehold 
+ 
+ Alt i alt bliver du klædt endnu mere på som menneske og leder, hvilket selvfølgelig bakkes op af uddannelse, coaching mv. i Flammen-regi. 
+ Vi inviterer løbende til samtale, så send os dit motiverede CV vedhæftet ansøgning, billede og relevante bilag allerede nu ved at trykke på ”Søg job” nederst på siden. 
+ Vi glæder os til at høre fra dig :)","https://www.google.dk/maps/place/Nyropsgade+2,1602,+København+V/",32304508,False,False,,False

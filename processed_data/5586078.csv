@@ -1,0 +1,250 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,People and Workspace Coordinator,People and Workspace Coordinator,"Let’s start with the easy question: Are you excited about the idea of working with people, organizational development and creating a magnificent workspace for you and your colleagues? Okay, so far ",PentaLock ApS,Lyngvej 3,9000,Aalborg,False,False,False,True,2022-04-28T00:00:00,2022-06-23T00:00:00,23. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5586078,Nordjylland,Aalborg,Danmark,9000,,,,Fuldtid,Akademisk arbejde,"Organisation, udvikling og rådgivning",HR-konsulent,57.0246,9.8962,,,137350,120285,38647725,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5586078,https://job.jobnet.dk/CV/FindWork/Details/5586078,https://job.jobnet.dk/CV/FindWork/Details/5586078,True,5586078,57.0246,9.8962,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",PentaLock ApS,Lyngvej 3,58,Danmark,851,Aalborg,1,Nordjylland,9000,Aalborg,,0,Primary,,,,None,,1022451584,38647725,None,5586078,5586078,PentaLock ApS,Lyngvej 3,58,Danmark,851,Aalborg,1,Nordjylland,9000,Aalborg,,0,Primary,,,,None,,1022451584,38647725,None,,2022-04-28T00:00:00,2022-05-16T00:00:00,People and Workspace Coordinator,"Let’s start with the easy question: Are you excited about the idea of working with people, organizational development and creating a magnificent workspace for you and your colleagues? Okay, so far so good. Let’s jump to the next one: Do you want to be a part of an exceptional entrepreneurial team of motivated and skilled people that will challenge and develop you? If you can answer YES to this one as well, then this could be a great match. 
+   
+ Have you heard of PentaLock? No? I’ll tell you who we are 
+ We are PentaLock. We make bikes smarter, more secure, and convenient to use. For a start we have invented, manufactured, and sold the world’s first integrated and unbreakable bike lock. 
+ We are Innovators, Visionaries, Tech geeks, Problem solvers, Daughters, Doers, Dads, Leaders, Fitness lovers, Explorers, Enthusiasts, Gamers, Engineers, Optimists but most importantly we are Team-People, and we genuinely believe great teams are the most important factor to create, innovate and succeed – and to have fun and feel motivated while doing it. 
+ Still with us? Great, then please keep reading. 
+   
+ What does a People & Workspace Coordinator do at PentaLock? 
+ We are looking for an experienced People and Workspace Coordinator to join our team. You will play an important role in our growth journey and be responsible for finding, recruiting, and retaining our next top talents. You will also play a leading role in creating our company. If this could be you, let’s look at the responsibilities you will get.  
+   
+ Your main responsibilities will be: 
+ 
+ 
+ Assist with the recruitment process from A to Z. You will make sure to gather job descriptions, write the job posts and communicate with the candidates through the process - it’s a good way to get to know the business and the departments as well.  
+ 
+ 
+ Create and handle employment contracts and other employee related documents 
+ 
+ 
+ Coordinate the pre- & onboarding processes for all new employees 
+ 
+ 
+ Continuously optimize our employee handbook 
+ 
+ 
+ Assist in the development of people surveys to ensure a great culture - we are just starting on the journey, and need you to make it happen 
+ 
+ 
+ Be part of the go-to team for solving various problems  
+ 
+ 
+ Be the front runner of good vibes and energy 
+ 
+ 
+ Have focus on mental & physical wellbeing in how the office works 
+ 
+ 
+ Ensure that our space is always equipped, and organized 
+ 
+ 
+ Handle important stakeholders, suppliers, agreements, negotiations etc 
+ 
+ 
+ Help team members and guests visiting from and make sure they instantly feel at home  
+ 
+ 
+ Support the team in hosting social activities, other events, team meetings and celebrations 
+ 
+ 
+ To be ambitious and grow with the job with a focus on people, talent, and culture 
+ 
+ 
+   
+ Yes, the list was long, however, you will not be doing it all by yourself. Since we are in the beginning of our journey this is a list, we can pick from when defining the perfect role for you. 
+   
+ Who you are: 
+ If we should mention some of the things that comes to mind it could be: 
+ 
+ 
+ Experience from a similar role 
+ 
+ 
+ Structured, great administrative skills and proactive in the way you work 
+ 
+ 
+ Ability to stay focused in constantly changing tasks and a myriad of different areas of responsibilities 
+ 
+ 
+ Excellent communications skills - both oral and written 
+ 
+ 
+ Excellent people skills 
+ 
+ 
+ It would be great if you have experience with employment law 
+ 
+ 
+ You can have all sorts of fine education, but your experience and attitude are what matters  
+ 
+ 
+ You can join us, at our office in Aalborg, Denmark 
+ 
+ 
+ Fluent English + good Danish skills required     
+ 
+ 
+   
+ What we offer: 
+ 
+ 
+ A unique job opportunity (permanent position) in the fast-growing micro mobility industry 
+ 
+ 
+ A chance to grow professionally with the company while focusing on People and Culture  
+ 
+ 
+ Being part of a fantastic team with dedicated colleagues 
+ 
+ 
+ The experience of a startup journey where you can create real impact and work together with the friendliest and brightest minds in tech and micro mobility 
+ 
+ 
+ The chance to take a big part shaping the culture at PentaLock, where you will work closely with all departments and especially our CEO 
+ 
+ 
+   
+ Some of our Perks & Benefits: 
+ 
+ 
+ Flexible hours and the opportunity to work remote 
+ 
+ 
+ Free drinks and snacks at the office  
+ 
+ 
+ Pension scheme  
+ 
+ 
+ Social gatherings are priorities to enjoy your new colleagues!  
+ 
+ 
+     
+ Join us! 
+ We are looking forward to your application! Please send your CV with a cover letter describing your achievements, why you would be a great candidate for the role.  
+ Deadline for applying is 9th of May. Please note we will be interviewing candidates on a continuous basis until we find the right candidate, so we recommend applicants to apply as soon as possible.",Lyngvej 3,58,Danmark,851,Aalborg,1,Nordjylland,9000,Aalborg,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7942677, 'Email': 'nisse@pentalock.dk', 'FaxNumber': None, 'PersonName': 'Nisse Jakob Krenchel', 'FirstName': 'Nisse Jakob', 'LastName': 'Krenchel', 'PositionTitle': 'COO', 'PhoneNumbers': [{'Number': '25504444', 'Type': 0, 'Description': 'Hovednummer'}, {'Number': '26141111', 'Type': 2, 'Description': 'Mobil'}]}",,False,False,False,False,4,,,False,False,False,False,,,,,https://thehub.io/jobs/625e745b7f91b0a1ff34cce7,True,2022-06-23T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5586078&Organisation=38647725,"Lyngvej 3,9000, Aalborg",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5586078&Company.Name=PentaLock ApS&SubmissionDeadlineDate=2022-6-23&Title=People and Workspace Coordinator&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,People and Workspace Coordinator,True,,True,1,,5586078,,,False,False,,0,False,PentaLock ApS,Lyngvej 3,,,9000,False,False,False,Aalborg,Nisse Jakob Krenchel,25504444,nisse@pentalock.dk,,,,,False,,2022-06-23T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Aalborg kommune,False,PentaLock ApS,,None,,False,False,"Let&rsquo;s start with the easy question: Are you excited about the idea of working with people, organizational development and creating a magnificent workspace for you and your colleagues? Okay, so far so good. Let&rsquo;s jump to the next one:Do you want to be a part of an exceptional entrepreneurial team of motivated and skilled people that will","""Let\u0026rsquo;s start with the easy question: Are you excited about the idea of working with people, organizational development and creating a magnificent workspace for you and your colleagues? Okay, so far so good. Let\u0026rsquo;s jump to the next one:Do you want to be a part of an exceptional entrepreneurial team of motivated and skilled people that will""","""People and Workspace Coordinator""","https://www.google.dk/maps/dir//Lyngvej+3,9000,+Aalborg/","Let’s start with the easy question: Are you excited about the idea of working with people, organizational development and creating a magnificent workspace for you and your colleagues? Okay, so far so good. Let’s jump to the next one: Do you want to be a part of an exceptional entrepreneurial team of motivated and skilled people that will challenge and develop you? If you can answer YES to this one as well, then this could be a great match. 
+   
+ Have you heard of PentaLock? No? I’ll tell you who we are 
+ We are PentaLock. We make bikes smarter, more secure, and convenient to use. For a start we have invented, manufactured, and sold the world’s first integrated and unbreakable bike lock. 
+ We are Innovators, Visionaries, Tech geeks, Problem solvers, Daughters, Doers, Dads, Leaders, Fitness lovers, Explorers, Enthusiasts, Gamers, Engineers, Optimists but most importantly we are Team-People, and we genuinely believe great teams are the most important factor to create, innovate and succeed – and to have fun and feel motivated while doing it. 
+ Still with us? Great, then please keep reading. 
+   
+ What does a People & Workspace Coordinator do at PentaLock? 
+ We are looking for an experienced People and Workspace Coordinator to join our team. You will play an important role in our growth journey and be responsible for finding, recruiting, and retaining our next top talents. You will also play a leading role in creating our company. If this could be you, let’s look at the responsibilities you will get.  
+   
+ Your main responsibilities will be: 
+ 
+ 
+ Assist with the recruitment process from A to Z. You will make sure to gather job descriptions, write the job posts and communicate with the candidates through the process - it’s a good way to get to know the business and the departments as well.  
+ 
+ 
+ Create and handle employment contracts and other employee related documents 
+ 
+ 
+ Coordinate the pre- & onboarding processes for all new employees 
+ 
+ 
+ Continuously optimize our employee handbook 
+ 
+ 
+ Assist in the development of people surveys to ensure a great culture - we are just starting on the journey, and need you to make it happen 
+ 
+ 
+ Be part of the go-to team for solving various problems  
+ 
+ 
+ Be the front runner of good vibes and energy 
+ 
+ 
+ Have focus on mental & physical wellbeing in how the office works 
+ 
+ 
+ Ensure that our space is always equipped, and organized 
+ 
+ 
+ Handle important stakeholders, suppliers, agreements, negotiations etc 
+ 
+ 
+ Help team members and guests visiting from and make sure they instantly feel at home  
+ 
+ 
+ Support the team in hosting social activities, other events, team meetings and celebrations 
+ 
+ 
+ To be ambitious and grow with the job with a focus on people, talent, and culture 
+ 
+ 
+   
+ Yes, the list was long, however, you will not be doing it all by yourself. Since we are in the beginning of our journey this is a list, we can pick from when defining the perfect role for you. 
+   
+ Who you are: 
+ If we should mention some of the things that comes to mind it could be: 
+ 
+ 
+ Experience from a similar role 
+ 
+ 
+ Structured, great administrative skills and proactive in the way you work 
+ 
+ 
+ Ability to stay focused in constantly changing tasks and a myriad of different areas of responsibilities 
+ 
+ 
+ Excellent communications skills - both oral and written 
+ 
+ 
+ Excellent people skills 
+ 
+ 
+ It would be great if you have experience with employment law 
+ 
+ 
+ You can have all sorts of fine education, but your experience and attitude are what matters  
+ 
+ 
+ You can join us, at our office in Aalborg, Denmark 
+ 
+ 
+ Fluent English + good Danish skills required     
+ 
+ 
+   
+ What we offer: 
+ 
+ 
+ A unique job opportunity (permanent position) in the fast-growing micro mobility industry 
+ 
+ 
+ A chance to grow professionally with the company while focusing on People and Culture  
+ 
+ 
+ Being part of a fantastic team with dedicated colleagues 
+ 
+ 
+ The experience of a startup journey where you can create real impact and work together with the friendliest and brightest minds in tech and micro mobility 
+ 
+ 
+ The chance to take a big part shaping the culture at PentaLock, where you will work closely with all departments and especially our CEO 
+ 
+ 
+   
+ Some of our Perks & Benefits: 
+ 
+ 
+ Flexible hours and the opportunity to work remote 
+ 
+ 
+ Free drinks and snacks at the office  
+ 
+ 
+ Pension scheme  
+ 
+ 
+ Social gatherings are priorities to enjoy your new colleagues!  
+ 
+ 
+     
+ Join us! 
+ We are looking forward to your application! Please send your CV with a cover letter describing your achievements, why you would be a great candidate for the role.  
+ Deadline for applying is 9th of May. Please note we will be interviewing candidates on a continuous basis until we find the right candidate, so we recommend applicants to apply as soon as possible.","https://www.google.dk/maps/place/Lyngvej+3,9000,+Aalborg/",38647725,False,False,,False

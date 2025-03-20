@@ -1,0 +1,253 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Kundeservice-supporter til Shared Hosting,Kundeservice-supporter til Shared Hosting,"Motiveres du af at give en service, der er lidt bedre, end folk forventer? Er du vild med tekniske udfordringer? Vil du være en del af et team, hvor vi er lidt mere end bare kolleger (altså ikk",team.blue Denmark A/S,Højvangen 4  ,8660,Skanderborg,False,False,False,True,2024-12-19T00:00:00,2025-02-13T00:00:00,13. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/2dc08eee-4152-49d0-ac0c-cd16cc4bed82,Midtjylland,Skanderborg,Danmark,8660,,Hotjob,Fastansættelse,Fuldtid,"Salg, indkøb og markedsføring",Salg og indkøb,Kundeservicemedarbejder,56.0239,9.8924,,,1012111106,,29412006,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/2dc08eee-4152-49d0-ac0c-cd16cc4bed82,https://job.jobnet.dk/CV/FindWork/Details/2dc08eee-4152-49d0-ac0c-cd16cc4bed82,https://job.jobnet.dk/CV/FindWork/Details/2dc08eee-4152-49d0-ac0c-cd16cc4bed82,True,2dc08eee-4152-49d0-ac0c-cd16cc4bed82,56.0239,9.8924,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",team.blue Denmark A/S,Højvangen 4,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,,0,Primary,,,https://dkcareers.team.blue/jobs/5365286-kundeservice-supporter-til-shared-hosting,None,,1012111106,29412006,None,2dc08eee-4152-49d0-ac0c-cd16cc4bed82,team.blue Denmark A/S,Højvangen 4,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,,0,Primary,,,https://dkcareers.team.blue/jobs/5365286-kundeservice-supporter-til-shared-hosting,None,,1012111106,29412006,None,,2024-12-19T00:00:00+01:00,2025-02-13T10:40:39.136+01:00,Kundeservice-supporter til Shared Hosting,"Motiveres du af at give en service, der er lidt bedre, end folk forventer? Er du vild med tekniske udfordringer? Vil du være en del af et team, hvor vi er lidt mere end bare kolleger (altså ikke på dén måde...)? Så har vi det helt rigtige job til dig!  
+   
+   
+ Hvis du kan genkende dette, så er det dig, vi leder efter 👇  
+ 
+ Du kan lide at tage ansvar. Det føles naturligt for dig, og du kan lide følelsen af at have godt styr på dine opgaver. 
+ 
+ 
+ Du elsker at løse problemer. Faktisk er det jo reelt ikke problemer, men spændende udfordringer – for dig. Når problemer opstår, går du fluks i gang med at løse dem. 
+ 
+ 
+ Du undersøger tingene til bunds, da du ønsker grundighed og præcision. 
+ 
+ 
+ Du bliver motiveret af at rådgive og vejlede andre, så de altid får den rigtige løsning. 
+ 
+ 
+ Du opdager det, som andre overser. Du finder fejlene, og det sikrer høj kvalitet. 
+ 
+ Det er en fordel, hvis du har en idé om, hvad nedenstående dækker over: 
+ 
+ Webhosting af domæner og hjemmesider 
+ 
+ 
+ De mest populære CMS-systemer, eksempelvis WordPress 
+ 
+ 
+ E-mail-opsætning, primært Exchange og iMap 
+ 
+ 
+ DNS 
+ 
+   
+   
+ Jobbet som kundeservice-supporter hos team.blue 
+ Vi leverer løsninger indenfor bl.a. webhosting, domæner, e-mail og forskellige CMS-systemer. Din fornemste opgave er at sætte dig ind i kundernes it-udfordringer og sørge for, at der bliver taget godt hånd om dem. 
+ Dine primære arbejdsopgaver er, at: 
+ 
+ Hjælpe kunden med fejlfinding på deres løsning og komme med sparring herom 
+ 
+ 
+ Hjælpe kunden med opsætning og konfiguration af e-mail 
+ 
+ 
+ Vejlede kunden i brugen af domænehåndtering og DNS 
+ 
+ 
+ Derudover får du basal berøring med webserver-drift og fejlfinding. 
+ 
+ Det er ikke et krav, at du har erfaring med ovenstående. Vi sørger for, at du får en grundig introduktion og træning i vores produkter og systemer. Du får en skiftende hverdag med frihed under ansvar samt mulighed for at specialisere dig yderligere inden for dit interessefelt. 
+   
+ Om teamet 
+ Du bliver en del af et team med 20 dygtige og dedikerede kolleger, der går på arbejde for at levere topklasse support - og det er vi stolte af. Dine kommende kollegaer kommer med forskellige baggrunde, så om du har en baggrund som IT-supporter, multimediedesigner, skolelærer, politimand eller noget helt andet, er ikke det vigtigste for os. 
+ Du får tildelt en Buddy, som bliver din personlige sparringspartner. Din Buddy fortæller dig alt, hvad du har brug for at vide i din første tid, og har til opgave at give dig den bedst mulige opstart i teamet. Ud over din buddy vil en fra teamet stå for din faglige oplæring, så vi kan klæde dig bedst muligt på til opgaven. 
+ I teamet er følgende særligt vigtigt for os: 
+   
+ Kundetilfredshed er kernen i vores arbejde: 
+ 
+ Vi lever af glade kunder og vægter derfor kundetilfredshed ekstremt højt. 
+ 
+ 
+ Vi er imødekommende og hjælpsomme, og vi tilpasser vores kommunikation til hver enkelt kunde. 
+ 
+ 
+ Vi leverer kvalificeret hjælp med grundighed og præcision. 
+ 
+ 
+ Vi er tålmodige og tager os altid tid til endnu et spørgsmål. 
+ 
+   
+ Ekspertise og proaktiv vejledning: 
+ 
+ Vi er eksperterne og tager en proaktiv rolle i vejledningen af vores kunder. 
+ 
+ 
+ Vi bruger vores produktviden til at foreslå løsninger, der sikrer, at kunderne altid får den nødvendige hjælp. 
+ 
+ 
+ Vi forklarer aktivt, hvordan specifikke produkter kan løse kundens problemer eller forbedre deres løsninger. 
+ 
+   
+ Vores medarbejdere er vores vigtigste aktiv: 
+ 
+ Vi vægter et stærkt sammenhold ekstremt højt. 
+ 
+ 
+ Vi spreder positiv energi ved at være venlige, optimistiske, smilende og imødekommende. 
+ 
+ 
+ Vi er åbne for at give og modtage feedback og ser det som en mulighed for personlig og professionel vækst. 
+ 
+ 
+ Vi søger støtte og hjælper hinanden, når der er behov for det. 
+ 
+ Du får 
+ 
+ Grundig oplæring af dygtige, motiverede og – ikke mindst - tålmodige kolleger 
+ 
+ 
+ Fast lønpakke inklusiv fritvalgskonto og pension 
+ 
+ 
+ Sundhedsforsikring, motionsrum og fysioterapeutisk massage 
+ 
+ 
+ En fantastisk personalerestaurant med morgenmad, frokost og ualmindelig god kaffe 
+ 
+ 
+ Et væld af sociale arrangementer (f.eks. fredagsarmbånd til Smukfest) - også på afdelingsniveau 
+ 
+ 
+ Rabatordninger og medarbejdertilbud som f.eks. frisørordning. 
+ 
+   
+ Kan du genkende dig selv i opslaget? 
+ Ansøg da med det samme via linket. 
+ Vi evaluerer og interviewer løbende kandidater til stillingen. 
+ Har du spørgsmål til stillingen, er du velkommen til at kontakte teamleder i Shared Hosting, Rune Andreasen, på  rune.andreasen@team.blue 
+   
+ Praktisk 
+ En arbejdstid på 37 timer om ugen fra mandag til fredag i tidsrummet fra kl. 7-19 (primært fra kl. 8-16). 
+ Arbejdssted:  Højvangen 4, 8660 Skanderborg 
+ Der er mulighed for at tage en hjemmearbejdsdag, hvis du skal til tandlæge eller bilen skal til service (igen). Men vi forventer, at du har lyst til at være mere på kontoret end derhjemme. Det styrker både samarbejdet og sammenholdet. 
+ Ansøgningsfrist:  snarest muligt",Højvangen 4,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,1,1,Fuldtid,None,None,1,,Kundeservicemedarbejder,0,"Kundecenteragent, Salgsassistent på en togstation, Kundeservicemedarbejder med ansvar for kassemedarbejderne, Kundeserviceassistent, 3345, 3346, 3347, Kontaktopsporingsmedarbejder, Kundekonsulent",0,0,False,"{'Email': 'christian.leth@team.blue', 'PersonName': 'Christian Leth', 'FirstName': 'Christian', 'LastName': 'Leth', 'PositionTitle': 'Onboarding and Recruitment Coordinator', 'PhoneNumbers': [{'Number': '70400000', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://dkcareers.team.blue/jobs/5365286-kundeservice-supporter-til-shared-hosting,False,2025-02-13T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=2dc08eee-4152-49d0-ac0c-cd16cc4bed82&Organisation=29412006,"Højvangen 4,8660, Skanderborg",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=2dc08eee-4152-49d0-ac0c-cd16cc4bed82&Company.Name=team.blue Denmark A/S&SubmissionDeadlineDate=2025-2-13&Title=Kundeservice-supporter til Shared Hosting&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Kundeservice-supporter til Shared Hosting,True,,True,1,,2dc08eee-4152-49d0-ac0c-cd16cc4bed82,,,False,False,,0,False,team.blue Denmark A/S,Højvangen 4,,,8660,False,False,False,Skanderborg,Christian Leth,70400000,christian.leth@team.blue,,,,,False,,2025-02-13T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Skanderborg kommune,False,team.blue Denmark A/S,,None,,False,False,"Motiveres du af at give en service, der er lidt bedre, end folk forventer? Er du vild med tekniske udfordringer? Vil du være en del af et team, hvor vi er lidt mere end bare kolleger (altså ikke på dén måde...)? Så har vi det helt rigtige job til dig!
+
+
+Hvis du kan genkende dette, så er det dig, vi leder efter 👇
+
+Du kan lide at tage ansvar. Det fø","""Motiveres du af at give en service, der er lidt bedre, end folk forventer? Er du vild med tekniske udfordringer? Vil du være en del af et team, hvor vi er lidt mere end bare kolleger (altså ikke på dén måde...)? Så har vi det helt rigtige job til dig!\n\n\nHvis du kan genkende dette, så er det dig, vi leder efter 👇\n\nDu kan lide at tage ansvar. Det fø""","""Kundeservice-supporter til Shared Hosting""","https://www.google.dk/maps/dir//Højvangen+4,8660,+Skanderborg/","Motiveres du af at give en service, der er lidt bedre, end folk forventer? Er du vild med tekniske udfordringer? Vil du være en del af et team, hvor vi er lidt mere end bare kolleger (altså ikke på dén måde...)? Så har vi det helt rigtige job til dig!  
+   
+   
+ Hvis du kan genkende dette, så er det dig, vi leder efter 👇  
+ 
+ Du kan lide at tage ansvar. Det føles naturligt for dig, og du kan lide følelsen af at have godt styr på dine opgaver. 
+ 
+ 
+ Du elsker at løse problemer. Faktisk er det jo reelt ikke problemer, men spændende udfordringer – for dig. Når problemer opstår, går du fluks i gang med at løse dem. 
+ 
+ 
+ Du undersøger tingene til bunds, da du ønsker grundighed og præcision. 
+ 
+ 
+ Du bliver motiveret af at rådgive og vejlede andre, så de altid får den rigtige løsning. 
+ 
+ 
+ Du opdager det, som andre overser. Du finder fejlene, og det sikrer høj kvalitet. 
+ 
+ Det er en fordel, hvis du har en idé om, hvad nedenstående dækker over: 
+ 
+ Webhosting af domæner og hjemmesider 
+ 
+ 
+ De mest populære CMS-systemer, eksempelvis WordPress 
+ 
+ 
+ E-mail-opsætning, primært Exchange og iMap 
+ 
+ 
+ DNS 
+ 
+   
+   
+ Jobbet som kundeservice-supporter hos team.blue 
+ Vi leverer løsninger indenfor bl.a. webhosting, domæner, e-mail og forskellige CMS-systemer. Din fornemste opgave er at sætte dig ind i kundernes it-udfordringer og sørge for, at der bliver taget godt hånd om dem. 
+ Dine primære arbejdsopgaver er, at: 
+ 
+ Hjælpe kunden med fejlfinding på deres løsning og komme med sparring herom 
+ 
+ 
+ Hjælpe kunden med opsætning og konfiguration af e-mail 
+ 
+ 
+ Vejlede kunden i brugen af domænehåndtering og DNS 
+ 
+ 
+ Derudover får du basal berøring med webserver-drift og fejlfinding. 
+ 
+ Det er ikke et krav, at du har erfaring med ovenstående. Vi sørger for, at du får en grundig introduktion og træning i vores produkter og systemer. Du får en skiftende hverdag med frihed under ansvar samt mulighed for at specialisere dig yderligere inden for dit interessefelt. 
+   
+ Om teamet 
+ Du bliver en del af et team med 20 dygtige og dedikerede kolleger, der går på arbejde for at levere topklasse support - og det er vi stolte af. Dine kommende kollegaer kommer med forskellige baggrunde, så om du har en baggrund som IT-supporter, multimediedesigner, skolelærer, politimand eller noget helt andet, er ikke det vigtigste for os. 
+ Du får tildelt en Buddy, som bliver din personlige sparringspartner. Din Buddy fortæller dig alt, hvad du har brug for at vide i din første tid, og har til opgave at give dig den bedst mulige opstart i teamet. Ud over din buddy vil en fra teamet stå for din faglige oplæring, så vi kan klæde dig bedst muligt på til opgaven. 
+ I teamet er følgende særligt vigtigt for os: 
+   
+ Kundetilfredshed er kernen i vores arbejde: 
+ 
+ Vi lever af glade kunder og vægter derfor kundetilfredshed ekstremt højt. 
+ 
+ 
+ Vi er imødekommende og hjælpsomme, og vi tilpasser vores kommunikation til hver enkelt kunde. 
+ 
+ 
+ Vi leverer kvalificeret hjælp med grundighed og præcision. 
+ 
+ 
+ Vi er tålmodige og tager os altid tid til endnu et spørgsmål. 
+ 
+   
+ Ekspertise og proaktiv vejledning: 
+ 
+ Vi er eksperterne og tager en proaktiv rolle i vejledningen af vores kunder. 
+ 
+ 
+ Vi bruger vores produktviden til at foreslå løsninger, der sikrer, at kunderne altid får den nødvendige hjælp. 
+ 
+ 
+ Vi forklarer aktivt, hvordan specifikke produkter kan løse kundens problemer eller forbedre deres løsninger. 
+ 
+   
+ Vores medarbejdere er vores vigtigste aktiv: 
+ 
+ Vi vægter et stærkt sammenhold ekstremt højt. 
+ 
+ 
+ Vi spreder positiv energi ved at være venlige, optimistiske, smilende og imødekommende. 
+ 
+ 
+ Vi er åbne for at give og modtage feedback og ser det som en mulighed for personlig og professionel vækst. 
+ 
+ 
+ Vi søger støtte og hjælper hinanden, når der er behov for det. 
+ 
+ Du får 
+ 
+ Grundig oplæring af dygtige, motiverede og – ikke mindst - tålmodige kolleger 
+ 
+ 
+ Fast lønpakke inklusiv fritvalgskonto og pension 
+ 
+ 
+ Sundhedsforsikring, motionsrum og fysioterapeutisk massage 
+ 
+ 
+ En fantastisk personalerestaurant med morgenmad, frokost og ualmindelig god kaffe 
+ 
+ 
+ Et væld af sociale arrangementer (f.eks. fredagsarmbånd til Smukfest) - også på afdelingsniveau 
+ 
+ 
+ Rabatordninger og medarbejdertilbud som f.eks. frisørordning. 
+ 
+   
+ Kan du genkende dig selv i opslaget? 
+ Ansøg da med det samme via linket. 
+ Vi evaluerer og interviewer løbende kandidater til stillingen. 
+ Har du spørgsmål til stillingen, er du velkommen til at kontakte teamleder i Shared Hosting, Rune Andreasen, på  rune.andreasen@team.blue 
+   
+ Praktisk 
+ En arbejdstid på 37 timer om ugen fra mandag til fredag i tidsrummet fra kl. 7-19 (primært fra kl. 8-16). 
+ Arbejdssted:  Højvangen 4, 8660 Skanderborg 
+ Der er mulighed for at tage en hjemmearbejdsdag, hvis du skal til tandlæge eller bilen skal til service (igen). Men vi forventer, at du har lyst til at være mere på kontoret end derhjemme. Det styrker både samarbejdet og sammenholdet. 
+ Ansøgningsfrist:  snarest muligt","https://www.google.dk/maps/place/Højvangen+4,8660,+Skanderborg/",29412006,False,False,,False

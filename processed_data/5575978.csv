@@ -1,0 +1,146 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Kommercielt tænkende leder til Salg & Produktudvikling,Kommercielt tænkende leder til Salg & Produktudvikling,"Vil du være en afgørende drivkraft bag udviklingen af den kollektive trafik i Nordjylland? Har du erfaring med datadrevet salg og marketing? Kan du tænke ud af boksen og igangsætte initiativer, der gi",Nordjyllands Trafikselskab,C.W. Obels Plads 16,9000,Aalborg,False,False,False,True,2022-04-11T00:00:00,2022-05-09T00:00:00,9. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5575978,Nordjylland,Aalborg,Danmark,9000,,,,Fuldtid,Ledelse,"Salg, indkøb og markedsføring",Salgschef,57.0488,9.9195,,Dag,81039,75358,30015940,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5575978,https://job.jobnet.dk/CV/FindWork/Details/5575978,https://job.jobnet.dk/CV/FindWork/Details/5575978,True,5575978,57.0488,9.9195,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Nordjyllands Trafikselskab,John F. Kennedys Plads 1T,58,Danmark,851,Aalborg,1,Nordjylland,9000,Aalborg,,0,Primary,,,,"Nordjyllands Trafikselskab (NT) står for den kollektive trafik i Nordjylland på vegne af de 11 nordjyske kommuner og Region Nordjylland. Vi binder Nordjylland sammen ved at skabe sammenhæng og gøre det så let, enkelt og miljørigtigt som muligt at komme til og fra arbejde, uddannelse, fornøjelser og hinanden med traditionelle kollektive trafikformer som bus, tog og flextrafik og ved at kombinere disse med nye moderne transportformer som privat samkørsel, delecykler og lignende.",81039,1003375286,30015940,"Nordjyllands Trafikselskab (NT) står for den kollektive trafik i Nordjylland på vegne af de 11 nordjyske kommuner og Region Nordjylland. Vi binder Nordjylland sammen ved at skabe sammenhæng og gøre det så let, enkelt og miljørigtigt som muligt at komme til og fra arbejde, uddannelse, fornøjelser og hinanden med traditionelle kollektive trafikformer som bus, tog og flextrafik og ved at kombinere disse med nye moderne transportformer som privat samkørsel, delecykler og lignende.",5575978,5575978,Nordjyllands Trafikselskab,John F. Kennedys Plads 1T,58,Danmark,851,Aalborg,1,Nordjylland,9000,Aalborg,,0,Primary,,,,"Nordjyllands Trafikselskab (NT) står for den kollektive trafik i Nordjylland på vegne af de 11 nordjyske kommuner og Region Nordjylland. Vi binder Nordjylland sammen ved at skabe sammenhæng og gøre det så let, enkelt og miljørigtigt som muligt at komme til og fra arbejde, uddannelse, fornøjelser og hinanden med traditionelle kollektive trafikformer som bus, tog og flextrafik og ved at kombinere disse med nye moderne transportformer som privat samkørsel, delecykler og lignende.",81039,1003375286,30015940,"Nordjyllands Trafikselskab (NT) står for den kollektive trafik i Nordjylland på vegne af de 11 nordjyske kommuner og Region Nordjylland. Vi binder Nordjylland sammen ved at skabe sammenhæng og gøre det så let, enkelt og miljørigtigt som muligt at komme til og fra arbejde, uddannelse, fornøjelser og hinanden med traditionelle kollektive trafikformer som bus, tog og flextrafik og ved at kombinere disse med nye moderne transportformer som privat samkørsel, delecykler og lignende.",,2022-04-11T00:00:00,2022-05-09T00:00:00,Kommercielt tænkende leder til Salg & Produktudvikling,"Vil du være en afgørende drivkraft bag udviklingen af den kollektive trafik i Nordjylland? Har du erfaring med datadrevet salg og marketing? Kan du tænke ud af boksen og igangsætte initiativer, der giver flere kunder i busser og tog? Så er du måske den, som NT leder efter.  
+ 
+ DU GÅR FORREST OG GØR EN FORSKEL 
+ 
+ Nordjyllands Trafikselskab (NT) har som mål at få flere til at rejse kollektivt. Til en nyoprettet stilling søger vi en resultatorienteret leder, der vil gøre en forskel, og som evner at gå forrest i en kommerciel transformation af den kollektive trafik i Nordjylland. Som leder for Salg & Produktudvikling får du en afgørende rolle for målsætningen om at få flere kunder i den kollektive trafik, og du vil være katalysator og drivkraft bag NT’s store kundefokus.  
+ 
+ Du vil få ansvaret for at udvikle attraktive produkter til nuværende og nye kundegrupper samt ledelsesansvaret for et topdedikeret marketingteam af seks kreative og dygtige medarbejdere, der hver eneste dag arbejder for at sælge den kollektive trafik i Nordjylland.  
+ 
+ Du vil sammen med chefen for Kunder, Salg og Kommunikation blive ansvarlig for at øge antallet af kunder i den kollektive trafik i Nordjylland. Dette skal ske gennem salgskampagner, udvikling af nye attraktive produkter og salg til nye kundegrupper.  
+ 
+  Som leder for Salg & Produktudvikling vil dine primære opgaver være at:  
+ 
+ understøtte NT’s overordnede forretningsmål gennem direkte salgsindsatser 
+ udvikle forretningen – herunder analysere interne og eksterne data og identificere nøgleområder, hvor der kan skabes kundevækst 
+ udvikle og drive salgskampagner på B2C- og B2B-markedet i tæt samarbejde med dit eget team og Team Kunder 
+ lave opsøgende salg på B2B-markedet og lave strategiske samarbejder 
+ lede og motivere dit team i en stadig mere kommerciel retning med fokus på målbare resultater 
+ udvikle og drive det mobile salgs- og serviceteam 
+ deltage i tværorganisatoriske udviklingsprojekter. 
+ 
+ 
+ Du vil referere til chefen for Kunder, Salg & Kommunikation. Afdelingen er opdelt i tre teams: Kunder, Salg & Produktudvikling og Kontroller & Drift og har i alt 40 medarbejdere.  
+ 
+  SYNLIG OG TROVÆRDIG LEDER, SOM SKABER RESULTATER GENNEM SAMARBEJDE 
+ 
+ For at få succes i dit job er det afgørende, at du:  
+ har solid erfaring med direkte salg og datadrevet marketing og kan udvikle og eksekvere salgskampagner samt sikre opfølgning på salgsinitiativer 
+ er en synlig og troværdig leder, som kan kommunikere tydelige forventninger og tør udfordre dit team 
+ når dine resultater gennem samarbejde 
+ er en proaktiv teamplayer, som sikrer overensstemmelse mellem salgsaktiviteterne og organisationens øvrige indsatser 
+ kan opbygge og vedligeholde relationer både internt og eksternt 
+ sikrer, at der er sammenhæng mellem opgaverne ved at være opsøgende og sikre vidensdeling på tværs af organisationen og med eksterne interessenter 
+ har en kreativ og innovativ tilgang til dit arbejde og ynder at udfordre eksisterende metoder 
+ trives i et uformelt, dynamisk miljø, er uhøjtidelig, har humor og kan bidrage positivt til fællesskabet på kontoret. 
+ 
+ 
+ Du kan omsætte strategier, politikker og mål til handlinger og bevæge dig gnidningsfrit mellem det taktiske og operationelle niveau. Du sikrer opfølgning på KPI’er, og du sørger for rapportering af teamets resultater.  
+ 
+  STORE UDVIKLINGSMULIGHEDER I ET TOPDEDIKERET TEAM 
+ 
+ Du får din daglige gang i en nordjysk virksomhed med spændende fremtidsplaner og konkrete indsatser, beliggende midt i Aalborg. Du tilbydes et varierende og alsidigt job, hvor dine evner bliver suppleret af engagerede og kompetente medarbejdere i et dynamisk arbejdsmiljø med et stærkt sammenhold.  
+ 
+ ANSØGNING 
+ 
+ Stillingen er på 37 timer pr. uge med tiltrædelse snarest muligt. Løn og ansættelsesforhold ift. gældende overenskomst med KL med mulighed for forhandling.  
+ 
+ Upload din ansøgning med relevante bilag på vores hjemmeside  Nordjyllandstrafikselskab.dk/Om-NT/Job 
+ snarest muligt.  
+ 
+ Vil du gerne vide mere om stillingen, så kontakt Torben Abildgaard, Managing Partner, på tlf.: 40 61 70 22 eller chefkonsulent, Christian Thrane, på tlf.: 22 78 39 11.  
+ 
+ 
+ VIRKSOMHEDEN 
+ 
+  Nordjyllands Trafikselskab (NT) står for den kollektive trafik i Nordjylland på vegne af de 11 nordjyske kommuner og Region Nordjylland. Vi er ca. 150 vognmænd og operatører, 2.500 chauffører, 70 lokoførere og 100 administrative medarbejdere, der betjener mere end 25 millioner årlige passagerer i busser, tog og flextrafik.  
+ 
+ 
+  NT binder Nordjylland sammen ved at skabe sammenhæng og gøre det så let, enkelt og miljørigtigt som muligt at komme til og fra arbejde, uddannelse, fornøjelser og hinanden med traditionelle kollektive transportformer som bus, tog og flextrafik i kombination med nye, moderne transportformer som privat samkørsel, delecykler og lignende.  
+ 
+ 
+  NT vil tiltrække flere kunder til vores busser, tog og flextrafik gennem smartere og bedre løsninger, som gør det let og enkelt at navigere i vores tilbud og services. Vores mål er at få så mange nordjyder som muligt til at rejse sammen og se sig selv som en del af et ”mobilitetsfællesskab”, hvor alle bidrager til et mere mobilt, grønt og rent Nordjylland. Vi håber, at du vil være med.  
+ 
+ 
+ En af forudsætningerne for vækst og trivsel er, at vi let og enkelt kan komme til og fra skole, job og fritidsaktiviteter. Nogle gange er det bilen eller cyklen, der gør os mobile. Andre gange er det bussen, toget eller en anden transportform, hvor vi rejser sammen med andre. 
+ 
+ 
+ Vi vil gøre det nemmere at rejse sammen. Det betyder bl.a., at der er god sammenhæng mellem de enkelte transporttilbud, så man let, enkelt og miljørigtigt kan komme fra A til B med såvel kollektive som private mobilitetstilbud. At gøre det let og enkelt at rejse sammen er det mål, vi på flere fronter vil arbejde benhårdt på at komme tættere på i de kommende år. Vi håber, at du vil være med? 
+ 
+ 
+  Læs meget mere på  www.nordjyllandstrafikselskab.dk 
+ .",C.W. Obels Plads 16,58,Danmark,851,Aalborg,1,Nordjylland,9000,Aalborg,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7901782, 'Email': None, 'FaxNumber': None, 'PersonName': 'Torben Abildgaard', 'FirstName': 'Torben', 'LastName': 'Abildgaard', 'PositionTitle': 'Managing Partner', 'PhoneNumbers': [{'Number': '40617022', 'Type': 2, 'Description': 'Mobil'}]}",,True,False,False,False,4,,,False,False,False,True,,,,,https://www.nordjyllandstrafikselskab.dk/Om-NT/Job,False,2022-05-09T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5575978&WorkPlace=81039&Organisation=30015940,"C.W. Obels Plads 16,9000, Aalborg",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5575978&Company.Name=Nordjyllands Trafikselskab&SubmissionDeadlineDate=2022-5-9&Title=Kommercielt tænkende leder til Salg & Produktudvikling&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Kommercielt tænkende leder til Salg & Produktudvikling,True,,True,1,,5575978,,,False,False,,0,False,Nordjyllands Trafikselskab,John F. Kennedys Plads 1T,,,9000,False,False,False,Aalborg,Torben Abildgaard,40617022,,,,,,False,,2022-05-09T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Dag,Arbejdspladsen ligger i Aalborg kommune,False,Nordjyllands Trafikselskab,,"Nordjyllands Trafikselskab (NT) står for den kollektive trafik i Nordjylland på vegne af de 11 nordjyske kommuner og Region Nordjylland. Vi binder Nordjylland sammen ved at skabe sammenhæng og gøre det så let, enkelt og miljørigtigt som muligt at komme til og fra arbejde, uddannelse, fornøjelser og hinanden med traditionelle kollektive trafikformer som bus, tog og flextrafik og ved at kombinere disse med nye moderne transportformer som privat samkørsel, delecykler og lignende.",,False,False,"Vil du være en afgørende drivkraft bag udviklingen af den kollektive trafik i Nordjylland? Har du erfaring med datadrevet salg og marketing? Kan du tænke ud af boksen og igangsætte initiativer, der giver flere kunder i busser og tog? Så er du måske den, som NT leder efter. 
+
+DU GÅR FORREST OG GØR EN FORSKEL
+
+ Nordjyllands Trafikselskab (NT) har","""Vil du være en afgørende drivkraft bag udviklingen af den kollektive trafik i Nordjylland? Har du erfaring med datadrevet salg og marketing? Kan du tænke ud af boksen og igangsætte initiativer, der giver flere kunder i busser og tog? Så er du måske den, som NT leder efter. \r\n\r\nDU GÅR FORREST OG GØR EN FORSKEL\r\n\r\n Nordjyllands Trafikselskab (NT) har""","""Kommercielt tænkende leder til Salg \u0026 Produktudvikling""","https://www.google.dk/maps/dir//C.W.+Obels+Plads+16,9000,+Aalborg/","Vil du være en afgørende drivkraft bag udviklingen af den kollektive trafik i Nordjylland? Har du erfaring med datadrevet salg og marketing? Kan du tænke ud af boksen og igangsætte initiativer, der giver flere kunder i busser og tog? Så er du måske den, som NT leder efter.  
+ 
+ DU GÅR FORREST OG GØR EN FORSKEL 
+ 
+ Nordjyllands Trafikselskab (NT) har som mål at få flere til at rejse kollektivt. Til en nyoprettet stilling søger vi en resultatorienteret leder, der vil gøre en forskel, og som evner at gå forrest i en kommerciel transformation af den kollektive trafik i Nordjylland. Som leder for Salg & Produktudvikling får du en afgørende rolle for målsætningen om at få flere kunder i den kollektive trafik, og du vil være katalysator og drivkraft bag NT’s store kundefokus.  
+ 
+ Du vil få ansvaret for at udvikle attraktive produkter til nuværende og nye kundegrupper samt ledelsesansvaret for et topdedikeret marketingteam af seks kreative og dygtige medarbejdere, der hver eneste dag arbejder for at sælge den kollektive trafik i Nordjylland.  
+ 
+ Du vil sammen med chefen for Kunder, Salg og Kommunikation blive ansvarlig for at øge antallet af kunder i den kollektive trafik i Nordjylland. Dette skal ske gennem salgskampagner, udvikling af nye attraktive produkter og salg til nye kundegrupper.  
+ 
+  Som leder for Salg & Produktudvikling vil dine primære opgaver være at:  
+ 
+ understøtte NT’s overordnede forretningsmål gennem direkte salgsindsatser 
+ udvikle forretningen – herunder analysere interne og eksterne data og identificere nøgleområder, hvor der kan skabes kundevækst 
+ udvikle og drive salgskampagner på B2C- og B2B-markedet i tæt samarbejde med dit eget team og Team Kunder 
+ lave opsøgende salg på B2B-markedet og lave strategiske samarbejder 
+ lede og motivere dit team i en stadig mere kommerciel retning med fokus på målbare resultater 
+ udvikle og drive det mobile salgs- og serviceteam 
+ deltage i tværorganisatoriske udviklingsprojekter. 
+ 
+ 
+ Du vil referere til chefen for Kunder, Salg & Kommunikation. Afdelingen er opdelt i tre teams: Kunder, Salg & Produktudvikling og Kontroller & Drift og har i alt 40 medarbejdere.  
+ 
+  SYNLIG OG TROVÆRDIG LEDER, SOM SKABER RESULTATER GENNEM SAMARBEJDE 
+ 
+ For at få succes i dit job er det afgørende, at du:  
+ har solid erfaring med direkte salg og datadrevet marketing og kan udvikle og eksekvere salgskampagner samt sikre opfølgning på salgsinitiativer 
+ er en synlig og troværdig leder, som kan kommunikere tydelige forventninger og tør udfordre dit team 
+ når dine resultater gennem samarbejde 
+ er en proaktiv teamplayer, som sikrer overensstemmelse mellem salgsaktiviteterne og organisationens øvrige indsatser 
+ kan opbygge og vedligeholde relationer både internt og eksternt 
+ sikrer, at der er sammenhæng mellem opgaverne ved at være opsøgende og sikre vidensdeling på tværs af organisationen og med eksterne interessenter 
+ har en kreativ og innovativ tilgang til dit arbejde og ynder at udfordre eksisterende metoder 
+ trives i et uformelt, dynamisk miljø, er uhøjtidelig, har humor og kan bidrage positivt til fællesskabet på kontoret. 
+ 
+ 
+ Du kan omsætte strategier, politikker og mål til handlinger og bevæge dig gnidningsfrit mellem det taktiske og operationelle niveau. Du sikrer opfølgning på KPI’er, og du sørger for rapportering af teamets resultater.  
+ 
+  STORE UDVIKLINGSMULIGHEDER I ET TOPDEDIKERET TEAM 
+ 
+ Du får din daglige gang i en nordjysk virksomhed med spændende fremtidsplaner og konkrete indsatser, beliggende midt i Aalborg. Du tilbydes et varierende og alsidigt job, hvor dine evner bliver suppleret af engagerede og kompetente medarbejdere i et dynamisk arbejdsmiljø med et stærkt sammenhold.  
+ 
+ ANSØGNING 
+ 
+ Stillingen er på 37 timer pr. uge med tiltrædelse snarest muligt. Løn og ansættelsesforhold ift. gældende overenskomst med KL med mulighed for forhandling.  
+ 
+ Upload din ansøgning med relevante bilag på vores hjemmeside  Nordjyllandstrafikselskab.dk/Om-NT/Job 
+ snarest muligt.  
+ 
+ Vil du gerne vide mere om stillingen, så kontakt Torben Abildgaard, Managing Partner, på tlf.: 40 61 70 22 eller chefkonsulent, Christian Thrane, på tlf.: 22 78 39 11.  
+ 
+ 
+ VIRKSOMHEDEN 
+ 
+  Nordjyllands Trafikselskab (NT) står for den kollektive trafik i Nordjylland på vegne af de 11 nordjyske kommuner og Region Nordjylland. Vi er ca. 150 vognmænd og operatører, 2.500 chauffører, 70 lokoførere og 100 administrative medarbejdere, der betjener mere end 25 millioner årlige passagerer i busser, tog og flextrafik.  
+ 
+ 
+  NT binder Nordjylland sammen ved at skabe sammenhæng og gøre det så let, enkelt og miljørigtigt som muligt at komme til og fra arbejde, uddannelse, fornøjelser og hinanden med traditionelle kollektive transportformer som bus, tog og flextrafik i kombination med nye, moderne transportformer som privat samkørsel, delecykler og lignende.  
+ 
+ 
+  NT vil tiltrække flere kunder til vores busser, tog og flextrafik gennem smartere og bedre løsninger, som gør det let og enkelt at navigere i vores tilbud og services. Vores mål er at få så mange nordjyder som muligt til at rejse sammen og se sig selv som en del af et ”mobilitetsfællesskab”, hvor alle bidrager til et mere mobilt, grønt og rent Nordjylland. Vi håber, at du vil være med.  
+ 
+ 
+ En af forudsætningerne for vækst og trivsel er, at vi let og enkelt kan komme til og fra skole, job og fritidsaktiviteter. Nogle gange er det bilen eller cyklen, der gør os mobile. Andre gange er det bussen, toget eller en anden transportform, hvor vi rejser sammen med andre. 
+ 
+ 
+ Vi vil gøre det nemmere at rejse sammen. Det betyder bl.a., at der er god sammenhæng mellem de enkelte transporttilbud, så man let, enkelt og miljørigtigt kan komme fra A til B med såvel kollektive som private mobilitetstilbud. At gøre det let og enkelt at rejse sammen er det mål, vi på flere fronter vil arbejde benhårdt på at komme tættere på i de kommende år. Vi håber, at du vil være med? 
+ 
+ 
+  Læs meget mere på  www.nordjyllandstrafikselskab.dk 
+ .","https://www.google.dk/maps/place/C.W.+Obels+Plads+16,9000,+Aalborg/",30015940,False,False,,False

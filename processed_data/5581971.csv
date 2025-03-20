@@ -1,0 +1,144 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"Afdelingslæge i gynækologi, Gynækologisk-Obstetrisk Afdeling, Holbæk Sygehus","Afdelingslæge i gynækologi, Gynækologisk-Obstetrisk Afdeling, Holbæk Sygehus","
+	
+		
+			
+		
+	
+
+
+Afdelingslæge i gynækologi søges til Holbæk Sygehus
+
+Gynækologisk-obstetrisk afdeling Holbæk søger en afdelingslæge i gynækologi per 1. august 2022 eller sn",Region Sjælland,Smedelundsgade 60,4300,Holbæk,True,False,False,False,2022-04-23T00:00:00,2022-05-11T00:00:00,11. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5581971,Øvrige Sjælland,Holbæk,Danmark,4300,,,,Fuldtid,Akademisk arbejde,"Læge, tandlæge og dyrlæge",Læge,55.7114,11.7171,,,61350,57914,29190658,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5581971,https://job.jobnet.dk/CV/FindWork/Details/5581971,https://job.jobnet.dk/CV/FindWork/Details/5581971,True,5581971,55.7114,11.7171,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Region Sjælland,Alleen 15,58,Danmark,340,Sorø,4,"Hovedstaden, Sjælland og Bornholm",4180,Sorø,,0,Primary,,,,None,61350,1003290870,29190658,None,5581971,5581971,Region Sjælland,Alleen 15,58,Danmark,340,Sorø,4,"Hovedstaden, Sjælland og Bornholm",4180,Sorø,,0,Primary,,,,None,61350,1003290870,29190658,None,,2022-04-23T00:00:00,2022-05-11T00:00:00,"Afdelingslæge i gynækologi, Gynækologisk-Obstetrisk Afdeling, Holbæk Sygehus","Afdelingslæge i gynækologi søges til Holbæk Sygehus 
+ Gynækologisk-obstetrisk afdeling Holbæk søger en afdelingslæge i gynækologi per 1. august 2022 eller snarest derefter. Hvis du har kvalifikationer eller interesse indenfor benign gynækologi og minimal invasiv gynækologi og samtidig sætter pris på at beholde bredden i dine speciallægekvalifikationer, er dette en stilling for dig. 
+ Om os: 
+ På gynækologisk obstetrisk afdeling Holbæk Sygehus brænder vi for at tilbyde behandling af høj faglig kvalitet og skabe de bedst mulige forløb for kvinder med underlivsproblemer og for de som føder hos os. Vi behandler alle almindelige sygdomme indenfor specialet og da Holbæk Sygehus er ét af fire akutsygehuse i Region Sjælland, har vi derudover en vigtig akutfunktion. Fra 1. maj øger vi vores aktivitet på det obstetriske område fra 1500 til 1800 fødsler årligt, og vi er derfor ved at opruste generelt på personalesiden. 
+ Vi ligger 45-50 minutters kø-fri køretur fra København. 
+ Afdelingen er p.t. bemandet med 20 læger: 1 cheflæge, 1 ledende overlæge i obstetrik, 7 overlæger, 3-4 afdelingslæger, 2 H2 læger, 4 introduktionslæger og ca. 3 læger i hoveduddannelse til almen medicin eller uklassificeret stilling. 
+ Vores gynækologisk team består af syv bredt kompetente speciallæger, både meget erfarne og mindre erfarne, der har særlige funktionsområde indenfor enten endoskopisk kirurgi, vulvalidelser eller urogynækologi. 
+ På afdelingen behandler vi alle almindelige gynækologiske lidelser. Derudover har vi regionsfunktion i vulvodyni og Center for Voldtægtsofre. Fertilitetsbehandling, inkontinens- og cancerkirurgi varetages andre steder i regionen. Gynækologisk ambulatorium har erfarent og dedikeret personale samt egne behandlingsstuer til bl.a. dysplasipatienter, minihysteroskopi og almindelig hysteroskopi. Desuden et sygeplejebemandet ambulatorium til tidlig graviditet og abort. Afdelingen råder over syv ugentlige operationslejer- heraf 5 dagkirurgiske. 
+ Vi er netop, som én af de første afdelinger i Danmark, begyndt at tilbyde hysterektomi v.hj.a. vNOTES teknikken og håber på den måde at kunne være med til at innovere den operative gynækologi til gavn for vores patienter. 
+ Obstetrisk er vi en velfungerende fødeafdeling med nu ca 1800 fødsler årlige fødsler, der varetager det meste indenfor normale og patologiske graviditetsforløb. Jordemødrenes funktion koordineres i det daglige af en klinisk jordemodersupervisor. Vores sonografer foretager alle standard føtalmedicinske scanninger og afdelingen varetager præterme fødsler ned til uge 28 i samarbejde med neonatalafdelingen. 
+ Vi er en lærende organisation, hvor videreudvikling på alle niveauer er en selvfølge. Vi har en god kultur for oplæring samt et godt arbejdsmiljø både i lægegruppen og tværfagligt. Vi deltager i uddannelsen af læger, jordemødre og sekretærer og forventer, at du kan lide at uddanne både dig selv og andre. Afdelingen er forskningsmæssigt aktiv og hvis du er videnskabelig aktiv, er det et plus. 
+ Vi holder tværfaglig obstetrisk teamtræning 4-5 gange årligt. Sygehuset har etableret forskningens hus samt tværfagligt læringscenter og har et godt tværfagligt læringsmiljø med samarbejde på tværs af afdelinger og specialer. 
+ Om dig: 
+ 
+ 
+ Speciallæge med dokumenteret interesse indenfor gynækologien 
+ 
+ 
+ God til at samarbejde 
+ 
+ 
+ Positiv, fleksibel og løsningsorienteret 
+ 
+ 
+ Brænder for at levere kvalitet i opgaveløsningen 
+ 
+ 
+ Dokumenteret videnskabelig erfaring eller erfaring med guidelinearbejde 
+ 
+ 
+ Erfaring med administrative funktioner eller uddannelse er et plus 
+ 
+ 
+ Fortrolig med og tryg ved fødegangsarbejde 
+ 
+ 
+ Vi tilbyder: 
+ 
+ 
+ Et godt lærings- og samarbejdsmiljø 
+ 
+ 
+ Gode muligheder for at følge og operere egne patienter 
+ 
+ 
+ Oplæring i laparoskopi, hysteroskopi, vulva- eller prolapskirurgi efter dine evner, interesse og behov 
+ 
+ 
+ Mulighed for subspecialisering såfremt du ønsker det 
+ 
+ 
+ Mulighed for undervisningslektorat 
+ 
+ 
+ Mulighed for ansvarsområder indenfor administration eller forskning afhængig af kvalifikationer og interesser 
+ 
+ 
+ Mulighed for individuelle hensyn i arbejdstilrettelæggelsen 
+ 
+ 
+ Løn- og ansættelsesvilkår i øvrigt i henhold til gældende overenskomst med Foreningen af yngre læger. Afdelingslægen går i tilstedeværelsesvagt i døgnvagt i lige fordeling med de p.t. 8 øvrige vagtbærende bagvagter. Såfremt man ønsker delte vagter, kan dette imødekommes. Bagvagten varetager og superviserer de akutte opgaver indenfor både gynækologi og obstetrik. 
+ Hvis du har lyst til at få mere at vide om stillingen, er du meget velkommen til at kontakte ledende overlæge Mette Schou Hammerum, 24 92 22 14. 
+ Du er også velkommen til at komme på besøg, se afdelingen og tale hvordan dit fremtidige arbejdsliv kunne komme til at se ud. 
+ Vi planlægger samtaler torsdag den 19. maj Om Holbæk Sygehus 
+ Holbæk Sygehus er en innovativ arbejdsplads med masser af muligheder for personlig og faglig udvikling. Vi vil være førende i diagnostik og behandling af almene og hyppigt forekommende sygdomme, og vi har velfungerende forskningsmiljøer på disse områder. 
+ Vi er et ambitiøst og veldrevet sygehus med en flad ledelsesstruktur – så vejen fra idé til handling er kort. Vi glæder os til at byde dig velkommen på holdet. Du kan se mere om  job på Holbæk Sygehus  her.",Smedelundsgade 60,58,Danmark,316,Holbæk,4,"Hovedstaden, Sjælland og Bornholm",4300,Holbæk,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7926309, 'Email': None, 'FaxNumber': None, 'PersonName': 'Mette Hammerum', 'FirstName': 'Mette', 'LastName': 'Hammerum', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '70 15 50 00', 'Type': 0, 'Description': 'Hovednummer'}]}",2022-08-01T00:00:00,False,False,False,False,4,,,False,False,False,False,,,,,https://www.regionsjaelland.dk/JobOgKarriere/Sider/JobSide.aspx?nr=24616,False,2022-05-11T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5581971&WorkPlace=61350&Organisation=29190658,"Smedelundsgade 60,4300, Holbæk",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5581971&Company.Name=Region Sjælland&SubmissionDeadlineDate=2022-5-11&Title=Afdelingslæge i gynækologi, Gynækologisk-Obstetrisk Afdeling, Holbæk Sygehus&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,False,0,,,"Afdelingslæge i gynækologi, Gynækologisk-Obstetrisk Afdeling, Holbæk Sygehus",True,,True,1,,5581971,,,False,False,,0,False,Region Sjælland,Alleen 15,,,4180,False,False,False,Sorø,Mette Hammerum,70 15 50 00,,,,,,False,,2022-05-11T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Holbæk kommune,False,Region Sjælland,,None,,False,False,"Afdelingsl&aelig;ge i gyn&aelig;kologi s&oslash;ges til Holb&aelig;k Sygehus
+
+Gyn&aelig;kologisk-obstetrisk afdeling Holb&aelig;k s&oslash;ger en afdelingsl&aelig;ge i gyn&aelig;kologi per 1. august 2022 eller snarest derefter. Hvis du har kvalifikationer eller interesse indenfor benign gyn&aelig;kologi og minimal invasiv gyn&aelig;kologi og samt","""Afdelingsl\u0026aelig;ge i gyn\u0026aelig;kologi s\u0026oslash;ges til Holb\u0026aelig;k Sygehus\r\n\r\nGyn\u0026aelig;kologisk-obstetrisk afdeling Holb\u0026aelig;k s\u0026oslash;ger en afdelingsl\u0026aelig;ge i gyn\u0026aelig;kologi per 1. august 2022 eller snarest derefter. Hvis du har kvalifikationer eller interesse indenfor benign gyn\u0026aelig;kologi og minimal invasiv gyn\u0026aelig;kologi og samt""","""Afdelingslæge i gynækologi, Gynækologisk-Obstetrisk Afdeling, Holbæk Sygehus""","https://www.google.dk/maps/dir//Smedelundsgade+60,4300,+Holbæk/","Afdelingslæge i gynækologi søges til Holbæk Sygehus 
+ Gynækologisk-obstetrisk afdeling Holbæk søger en afdelingslæge i gynækologi per 1. august 2022 eller snarest derefter. Hvis du har kvalifikationer eller interesse indenfor benign gynækologi og minimal invasiv gynækologi og samtidig sætter pris på at beholde bredden i dine speciallægekvalifikationer, er dette en stilling for dig. 
+ Om os: 
+ På gynækologisk obstetrisk afdeling Holbæk Sygehus brænder vi for at tilbyde behandling af høj faglig kvalitet og skabe de bedst mulige forløb for kvinder med underlivsproblemer og for de som føder hos os. Vi behandler alle almindelige sygdomme indenfor specialet og da Holbæk Sygehus er ét af fire akutsygehuse i Region Sjælland, har vi derudover en vigtig akutfunktion. Fra 1. maj øger vi vores aktivitet på det obstetriske område fra 1500 til 1800 fødsler årligt, og vi er derfor ved at opruste generelt på personalesiden. 
+ Vi ligger 45-50 minutters kø-fri køretur fra København. 
+ Afdelingen er p.t. bemandet med 20 læger: 1 cheflæge, 1 ledende overlæge i obstetrik, 7 overlæger, 3-4 afdelingslæger, 2 H2 læger, 4 introduktionslæger og ca. 3 læger i hoveduddannelse til almen medicin eller uklassificeret stilling. 
+ Vores gynækologisk team består af syv bredt kompetente speciallæger, både meget erfarne og mindre erfarne, der har særlige funktionsområde indenfor enten endoskopisk kirurgi, vulvalidelser eller urogynækologi. 
+ På afdelingen behandler vi alle almindelige gynækologiske lidelser. Derudover har vi regionsfunktion i vulvodyni og Center for Voldtægtsofre. Fertilitetsbehandling, inkontinens- og cancerkirurgi varetages andre steder i regionen. Gynækologisk ambulatorium har erfarent og dedikeret personale samt egne behandlingsstuer til bl.a. dysplasipatienter, minihysteroskopi og almindelig hysteroskopi. Desuden et sygeplejebemandet ambulatorium til tidlig graviditet og abort. Afdelingen råder over syv ugentlige operationslejer- heraf 5 dagkirurgiske. 
+ Vi er netop, som én af de første afdelinger i Danmark, begyndt at tilbyde hysterektomi v.hj.a. vNOTES teknikken og håber på den måde at kunne være med til at innovere den operative gynækologi til gavn for vores patienter. 
+ Obstetrisk er vi en velfungerende fødeafdeling med nu ca 1800 fødsler årlige fødsler, der varetager det meste indenfor normale og patologiske graviditetsforløb. Jordemødrenes funktion koordineres i det daglige af en klinisk jordemodersupervisor. Vores sonografer foretager alle standard føtalmedicinske scanninger og afdelingen varetager præterme fødsler ned til uge 28 i samarbejde med neonatalafdelingen. 
+ Vi er en lærende organisation, hvor videreudvikling på alle niveauer er en selvfølge. Vi har en god kultur for oplæring samt et godt arbejdsmiljø både i lægegruppen og tværfagligt. Vi deltager i uddannelsen af læger, jordemødre og sekretærer og forventer, at du kan lide at uddanne både dig selv og andre. Afdelingen er forskningsmæssigt aktiv og hvis du er videnskabelig aktiv, er det et plus. 
+ Vi holder tværfaglig obstetrisk teamtræning 4-5 gange årligt. Sygehuset har etableret forskningens hus samt tværfagligt læringscenter og har et godt tværfagligt læringsmiljø med samarbejde på tværs af afdelinger og specialer. 
+ Om dig: 
+ 
+ 
+ Speciallæge med dokumenteret interesse indenfor gynækologien 
+ 
+ 
+ God til at samarbejde 
+ 
+ 
+ Positiv, fleksibel og løsningsorienteret 
+ 
+ 
+ Brænder for at levere kvalitet i opgaveløsningen 
+ 
+ 
+ Dokumenteret videnskabelig erfaring eller erfaring med guidelinearbejde 
+ 
+ 
+ Erfaring med administrative funktioner eller uddannelse er et plus 
+ 
+ 
+ Fortrolig med og tryg ved fødegangsarbejde 
+ 
+ 
+ Vi tilbyder: 
+ 
+ 
+ Et godt lærings- og samarbejdsmiljø 
+ 
+ 
+ Gode muligheder for at følge og operere egne patienter 
+ 
+ 
+ Oplæring i laparoskopi, hysteroskopi, vulva- eller prolapskirurgi efter dine evner, interesse og behov 
+ 
+ 
+ Mulighed for subspecialisering såfremt du ønsker det 
+ 
+ 
+ Mulighed for undervisningslektorat 
+ 
+ 
+ Mulighed for ansvarsområder indenfor administration eller forskning afhængig af kvalifikationer og interesser 
+ 
+ 
+ Mulighed for individuelle hensyn i arbejdstilrettelæggelsen 
+ 
+ 
+ Løn- og ansættelsesvilkår i øvrigt i henhold til gældende overenskomst med Foreningen af yngre læger. Afdelingslægen går i tilstedeværelsesvagt i døgnvagt i lige fordeling med de p.t. 8 øvrige vagtbærende bagvagter. Såfremt man ønsker delte vagter, kan dette imødekommes. Bagvagten varetager og superviserer de akutte opgaver indenfor både gynækologi og obstetrik. 
+ Hvis du har lyst til at få mere at vide om stillingen, er du meget velkommen til at kontakte ledende overlæge Mette Schou Hammerum, 24 92 22 14. 
+ Du er også velkommen til at komme på besøg, se afdelingen og tale hvordan dit fremtidige arbejdsliv kunne komme til at se ud. 
+ Vi planlægger samtaler torsdag den 19. maj Om Holbæk Sygehus 
+ Holbæk Sygehus er en innovativ arbejdsplads med masser af muligheder for personlig og faglig udvikling. Vi vil være førende i diagnostik og behandling af almene og hyppigt forekommende sygdomme, og vi har velfungerende forskningsmiljøer på disse områder. 
+ Vi er et ambitiøst og veldrevet sygehus med en flad ledelsesstruktur – så vejen fra idé til handling er kort. Vi glæder os til at byde dig velkommen på holdet. Du kan se mere om  job på Holbæk Sygehus  her.","https://www.google.dk/maps/place/Smedelundsgade+60,4300,+Holbæk/",29190658,False,False,,False

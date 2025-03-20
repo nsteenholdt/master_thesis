@@ -1,0 +1,205 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Kontorelever efterlyses,Kontorelever efterlyses,"Leder du efter en elevplads med speciale i offentlig administration? Så har du chancen for at sende din ansøgning til Absalon og blive én af vores tre heldige elever. Du må hellere læse videre. 
+","Professionshøjskolen Absalon, Campus Roskilde",Trekroner Forskerpark 4,4000,Roskilde,True,False,False,False,2022-04-25T00:00:00,2022-05-11T00:00:00,11. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5582245,Øvrige Sjælland,Roskilde,Danmark,4000,,,,Fuldtid,Elever,"Kontor, administration, regnskab og finans",Kontorelev,55.6514,12.1431,,,0,66930,30874323,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5582245,https://job.jobnet.dk/CV/FindWork/Details/5582245,https://job.jobnet.dk/CV/FindWork/Details/5582245,True,5582245,55.6514,12.1431,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}","Professionshøjskolen Absalon, Campus Roskilde",Trekroner Forskerpark 4,58,Danmark,169,Høje-Taastrup,4,"Hovedstaden, Sjælland og Bornholm",4000,Roskilde,,0,Primary,,,,None,,1017818666,30874323,None,5582245,5582245,"Professionshøjskolen Absalon, Campus Roskilde",Trekroner Forskerpark 4,58,Danmark,169,Høje-Taastrup,4,"Hovedstaden, Sjælland og Bornholm",4000,Roskilde,,0,Primary,,,,None,,1017818666,30874323,None,,2022-04-25T00:00:00,2022-05-11T00:00:00,Kontorelever efterlyses,"Leder du efter en elevplads med speciale i offentlig administration? Så har du chancen for at sende din ansøgning til Absalon og blive én af vores tre heldige elever. Du må hellere læse videre.  
+ 
+ På Professionshøjskolen Absalon ser vi det som en af vores fornemmeste opgaver at understøtte vores uddannelser så de studerende får det bedste med, når de skal ud og virke i deres professioner. Vi ønsker at bidrage til Region Sjællands vækst og velfærd gennem udbud af gode og relevante uddannelsesmuligheder.  
+ 
+ Som kontorelev på Absalon skal du være med til at understøtte fællesfunktionerne og vores syv faglige centre, der tilsammen indeholder 14 forskellige professionsbacheloruddannelser, efter- og videreuddannelse samt forskning.  
+ 
+ Vi søger tre kontorelever med speciale i offentlig administration med følgende retninger:  Allround  
+ HR og Kommunikation, Team Jura  
+ Uddannelsesservice  
+ 
+ 
+ Din profil 
+ 
+ Som elev på Absalon får du en hverdag, der er præget af mange varierende opgaver. Du får hurtigt mulighed for at få ansvar for egne opgaver samtidig med, at du har mange hjælpsomme kolleger bag dig. Derfor skal du kunne genkende dig selv i følgene udsagn:  
+ 
+ Har evne til at opbygge relationer. 
+ Du er imødekommende, tillidsvækkende og god til at gå i dialog. Du kan lide at arbejde målrettet i samspil med kolleger på tværs af organisationen i et til tider hektisk miljø.  
+ 
+ Du kan lide at arbejde sammen med andre, men også selvstændigt. 
+ Du værdsætter det gode samarbejde. Det falder dig helt naturligt at søge input fra andre, hvis du har brug for sparring. Samtidig skræmmer det dig ikke, hvis du får en opgave, som du selvstændigt skal løse. Du har målet for øje, og er færdig med opgaven til det aftalte tidspunkt.  
+ 
+ Du er løsningsorienteret. 
+ Du har en nysgerrig tilgang til, hvordan opgaverne løses. Du har blik for detaljerne, og når du tager arbejdshandskerne på og får ”noget fra hånden” er det altid med fokus på kvaliteten, og på at det er til gavn for de fleste på Absalon.  
+ 
+ Derudover forventer vi os, at du har bestået ét af nedenstående forløb:  
+ EUX business – hvis du har en EUX fra før 1. august 2019 skal du have kvalifikationer til kontoruddannelsen med specialer.  
+ STX, HF, HTX inkl. 5 ugers EUS forløb  
+ HHX  
+ HG (grundforløb fra handelsskolen) med kvalifikationer til kontoruddannelsen med specialer bestået før 1. august 2015.  
+ 
+ 
+ Er du fyldt 25 år bedes du fremsende din realkompetencevurdering (RKV) eller du skal kontakte en handelsskole med henblik på at få udarbejdet en RKV, som skal vedlægges din ansøgning. Hvis du har spørgsmål om adgangskrav og uddannelsesretning, kan du kontakte nærmeste handelsskole.  
+ 
+ Du skal desuden vedlægge relevante eksamensbeviser til din ansøgning og CV. Har du endnu ikke modtaget dit eksamensbevis, så vedlæg dine standpunktskarakterer. Har du modtaget merit for dele af adgangskravene, skal du også vedlægge disse.  
+ 
+ Du kan læse mere om uddannelsesforløbet her (https://www.uddannelsesnaevnet.dk/erhvervsuddannelser/kontoruddannelsen/offentlig-administration).  
+ 
+ Dine arbejdsopgaver 
+ 
+ Du får din egen uddannelsesplan, som er med til at sikre, at du får et afvekslende og lærerigt uddannelsesforløb. Det er vigtigt for os, at du opnår en god uddannelse med gode muligheder for personlig udvikling. Der er opgaver, du skal løse på egen hånd og opgaver, hvor du skal indgå i et team sammen med forskellige samarbejdspartnere og kolleger.  
+ 
+ Alt efter hvilket elevforløb du er interesseret i, vil dine opgave være:  
+ 
+ Allround elev – Campus Slagelse 
+ 
+ Som udgangspunkt skal du være 1 mdr. i Frontdesk, 11 mdr. i Team Løn og 12 mdr. i efter- og videreuddannelsen, Uddannelsesservice. På den måde får du set mange sider af Absalon og får hænderne i flere forskellige arbejdsopgaver, så som at:  Tage imod og guide gæster, studerende og ansatte  
+ Håndtere mail og passe telefon  
+ Udarbejde forskellige kontrakter  
+ Udarbejde lønbilag og taste dem i vores lønsystemer  
+ Udvikle digitale bilag  
+ Arbejde med tidsregistreringssystem, samt kørsels- og blanketsystem  
+ Behandle ansøgninger og sagsbehandle i vores studieadministrative system (esas),  
+ Oprette prøver i WISEflow  
+ Fakturere  
+ Bestille forplejning, booke lokaler mv.  
+ 
+ 
+ Elev i HR og Kommunikation, Team Jura – Campus Slagelse 
+ 
+ I Team Jura skal du være med til at løse mange af de opgaver der er i forbindelse med et ansættelsesforhold. Du skal bl.a. være med til at:  Udarbejde stillingsopslag  
+ Dykke ned i overenskomster  
+ Beregne løn og skrive ansættelseskontrakter  
+ Registrere medarbejdere i vores personaledatabase  
+ rkivere bilag på personalesager  
+ Trække oversigter og analyser  
+ 
+ 
+ Elev i Uddannelsesservice - Campus Roskilde 
+ 
+ Du bliver en del af Uddannelsesservice i Roskilde, som varetager mange forskellig opgaver omkring vores studerende. Du skal bl.a. være med til at:  Registrere studenterbevægelser i vores studieadministrative system (esas)  
+ Oprette prøver i WISEflow  
+ Oprette flows til modulgodkendelser  
+ Behandle ønsker til praktik og valgfag  
+ Bestille lokaler og forplejning  
+ Besvare mails og telefoniske henvendelser fra studerende  
+ 
+ 
+ Dine kolleger 
+ 
+ Du vil opleve forskellige rutiner og forskellige kulturer i afdelingerne, men fælles for alle vores afdelinger er, at vi har en god og uformel omgangstone. Du vil møde kolleger, som alle gør en dyd ud af at gøre vores elever fagligt dygtige og klædt på til fremtidige jobs efter endt uddannelse.  
+ 
+ Vi glæder os til at byde flere elever velkomne i vores forskellige afdelinger i fællesfunktionerne hos Absalon.  
+ 
+ Sådan ansøger du 
+ 
+ Ansættelse sker efter gældende organisationsaftale for Kontorfunktionærer, laboranter og It-medarbejdere (HK) (modst. nr. 033-19).  
+ Stillingen er på fuld tid, og tidsbegrænset i perioden 1. september 2022 til og med 31. august 2024.  
+ Hvis du har nogle spørgsmål til stillingerne, kan du kontakte lønkonsulent og elevansvarlig Michelle Christensen Degnebolig tlf. 7248 1245 eller mail micd@pha.dk  
+ Ansøgning og relevante bilag sendes via vores rekrutteringssystem her (https://phabsalon.dk/om-absalon/job-i-absalon) eller ved at klikke på ”Søg stillingen” til højre på denne side senest onsdag den 11. maj 2022  
+ Vi forventer at afholde samtaler i uge 21 i henholdsvis Slagelse og Roskilde.  
+ 
+ 
+ Vi ønsker, at medarbejderstaben afspejler det omgivende samfund, og vi opfordrer derfor alle interesserede uanset køn, kulturel og etnisk baggrund til at søge stillingen.  
+ 
+ Om Absalon 
+ 
+ Professionshøjskolen Absalon er Region Sjællands største uddannelsesinstitution, hvor vi med vores 13 uddannelser uddanner samfundets professionelle til både erhvervslivet og den offentlige sektor. Vi er fordelt på i alt syv campus.  
+ 
+ Vores ambition er at bidrage til øget velfærd og vækst i Region Sjælland gennem fremragende uddannelser og rollen som regional udviklingspartner. Vores studerende og samarbejdspartnere er det ubestridte centrum for vores arbejde, lige som vi lægger vægt på at være en rigtig god, fællesskabsbaseret og udviklende arbejdsplads.  
+ 
+ Vi er 800 medarbejdere, vi har 9.000 studerende på vores grunduddannelser og vi efter- og videreuddanner 3.500 kursister hvert år.",Trekroner Forskerpark 4,58,Danmark,265,Roskilde,4,"Hovedstaden, Sjælland og Bornholm",4000,Roskilde,1,1,Fuldtid,None,None,3,,0,,0,0,0,,True,"{'Id': 7927464, 'Email': 'micd@pha.dk', 'FaxNumber': None, 'PersonName': 'Michelle Christensen Degnebolig', 'FirstName': 'Michelle Christensen', 'LastName': 'Degnebolig', 'PositionTitle': 'Lønkonsulent og elevansvarlig', 'PhoneNumbers': [{'Number': '7248 1245', 'Type': 2, 'Description': 'Mobil'}]}",2022-09-01T00:00:00,True,False,False,False,4,,,False,False,False,False,,,,,https://candidate.hr-manager.net/ApplicationForm/ApplicationRedirection.aspx,False,2022-05-11T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5582245&Organisation=30874323,"Trekroner Forskerpark 4,4000, Roskilde",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5582245&Company.Name=Professionshøjskolen Absalon, Campus Roskilde&SubmissionDeadlineDate=2022-5-11&Title=Kontorelever efterlyses&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,False,0,,,Kontorelever efterlyses,True,,True,1,,5582245,,,False,False,,0,False,"Professionshøjskolen Absalon, Campus Roskilde",Trekroner Forskerpark 4,,,4000,False,False,False,Roskilde,Michelle Christensen Degnebolig,7248 1245,micd@pha.dk,,,,,False,,2022-05-11T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Roskilde kommune,False,"Professionshøjskolen Absalon, Campus Roskilde",,None,,False,False,"Leder du efter en elevplads med speciale i offentlig administration? Så har du chancen for at sende din ansøgning til Absalon og blive én af vores tre heldige elever. Du må hellere læse videre. 
+
+ På Professionshøjskolen Absalon ser vi det som en af vores fornemmeste opgaver at understøtte vores uddannelser så de studerende får det bedste med, når ","""Leder du efter en elevplads med speciale i offentlig administration? Så har du chancen for at sende din ansøgning til Absalon og blive én af vores tre heldige elever. Du må hellere læse videre. \n\n På Professionshøjskolen Absalon ser vi det som en af vores fornemmeste opgaver at understøtte vores uddannelser så de studerende får det bedste med, når ""","""Kontorelever efterlyses""","https://www.google.dk/maps/dir//Trekroner+Forskerpark+4,4000,+Roskilde/","Leder du efter en elevplads med speciale i offentlig administration? Så har du chancen for at sende din ansøgning til Absalon og blive én af vores tre heldige elever. Du må hellere læse videre.  
+ 
+ På Professionshøjskolen Absalon ser vi det som en af vores fornemmeste opgaver at understøtte vores uddannelser så de studerende får det bedste med, når de skal ud og virke i deres professioner. Vi ønsker at bidrage til Region Sjællands vækst og velfærd gennem udbud af gode og relevante uddannelsesmuligheder.  
+ 
+ Som kontorelev på Absalon skal du være med til at understøtte fællesfunktionerne og vores syv faglige centre, der tilsammen indeholder 14 forskellige professionsbacheloruddannelser, efter- og videreuddannelse samt forskning.  
+ 
+ Vi søger tre kontorelever med speciale i offentlig administration med følgende retninger:  Allround  
+ HR og Kommunikation, Team Jura  
+ Uddannelsesservice  
+ 
+ 
+ Din profil 
+ 
+ Som elev på Absalon får du en hverdag, der er præget af mange varierende opgaver. Du får hurtigt mulighed for at få ansvar for egne opgaver samtidig med, at du har mange hjælpsomme kolleger bag dig. Derfor skal du kunne genkende dig selv i følgene udsagn:  
+ 
+ Har evne til at opbygge relationer. 
+ Du er imødekommende, tillidsvækkende og god til at gå i dialog. Du kan lide at arbejde målrettet i samspil med kolleger på tværs af organisationen i et til tider hektisk miljø.  
+ 
+ Du kan lide at arbejde sammen med andre, men også selvstændigt. 
+ Du værdsætter det gode samarbejde. Det falder dig helt naturligt at søge input fra andre, hvis du har brug for sparring. Samtidig skræmmer det dig ikke, hvis du får en opgave, som du selvstændigt skal løse. Du har målet for øje, og er færdig med opgaven til det aftalte tidspunkt.  
+ 
+ Du er løsningsorienteret. 
+ Du har en nysgerrig tilgang til, hvordan opgaverne løses. Du har blik for detaljerne, og når du tager arbejdshandskerne på og får ”noget fra hånden” er det altid med fokus på kvaliteten, og på at det er til gavn for de fleste på Absalon.  
+ 
+ Derudover forventer vi os, at du har bestået ét af nedenstående forløb:  
+ EUX business – hvis du har en EUX fra før 1. august 2019 skal du have kvalifikationer til kontoruddannelsen med specialer.  
+ STX, HF, HTX inkl. 5 ugers EUS forløb  
+ HHX  
+ HG (grundforløb fra handelsskolen) med kvalifikationer til kontoruddannelsen med specialer bestået før 1. august 2015.  
+ 
+ 
+ Er du fyldt 25 år bedes du fremsende din realkompetencevurdering (RKV) eller du skal kontakte en handelsskole med henblik på at få udarbejdet en RKV, som skal vedlægges din ansøgning. Hvis du har spørgsmål om adgangskrav og uddannelsesretning, kan du kontakte nærmeste handelsskole.  
+ 
+ Du skal desuden vedlægge relevante eksamensbeviser til din ansøgning og CV. Har du endnu ikke modtaget dit eksamensbevis, så vedlæg dine standpunktskarakterer. Har du modtaget merit for dele af adgangskravene, skal du også vedlægge disse.  
+ 
+ Du kan læse mere om uddannelsesforløbet her (https://www.uddannelsesnaevnet.dk/erhvervsuddannelser/kontoruddannelsen/offentlig-administration).  
+ 
+ Dine arbejdsopgaver 
+ 
+ Du får din egen uddannelsesplan, som er med til at sikre, at du får et afvekslende og lærerigt uddannelsesforløb. Det er vigtigt for os, at du opnår en god uddannelse med gode muligheder for personlig udvikling. Der er opgaver, du skal løse på egen hånd og opgaver, hvor du skal indgå i et team sammen med forskellige samarbejdspartnere og kolleger.  
+ 
+ Alt efter hvilket elevforløb du er interesseret i, vil dine opgave være:  
+ 
+ Allround elev – Campus Slagelse 
+ 
+ Som udgangspunkt skal du være 1 mdr. i Frontdesk, 11 mdr. i Team Løn og 12 mdr. i efter- og videreuddannelsen, Uddannelsesservice. På den måde får du set mange sider af Absalon og får hænderne i flere forskellige arbejdsopgaver, så som at:  Tage imod og guide gæster, studerende og ansatte  
+ Håndtere mail og passe telefon  
+ Udarbejde forskellige kontrakter  
+ Udarbejde lønbilag og taste dem i vores lønsystemer  
+ Udvikle digitale bilag  
+ Arbejde med tidsregistreringssystem, samt kørsels- og blanketsystem  
+ Behandle ansøgninger og sagsbehandle i vores studieadministrative system (esas),  
+ Oprette prøver i WISEflow  
+ Fakturere  
+ Bestille forplejning, booke lokaler mv.  
+ 
+ 
+ Elev i HR og Kommunikation, Team Jura – Campus Slagelse 
+ 
+ I Team Jura skal du være med til at løse mange af de opgaver der er i forbindelse med et ansættelsesforhold. Du skal bl.a. være med til at:  Udarbejde stillingsopslag  
+ Dykke ned i overenskomster  
+ Beregne løn og skrive ansættelseskontrakter  
+ Registrere medarbejdere i vores personaledatabase  
+ rkivere bilag på personalesager  
+ Trække oversigter og analyser  
+ 
+ 
+ Elev i Uddannelsesservice - Campus Roskilde 
+ 
+ Du bliver en del af Uddannelsesservice i Roskilde, som varetager mange forskellig opgaver omkring vores studerende. Du skal bl.a. være med til at:  Registrere studenterbevægelser i vores studieadministrative system (esas)  
+ Oprette prøver i WISEflow  
+ Oprette flows til modulgodkendelser  
+ Behandle ønsker til praktik og valgfag  
+ Bestille lokaler og forplejning  
+ Besvare mails og telefoniske henvendelser fra studerende  
+ 
+ 
+ Dine kolleger 
+ 
+ Du vil opleve forskellige rutiner og forskellige kulturer i afdelingerne, men fælles for alle vores afdelinger er, at vi har en god og uformel omgangstone. Du vil møde kolleger, som alle gør en dyd ud af at gøre vores elever fagligt dygtige og klædt på til fremtidige jobs efter endt uddannelse.  
+ 
+ Vi glæder os til at byde flere elever velkomne i vores forskellige afdelinger i fællesfunktionerne hos Absalon.  
+ 
+ Sådan ansøger du 
+ 
+ Ansættelse sker efter gældende organisationsaftale for Kontorfunktionærer, laboranter og It-medarbejdere (HK) (modst. nr. 033-19).  
+ Stillingen er på fuld tid, og tidsbegrænset i perioden 1. september 2022 til og med 31. august 2024.  
+ Hvis du har nogle spørgsmål til stillingerne, kan du kontakte lønkonsulent og elevansvarlig Michelle Christensen Degnebolig tlf. 7248 1245 eller mail micd@pha.dk  
+ Ansøgning og relevante bilag sendes via vores rekrutteringssystem her (https://phabsalon.dk/om-absalon/job-i-absalon) eller ved at klikke på ”Søg stillingen” til højre på denne side senest onsdag den 11. maj 2022  
+ Vi forventer at afholde samtaler i uge 21 i henholdsvis Slagelse og Roskilde.  
+ 
+ 
+ Vi ønsker, at medarbejderstaben afspejler det omgivende samfund, og vi opfordrer derfor alle interesserede uanset køn, kulturel og etnisk baggrund til at søge stillingen.  
+ 
+ Om Absalon 
+ 
+ Professionshøjskolen Absalon er Region Sjællands største uddannelsesinstitution, hvor vi med vores 13 uddannelser uddanner samfundets professionelle til både erhvervslivet og den offentlige sektor. Vi er fordelt på i alt syv campus.  
+ 
+ Vores ambition er at bidrage til øget velfærd og vækst i Region Sjælland gennem fremragende uddannelser og rollen som regional udviklingspartner. Vores studerende og samarbejdspartnere er det ubestridte centrum for vores arbejde, lige som vi lægger vægt på at være en rigtig god, fællesskabsbaseret og udviklende arbejdsplads.  
+ 
+ Vi er 800 medarbejdere, vi har 9.000 studerende på vores grunduddannelser og vi efter- og videreuddanner 3.500 kursister hvert år.","https://www.google.dk/maps/place/Trekroner+Forskerpark+4,4000,+Roskilde/",30874323,False,False,,False

@@ -1,0 +1,184 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Chief Commercial Officer (CCO) - Neotherm A/S,Chief Commercial Officer (CCO) - Neotherm A/S,"
+
+Chief Commercial Officer (CCO) - Neotherm A/S
+
+Er du klar til at tage medansvar for den fortsatte udvikling af Neotherm og spille en central og aktiv rolle i virkso",UnikRecruitment,Centervej 18  ,3600,Frederikssund,True,False,False,False,2025-01-29T09:02:51,2025-03-26T09:02:51,26. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/3e5eab17-f56a-407c-8105-b4cc937d5cbb,Hovedstaden og Bornholm,Frederikssund,Danmark,3600,,Almindelige vilkår,Fastansættelse,Fuldtid,Ledelse,"Salg, indkøb og markedsføring",Salgsdirektør,55.8548,12.0792,,,1021439092,,37703613,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/3e5eab17-f56a-407c-8105-b4cc937d5cbb,https://job.jobnet.dk/CV/FindWork/Details/3e5eab17-f56a-407c-8105-b4cc937d5cbb,https://job.jobnet.dk/CV/FindWork/Details/3e5eab17-f56a-407c-8105-b4cc937d5cbb,True,3e5eab17-f56a-407c-8105-b4cc937d5cbb,55.8548,12.0792,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",UnikRecruitment,Centervej 18,58,Danmark,250,Frederikssund,4,"Hovedstaden, Sjælland og Bornholm",3600,Frederikssund,,0,Primary,,,http://unikrecruitment.dk/ledige-stillinger/?hr=show-job/20142&linkref=1466&locale=da_DK,None,,1021439092,37703613,None,3e5eab17-f56a-407c-8105-b4cc937d5cbb,UnikRecruitment,Centervej 18,58,Danmark,250,Frederikssund,4,"Hovedstaden, Sjælland og Bornholm",3600,Frederikssund,,0,Primary,,,http://unikrecruitment.dk/ledige-stillinger/?hr=show-job/20142&linkref=1466&locale=da_DK,None,,1021439092,37703613,None,,2025-01-29T09:02:51+01:00,2025-03-26T09:02:51+01:00,Chief Commercial Officer (CCO) - Neotherm A/S,"Chief Commercial Officer (CCO) - Neotherm A/S 
+ Er du klar til at tage medansvar for den fortsatte udvikling af Neotherm og spille en central og aktiv rolle i virksomhedens udvikling og opnåelse af strategiske mål for årene 2025 til 2027? 
+ Er du en vedholdende, robust og resultatorienteret leder med entreprenørånd?  
+ Ønsker du at gå forrest og skabe en positiv forandring i virksomhedskulturen?  
+ Så er du måske den nye CCO, vi søger i Neotherm. 
+ ________________________________________________________________________________________ 
+ Om Neotherm 
+ Neotherm A/S er en dynamisk og ambitiøs virksomhed, grundlagt i 1978, med hovedsæde i Frederikssund. Vi bygger vores succes på en filosofi om, at alt vi foretager os, skal have mening – både som betroet leverandør til den danske byggebranche og som en attraktiv arbejdsplads for vores medarbejdere. 
+ Vores vision er at blive byggebranchens førende og mest innovative leverandør af varme- og installationstekniske løsninger, hvor vi kombinerer unikke kompetencer med passion.  
+ Målet er at levere energieffektive indeklimaløsninger, som vores kunder kan stole på, baseret på solid viden og høj kvalitet. 
+ Neotherm A/S er en seriøs leverandør men også en god sparringspartner for vores kunder, primært indenfor VVS.  
+ Vi beskæftiger os primært med 5 forretningsområder: 
+ 
+ Gulvvarme. 
+ Industriel opvarmning. 
+ Køle-/varmecentraler. 
+ Grøn omstilling. 
+ Installationsteknik. 
+ 
+ Hos Neotherm sætter vi en ære i at kunne hjælpe vores kunder igennem alle faser af et projekt, fra tegnebrættet til udførelse – vi kalder det ”Flow of Energy”. 
+ Jobbet 
+ Neotherm søger en erfaren, dynamisk og ambitiøs CCO med overblik og dokumenteret erfaring i at flytte en virksomhed til næste niveau. 
+ Du bliver en del af ledelsen i Neotherm og sparringspartner for virksomhedens CEO og CFO ifm. udviklingen af Neotherms kommercielle strategi med udgangspunkt i en ”hands-on” tilgang til salg og digital marketing. Du kommer til at spille en aktiv rolle i den videre udvikling og eksekveringen af strategien for Neotherm. En vigtig del af jobbet er også at udvikle et team af sælgere og interne medarbejdere på hovedkontoret. 
+ Der er derfor tale om en strategisk vigtig position i Neotherm og ledelsen af virksomheden, hvor du med reference til virksomhedens CEO får en central rolle på vækstrejsen.  
+ Primære ansvarsområder: 
+ 
+ Kommerciel strategi 
+ 
+ 
+ Udvikle og implementere den overordnede kommercielle strategi. 
+ Identificere markedsmuligheder og udvikle go-to-market strategier for at øge markedsandelen. 
+ Tilpasse kommercielle mål til virksomhedens overordnede forretningsmål, herunder:
+	 
+ Vækst i onlineforretningen og projektsalg. 
+ Udvikle og implementere marketingkampagner på tværs af salgskanaler. 
+ Branding af Neotherm. 
+ 
+ 
+ Videreudvikle salgsprocesser og den digitale kunderejse med henblik på øgning af konverteringsrater ved anvendelse af seneste teknologier. 
+ Fastsætte salgsstrategier, mål og KPI'er. 
+ 
+ 
+ Salgsledelse 
+ 
+ 
+ Coache og lede salgsteams (både eksternt og internt).  
+ Sikre effektiv strukturering af salgsorganisationen. 
+ Bygge og vedligeholde relationer med strategisk vigtige kunder og partnere. 
+ 
+ 
+ Kundeoplevelse og relationer 
+ 
+ 
+ Sikre høj kundetilfredshed ved at udvikle og implementere programmer, der forbedrer kundeoplevelsen. 
+ Udvikle markedstilpassede prisstrategier. 
+ Videreudvikle relationer til at omfatte en bæredygtig tilgang til markedet. 
+ 
+ Hvad forventer vi af dig? 
+ 
+ Du evner at være en proaktiv og medspiller i Neotherms ledergruppe, der består af 3 personer. 
+ Du er ambitiøs og drevet af at skabe resultater og udvikling. 
+ Du er dygtig til at skabe fremdrift og eksekvere beslutninger. 
+ Du har en naturlig interesse for de menneskelige aspekter ifm. udviklingen af Neotherm. 
+ Du er handlingsorienteret og tydelig, og du evner at skabe transparens samt overblik i dit arbejde. 
+ Du er systematisk, vedholdende, robust, og du besidder et højt drive. 
+ 
+ Din profil 
+ 
+ Du er en pragmatisk og menneskefokuseret leder med dyb forståelse for både kundernes behov og teamdynamikker. 
+ Erfaring med ledelse inden for salg og marketing (teknisk salg, B2B). 
+ Dokumenteret succes med salg og opbygning af kommercielle salgsstrategier. 
+ Proaktiv og løsningsorienteret tilgang – du ser muligheder frem for begrænsninger. 
+ Skarpe analytiske evner og en struktureret arbejdsmetode. 
+ 
+ Vi tilbyder 
+ 
+ En dynamisk arbejdsplads hvor ingen sætter sig over virksomheden, og hvor alle arbejder sammen om fælles mål. 
+ En kultur baseret på tillid og empowerment, hvor medarbejdere opfordres til at tænke kreativt og nytænkende. 
+ Stor indflydelse på Neotherms fremtidige udvikling. 
+ Mulighed for at lede et team bestående af udekørende såvel som interne medarbejdere der i fællesskab har til opgave at udvikle salget. 
+ Attraktiv performanceafhængig lønpakke. 
+ 
+ Ansøgning 
+ Er du klar til at tage medansvar for den fortsatte udvikling af Neotherm og spille en central rolle i en spændende og dynamisk virksomhed? Så ser vi frem til at høre fra dig.  
+ UnikRecruitment bistår Neotherm A/S ved denne rekrutteringsopgave. Virksomheden vil ikke blive bekendt med den enkelte kandidats identitet uden forudgående aftale. For yderligere informationer om stillingen er du velkommen til at kontakte Michael Kjærgaard, partner i UnikRecruitment, på 2222 4000 eller mk@unikrecruitment.dk. 
+ Ansøgningsfrist er hurtigst muligt.",Centervej 18,58,Danmark,250,Frederikssund,4,"Hovedstaden, Sjælland og Bornholm",3600,Frederikssund,1,1,Fuldtid,None,None,1,,Salgsdirektør,0,,0,0,False,"{'Email': 'mk@unikrecruitment.dk', 'PersonName': 'Michael Kjærgaard', 'FirstName': 'Michael', 'LastName': 'Kjærgaard', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 22224000', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,http://unikrecruitment.dk/ledige-stillinger/?hr=show-job/20142&linkref=1466&locale=da_DK,False,2025-03-26T09:02:51+01:00,7,/CV/FindWork/GetLogo?JobAdId=3e5eab17-f56a-407c-8105-b4cc937d5cbb&Organisation=37703613,"Centervej 18,3600, Frederikssund",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=3e5eab17-f56a-407c-8105-b4cc937d5cbb&Company.Name=UnikRecruitment&SubmissionDeadlineDate=2025-3-26&Title=Chief Commercial Officer (CCO) - Neotherm A/S&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Chief Commercial Officer (CCO) - Neotherm A/S,True,,True,1,,3e5eab17-f56a-407c-8105-b4cc937d5cbb,,,False,False,,0,False,UnikRecruitment,Centervej 18,,,3600,False,False,False,Frederikssund,Michael Kjærgaard,+45 22224000,mk@unikrecruitment.dk,,,,,False,,2025-03-26T09:02:51+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Frederikssund kommune,False,UnikRecruitment,,None,,False,False,"
+
+Chief Commercial Officer (CCO) - Neotherm A/S
+
+Er du klar til at tage medansvar for den fortsatte udvikling af Neotherm og spille en central og aktiv rolle i virksomhedens udvikling og opnåelse af strategiske mål for årene 2025 til 2027?
+
+Er du en vedholdende, robust og resultatorienteret leder med entreprenørånd? 
+
+Ønsker du at gå forrest og ska","""\n\nChief Commercial Officer (CCO) - Neotherm A/S\n\nEr du klar til at tage medansvar for den fortsatte udvikling af Neotherm og spille en central og aktiv rolle i virksomhedens udvikling og opnåelse af strategiske mål for årene 2025 til 2027?\n\nEr du en vedholdende, robust og resultatorienteret leder med entreprenørånd? \n\nØnsker du at gå forrest og ska""","""Chief Commercial Officer (CCO) - Neotherm A/S""","https://www.google.dk/maps/dir//Centervej+18,3600,+Frederikssund/","Chief Commercial Officer (CCO) - Neotherm A/S 
+ Er du klar til at tage medansvar for den fortsatte udvikling af Neotherm og spille en central og aktiv rolle i virksomhedens udvikling og opnåelse af strategiske mål for årene 2025 til 2027? 
+ Er du en vedholdende, robust og resultatorienteret leder med entreprenørånd?  
+ Ønsker du at gå forrest og skabe en positiv forandring i virksomhedskulturen?  
+ Så er du måske den nye CCO, vi søger i Neotherm. 
+ ________________________________________________________________________________________ 
+ Om Neotherm 
+ Neotherm A/S er en dynamisk og ambitiøs virksomhed, grundlagt i 1978, med hovedsæde i Frederikssund. Vi bygger vores succes på en filosofi om, at alt vi foretager os, skal have mening – både som betroet leverandør til den danske byggebranche og som en attraktiv arbejdsplads for vores medarbejdere. 
+ Vores vision er at blive byggebranchens førende og mest innovative leverandør af varme- og installationstekniske løsninger, hvor vi kombinerer unikke kompetencer med passion.  
+ Målet er at levere energieffektive indeklimaløsninger, som vores kunder kan stole på, baseret på solid viden og høj kvalitet. 
+ Neotherm A/S er en seriøs leverandør men også en god sparringspartner for vores kunder, primært indenfor VVS.  
+ Vi beskæftiger os primært med 5 forretningsområder: 
+ 
+ Gulvvarme. 
+ Industriel opvarmning. 
+ Køle-/varmecentraler. 
+ Grøn omstilling. 
+ Installationsteknik. 
+ 
+ Hos Neotherm sætter vi en ære i at kunne hjælpe vores kunder igennem alle faser af et projekt, fra tegnebrættet til udførelse – vi kalder det ”Flow of Energy”. 
+ Jobbet 
+ Neotherm søger en erfaren, dynamisk og ambitiøs CCO med overblik og dokumenteret erfaring i at flytte en virksomhed til næste niveau. 
+ Du bliver en del af ledelsen i Neotherm og sparringspartner for virksomhedens CEO og CFO ifm. udviklingen af Neotherms kommercielle strategi med udgangspunkt i en ”hands-on” tilgang til salg og digital marketing. Du kommer til at spille en aktiv rolle i den videre udvikling og eksekveringen af strategien for Neotherm. En vigtig del af jobbet er også at udvikle et team af sælgere og interne medarbejdere på hovedkontoret. 
+ Der er derfor tale om en strategisk vigtig position i Neotherm og ledelsen af virksomheden, hvor du med reference til virksomhedens CEO får en central rolle på vækstrejsen.  
+ Primære ansvarsområder: 
+ 
+ Kommerciel strategi 
+ 
+ 
+ Udvikle og implementere den overordnede kommercielle strategi. 
+ Identificere markedsmuligheder og udvikle go-to-market strategier for at øge markedsandelen. 
+ Tilpasse kommercielle mål til virksomhedens overordnede forretningsmål, herunder:
+	 
+ Vækst i onlineforretningen og projektsalg. 
+ Udvikle og implementere marketingkampagner på tværs af salgskanaler. 
+ Branding af Neotherm. 
+ 
+ 
+ Videreudvikle salgsprocesser og den digitale kunderejse med henblik på øgning af konverteringsrater ved anvendelse af seneste teknologier. 
+ Fastsætte salgsstrategier, mål og KPI'er. 
+ 
+ 
+ Salgsledelse 
+ 
+ 
+ Coache og lede salgsteams (både eksternt og internt).  
+ Sikre effektiv strukturering af salgsorganisationen. 
+ Bygge og vedligeholde relationer med strategisk vigtige kunder og partnere. 
+ 
+ 
+ Kundeoplevelse og relationer 
+ 
+ 
+ Sikre høj kundetilfredshed ved at udvikle og implementere programmer, der forbedrer kundeoplevelsen. 
+ Udvikle markedstilpassede prisstrategier. 
+ Videreudvikle relationer til at omfatte en bæredygtig tilgang til markedet. 
+ 
+ Hvad forventer vi af dig? 
+ 
+ Du evner at være en proaktiv og medspiller i Neotherms ledergruppe, der består af 3 personer. 
+ Du er ambitiøs og drevet af at skabe resultater og udvikling. 
+ Du er dygtig til at skabe fremdrift og eksekvere beslutninger. 
+ Du har en naturlig interesse for de menneskelige aspekter ifm. udviklingen af Neotherm. 
+ Du er handlingsorienteret og tydelig, og du evner at skabe transparens samt overblik i dit arbejde. 
+ Du er systematisk, vedholdende, robust, og du besidder et højt drive. 
+ 
+ Din profil 
+ 
+ Du er en pragmatisk og menneskefokuseret leder med dyb forståelse for både kundernes behov og teamdynamikker. 
+ Erfaring med ledelse inden for salg og marketing (teknisk salg, B2B). 
+ Dokumenteret succes med salg og opbygning af kommercielle salgsstrategier. 
+ Proaktiv og løsningsorienteret tilgang – du ser muligheder frem for begrænsninger. 
+ Skarpe analytiske evner og en struktureret arbejdsmetode. 
+ 
+ Vi tilbyder 
+ 
+ En dynamisk arbejdsplads hvor ingen sætter sig over virksomheden, og hvor alle arbejder sammen om fælles mål. 
+ En kultur baseret på tillid og empowerment, hvor medarbejdere opfordres til at tænke kreativt og nytænkende. 
+ Stor indflydelse på Neotherms fremtidige udvikling. 
+ Mulighed for at lede et team bestående af udekørende såvel som interne medarbejdere der i fællesskab har til opgave at udvikle salget. 
+ Attraktiv performanceafhængig lønpakke. 
+ 
+ Ansøgning 
+ Er du klar til at tage medansvar for den fortsatte udvikling af Neotherm og spille en central rolle i en spændende og dynamisk virksomhed? Så ser vi frem til at høre fra dig.  
+ UnikRecruitment bistår Neotherm A/S ved denne rekrutteringsopgave. Virksomheden vil ikke blive bekendt med den enkelte kandidats identitet uden forudgående aftale. For yderligere informationer om stillingen er du velkommen til at kontakte Michael Kjærgaard, partner i UnikRecruitment, på 2222 4000 eller mk@unikrecruitment.dk. 
+ Ansøgningsfrist er hurtigst muligt.","https://www.google.dk/maps/place/Centervej+18,3600,+Frederikssund/",37703613,False,False,,False

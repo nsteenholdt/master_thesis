@@ -1,0 +1,264 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"Social- og sundhedsassistent, social- og sundhedshjælper og sygeplejersker til Trænings- og Rehabiliteringscenter i Høng","Social- og sundhedsassistent, social- og sundhedshjælper og sygeplejersker til Trænings- og Rehabiliteringscenter i Høng","
+	
+		
+			 
+		
+	
+
+
+
+
+Er du social- og sundhedsassistent, social- og sundhedshjælper eller sygeplejerske og vil du være med til, at hjælpe borgere i komplekse forløb, til at komme godt videre?",Kalundborg Kommune,Odinsvej 20  ,4270,Høng,False,False,False,True,2025-01-17T09:27:47,2025-03-14T09:27:47,14. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/26a074c3-182c-4bd9-bb6a-aadd23598228,Øvrige Sjælland,Kalundborg,Danmark,4270,,Almindelige vilkår,Fastansættelse,Fuldtid,"Sundhed, omsorg og personlig pleje",Sygepleje og jordemoderarbejde,Sygeplejerske,55.5031,11.3055,,,1010114167,,29189595,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/26a074c3-182c-4bd9-bb6a-aadd23598228,https://job.jobnet.dk/CV/FindWork/Details/26a074c3-182c-4bd9-bb6a-aadd23598228,https://job.jobnet.dk/CV/FindWork/Details/26a074c3-182c-4bd9-bb6a-aadd23598228,True,26a074c3-182c-4bd9-bb6a-aadd23598228,55.5031,11.3055,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Kalundborg Kommune,Odinsvej 20,58,Danmark,326,Kalundborg,4,"Hovedstaden, Sjælland og Bornholm",4270,Høng,,0,Primary,,,https://kalundborgkommune.hr-on.com/show-job/235187?linkref=262645&locale=0,None,,1010114167,29189595,None,26a074c3-182c-4bd9-bb6a-aadd23598228,Kalundborg Kommune,Odinsvej 20,58,Danmark,326,Kalundborg,4,"Hovedstaden, Sjælland og Bornholm",4270,Høng,,0,Primary,,,https://kalundborgkommune.hr-on.com/show-job/235187?linkref=262645&locale=0,None,,1010114167,29189595,None,,2025-01-17T09:27:47+01:00,2025-03-14T09:27:47+01:00,"Social- og sundhedsassistent, social- og sundhedshjælper og sygeplejersker til Trænings- og Rehabiliteringscenter i Høng","Er du social- og sundhedsassistent, social- og sundhedshjælper eller sygeplejerske og vil du være med til, at hjælpe borgere i komplekse forløb, til at komme godt videre? Er du tilhænger af den rehabiliterende tankegang? Og har du lyst til at arbejde i et tværfagligt miljø hvor vi arbejder i små teams, med engagerede kolleger, hvor vi har fokus på arbejdsmiljø, kompetenceudvikling og kontaktpersonsordning? Så skal du starte som vores nye kollega på Trænings- og Rehabiliteringscenter i Høng.  
+ Vi søger aftenvagt, dagvagt og aften/dagvagt.  
+ Om Træning- og Rehabiliteringscenter Høng.  
+ Vi har 39 midlertidige pladser, fordelt i 3 teams, hvor du vil blive tilknyttet et team. Selv om man er tilknyttet et team hjælper vi hinanden på tværs af teams. Hvert team har ca. 12-14 pladser.   
+ De primære opgaver i stillingen vil være rehabilitering og pleje af borgerne, hvor du i tæt samarbejde med kollegaer, skal hjælpe mennesker der har oplevet et funktionstab, til at blive mest mulige selvhjulpne.   
+ Vi arbejder altid ud fra den rehabiliterende tilgang og har hele paletten af opgaver hos alle slags borgere, lige fra den ældre, den medicinske, den kirurgiske, den demente, den psykiatriske borger samt e-hospitals patienter. Der vil derfor være en del akutpleje.  
+ Ved sygeplejeopgaver, som f.eks. sårpleje, sondeernæring, blodsukker og insulingivning, kompression og medicindosering skal social- og sundhedsassistent og sygeplejersken indgå i et tæt samarbejde. Du kommer til at bidrage til et stærkt læringsmiljø i gruppen af kolleger og til løsning af opgaver til borgere med komplekse problemstillinger.   
+ Rehabilitering og akutpleje er udviklende og udfordrende!  
+ Vi arbejder bl.a. med forebyggelse af indlæggelse, akutpleje, intensiv rehabilitering, med fokus på borgerens ressourcer. Vi har triage 2 gange i hvert vagtlag, hvor vi drøfter, vurderer og lægger planer for de borgere, der er triagerede.   
+ Selvstændigt arbejde, skarpt klinisk blik, høj faglighed, tværfaglighed, et godt arbejdsmiljø og vidensdeling.   
+ Dette er nogle af de nøgleord, vi ønsker, at du brænder for som social- og sundhedsassistent, social- og sundhedshjælper og som sygeplejerske. Hvis du gør det, vil du være på en fantastisk arbejdsplads hos Trænings- og Rehabiliteringscenter Høng.  
+ Vi er i proces.  
+ På Trænings- og Rehabiliteringscenter Høng, er vi under en udviklingsproces, som skal ruste os til fremtidens opgaver.  
+ Vi har fokus på arbejdsgange, kompetencefordeling, tværfagligt samarbejde, overgange mellem sektor, kultur, patientsikkerhed mv. Alt sammen med det formål, at borgere på midlertidigt ophold samt specialiseret ophold, oplever tryghed, flow samt sammenhængende og meningsfulde forløb af høj kvalitet.  
+ Vores borgerforløb er ofte komplekse og ustabile, da de borgere vi får indlagt, har behov for pleje, der er svær at imødekomme i eget hjem. Vi samarbejder tæt tværfagligt i hverdagen for at tilgodese de mange behov, hver enkelt borger har, og vi sætter krav til hinanden omkring høj standard for opgaveløsning. Vi tilbyder også aflastning til borgere med nedsat fysisk eller psykisk funktionsevne, hvor ægtefælle eller anden nære pårørende har behov for aflastning. Vi arbejder således målrettet med behandling, fysisk træning, kost, sygeplejefaglig og psykosocial indsats.  
+ Din nye arbejdsplads og kommende kolleger  
+ Dine kommende kollegaer vil bestå af både social- og sundhedsassistenter, social- og sundhedshjælpere, sygeplejersker, visitator, husassistenter, fysioterapeuter, ergoterapeuter og pædagoger.  
+ Desuden er vi uddannelsessted for social- og sundhedsassistentelever, og vi har generelt fokus på kompetenceudvikling.  
+ Vi løfter i flok, og det er vi stolte af. Vi har det godt sammen, vi interesserer os for hinanden, og vi kan også tale om andet end arbejde.  
+ Hvorfor skal du vælge os?  
+ Fordi vi tilbyder dig:  
+ 
+ 
+ Introduktionsforløb hvor du er koblet op med et par faste kollegaer.  
+ 
+ 
+ 
+ 
+ Synlig og nærværende ledelse  
+ 
+ 
+ 
+ 
+ God balance i dit arbejdsliv og privatliv.  
+ 
+ 
+ 
+ 
+ Mulighed for at præge udviklingen af vores arbejdssted   
+ 
+ 
+ 
+ 
+ Et godt læringsmiljø og plads til nytænkning  
+ 
+ 
+ 
+ 
+ En dynamisk arbejdsplads i rivende udvikling, hvor vi på en travl hverdag insisterer refleksion, sparring og udvikling  
+ 
+ 
+ 
+ 
+ En arbejdsplads med stor arbejdsglæde og godt arbejdsmiljø   
+ 
+ 
+ 
+ 
+ Skønne kollegaer, der står klar til at tage imod dig   
+ 
+ 
+ Om du er erfaren eller nyuddannet er ikke afgørende. Det vigtigste er, at du har gåpåmod og synes, at de komplekse borgerforløb er spændende. Vores opgaver spænder bredt, og vi forventer ikke, at du kan det hele fra start. Vi skal nok sørge for, at du får en god introduktion og den oplæring du har brug for, i det team du bliver tilknyttet.  
+ 
+ Sådan lykkes du i funktionen  
+ 
+ 
+ Du arbejder struktureret og har blik for tværfaglighed  
+ 
+ 
+ 
+ 
+ Du er aktivt deltagende i afdelingens faglige udvikling  
+ 
+ 
+ 
+ 
+ Du formår at skabe overblik over dagens opgaver  
+ 
+ 
+ 
+ 
+ Du formår at inddrage og samarbejde med pårørende, både som ressource til borgeren, men har også øje for, at de kan være i krise  
+ 
+ 
+ 
+ 
+ Du trives i en omskiftelig og travl hverdag, hvor vi løfter i flok og hjælper hinanden  
+ 
+ 
+ 
+ 
+ Du har stærke samarbejdsevner og gerne erfaring med komplekse borgerforløb  
+ 
+ 
+ 
+ 
+ Du kan lide udfordringen i uforudsete og akutte opgaver  
+ 
+ 
+ 
+ 
+ Du har fokus på rehabilitering og borgeres ressourcer  
+ 
+ 
+   
+ Løn og ansættelsesvilkår  
+ Løn og ansættelsesforhold sker i henhold til gældende overenskomst og ud fra reglerne om lokal løndannelse.  
+ Vi gør opmærksom på, at der skal indhentes straffeattest, inden ansættelsen kan finde sted.  
+ Vil du vide mere  
+ Hvis du har lyst til at høre mere om stillingen, er du meget velkommen til at kontakte afdelingsleder Katja Valentin på tlf. 21 65 67 95   
+ Du er også hjertelig velkommen til at kigge forbi og møde os. Vi byder gerne på en rundvisning og en uformel snak. Ring til os, så laver vi en aftale.  
+ Ansøgningsfristen:   
+ Vi har brug for nye kolleger og opfordrer alle med interesse til at søge hurtigst muligt. Da det er flere stillinger vi ønsker at besætte, afholder vi løbende ansættelsessamtaler og aftaler ansættelsestidspunkt.   
+ Om os 
+ I Kalundborg Kommune er vi optaget af, at vores borgere, virksomheder, foreninger og institutioner får den bedst tænkelige service. Det kan vi kun levere hvis vi har dygtige og motiverede medarbejdere. Derfor er vi dedikeret til at støtte medarbejdernes personlige og faglige udvikling, og sikre en dynamisk og fleksibel arbejdsplads. 
+ Hos os er medarbejderne med til at gøre en forskel hver dag, sammen med ca. 3500 kollegaer.  Kalundborg Kommune er placeret i noget af Danmarks smukkeste natur – og er samtidig hjemsted for en række af de industrier der bidrager mest til den danske økonomi – med vægt på biotech- og energiproduktion. 
+Der bor cirka 49.000 mennesker i Kalundborg Kommune, som også er hjemsted for flere og flere uddannelser, der er med til at understøtte udviklingen i kommunen. 
+ Du kan læse mere om Kalundborg Kommune som arbejdsplads  Vores medarbejdere (kalundborg.dk , finde generelle oplysninger om Kalundborg Kommune  Go to Kalundborg  eller lytte til vores podcast-serie Karriere på Kalundborgsk  Podcast (kalundborg.dk) 
+  Vi opfordrer alle uanset baggrund, køn, religion mv. til at søge. 
+ ---------- 
+ I Kalundborg Kommune har vi en generel politik om indhentning af straffeattest. 
+ Ansatte som i deres ansættelse har adgang til personfølsomme oplysninger, skal have privat MitID, fordi de skal identificere sig med deres private MitID Dette for at efterleve den skærpede lovgivning og derved sikre borgernes tillid til, at alle myndigheder, herunder Kalundborg kommune, behandler personfølsomme oplysninger sikkert.",Odinsvej 20,58,Danmark,326,Kalundborg,4,"Hovedstaden, Sjælland og Bornholm",4270,Høng,1,1,Fuldtid,None,None,1,,Sygeplejerske,0,"Lægeassistent, Tekniker inden for respirationsterapi, 6391, 6392, Stråleterapeut, Operationssygeplejerske",0,0,False,"{'Email': 'ktle@kalundborg.dk', 'PersonName': 'Katja Valentin', 'FirstName': 'Katja', 'LastName': 'Valentin', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 21 65 67 95', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://kalundborgkommune.hr-on.com/show-job/235187?linkref=262645&locale=0,False,2025-03-14T09:27:47+01:00,7,/CV/FindWork/GetLogo?JobAdId=26a074c3-182c-4bd9-bb6a-aadd23598228&Organisation=29189595,"Odinsvej 20,4270, Høng",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=26a074c3-182c-4bd9-bb6a-aadd23598228&Company.Name=Kalundborg Kommune&SubmissionDeadlineDate=2025-3-14&Title=Social- og sundhedsassistent, social- og sundhedshjælper og sygeplejersker til Trænings- og Rehabiliteringscenter i Høng&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,True,0,,,"Social- og sundhedsassistent, social- og sundhedshjælper og sygeplejersker til Trænings- og Rehabiliteringscenter i Høng",True,,True,1,,26a074c3-182c-4bd9-bb6a-aadd23598228,,,False,False,,0,False,Kalundborg Kommune,Odinsvej 20,,,4270,False,False,False,Høng,Katja Valentin,+45 21 65 67 95,ktle@kalundborg.dk,,,,,False,,2025-03-14T09:27:47+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Kalundborg kommune,False,Kalundborg Kommune,,None,,False,False,"
+	
+		
+			 
+		
+	
+
+
+
+
+Er du social- og sundhedsassistent, social- og sundhedshjælper eller sygeplejerske og vil du være med til, at hjælpe borgere i komplekse forløb, til at komme godt videre? Er du tilhænger af den rehabiliterende tankegang? Og har du lyst til at arbejde i et tværfagligt miljø hvor vi arbejder i små teams, med engagerede kolleger, h","""\n\t\n\t\t\n\t\t\t \n\t\t\n\t\n\n\n\n\nEr du social- og sundhedsassistent, social- og sundhedshjælper eller sygeplejerske og vil du være med til, at hjælpe borgere i komplekse forløb, til at komme godt videre? Er du tilhænger af den rehabiliterende tankegang? Og har du lyst til at arbejde i et tværfagligt miljø hvor vi arbejder i små teams, med engagerede kolleger, h""","""Social- og sundhedsassistent, social- og sundhedshjælper og sygeplejersker til Trænings- og Rehabiliteringscenter i Høng""","https://www.google.dk/maps/dir//Odinsvej+20,4270,+Høng/","Er du social- og sundhedsassistent, social- og sundhedshjælper eller sygeplejerske og vil du være med til, at hjælpe borgere i komplekse forløb, til at komme godt videre? Er du tilhænger af den rehabiliterende tankegang? Og har du lyst til at arbejde i et tværfagligt miljø hvor vi arbejder i små teams, med engagerede kolleger, hvor vi har fokus på arbejdsmiljø, kompetenceudvikling og kontaktpersonsordning? Så skal du starte som vores nye kollega på Trænings- og Rehabiliteringscenter i Høng.  
+ Vi søger aftenvagt, dagvagt og aften/dagvagt.  
+ Om Træning- og Rehabiliteringscenter Høng.  
+ Vi har 39 midlertidige pladser, fordelt i 3 teams, hvor du vil blive tilknyttet et team. Selv om man er tilknyttet et team hjælper vi hinanden på tværs af teams. Hvert team har ca. 12-14 pladser.   
+ De primære opgaver i stillingen vil være rehabilitering og pleje af borgerne, hvor du i tæt samarbejde med kollegaer, skal hjælpe mennesker der har oplevet et funktionstab, til at blive mest mulige selvhjulpne.   
+ Vi arbejder altid ud fra den rehabiliterende tilgang og har hele paletten af opgaver hos alle slags borgere, lige fra den ældre, den medicinske, den kirurgiske, den demente, den psykiatriske borger samt e-hospitals patienter. Der vil derfor være en del akutpleje.  
+ Ved sygeplejeopgaver, som f.eks. sårpleje, sondeernæring, blodsukker og insulingivning, kompression og medicindosering skal social- og sundhedsassistent og sygeplejersken indgå i et tæt samarbejde. Du kommer til at bidrage til et stærkt læringsmiljø i gruppen af kolleger og til løsning af opgaver til borgere med komplekse problemstillinger.   
+ Rehabilitering og akutpleje er udviklende og udfordrende!  
+ Vi arbejder bl.a. med forebyggelse af indlæggelse, akutpleje, intensiv rehabilitering, med fokus på borgerens ressourcer. Vi har triage 2 gange i hvert vagtlag, hvor vi drøfter, vurderer og lægger planer for de borgere, der er triagerede.   
+ Selvstændigt arbejde, skarpt klinisk blik, høj faglighed, tværfaglighed, et godt arbejdsmiljø og vidensdeling.   
+ Dette er nogle af de nøgleord, vi ønsker, at du brænder for som social- og sundhedsassistent, social- og sundhedshjælper og som sygeplejerske. Hvis du gør det, vil du være på en fantastisk arbejdsplads hos Trænings- og Rehabiliteringscenter Høng.  
+ Vi er i proces.  
+ På Trænings- og Rehabiliteringscenter Høng, er vi under en udviklingsproces, som skal ruste os til fremtidens opgaver.  
+ Vi har fokus på arbejdsgange, kompetencefordeling, tværfagligt samarbejde, overgange mellem sektor, kultur, patientsikkerhed mv. Alt sammen med det formål, at borgere på midlertidigt ophold samt specialiseret ophold, oplever tryghed, flow samt sammenhængende og meningsfulde forløb af høj kvalitet.  
+ Vores borgerforløb er ofte komplekse og ustabile, da de borgere vi får indlagt, har behov for pleje, der er svær at imødekomme i eget hjem. Vi samarbejder tæt tværfagligt i hverdagen for at tilgodese de mange behov, hver enkelt borger har, og vi sætter krav til hinanden omkring høj standard for opgaveløsning. Vi tilbyder også aflastning til borgere med nedsat fysisk eller psykisk funktionsevne, hvor ægtefælle eller anden nære pårørende har behov for aflastning. Vi arbejder således målrettet med behandling, fysisk træning, kost, sygeplejefaglig og psykosocial indsats.  
+ Din nye arbejdsplads og kommende kolleger  
+ Dine kommende kollegaer vil bestå af både social- og sundhedsassistenter, social- og sundhedshjælpere, sygeplejersker, visitator, husassistenter, fysioterapeuter, ergoterapeuter og pædagoger.  
+ Desuden er vi uddannelsessted for social- og sundhedsassistentelever, og vi har generelt fokus på kompetenceudvikling.  
+ Vi løfter i flok, og det er vi stolte af. Vi har det godt sammen, vi interesserer os for hinanden, og vi kan også tale om andet end arbejde.  
+ Hvorfor skal du vælge os?  
+ Fordi vi tilbyder dig:  
+ 
+ 
+ Introduktionsforløb hvor du er koblet op med et par faste kollegaer.  
+ 
+ 
+ 
+ 
+ Synlig og nærværende ledelse  
+ 
+ 
+ 
+ 
+ God balance i dit arbejdsliv og privatliv.  
+ 
+ 
+ 
+ 
+ Mulighed for at præge udviklingen af vores arbejdssted   
+ 
+ 
+ 
+ 
+ Et godt læringsmiljø og plads til nytænkning  
+ 
+ 
+ 
+ 
+ En dynamisk arbejdsplads i rivende udvikling, hvor vi på en travl hverdag insisterer refleksion, sparring og udvikling  
+ 
+ 
+ 
+ 
+ En arbejdsplads med stor arbejdsglæde og godt arbejdsmiljø   
+ 
+ 
+ 
+ 
+ Skønne kollegaer, der står klar til at tage imod dig   
+ 
+ 
+ Om du er erfaren eller nyuddannet er ikke afgørende. Det vigtigste er, at du har gåpåmod og synes, at de komplekse borgerforløb er spændende. Vores opgaver spænder bredt, og vi forventer ikke, at du kan det hele fra start. Vi skal nok sørge for, at du får en god introduktion og den oplæring du har brug for, i det team du bliver tilknyttet.  
+ 
+ Sådan lykkes du i funktionen  
+ 
+ 
+ Du arbejder struktureret og har blik for tværfaglighed  
+ 
+ 
+ 
+ 
+ Du er aktivt deltagende i afdelingens faglige udvikling  
+ 
+ 
+ 
+ 
+ Du formår at skabe overblik over dagens opgaver  
+ 
+ 
+ 
+ 
+ Du formår at inddrage og samarbejde med pårørende, både som ressource til borgeren, men har også øje for, at de kan være i krise  
+ 
+ 
+ 
+ 
+ Du trives i en omskiftelig og travl hverdag, hvor vi løfter i flok og hjælper hinanden  
+ 
+ 
+ 
+ 
+ Du har stærke samarbejdsevner og gerne erfaring med komplekse borgerforløb  
+ 
+ 
+ 
+ 
+ Du kan lide udfordringen i uforudsete og akutte opgaver  
+ 
+ 
+ 
+ 
+ Du har fokus på rehabilitering og borgeres ressourcer  
+ 
+ 
+   
+ Løn og ansættelsesvilkår  
+ Løn og ansættelsesforhold sker i henhold til gældende overenskomst og ud fra reglerne om lokal løndannelse.  
+ Vi gør opmærksom på, at der skal indhentes straffeattest, inden ansættelsen kan finde sted.  
+ Vil du vide mere  
+ Hvis du har lyst til at høre mere om stillingen, er du meget velkommen til at kontakte afdelingsleder Katja Valentin på tlf. 21 65 67 95   
+ Du er også hjertelig velkommen til at kigge forbi og møde os. Vi byder gerne på en rundvisning og en uformel snak. Ring til os, så laver vi en aftale.  
+ Ansøgningsfristen:   
+ Vi har brug for nye kolleger og opfordrer alle med interesse til at søge hurtigst muligt. Da det er flere stillinger vi ønsker at besætte, afholder vi løbende ansættelsessamtaler og aftaler ansættelsestidspunkt.   
+ Om os 
+ I Kalundborg Kommune er vi optaget af, at vores borgere, virksomheder, foreninger og institutioner får den bedst tænkelige service. Det kan vi kun levere hvis vi har dygtige og motiverede medarbejdere. Derfor er vi dedikeret til at støtte medarbejdernes personlige og faglige udvikling, og sikre en dynamisk og fleksibel arbejdsplads. 
+ Hos os er medarbejderne med til at gøre en forskel hver dag, sammen med ca. 3500 kollegaer.  Kalundborg Kommune er placeret i noget af Danmarks smukkeste natur – og er samtidig hjemsted for en række af de industrier der bidrager mest til den danske økonomi – med vægt på biotech- og energiproduktion. 
+Der bor cirka 49.000 mennesker i Kalundborg Kommune, som også er hjemsted for flere og flere uddannelser, der er med til at understøtte udviklingen i kommunen. 
+ Du kan læse mere om Kalundborg Kommune som arbejdsplads  Vores medarbejdere (kalundborg.dk , finde generelle oplysninger om Kalundborg Kommune  Go to Kalundborg  eller lytte til vores podcast-serie Karriere på Kalundborgsk  Podcast (kalundborg.dk) 
+  Vi opfordrer alle uanset baggrund, køn, religion mv. til at søge. 
+ ---------- 
+ I Kalundborg Kommune har vi en generel politik om indhentning af straffeattest. 
+ Ansatte som i deres ansættelse har adgang til personfølsomme oplysninger, skal have privat MitID, fordi de skal identificere sig med deres private MitID Dette for at efterleve den skærpede lovgivning og derved sikre borgernes tillid til, at alle myndigheder, herunder Kalundborg kommune, behandler personfølsomme oplysninger sikkert.","https://www.google.dk/maps/place/Odinsvej+20,4270,+Høng/",29189595,False,False,,False

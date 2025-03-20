@@ -1,0 +1,166 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Chefkonsulent i Kalundborg Kommunes centrale udviklingsenhed,Chefkonsulent i Kalundborg Kommunes centrale udviklingsenhed,"
+	
+		
+			 
+		
+	
+
+
+
+
+ 
+
+
+Om Jobbet
+
+I Kalundborg Kommune har vi travlt med at udvikle vores organisation til fremtidens behov. Lige nu søger vi efter en erfaren chefkonsulent",Kalundborg Kommune,Holbækvej 141B  ,4400,Kalundborg,False,False,False,True,2025-01-23T08:37:29,2025-02-11T23:59:00,11. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/38e35660-8229-419c-ae10-e604a7d67f90,Øvrige Sjælland,Kalundborg,Danmark,4400,,Almindelige vilkår,Fastansættelse,Fuldtid,Akademisk arbejde,Administrativt arbejde,Chefkonsulent,55.706,10.9743,,,1010114167,,29189595,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/38e35660-8229-419c-ae10-e604a7d67f90,https://job.jobnet.dk/CV/FindWork/Details/38e35660-8229-419c-ae10-e604a7d67f90,https://job.jobnet.dk/CV/FindWork/Details/38e35660-8229-419c-ae10-e604a7d67f90,True,38e35660-8229-419c-ae10-e604a7d67f90,55.706,10.9743,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Kalundborg Kommune,Holbækvej 141B,58,Danmark,326,Kalundborg,4,"Hovedstaden, Sjælland og Bornholm",4400,Kalundborg,,0,Primary,,,https://kalundborgkommune.hr-on.com/show-job/235163?linkref=262598&locale=da_DK,None,,1010114167,29189595,None,38e35660-8229-419c-ae10-e604a7d67f90,Kalundborg Kommune,Holbækvej 141B,58,Danmark,326,Kalundborg,4,"Hovedstaden, Sjælland og Bornholm",4400,Kalundborg,,0,Primary,,,https://kalundborgkommune.hr-on.com/show-job/235163?linkref=262598&locale=da_DK,None,,1010114167,29189595,None,,2025-01-23T08:37:29+01:00,2025-02-11T23:59:00+01:00,Chefkonsulent i Kalundborg Kommunes centrale udviklingsenhed,"Om Jobbet 
+ I Kalundborg Kommune har vi travlt med at udvikle vores organisation til fremtidens behov. Lige nu søger vi efter en erfaren chefkonsulent med stor organisationsforståelse og et bredt kendskab til opgaver og udfordringer i en kommune, der kan understøtte denne udvikling. 
+ Leder du smidigt projekter med høj bevågenhed og stor strategisk betydning tæt på den politiske beslutningsproces? Kan du skabe følgeskab og fremme ejerskab hos mange interessenter? Så er du og Kalundborg Kommune måske et godt match. 
+ Du bliver en del af Organisationsstaben, i teamet HR og Udvikling, tæt på direktionen, og du kommer til at arbejde på tværs af hele organisationen. 
+ Kalundborg kommune er ambitiøs ift. at udvikle fremtidens kommune i at være et godt sted at bo, leve, uddanne sig, arbejde og drive virksomhed. Under overskriften ”Fælles retning” og ”Samarbejde for bedre resultater” arbejder vi for at skabe sammenhæng og synliggøre de gode eksempler fra hverdagen. 
+ I Organisationsstaben er vi særligt optagede af, hvordan vi kan støtte organisationens ledere, så de i endnu højere grad for får tid til deres faglige ledelsesopgaver. Vi understøtter opgaveløsning og udvikling på tværs af organisationen og i dialog med mange forskellige samarbejdspartnere. Vi skal i 2025 følge op på en række projekter, og så skal vi forberede den ny valgperiode. 
+ Der er høje forventninger knyttet til denne stilling. Til gengæld tør vi love, at du vil få en nøglerolle på tværs af den kommunale organisation og adgang til at arbejde med nogle af kommunens mest spændende og tværgående udfordringer. Dertil kommer, at du vil få rigtig gode og dygtige kolleger og stor indflydelse på tilrettelæggelse af arbejdsopgaver, arbejdstid mm. 
+ Stillingsprofil 
+ Opgaverne 
+ Kort fortalt vil dine arbejdsopgaver være at koordinere og projektlede på opgaver som: 
+ 
+ Udviklingsindsatser på tværs af organisationen eksempelvis ift. effektiviseringsindsatser, beredskab eller indsatser knyttet til kommunen som attraktiv arbejdsplads 
+ Udarbejdelse af politikker og strategier for hele organisationen 
+ Facilitere tværgående udviklingsforløb 
+ Udarbejdelse af tværgående analyser  
+ Rådgivning og sparring til konsulenter og ledere i den øvrige organisation om tværgående processer. 
+ Ad hoc driftsopgaver 
+ 
+ Du vil få en bred kontaktflade til ledere og medarbejdere i mange dele af organisationen, men dine tætteste samarbejdspartnere vil formentligt være kollegerne i Organisationsstaben og i Økonomistaben. 
+ Din profil 
+ Som chefkonsulent har du formentligt: 
+ 
+ En samfundsvidenskabelig uddannelse på kandidatniveau og relevant erfaring. 
+ Erfaring med ledelse og/eller projektledelse i en politisk ledet organisation. 
+ Evnen til at tilrettelægge processer, som sikrer faglig kvalitet og opbakning fra interessenter indenfor de politisk og ledelsesmæssigt definerede rammer. 
+ Fokus på at understøtte organisationens udvikling gennem servicering, facilitering af processer, rådgivning og projektledelse – alt sammen via dialog med brugerne. 
+ Evne til at involvere organisationen bredt i udvikling af løsninger, samtidig med at du evner at samle de løse ender og afslutte opgaverne. 
+ Erfaring med at arbejde med afsæt i både kvantitative og kvalitative data. 
+ En tillidsvækkende arbejdsform, hvor du kommunikerer smidigt med alle – fra  borgmesteren som direktion og medarbejdere i øvrigt. 
+ Stærke skriftlige formidlingsevner, men ved også, at gode dialog ofte er bedre end lange mails og tunge oplæg. 
+ Evnen til at arbejde selvstændigt og samtidig indgå i samarbejdsrelationer i og udenfor kommunen 
+ 
+ Organisationsstaben 
+ I Organisationsstaben leverer vi rådgivning, sparring, facilitering, kompetenceudvikling og tværgående projektledelse. Vi er optagede af, at vi som organisation gør det lettere at gøre det godt – det gælder ikke mindst for de administrative opgaver.   
+ Vi bidrager som specialister indenfor en række områder og er fordelt på følgende teams: 
+ 
+ HR og Udvikling 
+ Sekretariatet 
+ Jura og Udbud 
+ Personale og Forhandling 
+ Digitalisering og IT 
+ Kommunikation 
+ 
+ Organisationsstaben har i alt 65 ansatte, som alle har arbejdssted på rådhuset i Kalundborg. Du vil derfor kunne forvente at blive kollega med dygtige og engagerede konsulenter med vidt forskellige kompetencer.   
+ Vi værdsætter at være en del af en flad og bureaukratisk organisation, hvor alle er optagede af at finde de gode fælles løsninger til gavn for borgerne. 
+ Team HR og Udvikling 
+ Team HR og Udvikling er sammensat af 5 konsulenter med direkte reference til stabschefen. Vi er en sammensat gruppe med forskellig baggrund, erfaringer og kompetencer. Fælles for os er, at vi værdsætter god sparring og en afslappet omgangstone. Vores organisation forventer et højt serviceniveau, og det går vi op i at levere. Vi går også foran som rollemodel ved de forandringer, som vi arbejder med i vores organisation. Du vil derfor passe godt ind, hvis det betyder noget for dig, at du og afdelingen leverer en god service, hvis du har en positiv tilgang til dine kolleger, og – ikke mindst – hvis du har humor og er i stand til at grine af dig selv. 
+ Øvrige vilkår 
+ Som arbejdsplads er vi optagede af at tilbyde alle medarbejdere fleksible arbejdsvilkår tilpasset opgaver og individuelle behov. Mange har faste hjemmearbejdsdage, men vi vægter også betydningen af at være fysisk til stede på rådhuset for at gode fælles rammer for kendskab, sparring og socialt fællesskab. 
+ Du har mulighed for at tilrettelægge din arbejdstid fleksibelt, herunder at fordele arbejdstiden på 4 eller 5 ugentlige arbejdsdage med mulighed for at holde fri om fredagen, hvis/når du ønsker det. Alle som ønsker det, får stillet en hjemmearbejdsplads til rådighed. 
+ Løn- og ansættelsesvilkår 
+ Lønnen fastsættes efter gældende overenskomst og forhandles individuelt på baggrund af dine kvalifikationer og din erfaring. 
+ Yderligere oplysninger 
+ Hvis du er nysgerrig efter at høre mere om jobbet, er du meget velkommen til at ringe til stabschef Anne Hjortshøj på tlf. 23297737 eller chefkonsulent Jette Feldthaus på telefon 51647747. Du er også meget velkommen til at sende en SMS, så ringer vi tilbage til dig. 
+ Ansættelsesprocessen 
+ Sende ansøgning, CV samt andre relevante bilag via ansøgningslinket i dette stillingsopslag.  
+ Ansøgningsfristen er den 11. februar 2025.  
+ 1. samtale afholdes den 18. februar 2025 og 2. samtale afholdes den 25. februar 2025. 
+ Om os 
+ I Kalundborg Kommune er vi optaget af, at vores borgere, virksomheder, foreninger og institutioner får den bedst tænkelige service. Det kan vi kun levere hvis vi har dygtige og motiverede medarbejdere. Derfor er vi dedikeret til at støtte medarbejdernes personlige og faglige udvikling, og sikre en dynamisk og fleksibel arbejdsplads. 
+ Hos os er medarbejderne med til at gøre en forskel hver dag, sammen med ca. 3500 kollegaer.  Kalundborg Kommune er placeret i noget af Danmarks smukkeste natur – og er samtidig hjemsted for en række af de industrier der bidrager mest til den danske økonomi – med vægt på biotech- og energiproduktion. 
+Der bor cirka 49.000 mennesker i Kalundborg Kommune, som også er hjemsted for flere og flere uddannelser, der er med til at understøtte udviklingen i kommunen. 
+ Du kan læse mere om Kalundborg Kommune som arbejdsplads  Vores medarbejdere (kalundborg.dk , finde generelle oplysninger om Kalundborg Kommune  Go to Kalundborg  eller lytte til vores podcast-serie Karriere på Kalundborgsk  Podcast (kalundborg.dk) 
+  Vi opfordrer alle uanset baggrund, køn, religion mv. til at søge. 
+ ---------- 
+ I Kalundborg Kommune har vi en generel politik om indhentning af straffeattest. 
+ Ansatte som i deres ansættelse har adgang til personfølsomme oplysninger, skal have privat MitID, fordi de skal identificere sig med deres private MitID Dette for at efterleve den skærpede lovgivning og derved sikre borgernes tillid til, at alle myndigheder, herunder Kalundborg kommune, behandler personfølsomme oplysninger sikkert.",Holbækvej 141B,58,Danmark,326,Kalundborg,4,"Hovedstaden, Sjælland og Bornholm",4400,Kalundborg,1,1,Fuldtid,None,None,1,,Chefkonsulent,0,"1018, 1019, 1020, 1021",0,0,False,"{'Email': 'aohj@kalundborg.dk', 'PersonName': 'Anne Hjortshøj', 'FirstName': 'Anne', 'LastName': 'Hjortshøj', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+4523 29 77 37', 'Type': 0, 'Description': 'Primary'}]}",2025-04-01T00:00:00+02:00,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://kalundborgkommune.hr-on.com/show-job/235163?linkref=262598&locale=da_DK,False,2025-02-11T23:59:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=38e35660-8229-419c-ae10-e604a7d67f90&Organisation=29189595,"Holbækvej 141B,4400, Kalundborg",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=38e35660-8229-419c-ae10-e604a7d67f90&Company.Name=Kalundborg Kommune&SubmissionDeadlineDate=2025-2-11&Title=Chefkonsulent i Kalundborg Kommunes centrale udviklingsenhed&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Chefkonsulent i Kalundborg Kommunes centrale udviklingsenhed,True,,True,1,,38e35660-8229-419c-ae10-e604a7d67f90,,,False,False,,0,False,Kalundborg Kommune,Holbækvej 141B,,,4400,False,False,False,Kalundborg,Anne Hjortshøj,+4523 29 77 37,aohj@kalundborg.dk,,,,,False,,2025-02-11T23:59:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Kalundborg kommune,False,Kalundborg Kommune,,None,,False,False,"
+	
+		
+			 
+		
+	
+
+
+
+
+ 
+
+
+Om Jobbet
+
+I Kalundborg Kommune har vi travlt med at udvikle vores organisation til fremtidens behov. Lige nu søger vi efter en erfaren chefkonsulent med stor organisationsforståelse og et bredt kendskab til opgaver og udfordringer i en kommune, der kan understøtte denne udvikling.
+
+Leder du smidigt projekter med høj bevågen","""\n\t\n\t\t\n\t\t\t \n\t\t\n\t\n\n\n\n\n \n\n\nOm Jobbet\n\nI Kalundborg Kommune har vi travlt med at udvikle vores organisation til fremtidens behov. Lige nu søger vi efter en erfaren chefkonsulent med stor organisationsforståelse og et bredt kendskab til opgaver og udfordringer i en kommune, der kan understøtte denne udvikling.\n\nLeder du smidigt projekter med høj bevågen""","""Chefkonsulent i Kalundborg Kommunes centrale udviklingsenhed""","https://www.google.dk/maps/dir//Holbækvej+141B,4400,+Kalundborg/","Om Jobbet 
+ I Kalundborg Kommune har vi travlt med at udvikle vores organisation til fremtidens behov. Lige nu søger vi efter en erfaren chefkonsulent med stor organisationsforståelse og et bredt kendskab til opgaver og udfordringer i en kommune, der kan understøtte denne udvikling. 
+ Leder du smidigt projekter med høj bevågenhed og stor strategisk betydning tæt på den politiske beslutningsproces? Kan du skabe følgeskab og fremme ejerskab hos mange interessenter? Så er du og Kalundborg Kommune måske et godt match. 
+ Du bliver en del af Organisationsstaben, i teamet HR og Udvikling, tæt på direktionen, og du kommer til at arbejde på tværs af hele organisationen. 
+ Kalundborg kommune er ambitiøs ift. at udvikle fremtidens kommune i at være et godt sted at bo, leve, uddanne sig, arbejde og drive virksomhed. Under overskriften ”Fælles retning” og ”Samarbejde for bedre resultater” arbejder vi for at skabe sammenhæng og synliggøre de gode eksempler fra hverdagen. 
+ I Organisationsstaben er vi særligt optagede af, hvordan vi kan støtte organisationens ledere, så de i endnu højere grad for får tid til deres faglige ledelsesopgaver. Vi understøtter opgaveløsning og udvikling på tværs af organisationen og i dialog med mange forskellige samarbejdspartnere. Vi skal i 2025 følge op på en række projekter, og så skal vi forberede den ny valgperiode. 
+ Der er høje forventninger knyttet til denne stilling. Til gengæld tør vi love, at du vil få en nøglerolle på tværs af den kommunale organisation og adgang til at arbejde med nogle af kommunens mest spændende og tværgående udfordringer. Dertil kommer, at du vil få rigtig gode og dygtige kolleger og stor indflydelse på tilrettelæggelse af arbejdsopgaver, arbejdstid mm. 
+ Stillingsprofil 
+ Opgaverne 
+ Kort fortalt vil dine arbejdsopgaver være at koordinere og projektlede på opgaver som: 
+ 
+ Udviklingsindsatser på tværs af organisationen eksempelvis ift. effektiviseringsindsatser, beredskab eller indsatser knyttet til kommunen som attraktiv arbejdsplads 
+ Udarbejdelse af politikker og strategier for hele organisationen 
+ Facilitere tværgående udviklingsforløb 
+ Udarbejdelse af tværgående analyser  
+ Rådgivning og sparring til konsulenter og ledere i den øvrige organisation om tværgående processer. 
+ Ad hoc driftsopgaver 
+ 
+ Du vil få en bred kontaktflade til ledere og medarbejdere i mange dele af organisationen, men dine tætteste samarbejdspartnere vil formentligt være kollegerne i Organisationsstaben og i Økonomistaben. 
+ Din profil 
+ Som chefkonsulent har du formentligt: 
+ 
+ En samfundsvidenskabelig uddannelse på kandidatniveau og relevant erfaring. 
+ Erfaring med ledelse og/eller projektledelse i en politisk ledet organisation. 
+ Evnen til at tilrettelægge processer, som sikrer faglig kvalitet og opbakning fra interessenter indenfor de politisk og ledelsesmæssigt definerede rammer. 
+ Fokus på at understøtte organisationens udvikling gennem servicering, facilitering af processer, rådgivning og projektledelse – alt sammen via dialog med brugerne. 
+ Evne til at involvere organisationen bredt i udvikling af løsninger, samtidig med at du evner at samle de løse ender og afslutte opgaverne. 
+ Erfaring med at arbejde med afsæt i både kvantitative og kvalitative data. 
+ En tillidsvækkende arbejdsform, hvor du kommunikerer smidigt med alle – fra  borgmesteren som direktion og medarbejdere i øvrigt. 
+ Stærke skriftlige formidlingsevner, men ved også, at gode dialog ofte er bedre end lange mails og tunge oplæg. 
+ Evnen til at arbejde selvstændigt og samtidig indgå i samarbejdsrelationer i og udenfor kommunen 
+ 
+ Organisationsstaben 
+ I Organisationsstaben leverer vi rådgivning, sparring, facilitering, kompetenceudvikling og tværgående projektledelse. Vi er optagede af, at vi som organisation gør det lettere at gøre det godt – det gælder ikke mindst for de administrative opgaver.   
+ Vi bidrager som specialister indenfor en række områder og er fordelt på følgende teams: 
+ 
+ HR og Udvikling 
+ Sekretariatet 
+ Jura og Udbud 
+ Personale og Forhandling 
+ Digitalisering og IT 
+ Kommunikation 
+ 
+ Organisationsstaben har i alt 65 ansatte, som alle har arbejdssted på rådhuset i Kalundborg. Du vil derfor kunne forvente at blive kollega med dygtige og engagerede konsulenter med vidt forskellige kompetencer.   
+ Vi værdsætter at være en del af en flad og bureaukratisk organisation, hvor alle er optagede af at finde de gode fælles løsninger til gavn for borgerne. 
+ Team HR og Udvikling 
+ Team HR og Udvikling er sammensat af 5 konsulenter med direkte reference til stabschefen. Vi er en sammensat gruppe med forskellig baggrund, erfaringer og kompetencer. Fælles for os er, at vi værdsætter god sparring og en afslappet omgangstone. Vores organisation forventer et højt serviceniveau, og det går vi op i at levere. Vi går også foran som rollemodel ved de forandringer, som vi arbejder med i vores organisation. Du vil derfor passe godt ind, hvis det betyder noget for dig, at du og afdelingen leverer en god service, hvis du har en positiv tilgang til dine kolleger, og – ikke mindst – hvis du har humor og er i stand til at grine af dig selv. 
+ Øvrige vilkår 
+ Som arbejdsplads er vi optagede af at tilbyde alle medarbejdere fleksible arbejdsvilkår tilpasset opgaver og individuelle behov. Mange har faste hjemmearbejdsdage, men vi vægter også betydningen af at være fysisk til stede på rådhuset for at gode fælles rammer for kendskab, sparring og socialt fællesskab. 
+ Du har mulighed for at tilrettelægge din arbejdstid fleksibelt, herunder at fordele arbejdstiden på 4 eller 5 ugentlige arbejdsdage med mulighed for at holde fri om fredagen, hvis/når du ønsker det. Alle som ønsker det, får stillet en hjemmearbejdsplads til rådighed. 
+ Løn- og ansættelsesvilkår 
+ Lønnen fastsættes efter gældende overenskomst og forhandles individuelt på baggrund af dine kvalifikationer og din erfaring. 
+ Yderligere oplysninger 
+ Hvis du er nysgerrig efter at høre mere om jobbet, er du meget velkommen til at ringe til stabschef Anne Hjortshøj på tlf. 23297737 eller chefkonsulent Jette Feldthaus på telefon 51647747. Du er også meget velkommen til at sende en SMS, så ringer vi tilbage til dig. 
+ Ansættelsesprocessen 
+ Sende ansøgning, CV samt andre relevante bilag via ansøgningslinket i dette stillingsopslag.  
+ Ansøgningsfristen er den 11. februar 2025.  
+ 1. samtale afholdes den 18. februar 2025 og 2. samtale afholdes den 25. februar 2025. 
+ Om os 
+ I Kalundborg Kommune er vi optaget af, at vores borgere, virksomheder, foreninger og institutioner får den bedst tænkelige service. Det kan vi kun levere hvis vi har dygtige og motiverede medarbejdere. Derfor er vi dedikeret til at støtte medarbejdernes personlige og faglige udvikling, og sikre en dynamisk og fleksibel arbejdsplads. 
+ Hos os er medarbejderne med til at gøre en forskel hver dag, sammen med ca. 3500 kollegaer.  Kalundborg Kommune er placeret i noget af Danmarks smukkeste natur – og er samtidig hjemsted for en række af de industrier der bidrager mest til den danske økonomi – med vægt på biotech- og energiproduktion. 
+Der bor cirka 49.000 mennesker i Kalundborg Kommune, som også er hjemsted for flere og flere uddannelser, der er med til at understøtte udviklingen i kommunen. 
+ Du kan læse mere om Kalundborg Kommune som arbejdsplads  Vores medarbejdere (kalundborg.dk , finde generelle oplysninger om Kalundborg Kommune  Go to Kalundborg  eller lytte til vores podcast-serie Karriere på Kalundborgsk  Podcast (kalundborg.dk) 
+  Vi opfordrer alle uanset baggrund, køn, religion mv. til at søge. 
+ ---------- 
+ I Kalundborg Kommune har vi en generel politik om indhentning af straffeattest. 
+ Ansatte som i deres ansættelse har adgang til personfølsomme oplysninger, skal have privat MitID, fordi de skal identificere sig med deres private MitID Dette for at efterleve den skærpede lovgivning og derved sikre borgernes tillid til, at alle myndigheder, herunder Kalundborg kommune, behandler personfølsomme oplysninger sikkert.","https://www.google.dk/maps/place/Holbækvej+141B,4400,+Kalundborg/",29189595,False,False,,False

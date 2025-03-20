@@ -1,0 +1,138 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Afdelingschef til telemarketing- og mødebookingbureau i Vejle,Afdelingschef til telemarketing- og mødebookingbureau i Vejle,"Trives du med ansvar og mulighed for udvikling? Hos Vivo Sales i Vejle søger vi en afdelingschef, der skal lede vores team af telefonsælgere og sikre, at vores kunder når deres mål. God energi, god",Vivo Sales ApS,Vissingsgade 23 1 ,7100,Vejle,False,False,False,True,2025-01-24T00:00:00,2025-03-21T00:00:00,21. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/858d4fa7-2527-4786-a2c9-68dd80d32511,Syddanmark,Vejle,Danmark,7100,,Almindelige vilkår,Fastansættelse,Fuldtid,Ledelse,"Administration, strategi og personale",Afdelingschef,55.6905,9.5066,,Dag,1019522578,,36030372,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/858d4fa7-2527-4786-a2c9-68dd80d32511,https://job.jobnet.dk/CV/FindWork/Details/858d4fa7-2527-4786-a2c9-68dd80d32511,https://job.jobnet.dk/CV/FindWork/Details/858d4fa7-2527-4786-a2c9-68dd80d32511,True,858d4fa7-2527-4786-a2c9-68dd80d32511,55.6905,9.5066,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Vivo Sales ApS,"Vissingsgade 23, 1",58,Danmark,630,Vejle,3,Syddanmark,7100,Vejle,,0,Primary,,,https://www.vivosales.dk/soeg-job/#send_app,None,,1019522578,36030372,None,858d4fa7-2527-4786-a2c9-68dd80d32511,Vivo Sales ApS,"Vissingsgade 23, 1",58,Danmark,630,Vejle,3,Syddanmark,7100,Vejle,,0,Primary,,,https://www.vivosales.dk/soeg-job/#send_app,None,,1019522578,36030372,None,,2025-01-24T00:00:00+01:00,2025-03-21T18:14:32.97+01:00,Afdelingschef til telemarketing- og mødebookingbureau i Vejle,"Trives du med ansvar og mulighed for udvikling? Hos Vivo Sales i Vejle søger vi en afdelingschef, der skal lede vores team af telefonsælgere og sikre, at vores kunder når deres mål. God energi, god stemning og god musik – tre ting, der kendetegner hverdagen på kontoret. 
+   Din rolle: 
+ Som afdelingschef får du ansvaret for den daglige salgstræning, individuelle udviklingssamtaler, og du sætter dagens mål for vores team. Det er ikke altid lige nemt at arbejde med opsøgende salg, så hvis humøret daler, er du klar til at motivere dine kolleger. 
+ Dine opgaver inkluderer: 
+ 
+ 
+ Ledelse af et team på mellem 10-20 dygtige telefonsælgere. 
+ 
+ 
+ Daglig salgstræning og coaching, så dit team hele tiden udvikler sig. 
+ 
+ 
+ Udvælgelse og onboarding af nye medarbejdere. 
+ 
+ 
+ At tilpasse motivation og coaching til den enkelte medarbejder. 
+ 
+ 
+ Sikre, at vi når vores mål og KPI’er, både i daglige salg og i teamudvikling. 
+ 
+ 
+ Bidrage til vores sociale kultur og deltage i vores mange sociale arrangementer. 
+ 
+ 
+ Hvem er du? 
+ 
+ 
+ Du har erfaring indenfor telemarketing og salg. 
+ 
+ 
+ Ledelseserfaring er en fordel, men vigtigst er din evne til at motivere andre. 
+ 
+ 
+ Du trives med mange bolde i luften og har en evne til at skabe energi og motivation på kontoret. 
+ 
+ 
+ Du elsker en dynamisk arbejdsplads, hvor der er plads til fokus, sjov og sociale arrangementer. 
+ 
+ 
+ Vi tilbyder: 
+ 
+ 
+ En dynamisk arbejdsplads med plads til udvikling både personligt og fagligt. 
+ 
+ 
+ Mulighed for at deltage i vores Vivo Business Academy (VBA) for yderligere uddannelse og karriereudvikling. 
+ 
+ 
+ En attraktiv lønpakke med fast grundløn og bonus for teamets resultater. 
+ 
+ 
+ Sociale arrangementer som firmapadel, juice-dage og meget mere – hos os er fællesskabet lige så vigtigt som resultaterne! 
+ 
+ 
+ Kort om Vivo Sales 
+ Hos Vivo Sales arbejder vi med opsøgende salg. Vi booker møder for dig, så du kan bruge din energi på at lukke aftaler. Vi kan også sørge for, at salget kommer helt i hus. Det er op til dig. Vi kan hjælpe med begge dele. I dag har vi et kontor i Vejle og et i Silkeborg med i alt 26<indsæt antal medarbejdere>. 
+   
+ 100% 
+ Ærlig snak 
+ 20+ 
+ Dedikerede medarbejdere 
+ 20.540 
+ Opkald om måneden   
+ 200+ 
+ Årlige salgstræninger 
+   
+ Lyder det som noget for dig? Så glæder vi os til at høre fra dig! 
+   Ansøg her: https://www.vivosales.dk/soeg-job/#send_app","Vissingsgade 23, 1",58,Danmark,630,Vejle,3,Syddanmark,7100,Vejle,1,1,Fuldtid,None,None,1,,Afdelingschef,0,"Administrationschef ved domstolene, Varemærkechef, Underholdningschef på hotel, Udlejningschef, Telekommunikationschef, Skadeforsikringschef, Samlingschef, Risikomanager i en virksomhed, Riggingchef, Renserichef, Publikumschef, Personaleudviklingschef, Miljøchef for rørledningsprojekt, Leder af udlejningskontor, Leder af serviceværksted, Leder af rejsebureau, Kunderelationschef, Kreditchef, Investeringsfondschef, Institutionschef i fængsel, Informationschef, Holdleder på quick service-restaurant, Forsikringschef, Fondchef, Finansieringschef, Energichef, Emballeringschef, Chefrevisor, Chef for turistbureau, Chef for rejseselskab, Chef for redningscenter, Chef for kundeoplevelser, Chef for e-handel, Casinoleder, Casinochef, Byggesikkerhedschef, Borechef, Bestyrer af almennyttigt boligbyggeri, Beredskabskoordinator, Arbejdsformidlingschef",0,0,False,,,False,False,False,False,4,,,False,False,False,True,False,False,,,,,https://www.vivosales.dk/soeg-job/#send_app,False,2025-03-21T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=858d4fa7-2527-4786-a2c9-68dd80d32511&Organisation=36030372,"Vissingsgade 23, 1,7100, Vejle",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=858d4fa7-2527-4786-a2c9-68dd80d32511&Company.Name=Vivo Sales ApS&SubmissionDeadlineDate=2025-3-21&Title=Afdelingschef til telemarketing- og mødebookingbureau i Vejle&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Afdelingschef til telemarketing- og mødebookingbureau i Vejle,True,,True,1,,858d4fa7-2527-4786-a2c9-68dd80d32511,,,False,False,,0,False,Vivo Sales ApS,"Vissingsgade 23, 1",,,7100,False,False,False,Vejle,,,,,,,,False,,2025-03-21T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Dag,Arbejdspladsen ligger i Vejle kommune,False,Vivo Sales ApS,,None,,False,False,"Trives du med ansvar og mulighed for udvikling? Hos Vivo Sales i Vejle søger vi en afdelingschef, der skal lede vores team af telefonsælgere og sikre, at vores kunder når deres mål. God energi, god stemning og god musik – tre ting, der kendetegner hverdagen på kontoret.
+Din rolle:
+Som afdelingschef får du ansvaret for den daglige salgstræning, indi","""Trives du med ansvar og mulighed for udvikling? Hos Vivo Sales i Vejle søger vi en afdelingschef, der skal lede vores team af telefonsælgere og sikre, at vores kunder når deres mål. God energi, god stemning og god musik – tre ting, der kendetegner hverdagen på kontoret.\nDin rolle:\nSom afdelingschef får du ansvaret for den daglige salgstræning, indi""","""Afdelingschef til telemarketing- og mødebookingbureau i Vejle""","https://www.google.dk/maps/dir//Vissingsgade+23,+1,7100,+Vejle/","Trives du med ansvar og mulighed for udvikling? Hos Vivo Sales i Vejle søger vi en afdelingschef, der skal lede vores team af telefonsælgere og sikre, at vores kunder når deres mål. God energi, god stemning og god musik – tre ting, der kendetegner hverdagen på kontoret. 
+   Din rolle: 
+ Som afdelingschef får du ansvaret for den daglige salgstræning, individuelle udviklingssamtaler, og du sætter dagens mål for vores team. Det er ikke altid lige nemt at arbejde med opsøgende salg, så hvis humøret daler, er du klar til at motivere dine kolleger. 
+ Dine opgaver inkluderer: 
+ 
+ 
+ Ledelse af et team på mellem 10-20 dygtige telefonsælgere. 
+ 
+ 
+ Daglig salgstræning og coaching, så dit team hele tiden udvikler sig. 
+ 
+ 
+ Udvælgelse og onboarding af nye medarbejdere. 
+ 
+ 
+ At tilpasse motivation og coaching til den enkelte medarbejder. 
+ 
+ 
+ Sikre, at vi når vores mål og KPI’er, både i daglige salg og i teamudvikling. 
+ 
+ 
+ Bidrage til vores sociale kultur og deltage i vores mange sociale arrangementer. 
+ 
+ 
+ Hvem er du? 
+ 
+ 
+ Du har erfaring indenfor telemarketing og salg. 
+ 
+ 
+ Ledelseserfaring er en fordel, men vigtigst er din evne til at motivere andre. 
+ 
+ 
+ Du trives med mange bolde i luften og har en evne til at skabe energi og motivation på kontoret. 
+ 
+ 
+ Du elsker en dynamisk arbejdsplads, hvor der er plads til fokus, sjov og sociale arrangementer. 
+ 
+ 
+ Vi tilbyder: 
+ 
+ 
+ En dynamisk arbejdsplads med plads til udvikling både personligt og fagligt. 
+ 
+ 
+ Mulighed for at deltage i vores Vivo Business Academy (VBA) for yderligere uddannelse og karriereudvikling. 
+ 
+ 
+ En attraktiv lønpakke med fast grundløn og bonus for teamets resultater. 
+ 
+ 
+ Sociale arrangementer som firmapadel, juice-dage og meget mere – hos os er fællesskabet lige så vigtigt som resultaterne! 
+ 
+ 
+ Kort om Vivo Sales 
+ Hos Vivo Sales arbejder vi med opsøgende salg. Vi booker møder for dig, så du kan bruge din energi på at lukke aftaler. Vi kan også sørge for, at salget kommer helt i hus. Det er op til dig. Vi kan hjælpe med begge dele. I dag har vi et kontor i Vejle og et i Silkeborg med i alt 26<indsæt antal medarbejdere>. 
+   
+ 100% 
+ Ærlig snak 
+ 20+ 
+ Dedikerede medarbejdere 
+ 20.540 
+ Opkald om måneden   
+ 200+ 
+ Årlige salgstræninger 
+   
+ Lyder det som noget for dig? Så glæder vi os til at høre fra dig! 
+   Ansøg her:  https://www.vivosales.dk/soeg-job/#send_app","https://www.google.dk/maps/place/Vissingsgade+23,+1,7100,+Vejle/",36030372,False,False,,False

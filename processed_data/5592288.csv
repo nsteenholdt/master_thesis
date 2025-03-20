@@ -1,0 +1,104 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Kirketjener 50%,Kirketjener 50%,"Rødovre Sogn, Kirkesvinget 3, 2610 Rødovre.
+  
+Rødovre sogn søger en 50 % kirketjener med tiltrædelse 1. juni 2022 eller snarest derefter.
+ 
+Vi kan tilb",RØDOVRE SOGNEHUS,Kirkesvinget 3,2610,Rødovre,False,False,False,True,2022-05-06T00:00:00,2022-05-19T00:00:00,19. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5592288,Hovedstaden og Bornholm,Rødovre,Danmark,2610,,,,Deltid,"Pædagogisk, socialt og kirkeligt arbejde",Religiøst arbejde,Kirketjener,55.682,12.4669,(19 timer ugentligt),"Dag, aften, weekend",112968,100980,65057115,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5592288,https://job.jobnet.dk/CV/FindWork/Details/5592288,https://job.jobnet.dk/CV/FindWork/Details/5592288,True,5592288,55.682,12.4669,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",RØDOVRE SOGNEHUS,Kirkesvinget 3,58,Danmark,175,Rødovre,4,"Hovedstaden, Sjælland og Bornholm",2610,Rødovre,,0,Primary,,,,"Rødovre Sogns Menighedsråd
+Rødovre Hvidovre Provsti
+Rødovre Kommune
+Kirkesvinget 3
+2610 Rødovre",,1003158074,65057115,"Rødovre Sogns Menighedsråd
+Rødovre-Hvidovre Provsti
+Rødovre Kommune
+Kirkesvinget 3
+2610 Rødovre",5592288,5592288,RØDOVRE SOGNEHUS,Kirkesvinget 3,58,Danmark,175,Rødovre,4,"Hovedstaden, Sjælland og Bornholm",2610,Rødovre,,0,Primary,,,,"Rødovre Sogns Menighedsråd
+Rødovre Hvidovre Provsti
+Rødovre Kommune
+Kirkesvinget 3
+2610 Rødovre",,1003158074,65057115,"Rødovre Sogns Menighedsråd
+Rødovre-Hvidovre Provsti
+Rødovre Kommune
+Kirkesvinget 3
+2610 Rødovre",,2022-05-06T00:00:00,2022-05-19T00:00:00,Kirketjener 50%,"Rødovre Sogn, Kirkesvinget 3, 2610 Rødovre. 
+    
+ Rødovre sogn søger en 50 % kirketjener med tiltrædelse 1. juni 2022 eller snarest derefter. 
+   
+ Vi kan tilbyde dig et særdeles meningsfyldt arbejde, hvor du møder folk i alle aldre og fra alle samfundsgrupper på en arbejdsplads med et fint sammenhold. Det gode samarbejde mellem menighedsråd, præster og personale bygger på gensidig respekt og på en fælles glæde ved sammen at være kirke for Rødovre. 
+   
+ Vi søger en ansvarsbevidst og stabil person, som kan arbejde selvstændigt i et tæt samarbejde med vores andre kirketjenere og det øvrige personale.   
+   
+ Opgaverne er bl.a.:  
+ 
+ Praktiske opgaver ved gudstjenester og kirkelige handlinger 
+ Praktiske opgaver ved kirkens/sognehusets øvrige arrangementer, bl.a. indkøb, borddækning, servering, opvask o.l. 
+ Rengøring og vedligeholdelse af kirkens og sognehusets bygninger 
+ Lettere håndværksmæssige opgaver.  
+ 
+   
+ Vi er en kirke med rigtig mange arrangementer og en aktiv menighed. Se vores hjemmeside for yderligere information  www.roedovrekirke.dk 
+   
+ Vi forventer, at du:        
+ 
+ Er serviceminded 
+ Er samarbejdsvillig og fleksibel. 
+ Har praktisk sans og håndelag 
+ Har en rimelig god fysik, da der kan forekomme tungt arbejde 
+ Vil sætte en ære i, at de praktiske rammer om kirkens og menighedens arrangementer er optimale. 
+ 
+   
+ Stillingen er på 19 timer om ugen.   
+ Der er tre måneders prøvetid, og børneattest vil indhentes samt referencer. 
+   
+ Ansættelsen er omfattet af fællesoverenskomsten mellem Finansministeriet og Offentligt Ansattes Organisationer – Det statslige Område (OAO – S – fællesoverenskomsten) og organisationsaftale mellem Kirkeministeriet og Danmarks Kirketjenerforening henholdsvis Forbundet af Kirke – og Kirkegårdsansatte for kirkefunktionærer med kerneopgaver som kirketjener og graver, se organisationsaftalen på  www.folkekirkenspersonale.dk 
+ Lønnen aftales inden for intervallet  249.025 – 321.112 kr. ( pr. 31 marts 2012 ). Det svarer i nutidskroner til 282.420 – 364.174 kr. 
+   
+ Der er Rådighedsforpligtigelse til stillingen. Det udgør kr. 23.500 ( pr. 31 marts 2012 ). Det svarer i nutidskroner til kr. 26.651,44 kr. plus OK18-tillæg 1.100 kr. ( pr. 31 marts 2012 ). Det svarer til i nutidskroner til kr. 1.247,51. 
+ Hvis du ønsker at vide mere om stillingen er du velkommen til at ringe til  kontaktperson Kurt Faber på tlf. 24 60 50 35 
+ Ansøgning vedlagt CV og relevante referencer sendes til kontaktperson Kurt Faber, Kirkesvinget 3 2610 Rødovre eller mail: kurt@kurtfaber.dk 
+   
+ Vi skal have din ansøgning senest kl. 12.00,  torsdag den 19. maj 2022.",Kirkesvinget 3,58,Danmark,175,Rødovre,4,"Hovedstaden, Sjælland og Bornholm",2610,Rødovre,1,16,Deltid,None,None,1,,0,,0,0,0,,False,"{'Id': 7966118, 'Email': 'kurt@kurtfaber.dk', 'FaxNumber': None, 'PersonName': 'Kurt Faber', 'FirstName': 'Kurt', 'LastName': 'Faber', 'PositionTitle': 'Kontaktperson', 'PhoneNumbers': [{'Number': '36700205', 'Type': 0, 'Description': 'Hovednummer'}, {'Number': '24605035', 'Type': 2, 'Description': 'Mobil'}]}",2022-06-01T00:00:00,False,False,False,False,4,19,19,True,False,True,True,Kirketjener,,kurt@kurtfaber.dk,,,True,2022-05-19T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5592288&Organisation=65057115,"Kirkesvinget 3,2610, Rødovre",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5592288&Company.Name=RØDOVRE SOGNEHUS&SubmissionDeadlineDate=2022-5-19&Title=Kirketjener 50%&WeeklyWorkTime=2,00000000-0000-0000-0000-000000000000,False,0,,,Kirketjener 50%,True,,True,2,,5592288,,,False,False,,0,False,RØDOVRE SOGNEHUS,Kirkesvinget 3,,,2610,False,False,False,Rødovre,Kurt Faber,36700205,kurt@kurtfaber.dk,,,,,False,,2022-05-19T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,(19 timer ugentligt),"Dag, aften, weekend",Arbejdspladsen ligger i Rødovre kommune,False,RØDOVRE SOGNEHUS,,"Rødovre Sogns Menighedsråd
+Rødovre Hvidovre Provsti
+Rødovre Kommune
+Kirkesvinget 3
+2610 Rødovre",,False,False,"R&oslash;dovre Sogn, Kirkesvinget 3, 2610 R&oslash;dovre.
+
+R&oslash;dovre sogn s&oslash;ger en 50 % kirketjener med tiltr&aelig;delse 1. juni 2022 eller snarest derefter.
+
+Vi kan tilbyde dig et s&aelig;rdeles meningsfyldt arbejde, hvor du m&oslash;der folk i alle aldre og fra alle samfundsgrupper p&aring; en arbejdsplads med et fint sammenhold. Det","""R\u0026oslash;dovre Sogn, Kirkesvinget 3, 2610 R\u0026oslash;dovre.\n\nR\u0026oslash;dovre sogn s\u0026oslash;ger en 50 % kirketjener med tiltr\u0026aelig;delse 1. juni 2022 eller snarest derefter.\n\nVi kan tilbyde dig et s\u0026aelig;rdeles meningsfyldt arbejde, hvor du m\u0026oslash;der folk i alle aldre og fra alle samfundsgrupper p\u0026aring; en arbejdsplads med et fint sammenhold. Det""","""Kirketjener 50%""","https://www.google.dk/maps/dir//Kirkesvinget+3,2610,+Rødovre/","Rødovre Sogn, Kirkesvinget 3, 2610 Rødovre. 
+    
+ Rødovre sogn søger en 50 % kirketjener med tiltrædelse 1. juni 2022 eller snarest derefter. 
+   
+ Vi kan tilbyde dig et særdeles meningsfyldt arbejde, hvor du møder folk i alle aldre og fra alle samfundsgrupper på en arbejdsplads med et fint sammenhold. Det gode samarbejde mellem menighedsråd, præster og personale bygger på gensidig respekt og på en fælles glæde ved sammen at være kirke for Rødovre. 
+   
+ Vi søger en ansvarsbevidst og stabil person, som kan arbejde selvstændigt i et tæt samarbejde med vores andre kirketjenere og det øvrige personale.   
+   
+ Opgaverne er bl.a.:  
+ 
+ Praktiske opgaver ved gudstjenester og kirkelige handlinger 
+ Praktiske opgaver ved kirkens/sognehusets øvrige arrangementer, bl.a. indkøb, borddækning, servering, opvask o.l. 
+ Rengøring og vedligeholdelse af kirkens og sognehusets bygninger 
+ Lettere håndværksmæssige opgaver.  
+ 
+   
+ Vi er en kirke med rigtig mange arrangementer og en aktiv menighed. Se vores hjemmeside for yderligere information  www.roedovrekirke.dk 
+   
+ Vi forventer, at du:        
+ 
+ Er serviceminded 
+ Er samarbejdsvillig og fleksibel. 
+ Har praktisk sans og håndelag 
+ Har en rimelig god fysik, da der kan forekomme tungt arbejde 
+ Vil sætte en ære i, at de praktiske rammer om kirkens og menighedens arrangementer er optimale. 
+ 
+   
+ Stillingen er på 19 timer om ugen.   
+ Der er tre måneders prøvetid, og børneattest vil indhentes samt referencer. 
+   
+ Ansættelsen er omfattet af fællesoverenskomsten mellem Finansministeriet og Offentligt Ansattes Organisationer – Det statslige Område (OAO – S – fællesoverenskomsten) og organisationsaftale mellem Kirkeministeriet og Danmarks Kirketjenerforening henholdsvis Forbundet af Kirke – og Kirkegårdsansatte for kirkefunktionærer med kerneopgaver som kirketjener og graver, se organisationsaftalen på  www.folkekirkenspersonale.dk 
+ Lønnen aftales inden for intervallet  249.025 – 321.112 kr. ( pr. 31 marts 2012 ). Det svarer i nutidskroner til 282.420 – 364.174 kr. 
+   
+ Der er Rådighedsforpligtigelse til stillingen. Det udgør kr. 23.500 ( pr. 31 marts 2012 ). Det svarer i nutidskroner til kr. 26.651,44 kr. plus OK18-tillæg 1.100 kr. ( pr. 31 marts 2012 ). Det svarer til i nutidskroner til kr. 1.247,51. 
+ Hvis du ønsker at vide mere om stillingen er du velkommen til at ringe til  kontaktperson Kurt Faber på tlf. 24 60 50 35 
+ Ansøgning vedlagt CV og relevante referencer sendes til kontaktperson Kurt Faber, Kirkesvinget 3 2610 Rødovre eller mail: kurt@kurtfaber.dk 
+   
+ Vi skal have din ansøgning senest kl. 12.00,  torsdag den 19. maj 2022.","https://www.google.dk/maps/place/Kirkesvinget+3,2610,+Rødovre/",65057115,False,False,,False

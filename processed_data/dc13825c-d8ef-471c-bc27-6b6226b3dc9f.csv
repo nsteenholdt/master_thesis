@@ -1,0 +1,190 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Digital FM-Koordinator – DTU Campus Service,Digital FM-Koordinator – DTU Campus Service,"Digital FM-koordinator til stor og ambitiøs byg- og driftsherre
+
+
+ Brænder du for digital bygningsdrift? Vil du gerne deltage i udviklingen som hands-on digital FM-koordina",Danmarks Tekniske Universitet,Anker Engelunds Vej 101  ,2800,Kongens Lyngby,False,False,False,True,2025-01-16T08:50:30,2025-02-07T23:59:59,7. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/dc13825c-d8ef-471c-bc27-6b6226b3dc9f,Hovedstaden og Bornholm,Lyngby-Taarbæk,Danmark,2800,,Almindelige vilkår,Fastansættelse,Fuldtid,Bygge og anlæg,Bygningsarbejde mv.,Bygningskonstruktør,55.7857,12.5208,,,1003403265,,30060946,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/dc13825c-d8ef-471c-bc27-6b6226b3dc9f,https://job.jobnet.dk/CV/FindWork/Details/dc13825c-d8ef-471c-bc27-6b6226b3dc9f,https://job.jobnet.dk/CV/FindWork/Details/dc13825c-d8ef-471c-bc27-6b6226b3dc9f,True,dc13825c-d8ef-471c-bc27-6b6226b3dc9f,55.7857,12.5208,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,,0,Primary,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4497,None,,1003403265,30060946,None,dc13825c-d8ef-471c-bc27-6b6226b3dc9f,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,,0,Primary,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4497,None,,1003403265,30060946,None,,2025-01-16T08:50:30+01:00,2025-02-07T23:59:59+01:00,Digital FM-Koordinator – DTU Campus Service,"Digital FM-koordinator til stor og ambitiøs byg- og driftsherre 
+ 
+ 
+ Brænder du for digital bygningsdrift? Vil du gerne deltage i udviklingen som hands-on digital FM-koordinator, implementere digitale processer i bygningsdrift og være med til at præge fremtidens facilities management som repræsentant for en af Danmarks største og mest ambitiøse Byg- og driftsherre?  
+ 
+ Vil du samtidig gerne have et liv med en sund balance mellem arbejde og fritid? Og hvad med at møde på arbejde i et positivt og fællesskabsorienteret miljø med meget høj trivsel og arbejdsglæde? I dette job kan du få hele pakken og mere til.   
+ 
+ DTU som byg- og driftsherre  
+ 
+ DTU har 13.500 studerende og 6.000 ansatte, der udfolder sig i faciliteter på tværs af en lang række lokationer i Danmark. Vores ca. 600.000 m² dækker over en meget varieret bygningsmasse, der rummer alt fra kontorer og auditorier til state-of-the-art laboratorier, vores vindtunnel, de lyddøde rum, havforskningsskibet Dana og meget, meget mere.   
+ 
+ Som internationalt anerkendt eliteuniversitet skal vi selvfølgelig sikre, at vores bygninger og faciliteter er tidssvarende. Reelt mere end det, da ”verdensklasse” ikke er et ord, vi er bange for. Det er her, at du kommer på banen som koordinator og sparringspartner; først og fremmest for DTU’s driftssektioner men også for DTU’s projektledere på byggeprojekter.  
+ 
+ Din rolle som Digital FM-koordinator 
+ 
+ DTU Campus Service har stor fokus på digitalisering i alle dele af forretningen. 
+ 
+ Som Digital FM-koordinator vil du have en vigtig rolle i, sammen med dine kolleger i CAS Digital, at understøtte de dele af forretningen, som står for bygningsdriftens data og processer. En rolle som skal være både fagligt understøttende og udviklende.  
+ 
+ I tæt samarbejde med vores FM-konsulent og dine øvrige kolleger sikrer du at der er styr på Asset-, Product- og System informationer, driftsdokumentation og bæredygtighedsdata - i det hele taget al information der kræves for at drifte et eliteuniversitet.  
+ 
+ Dine primære opgaver bliver at:   
+ Understøtte og vejlede driftssektioner omkring digitale processer og brug af vores FM-platform og øvrige digitale FM-værktøjer.  
+ Deltage i implementeringen af vores digitale FM-strategi i tæt samarbejde med vores FM-konsulent 
+ Indgå i vores løbende dialog med FM-systemleverandør om mulige forbedringer og forslag til ”næste skridt”.  
+ Bidrage til vores digitale kompetenceudvikling i driftssektionerne og på byggeprojekterne 
+ Udvikle og drive vores digitale forretningsdata  
+ Være en af vores digitale FM-ambassadører overfor brugere og eksterne samarbejdspartnere  
+ 
+ Vores forventninger til dig 
+ 
+ Vi lægger vægt på, at du er struktureret, udadvendt og har stor interesse for digitalisering i byggebranchen generelt og bygningsdrift i særdeleshed.  
+ 
+ Du har en uddannelsesmæssig baggrund som bygningskonstruktør, ingeniør, maskinmester, teknisk tegner eller det kan være noget helt fjerde, som giver dig gode forudsætning for at varetage rollen som Digital FM-koordinator.  
+ 
+ Vores fokus er, at du via din uddannelse eller fra tidligere ansættelser, har tilegnet dig kompetencer indenfor digital bygningsdrift og de processer som følger med, herunder håndtering af driftsdokumentation, driftsopgaver, ”Som Udført” materiale, digitale bygningsmodeller i både 2d og 3d osv.  
+ 
+ Som digital FM-koordinator samarbejder du med kolleger internt i DTU, med DTU’s brugere og med eksterne samarbejdspartnere såsom leverandører, entreprenører og håndværkere. Derfor er det vigtigt for os, at du kan levere tydelige budskaber både skriftligt og mundtligt.  
+ 
+ Det er vigtigt for os at du enten gennem din uddannelse eller gennem tidligere ansættelser har opnået indsigt i de tekniske fagdiscipliner som HVAC, BMS og EL.  
+ 
+ Det vil være et plus, men ikke et krav, at du har kendskab til et eller flere af følgende digitale værktøjer: Dalux, Solibri, Navisworks, Autocad, Revit, MagiCad, QGIS.  
+ 
+ Vi forventer af dig:  
+ Baggrund som bygningskonstruktør, ingeniør, maskinmester, teknisk tegner eller med tilsvarende erfaring  
+ Indsigt i tekniske fagdiscipliner  
+ Erfaring med digital bygningsdrift fra uddannelse eller tidligere ansættelse 
+ Struktureret, udadvendt og stor interesse for digital bygningsdrift  
+ Selvstændig, opsøgende, proaktiv tilgang til opgaver og projekter  
+ 
+ Hvad tilbyder vi dig 
+ 
+ Din nye arbejdsplads er CAS Digital som har fast base i Bygning 409 på Lyngby Campus. Du kan forvente en dynamisk arbejdsplads med mange spændende og inspirerende udfordringer. Et udadvendt og varieret job med gode muligheder for faglig og personlig kompetenceudvikling.   
+ 
+ Vi har en uformel omgangstone og prioriterer et godt kollegaskab, hvor vi lægger vægt på tværgående samarbejde og er fælles om at skabe gode resultater.  
+ 
+ Vi har selvfølgelig fleksible rammer. Det dækker bl.a. over stor frihed til selv at planlægge under den paraply, vi kalder selvledelse. Træls og demotiverende micro management er ikke noget, vi arbejder med. Et helt afgørende nøgleord hos os er tillid. Vi stoler på hinanden, og vi har hinandens ryg og netop det, tror vi er hemmeligheden bag vores tårnhøje trivsel og arbejdsglæde – der omfatter hele Campus Service-organisationen og ikke kun vores team i CAS Digital.  
+ 
+ Løn og ansættelsesvilkår 
+ 
+ Løn- og ansættelsesvilkår i henhold til overenskomst for akademikere i staten eller anden relevant overenskomst. Du kan bl.a. se frem til fuldt arbejdsgiverbetalt pension og andre goder. Der er mulighed for forhandling af et tillæg efter kvalifikationer. 
+ 
+ Stillingen er på 37 timer og ønskes besat pr. 1. april 2024 eller snarest derefter.  
+ 
+ Ansøgning og kontakt 
+ 
+ Vi skal modtage din online ansøgning senest den  7. februar 2025 
+ . Åbn linket ""Ansøg nu"", hvor du udfylder ansøgningsformularen samt vedhæfter motiveret ansøgning, CV og eksamensbeviser.  
+ 
+ Ønsker du flere oplysninger om stillingen, er du velkommen til at kontakte sektionsleder i CAS Digital, Jakob Andreassen på 4060 2173. 
+ 
+ Ansøgninger modtaget efter ansøgningsfristens udløb tages ikke i betragtning. 
+ 
+ Alle interesserede uanset alder, køn, handicap, race, religion eller etnisk tilhørsforhold, opfordres til at søge stillingen. Da DTU arbejder med forskning i kritisk teknologi, hvormed der gælder særlige regler for blandt andet sikkerhed og eksportkontrol, kan der blive foretage open source-baggrundstjek af kvalificerede kandidater til stillingen. 
+ 
+ Campus Service 
+ 
+ 
+ Vi er en del af Campus Service, der med ca. 200 medarbejdere leverer service, drifts- og vedligeholdelsesopgaver samt varetager udbygning og renovering af hele DTU’s bygningsmasse. Læs mere på:  
+ www.dtu.dk 
+  og  
+ www.campusudvikling.dtu.dk 
+ .     
+ 
+ 
+ Med knap 220 ansatte er Campus Service blandt de største af DTU's teknisk administrative koncernstabe. Campus Service har til formål at udvikle, drive og vedligeholde DTU's bygningsmasse, arealer og faciliteter, samt varetage indvendigt vedligehold og tilsyn med de derudover lejede DTU-arealer og faciliteter. Målet for Campus Service' virksomhed er, at DTU's bygninger, omgivelser og faciliteter er attraktive for de ansatte og studerende, men også at andre borgere, virksomheder og lokalsamfund anser DTU og DTU's faciliteter som et aktiv, man meget gerne benytter og samarbejder med. 
+ 
+ 
+ Teknologi for mennesker 
+ 
+ 
+ DTU udvikler teknologi for mennesker. Med vores forskning og uddannelser i international topklasse er vi med til at skabe en bedre verden, og vi bidrager til løsningen af de globale udfordringer formuleret i FN’s 17 verdensmål for en bæredygtig udvikling. H.C. Ørsted grundlagde DTU i 1829 med en klar mission om at udvikle og nyttiggøre naturvidenskab og teknisk videnskab til gavn for samfundet. Den mission lever den dag i dag. DTU har 13.500 studerende og 6.000 ansatte. Vi arbejder i en international atmosfære og har et inkluderende, udviklende og uformelt arbejdsmiljø. DTU har campusser i hele Danmark og i Grønland og samarbejder med de bedste universiteter verden over.",Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,1,1,Fuldtid,None,None,1,,Bygningskonstruktør,0,,0,0,True,"{'Email': None, 'PersonName': 'Jakob Andreassen', 'FirstName': 'Jakob', 'LastName': 'Andreassen', 'PositionTitle': 'Sektionsleder i CAS Digital', 'PhoneNumbers': [{'Number': '4060 2173', 'Type': 0, 'Description': 'Primary'}]}",2025-04-01T00:00:00+02:00,True,False,False,False,4,,,False,False,False,False,False,False,,,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4497,False,2025-02-07T23:59:59+01:00,7,/CV/FindWork/GetLogo?JobAdId=dc13825c-d8ef-471c-bc27-6b6226b3dc9f&Organisation=30060946,"Anker Engelunds Vej 101,2800, Lyngby-Taarbæk",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=dc13825c-d8ef-471c-bc27-6b6226b3dc9f&Company.Name=Danmarks Tekniske Universitet&SubmissionDeadlineDate=2025-2-7&Title=Digital FM-Koordinator – DTU Campus Service&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Digital FM-Koordinator – DTU Campus Service,True,,True,1,,dc13825c-d8ef-471c-bc27-6b6226b3dc9f,,,False,False,,0,False,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,,,2800,False,False,False,Lyngby-Taarbæk,Jakob Andreassen,4060 2173,,,,,,False,,2025-02-07T23:59:59+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Lyngby-Taarbæk kommune,False,Danmarks Tekniske Universitet,,None,,False,False,"Digital FM-koordinator til stor og ambitiøs byg- og driftsherre
+
+
+ Brænder du for digital bygningsdrift? Vil du gerne deltage i udviklingen som hands-on digital FM-koordinator, implementere digitale processer i bygningsdrift og være med til at præge fremtidens facilities management som repræsentant for en af Danmarks største og mest ambitiøse Byg- ","""Digital FM-koordinator til stor og ambitiøs byg- og driftsherre\n\n\n Brænder du for digital bygningsdrift? Vil du gerne deltage i udviklingen som hands-on digital FM-koordinator, implementere digitale processer i bygningsdrift og være med til at præge fremtidens facilities management som repræsentant for en af Danmarks største og mest ambitiøse Byg- ""","""Digital FM-Koordinator – DTU Campus Service""","https://www.google.dk/maps/dir//Anker+Engelunds+Vej+101,2800,+Lyngby-Taarbæk/","Digital FM-koordinator til stor og ambitiøs byg- og driftsherre 
+ 
+ 
+ Brænder du for digital bygningsdrift? Vil du gerne deltage i udviklingen som hands-on digital FM-koordinator, implementere digitale processer i bygningsdrift og være med til at præge fremtidens facilities management som repræsentant for en af Danmarks største og mest ambitiøse Byg- og driftsherre?  
+ 
+ Vil du samtidig gerne have et liv med en sund balance mellem arbejde og fritid? Og hvad med at møde på arbejde i et positivt og fællesskabsorienteret miljø med meget høj trivsel og arbejdsglæde? I dette job kan du få hele pakken og mere til.   
+ 
+ DTU som byg- og driftsherre  
+ 
+ DTU har 13.500 studerende og 6.000 ansatte, der udfolder sig i faciliteter på tværs af en lang række lokationer i Danmark. Vores ca. 600.000 m² dækker over en meget varieret bygningsmasse, der rummer alt fra kontorer og auditorier til state-of-the-art laboratorier, vores vindtunnel, de lyddøde rum, havforskningsskibet Dana og meget, meget mere.   
+ 
+ Som internationalt anerkendt eliteuniversitet skal vi selvfølgelig sikre, at vores bygninger og faciliteter er tidssvarende. Reelt mere end det, da ”verdensklasse” ikke er et ord, vi er bange for. Det er her, at du kommer på banen som koordinator og sparringspartner; først og fremmest for DTU’s driftssektioner men også for DTU’s projektledere på byggeprojekter.  
+ 
+ Din rolle som Digital FM-koordinator 
+ 
+ DTU Campus Service har stor fokus på digitalisering i alle dele af forretningen. 
+ 
+ Som Digital FM-koordinator vil du have en vigtig rolle i, sammen med dine kolleger i CAS Digital, at understøtte de dele af forretningen, som står for bygningsdriftens data og processer. En rolle som skal være både fagligt understøttende og udviklende.  
+ 
+ I tæt samarbejde med vores FM-konsulent og dine øvrige kolleger sikrer du at der er styr på Asset-, Product- og System informationer, driftsdokumentation og bæredygtighedsdata - i det hele taget al information der kræves for at drifte et eliteuniversitet.  
+ 
+ Dine primære opgaver bliver at:   
+ Understøtte og vejlede driftssektioner omkring digitale processer og brug af vores FM-platform og øvrige digitale FM-værktøjer.  
+ Deltage i implementeringen af vores digitale FM-strategi i tæt samarbejde med vores FM-konsulent 
+ Indgå i vores løbende dialog med FM-systemleverandør om mulige forbedringer og forslag til ”næste skridt”.  
+ Bidrage til vores digitale kompetenceudvikling i driftssektionerne og på byggeprojekterne 
+ Udvikle og drive vores digitale forretningsdata  
+ Være en af vores digitale FM-ambassadører overfor brugere og eksterne samarbejdspartnere  
+ 
+ Vores forventninger til dig 
+ 
+ Vi lægger vægt på, at du er struktureret, udadvendt og har stor interesse for digitalisering i byggebranchen generelt og bygningsdrift i særdeleshed.  
+ 
+ Du har en uddannelsesmæssig baggrund som bygningskonstruktør, ingeniør, maskinmester, teknisk tegner eller det kan være noget helt fjerde, som giver dig gode forudsætning for at varetage rollen som Digital FM-koordinator.  
+ 
+ Vores fokus er, at du via din uddannelse eller fra tidligere ansættelser, har tilegnet dig kompetencer indenfor digital bygningsdrift og de processer som følger med, herunder håndtering af driftsdokumentation, driftsopgaver, ”Som Udført” materiale, digitale bygningsmodeller i både 2d og 3d osv.  
+ 
+ Som digital FM-koordinator samarbejder du med kolleger internt i DTU, med DTU’s brugere og med eksterne samarbejdspartnere såsom leverandører, entreprenører og håndværkere. Derfor er det vigtigt for os, at du kan levere tydelige budskaber både skriftligt og mundtligt.  
+ 
+ Det er vigtigt for os at du enten gennem din uddannelse eller gennem tidligere ansættelser har opnået indsigt i de tekniske fagdiscipliner som HVAC, BMS og EL.  
+ 
+ Det vil være et plus, men ikke et krav, at du har kendskab til et eller flere af følgende digitale værktøjer: Dalux, Solibri, Navisworks, Autocad, Revit, MagiCad, QGIS.  
+ 
+ Vi forventer af dig:  
+ Baggrund som bygningskonstruktør, ingeniør, maskinmester, teknisk tegner eller med tilsvarende erfaring  
+ Indsigt i tekniske fagdiscipliner  
+ Erfaring med digital bygningsdrift fra uddannelse eller tidligere ansættelse 
+ Struktureret, udadvendt og stor interesse for digital bygningsdrift  
+ Selvstændig, opsøgende, proaktiv tilgang til opgaver og projekter  
+ 
+ Hvad tilbyder vi dig 
+ 
+ Din nye arbejdsplads er CAS Digital som har fast base i Bygning 409 på Lyngby Campus. Du kan forvente en dynamisk arbejdsplads med mange spændende og inspirerende udfordringer. Et udadvendt og varieret job med gode muligheder for faglig og personlig kompetenceudvikling.   
+ 
+ Vi har en uformel omgangstone og prioriterer et godt kollegaskab, hvor vi lægger vægt på tværgående samarbejde og er fælles om at skabe gode resultater.  
+ 
+ Vi har selvfølgelig fleksible rammer. Det dækker bl.a. over stor frihed til selv at planlægge under den paraply, vi kalder selvledelse. Træls og demotiverende micro management er ikke noget, vi arbejder med. Et helt afgørende nøgleord hos os er tillid. Vi stoler på hinanden, og vi har hinandens ryg og netop det, tror vi er hemmeligheden bag vores tårnhøje trivsel og arbejdsglæde – der omfatter hele Campus Service-organisationen og ikke kun vores team i CAS Digital.  
+ 
+ Løn og ansættelsesvilkår 
+ 
+ Løn- og ansættelsesvilkår i henhold til overenskomst for akademikere i staten eller anden relevant overenskomst. Du kan bl.a. se frem til fuldt arbejdsgiverbetalt pension og andre goder. Der er mulighed for forhandling af et tillæg efter kvalifikationer. 
+ 
+ Stillingen er på 37 timer og ønskes besat pr. 1. april 2024 eller snarest derefter.  
+ 
+ Ansøgning og kontakt 
+ 
+ Vi skal modtage din online ansøgning senest den  7. februar 2025 
+ . Åbn linket ""Ansøg nu"", hvor du udfylder ansøgningsformularen samt vedhæfter motiveret ansøgning, CV og eksamensbeviser.  
+ 
+ Ønsker du flere oplysninger om stillingen, er du velkommen til at kontakte sektionsleder i CAS Digital, Jakob Andreassen på 4060 2173. 
+ 
+ Ansøgninger modtaget efter ansøgningsfristens udløb tages ikke i betragtning. 
+ 
+ Alle interesserede uanset alder, køn, handicap, race, religion eller etnisk tilhørsforhold, opfordres til at søge stillingen. Da DTU arbejder med forskning i kritisk teknologi, hvormed der gælder særlige regler for blandt andet sikkerhed og eksportkontrol, kan der blive foretage open source-baggrundstjek af kvalificerede kandidater til stillingen. 
+ 
+ Campus Service 
+ 
+ 
+ Vi er en del af Campus Service, der med ca. 200 medarbejdere leverer service, drifts- og vedligeholdelsesopgaver samt varetager udbygning og renovering af hele DTU’s bygningsmasse. Læs mere på:  
+ www.dtu.dk 
+  og  
+ www.campusudvikling.dtu.dk 
+ .     
+ 
+ 
+ Med knap 220 ansatte er Campus Service blandt de største af DTU's teknisk administrative koncernstabe. Campus Service har til formål at udvikle, drive og vedligeholde DTU's bygningsmasse, arealer og faciliteter, samt varetage indvendigt vedligehold og tilsyn med de derudover lejede DTU-arealer og faciliteter. Målet for Campus Service' virksomhed er, at DTU's bygninger, omgivelser og faciliteter er attraktive for de ansatte og studerende, men også at andre borgere, virksomheder og lokalsamfund anser DTU og DTU's faciliteter som et aktiv, man meget gerne benytter og samarbejder med. 
+ 
+ 
+ Teknologi for mennesker 
+ 
+ 
+ DTU udvikler teknologi for mennesker. Med vores forskning og uddannelser i international topklasse er vi med til at skabe en bedre verden, og vi bidrager til løsningen af de globale udfordringer formuleret i FN’s 17 verdensmål for en bæredygtig udvikling. H.C. Ørsted grundlagde DTU i 1829 med en klar mission om at udvikle og nyttiggøre naturvidenskab og teknisk videnskab til gavn for samfundet. Den mission lever den dag i dag. DTU har 13.500 studerende og 6.000 ansatte. Vi arbejder i en international atmosfære og har et inkluderende, udviklende og uformelt arbejdsmiljø. DTU har campusser i hele Danmark og i Grønland og samarbejder med de bedste universiteter verden over.","https://www.google.dk/maps/place/Anker+Engelunds+Vej+101,2800,+Lyngby-Taarbæk/",30060946,False,False,,False

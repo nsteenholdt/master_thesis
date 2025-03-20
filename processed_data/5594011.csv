@@ -1,0 +1,135 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,FGU NORD søger FGU-lærere til almen undervisning på vores skole i Gladsaxe,FGU NORD søger FGU-lærere til almen undervisning på vores skole i Gladsaxe,"Har du lyst til at undervise helhedsorienteret og praksisrettet og i tæt samarbejdet med kollegaer med forskellige erhvervsbaggrunde?
+Den Forberedende Grunduddannelse (F",S/I FGU Nord,Gladsaxevej 315,2860,Søborg,False,False,False,True,2022-05-09T00:00:00,2022-06-01T00:00:00,1. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5594011,Hovedstaden og Bornholm,Gladsaxe,Danmark,2860,,,,Fuldtid,Undervisning og vejledning,Øvrig undervisning,FGU-lærer,55.7351,12.4866,,Dag,131641,115571,39816423,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5594011,https://job.jobnet.dk/CV/FindWork/Details/5594011,https://job.jobnet.dk/CV/FindWork/Details/5594011,True,5594011,55.7351,12.4866,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",S/I FGU Nord,Gladsaxevej 315,58,Danmark,159,Gladsaxe,4,"Hovedstaden, Sjælland og Bornholm",2860,Søborg,,0,Primary,,,,None,,1024369850,39816423,None,5594011,5594011,S/I FGU Nord,Gladsaxevej 315,58,Danmark,159,Gladsaxe,4,"Hovedstaden, Sjælland og Bornholm",2860,Søborg,,0,Primary,,,,None,,1024369850,39816423,None,,2022-05-09T00:00:00,2022-06-01T00:00:00,FGU NORD søger FGU-lærere til almen undervisning på vores skole i Gladsaxe,"Har du lyst til at undervise helhedsorienteret og praksisrettet og i tæt samarbejdet med kollegaer med forskellige erhvervsbaggrunde? 
+ Den Forberedende Grunduddannelse (FGU) er et nyt uddannelsestilbud til unge under 25 år, der ikke har gennemført eller er i gang med en ungdomsuddannelse og ikke er i beskæftigelse.  
+ Hovedformålet med uddannelsen er at give vores elever viden, kundskaber, færdigheder, afklaring og motivation til at gennemføre en ungdomsuddannelse eller opnå ufaglært beskæftigelse. Samtidig skal uddannelsen styrke elevernes personlige og sociale kompetencer og demokratiske dannelse. 
+ Vi ser det som vores vigtigste opgave at hjælpe eleverne med at opdage deres potentiale og kvalificere deres valg ift. fremtiden. Derfor har vi fokus på meget mere end de afsluttende prøver, som afvikles to gange om året, f.eks. individuel vejledning, forløbssamtaler, erhvervstræning, kombinationsforløb, projektuger, et aktivt elevråd og sociale arrangementer mm.  A lle forløb tilpasses individuelt til den enkelte elev og kan justeres undervejs, så alle elever får de bedste forudsætninger for at få deres fremtidsdrømme opfyldt i forhold til uddannelse og job.  
+ Vores undervisningen er praksisrettet og helhedsorienteret, og samspillet med almene fag og faglige temaer er i centrum. Det er afgørende, at undervisningen tilrettelægges med stor alsidighed og at arbejdsformen tilpasses den enkelte elev.  Dette sætter høje krav til vores undervisere og deres didaktiske værktøjskasse, og du skal derfor have lyst til at indgå i tæt samarbejde med dine kollegaer og lave forløb på tværs af dine egne fag. 
+ Vi søger 3 FGU-lærer med kompetencer inden for et eller flere af de  almene fag på FGU 
+ 
+ Dansk 
+ Dansk som andetsprog 
+ Matematik 
+ Engelsk 
+ Naturfag 
+ Samfundsfag 
+ Identitet og medborgerskab 
+ Privatøkonomi, arbejdspladslære, samarbejdslære og erhvervslære (PASE) 
+ Valgfrit: teknologiforståelse 
+ 
+ Vi forventer at du: 
+ 
+ Er uddannet lærer og/eller har erfaring som underviser 
+ Kan skabe et struktureret undervisningsmiljø 
+ Er god til at planlægge og arbejde struktureret samt møder dine deadlines 
+ Har lyst til og mod på at undervise helhedsorienteret og praksisbaseret meget gerne i samarbejde med skolens produktionsværksteder 
+ Trives med at arbejde med elever med forskellige livsforudsætninger og som befinder sig på forskellige faglige niveauer 
+ Har et positivt og anerkendende menneskesyn 
+ Er engageret, initiativrig og fleksibel 
+ Kan indgå i et tværfagligt samarbejde med skolens øvrige medarbejdere med fokus på at kombinerer teori og praksis 
+ 
+ Vi tilbyder: 
+ 
+ En skole i opstartsfasen, som du vil være med til at forme 
+ 
+ 
+ Mulighed for at præge indholdet i den daglige undervisning, både på den korte og den lange bane 
+ Gode kollegaer og et godt arbejdsmiljø 
+ 
+ 
+ Et alsidigt undervisningsmiljø, der rummer aktiviteter såsom skolefester, erhvervstræning for eleverne, projektuger, pædagogiske dage, ekskursioner og fællesaktiviteter med alle skolens elever 
+ 
+ 
+ Et helhedsorienteret og relevant forløb, der bygger på gode relationerne mellem elever og underviser 
+ En ny FGU-didaktik 
+ 
+ 
+ En udfordrende og altid anderledes hverdag 
+ 
+ 
+ Mulighed for personlig og faglig udvikling samt refleksion over egen praksis sammen med kollegaer i dit team 
+ 
+   
+ Ansøgningsfrist og samtale 
+ Stillingen er med forventet tiltrædelse d. 1. august 2022. Ansøgningsfristen er onsdag d. 01. juni kl. 10. Skriftlig ansøgning sendes til mail:  dorthed@fgunord.dk  mrk. ansøgningen ”FGU-lærere til almen undervisning i Gladsaxe”. 
+ Bemærk : Vi forventer, at du som led i din ansøgning kommer til informationsmøde på skolen tirsdag d. 31. maj kl. 16-18, ved at skrive en mail til  dorthed@fgunord.dk  eller alternativt laver en aftale om besøg på et andet tidspunkt ved at ringe til konstitueret skoleleder Sine Bjerkan på telefon 25 10 98 20 og lave aftale om besøg på et andet tidspunkt. Samtalerne vil foregå d. 14 og 15. juni. 
+ Yderligere oplysninger Du kan læse mere om FGU Nord på  www.fgunord.dk  og https://www.uvm.dk/forberedende-grunduddannelse/om-forberedende-grunduddannelse 
+ Hvis du har spørgsmål til stillingen, er du velkommen til at kontakte konstitueret skoleleder Sine Bjerkan på telefon 25 10 98 20. 
+   
+ Løn og ansættelsesforhold 
+ 
+ Der er tale om to fastansættelser og en orlov stilling som løber frem til 31.03.23 
+ 
+ 
+ Stillingen er en fuldtidsstilling med en gennemsnitlig ugentlig arbejdstid på 37 timer 
+ Løn og ansættelsesforhold efter gældende overenskomster (Fællesoverenskomsten:  https://www.uddannelsesforbundet.dk/media/5635/underskrevet-faellesoverenskomst-lc-co10_marts2022.pdf  og Organisationsaftale for lærere m.v. ved institutioner for forberedende grunduddannelse (FGU) med Uddannelsesforbundet: https://www.uddannelsesforbundet.dk/media/7278/fgu-overenskomst_jan2022.pdf). Basis lønindplacering efter anciennitet, lokale løntillæg forhandles mellem TR og ledelse inden ansættelsens start. 
+ 
+   
+ Vi opfordrer alle kvalificerede uanset køn, religion eller etnisk oprindelse til at søge stillingen.",Gladsaxevej 315,58,Danmark,159,Gladsaxe,4,"Hovedstaden, Sjælland og Bornholm",2860,Søborg,1,1,Fuldtid,None,None,3,,0,,0,0,0,,False,"{'Id': 7972333, 'Email': 'sineb@fgunord.dk', 'FaxNumber': None, 'PersonName': 'Sine Bjerkan', 'FirstName': 'Sine', 'LastName': 'Bjerkan', 'PositionTitle': 'Skoleleder', 'PhoneNumbers': [{'Number': '25109820', 'Type': 1, 'Description': 'Arbejde direkte'}]}",2022-08-01T00:00:00,True,False,False,False,4,,,False,False,False,True,,,dorthed@fgunord.dk,,,True,2022-06-01T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5594011&Organisation=39816423,"Gladsaxevej 315,2860, Søborg",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5594011&Company.Name=S/I FGU Nord&SubmissionDeadlineDate=2022-6-1&Title=FGU NORD søger FGU-lærere til almen undervisning på vores skole i Gladsaxe&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,FGU NORD søger FGU-lærere til almen undervisning på vores skole i Gladsaxe,True,,True,1,,5594011,,,False,False,,0,False,S/I FGU Nord,Gladsaxevej 315,,,2860,False,False,False,Søborg,Sine Bjerkan,25109820,sineb@fgunord.dk,,,,,False,,2022-06-01T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Dag,Arbejdspladsen ligger i Gladsaxe kommune,False,S/I FGU Nord,,None,,False,False,"Har du lyst til at undervise helhedsorienteret og praksisrettet og i t&aelig;t samarbejdet med kollegaer med forskellige erhvervsbaggrunde?
+Den Forberedende Grunduddannelse (FGU) er et nyt uddannelsestilbud til unge under 25 &aring;r, der ikke har gennemf&oslash;rt eller er i gang med en ungdomsuddannelse og ikke er i besk&aelig;ftigelse. 
+Hovedfor","""Har du lyst til at undervise helhedsorienteret og praksisrettet og i t\u0026aelig;t samarbejdet med kollegaer med forskellige erhvervsbaggrunde?\nDen Forberedende Grunduddannelse (FGU) er et nyt uddannelsestilbud til unge under 25 \u0026aring;r, der ikke har gennemf\u0026oslash;rt eller er i gang med en ungdomsuddannelse og ikke er i besk\u0026aelig;ftigelse. \nHovedfor""","""FGU NORD søger FGU-lærere til almen undervisning på vores skole i Gladsaxe""","https://www.google.dk/maps/dir//Gladsaxevej+315,2860,+Søborg/","Har du lyst til at undervise helhedsorienteret og praksisrettet og i tæt samarbejdet med kollegaer med forskellige erhvervsbaggrunde? 
+ Den Forberedende Grunduddannelse (FGU) er et nyt uddannelsestilbud til unge under 25 år, der ikke har gennemført eller er i gang med en ungdomsuddannelse og ikke er i beskæftigelse.  
+ Hovedformålet med uddannelsen er at give vores elever viden, kundskaber, færdigheder, afklaring og motivation til at gennemføre en ungdomsuddannelse eller opnå ufaglært beskæftigelse. Samtidig skal uddannelsen styrke elevernes personlige og sociale kompetencer og demokratiske dannelse. 
+ Vi ser det som vores vigtigste opgave at hjælpe eleverne med at opdage deres potentiale og kvalificere deres valg ift. fremtiden. Derfor har vi fokus på meget mere end de afsluttende prøver, som afvikles to gange om året, f.eks. individuel vejledning, forløbssamtaler, erhvervstræning, kombinationsforløb, projektuger, et aktivt elevråd og sociale arrangementer mm.  A lle forløb tilpasses individuelt til den enkelte elev og kan justeres undervejs, så alle elever får de bedste forudsætninger for at få deres fremtidsdrømme opfyldt i forhold til uddannelse og job.  
+ Vores undervisningen er praksisrettet og helhedsorienteret, og samspillet med almene fag og faglige temaer er i centrum. Det er afgørende, at undervisningen tilrettelægges med stor alsidighed og at arbejdsformen tilpasses den enkelte elev.  Dette sætter høje krav til vores undervisere og deres didaktiske værktøjskasse, og du skal derfor have lyst til at indgå i tæt samarbejde med dine kollegaer og lave forløb på tværs af dine egne fag. 
+ Vi søger 3 FGU-lærer med kompetencer inden for et eller flere af de  almene fag på FGU 
+ 
+ Dansk 
+ Dansk som andetsprog 
+ Matematik 
+ Engelsk 
+ Naturfag 
+ Samfundsfag 
+ Identitet og medborgerskab 
+ Privatøkonomi, arbejdspladslære, samarbejdslære og erhvervslære (PASE) 
+ Valgfrit: teknologiforståelse 
+ 
+ Vi forventer at du: 
+ 
+ Er uddannet lærer og/eller har erfaring som underviser 
+ Kan skabe et struktureret undervisningsmiljø 
+ Er god til at planlægge og arbejde struktureret samt møder dine deadlines 
+ Har lyst til og mod på at undervise helhedsorienteret og praksisbaseret meget gerne i samarbejde med skolens produktionsværksteder 
+ Trives med at arbejde med elever med forskellige livsforudsætninger og som befinder sig på forskellige faglige niveauer 
+ Har et positivt og anerkendende menneskesyn 
+ Er engageret, initiativrig og fleksibel 
+ Kan indgå i et tværfagligt samarbejde med skolens øvrige medarbejdere med fokus på at kombinerer teori og praksis 
+ 
+ Vi tilbyder: 
+ 
+ En skole i opstartsfasen, som du vil være med til at forme 
+ 
+ 
+ Mulighed for at præge indholdet i den daglige undervisning, både på den korte og den lange bane 
+ Gode kollegaer og et godt arbejdsmiljø 
+ 
+ 
+ Et alsidigt undervisningsmiljø, der rummer aktiviteter såsom skolefester, erhvervstræning for eleverne, projektuger, pædagogiske dage, ekskursioner og fællesaktiviteter med alle skolens elever 
+ 
+ 
+ Et helhedsorienteret og relevant forløb, der bygger på gode relationerne mellem elever og underviser 
+ En ny FGU-didaktik 
+ 
+ 
+ En udfordrende og altid anderledes hverdag 
+ 
+ 
+ Mulighed for personlig og faglig udvikling samt refleksion over egen praksis sammen med kollegaer i dit team 
+ 
+   
+ Ansøgningsfrist og samtale 
+ Stillingen er med forventet tiltrædelse d. 1. august 2022. Ansøgningsfristen er onsdag d. 01. juni kl. 10. Skriftlig ansøgning sendes til mail:  dorthed@fgunord.dk  mrk. ansøgningen ”FGU-lærere til almen undervisning i Gladsaxe”. 
+ Bemærk : Vi forventer, at du som led i din ansøgning kommer til informationsmøde på skolen tirsdag d. 31. maj kl. 16-18, ved at skrive en mail til  dorthed@fgunord.dk  eller alternativt laver en aftale om besøg på et andet tidspunkt ved at ringe til konstitueret skoleleder Sine Bjerkan på telefon 25 10 98 20 og lave aftale om besøg på et andet tidspunkt. Samtalerne vil foregå d. 14 og 15. juni. 
+ Yderligere oplysninger Du kan læse mere om FGU Nord på  www.fgunord.dk  og  https://www.uvm.dk/forberedende-grunduddannelse/om-forberedende-grunduddannelse 
+ Hvis du har spørgsmål til stillingen, er du velkommen til at kontakte konstitueret skoleleder Sine Bjerkan på telefon 25 10 98 20. 
+   
+ Løn og ansættelsesforhold 
+ 
+ Der er tale om to fastansættelser og en orlov stilling som løber frem til 31.03.23 
+ 
+ 
+ Stillingen er en fuldtidsstilling med en gennemsnitlig ugentlig arbejdstid på 37 timer 
+ Løn og ansættelsesforhold efter gældende overenskomster (Fællesoverenskomsten:  https://www.uddannelsesforbundet.dk/media/5635/underskrevet-faellesoverenskomst-lc-co10_marts2022.pdf  og Organisationsaftale for lærere m.v. ved institutioner for forberedende grunduddannelse (FGU) med Uddannelsesforbundet:  https://www.uddannelsesforbundet.dk/media/7278/fgu-overenskomst_jan2022.pdf ). Basis lønindplacering efter anciennitet, lokale løntillæg forhandles mellem TR og ledelse inden ansættelsens start. 
+ 
+   
+ Vi opfordrer alle kvalificerede uanset køn, religion eller etnisk oprindelse til at søge stillingen.","https://www.google.dk/maps/place/Gladsaxevej+315,2860,+Søborg/",39816423,False,False,,False

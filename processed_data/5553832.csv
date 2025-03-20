@@ -1,0 +1,134 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,True,1,"Nordic speaking Junior Partner Manager, Dublin, Ireland (JO-2202-486124)","Nordic speaking Junior Partner Manager, Dublin, Ireland (JO-2202-486124)","CPL, Dublin, Ireland, is - for a customer - looking for a Nordic speaking Junior Partner Manager.
+Are you passionate about Business Development and have a foundational knowledge of Digital M",CPL,,,,False,True,False,False,2022-03-15T00:00:00,2022-05-10T00:00:00,10. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5553832,,,Irland,,,,,Fuldtid,"Salg, indkøb og markedsføring",Salg og indkøb,Kundeservicemedarbejder,,,,0,0,99999999,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5553832,https://job.jobnet.dk/CV/FindWork/Details/5553832,https://job.jobnet.dk/CV/FindWork/Details/5553832,False,5553832,0,0,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",CPL,83 Merrion Square,97,Irland,580,Aabenraa,3,Syddanmark,2,Dublin,,0,Primary,,claudia.cervantes@cpl.ie,,None,,9999999999,99999999,None,5553832,5553832,CPL,83 Merrion Square,97,Irland,580,Aabenraa,3,Syddanmark,2,Dublin,,0,Primary,,claudia.cervantes@cpl.ie,,None,,9999999999,99999999,None,,2022-03-15T00:00:00,2022-05-10T00:00:00,"Nordic speaking Junior Partner Manager, Dublin, Ireland (JO-2202-486124)","CPL, Dublin, Ireland, is - for a customer - looking for a Nordic speaking Junior Partner Manager. 
+ Are you passionate about Business Development and have a foundational knowledge of Digital Marketing? 
+ World's tech giants company is seeking a Nordic-speaking Junior Partner Manager, and you can be the one! 
+ You will do an entire sales cycle with B2B companies for projects in social media and have the help of Sales Development Representatives. As a Junior partner manager, you will also work with brands that have already started advertising on the social media platform to understand their strategic and tactical goals and co-create the right marketing plan to achieve them. 
+ Desired profile 
+ 
+ Training in Digital Marketing is provided, but they want someone with some knowledge of digital marketing and campaigns. 
+ Strong work examples of Business Development and achieving deadlines and targets at the interview stage 
+ Motivated about working within the company AND social media platform 
+ Bilingual or native level in one of these languages: Norwegian, Swedish, Finnish, or Danish 
+ 
+ Key responsibilities 
+ 
+ As a future junior partner manager, you will identify, research and contact potential new clients. 
+ Pitch clients about unique business propositions could bring value, delivering customized product pitches.  
+ Understand clients strategic and tactical goals and co-create the right marketing plan to achieve the best results 
+ Acquire an in-depth understanding of business goals in your niche market, offering educated insights to help B2B customers to succeed 
+ Build and maintain a book of business, developing and growing long term relationships  
+ Work toward set KPIs & a quarterly sales target (12K Performance Bonus paid quarterly) 
+ Work collaboratively with the broader sales team to share, and gain valuable knowledge on your role 
+ 
+ Eligibility 
+ 
+ At least one year of experience in a target-driven, customer-facing role (sales is preferred)  
+ Demonstrable ability to understand, validate, and overcome customer objections by crafting an effective marketing plan to use the Client's platform & functionality to achieve our advertiser's goals. 
+  Demonstrated experience using analytical approaches to solving business problems  
+ Demonstrable ability to train and educate advertisers on solutions, including how to create and optimize campaigns  
+ Ability to learn quickly and recall the Client's products and services  
+ Self-reliant, adaptable, decisive, and professional; able to effectively multi-task in a dynamic environment  
+ Proven experience in working toward quarterly goals in a KPI-driven environment 
+ Needed Digital Marketing Knowledge:
+ 
+ Cost Per Click (CPC) 
+ Cost per thousand (CPM) 
+ Certified public account (CPA) 
+ Return on Ad Spend (ROAS) 
+ 
+ 
+ 
+ Benefits & Details 
+ 
+ Contract- 2 YRS FTC 
+ Annual salary - 32K + 12K capped quarterly bonus (3K paid every quarter by achieving target no. of new business signed per month) 
+ Annual leave - 22 days 
+ Equipment WFH - Laptop, equipment, and allowance for desks, monitors, etc. provided 
+ Health insurance - no cost, from Day 1 
+ Pension contribution and share options 
+ Career Growth and Progression opportunities due to fast-growth and expansion 
+ Company social events with fantastic colleges all over the world 
+ Be part of a multicultural company that prioritize employees needs and has a positive team environment 
+ Paid training 
+ 
+ Hiring process 
+ 
+ Screen call + CV submission 
+ I will prepare you for the official interview 
+ Online language test + 1-Round Virtual Interview 
+ Offer 
+ Onboarding & Background check 
+ 
+ More information 
+ Claudia Cervantes at   claudia.cervantes@cpl.ie 
+ How to apply? 
+ Apply today by sending your CV to claudia.cervantes@cpl.ie. Also, if you have any questions regarding the working position, I am more than happy to help you. 
+ www.cpl.com/ie",,97,Irland,0,,0,Hele landet,,,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7822056, 'Email': 'claudia.cervantes@cpl.ie', 'FaxNumber': None, 'PersonName': 'Claudia Cervantes', 'FirstName': 'Claudia', 'LastName': 'Cervantes', 'PositionTitle': None, 'PhoneNumbers': []}",,False,False,False,False,4,,,False,False,False,False,EURES DK / Jan / 7222 3350,,claudia.cervantes@cpl.ie,,,False,2022-05-10T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5553832&Organisation=99999999,"83 Merrion Square,2, Dublin",False,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5553832&Company.Name=CPL&SubmissionDeadlineDate=2022-5-10&Title=Nordic speaking Junior Partner Manager, Dublin, Ireland (JO-2202-486124)&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,False,0,,,"Nordic speaking Junior Partner Manager, Dublin, Ireland (JO-2202-486124)",True,,True,1,,5553832,,,False,False,,0,False,CPL,83 Merrion Square,,,2,False,False,False,Dublin,Claudia Cervantes,,claudia.cervantes@cpl.ie,,,,,False,,2022-05-10T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Irland,False,CPL,,None,,False,False,"CPL, Dublin, Ireland, is - for a customer - looking for a Nordic speaking Junior Partner Manager.
+Are you passionate about Business Development and have a foundational knowledge of Digital Marketing?
+World's tech giants company is seeking a Nordic-speaking Junior Partner Manager, and you can be the one!
+You will do an entire sales cycle with B2B","""CPL, Dublin, Ireland, is - for a customer - looking for a Nordic speaking Junior Partner Manager.\r\nAre you passionate about Business Development and have a foundational knowledge of Digital Marketing?\r\nWorld\u0027s tech giants company is seeking a Nordic-speaking Junior Partner Manager, and you can be the one!\r\nYou will do an entire sales cycle with B2B""","""Nordic speaking Junior Partner Manager, Dublin, Ireland (JO-2202-486124)""","https://www.google.dk/maps/dir//83+Merrion+Square,2,+Dublin/","CPL, Dublin, Ireland, is - for a customer - looking for a Nordic speaking Junior Partner Manager. 
+ Are you passionate about Business Development and have a foundational knowledge of Digital Marketing? 
+ World's tech giants company is seeking a Nordic-speaking Junior Partner Manager, and you can be the one! 
+ You will do an entire sales cycle with B2B companies for projects in social media and have the help of Sales Development Representatives. As a Junior partner manager, you will also work with brands that have already started advertising on the social media platform to understand their strategic and tactical goals and co-create the right marketing plan to achieve them. 
+ Desired profile 
+ 
+ Training in Digital Marketing is provided, but they want someone with some knowledge of digital marketing and campaigns. 
+ Strong work examples of Business Development and achieving deadlines and targets at the interview stage 
+ Motivated about working within the company AND social media platform 
+ Bilingual or native level in one of these languages: Norwegian, Swedish, Finnish, or Danish 
+ 
+ Key responsibilities 
+ 
+ As a future junior partner manager, you will identify, research and contact potential new clients. 
+ Pitch clients about unique business propositions could bring value, delivering customized product pitches.  
+ Understand clients strategic and tactical goals and co-create the right marketing plan to achieve the best results 
+ Acquire an in-depth understanding of business goals in your niche market, offering educated insights to help B2B customers to succeed 
+ Build and maintain a book of business, developing and growing long term relationships  
+ Work toward set KPIs & a quarterly sales target (12K Performance Bonus paid quarterly) 
+ Work collaboratively with the broader sales team to share, and gain valuable knowledge on your role 
+ 
+ Eligibility 
+ 
+ At least one year of experience in a target-driven, customer-facing role (sales is preferred)  
+ Demonstrable ability to understand, validate, and overcome customer objections by crafting an effective marketing plan to use the Client's platform & functionality to achieve our advertiser's goals. 
+  Demonstrated experience using analytical approaches to solving business problems  
+ Demonstrable ability to train and educate advertisers on solutions, including how to create and optimize campaigns  
+ Ability to learn quickly and recall the Client's products and services  
+ Self-reliant, adaptable, decisive, and professional; able to effectively multi-task in a dynamic environment  
+ Proven experience in working toward quarterly goals in a KPI-driven environment 
+ Needed Digital Marketing Knowledge:
+ 
+ Cost Per Click (CPC) 
+ Cost per thousand (CPM) 
+ Certified public account (CPA) 
+ Return on Ad Spend (ROAS) 
+ 
+ 
+ 
+ Benefits & Details 
+ 
+ Contract- 2 YRS FTC 
+ Annual salary - 32K + 12K capped quarterly bonus (3K paid every quarter by achieving target no. of new business signed per month) 
+ Annual leave - 22 days 
+ Equipment WFH - Laptop, equipment, and allowance for desks, monitors, etc. provided 
+ Health insurance - no cost, from Day 1 
+ Pension contribution and share options 
+ Career Growth and Progression opportunities due to fast-growth and expansion 
+ Company social events with fantastic colleges all over the world 
+ Be part of a multicultural company that prioritize employees needs and has a positive team environment 
+ Paid training 
+ 
+ Hiring process 
+ 
+ Screen call + CV submission 
+ I will prepare you for the official interview 
+ Online language test + 1-Round Virtual Interview 
+ Offer 
+ Onboarding & Background check 
+ 
+ More information 
+ Claudia Cervantes at   claudia.cervantes@cpl.ie 
+ How to apply? 
+ Apply today by sending your CV to claudia.cervantes@cpl.ie. Also, if you have any questions regarding the working position, I am more than happy to help you. 
+ www.cpl.com/ie","https://www.google.dk/maps/place/83+Merrion+Square,2,+Dublin/",99999999,False,False,,False

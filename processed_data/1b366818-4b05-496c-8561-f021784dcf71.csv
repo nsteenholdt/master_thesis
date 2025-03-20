@@ -1,0 +1,145 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland","Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland","
+
+
+
+
+
+
+
+
+
+
+
+Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland
+
+
+Hedevej 71 ApS i 9430 Vadum søger en medarbejder til griseproduktion af grise op til 30",Hedevej 71 ApS,Hedevej 71  ,9430,Vadum,False,False,False,True,2025-01-10T00:00:00,2025-03-07T00:00:00,7. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/1b366818-4b05-496c-8561-f021784dcf71,Nordjylland,Jammerbugt,Danmark,9430,,Hotjob,Fastansættelse,Fuldtid,"Landbrug, skovbrug, gartneri, fiskeri og dyrepleje","Drift og produktion, landbrug",Landmand,57.1154,9.8564,,"Morgen, dag, weekend",1030102343,,44638851,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/1b366818-4b05-496c-8561-f021784dcf71,https://job.jobnet.dk/CV/FindWork/Details/1b366818-4b05-496c-8561-f021784dcf71,https://job.jobnet.dk/CV/FindWork/Details/1b366818-4b05-496c-8561-f021784dcf71,True,1b366818-4b05-496c-8561-f021784dcf71,57.1154,9.8564,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Hedevej 71 ApS,Hedevej 71,58,Danmark,849,Jammerbugt,1,Nordjylland,9430,,31258625,0,Primary,,hedevej71@hedevej71.dk,,None,,1030102343,44638851,None,1b366818-4b05-496c-8561-f021784dcf71,Hedevej 71 ApS,Hedevej 71,58,Danmark,849,Jammerbugt,1,Nordjylland,9430,,31258625,0,Primary,,hedevej71@hedevej71.dk,,None,,1030102343,44638851,None,,2025-01-10T00:00:00+01:00,2025-03-07T00:23:46.515+01:00,"Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland","Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland 
+
+
+Hedevej 71 ApS i 9430 Vadum søger en medarbejder til griseproduktion af grise op til 30 kilo. Jobbet består i at assistere vores fodermester i alle produktionsområder.
+
+
+Dine vigtigste opgaver bliver:
+
+
+- Overvågning og pasning af grise
+
+
+- Vask af stalde, oprydning og holde orden
+
+
+- Fodring
+
+
+- Skabe og fastholde gode produktionsresultater
+
+
+- Håndtering af medicin og kastration af grise
+
+
+- Erfaring med griseproduktion vil være en fordel, men er ikke et krav
+ 
+
+
+Du skal have et godt humør, være ansvarsfuld og være god til at samarbejde bredt med din kollager i de daglige arbejdsgange. Du skal kunne tale engelsk eller ukrainsk, dansk er ikke et krav, men en fordel. Du skal have tilladelse til at arbejde i Danmark eller SL1.
+ 
+
+
+ Ekstra om jobbet 
+
+
+Der er gode medarbejderfaciliteter, hvor der holdes pauser sammen, vi sørger for formiddagskaffe og morgenbrød. Der er 5 medarbejdere i stalden, danske og internationale, erfarne og elever. Det er muligt at leje et værelse eller hus nær arbejdspladsen. Du vil skulle arbejde hver tredje weekend.
+ 
+
+
+ Sådan søger du jobbet 
+
+
+Yderligere oplysning om jobbet hos Hedevej 71 ApS, kontakt Katia Nielsen tlf. +45 31 25 86 25, eller mail hedevej71@hedevej71.dk
+
+
+Send os en mail og vedlæg ansøgning, CV og billede. Jobbet ønskes besat hurtigst muligt. Samtaler afholdes løbende.
+ 
+
+
+ Lidt om Hedevej 71 ApS 
+
+
+Ejendommen er blevet overtaget af et nyt ledelsesteam i april 2024. Hedevej 71 ApS har 1000 søer og producer ca. 35.000 grise op til 30 kilo om året. Ejendommen ligger centralt placeret i Nørhalne, tæt ved motorvejen. Her er der nem adgang til indkøbsmuligheder, skole og godt lokalsamfund.",Hedevej 71,58,Danmark,849,Jammerbugt,1,Nordjylland,9430,,1,1,Fuldtid,None,None,1,,Landmand,0,"Biavler, Svineproducent, Landmand med blandet drift, Kønssorterer af fjerkræ, Kvægavler, Hesteopdrætter, Fåreavler, Fjerkræproducent, 3524, 3525",0,0,False,"{'Email': 'hedevej71@hedevej71.dk', 'PersonName': 'Katia Nielsen', 'FirstName': 'Katia', 'LastName': 'Nielsen', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '31258625', 'Type': 0, 'Description': 'Primary'}]}",,True,False,False,False,2,,,True,False,False,True,True,False,,,hedevej71@hedevej71.dk,31258625,,False,2025-03-07T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=1b366818-4b05-496c-8561-f021784dcf71&Organisation=44638851,"Hedevej 71,9430, ",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=1b366818-4b05-496c-8561-f021784dcf71&Company.Name=Hedevej 71 ApS&SubmissionDeadlineDate=2025-3-7&Title=Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,True,0,,,"Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland",True,,True,1,,1b366818-4b05-496c-8561-f021784dcf71,,,False,False,,0,False,Hedevej 71 ApS,Hedevej 71,,,9430,False,False,False,,Katia Nielsen,31258625,hedevej71@hedevej71.dk,,,,,False,,2025-03-07T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,"Morgen, dag, weekend",Arbejdspladsen ligger i Jammerbugt kommune,False,Hedevej 71 ApS,,None,,False,False,"
+
+
+
+
+
+
+
+
+
+
+
+Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland
+
+
+Hedevej 71 ApS i 9430 Vadum søger en medarbejder til griseproduktion af grise op til 30 kilo. Jobbet består i at assistere vores fodermester i alle produktionsområder.
+
+
+Dine vigtigste opgaver bliver:
+
+
+- Overvågning og pasning af grise
+
+
+- Vask af stald","""\n\n\n\n\n\n\n\n\n\n\n\nMedhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland\n\n\nHedevej 71 ApS i 9430 Vadum søger en medarbejder til griseproduktion af grise op til 30 kilo. Jobbet består i at assistere vores fodermester i alle produktionsområder.\n\n\nDine vigtigste opgaver bliver:\n\n\n- Overvågning og pasning af grise\n\n\n- Vask af stald""","""Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland""","https://www.google.dk/maps/dir//Hedevej+71,9430,+/","Medhjælper søges til so-hold med 30 kilos griseproduktion i Nørhalne, Nordjylland 
+
+
+Hedevej 71 ApS i 9430 Vadum søger en medarbejder til griseproduktion af grise op til 30 kilo. Jobbet består i at assistere vores fodermester i alle produktionsområder.
+
+
+Dine vigtigste opgaver bliver:
+
+
+- Overvågning og pasning af grise
+
+
+- Vask af stalde, oprydning og holde orden
+
+
+- Fodring
+
+
+- Skabe og fastholde gode produktionsresultater
+
+
+- Håndtering af medicin og kastration af grise
+
+
+- Erfaring med griseproduktion vil være en fordel, men er ikke et krav
+ 
+
+
+Du skal have et godt humør, være ansvarsfuld og være god til at samarbejde bredt med din kollager i de daglige arbejdsgange. Du skal kunne tale engelsk eller ukrainsk, dansk er ikke et krav, men en fordel. Du skal have tilladelse til at arbejde i Danmark eller SL1.
+ 
+
+
+ Ekstra om jobbet 
+
+
+Der er gode medarbejderfaciliteter, hvor der holdes pauser sammen, vi sørger for formiddagskaffe og morgenbrød. Der er 5 medarbejdere i stalden, danske og internationale, erfarne og elever. Det er muligt at leje et værelse eller hus nær arbejdspladsen. Du vil skulle arbejde hver tredje weekend.
+ 
+
+
+ Sådan søger du jobbet 
+
+
+Yderligere oplysning om jobbet hos Hedevej 71 ApS, kontakt Katia Nielsen tlf. +45 31 25 86 25, eller mail hedevej71@hedevej71.dk
+
+
+Send os en mail og vedlæg ansøgning, CV og billede. Jobbet ønskes besat hurtigst muligt. Samtaler afholdes løbende.
+ 
+
+
+ Lidt om Hedevej 71 ApS 
+
+
+Ejendommen er blevet overtaget af et nyt ledelsesteam i april 2024. Hedevej 71 ApS har 1000 søer og producer ca. 35.000 grise op til 30 kilo om året. Ejendommen ligger centralt placeret i Nørhalne, tæt ved motorvejen. Her er der nem adgang til indkøbsmuligheder, skole og godt lokalsamfund.","https://www.google.dk/maps/place/Hedevej+71,9430,+/",44638851,False,False,,False

@@ -1,0 +1,142 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,MEDIEGRAFIKER - Til markedsledende & landsdækkende butikskæde i stærk vækst,MEDIEGRAFIKER - Til markedsledende & landsdækkende butikskæde i stærk vækst,"- med reference til Marketingchefen
+
+Harald Nyborg A/S
+Gl. Højmevej 30
+DK-5250 Odense SV
+
+ 
+
+Virksomheden",TARGET Headhunting ApS,Gammel Højmevej 30  ,5250,Odense SV,False,False,False,True,2024-12-23T15:28:26,2025-02-17T15:28:26,17. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/ec2da342-1981-42e9-a6e0-08d18e6ff0e1,Syddanmark,Odense,Danmark,5250,,Almindelige vilkår,Fastansættelse,Fuldtid,"Design, formgivning og grafisk arbejde",Grafisk arbejde,Mediegrafiker,55.3525,10.2979,,,1014988420,,31934990,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/ec2da342-1981-42e9-a6e0-08d18e6ff0e1,https://job.jobnet.dk/CV/FindWork/Details/ec2da342-1981-42e9-a6e0-08d18e6ff0e1,https://job.jobnet.dk/CV/FindWork/Details/ec2da342-1981-42e9-a6e0-08d18e6ff0e1,True,ec2da342-1981-42e9-a6e0-08d18e6ff0e1,55.3525,10.2979,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",TARGET Headhunting ApS,Gammel Højmevej 30,58,Danmark,461,Odense,3,Syddanmark,5250,Odense C,,0,Primary,,,http://www.targetheadhunting.com/en/available-positions/?hr=show-job/232420&linkref=257872&locale=da_DK,None,,1014988420,31934990,None,ec2da342-1981-42e9-a6e0-08d18e6ff0e1,TARGET Headhunting ApS,Gammel Højmevej 30,58,Danmark,461,Odense,3,Syddanmark,5250,Odense C,,0,Primary,,,http://www.targetheadhunting.com/en/available-positions/?hr=show-job/232420&linkref=257872&locale=da_DK,None,,1014988420,31934990,None,,2024-12-23T15:28:26+01:00,2025-02-17T15:28:26+01:00,MEDIEGRAFIKER - Til markedsledende & landsdækkende butikskæde i stærk vækst,"-   med reference til Marketingchefen 
+ Harald Nyborg A/S 
+Gl. Højmevej 30 
+ DK-5250 Odense SV 
+   
+ Virksomheden 
+ Harald Nyborg A/S blev grundlagt i 1904 og har hovedkontor i Odense. 
+ Virksomheden er en landsdækkende butikskæde med et sortiment, der henvender sig til gør-det-selv folket. 
+ Virksomheden har i dag ca. 1.800 medarbejdere med i dag +60 butikker (flere er på vej) og en årlig omsætning på plus DKK 3 mia. og en koncernomsætning på over DKK. 9 mia. 
+ Virksomheden går ind for frihed under ansvar, og forsøger at skabe en munter hverdag med mulighed for udvikling for den enkelte, og arbejder i et uformelt miljø med højt til loftet. 
+ Der er et stærkt fællesskab i Harald Nyborg (HN), hvorfor det hævdes, at det er en af Danmarks bedste arbejdspladser. 
+ HN har fællesskabet og samarbejdet i centrum, da de tror på, at en god dynamik skaber det bedste grundlag for en god kundeoplevelse. 
+ Stillingen 
+ Stillingen som Mediegrafiker (MG) refererer til Marketingchefen.  
+ Den nye MG blive en del af et engageret og humørfyldt marketingteam bestående af otte kolleger, hvor MG overordnet skal udarbejde digitalt markedsføringsmateriale fra start til slut. 
+ Opgaven 
+ MG's primære primære opgave bliver at arbejde med HN’s digitale platforme og producere materiale til disse. Derudover skal MG kunne håndtere opgaver med trykt materiale fra start til slut. 
+ Arbejdsopgaverne vil blandt andet omfatte: 
+ 
+ Udarbejdelse af digitalt indhold: Produktion af materiale til hjemmesiden og opsætning i HN’s CMS-system. 
+ Butiksrelateret materiale: Produktion af indhold til instore-TV og digitale outdoorskilte. 
+ E-mailmarketing: Opsætning, optimering og automatisering af kampagner. 
+ Temakataloger: Produktion af feedbaserede kataloger med et visuelt løft. 
+ Facebookannoncering: Produktion af både organiske og sponsorerede annoncer. 
+ Tekstforfatning: Artikler og kortere tekster til nyhedsbreve og SoMe. 
+ 
+ Kandidaten 
+ Som den nye MG foretrækkes følgendes kvalifikationer: 
+ 
+ Lærer hurtigt at arbejde med digitale platforme. 
+ Mestrer Adobe InDesign og har erfaring med Illustrator, Photoshop, After Effect, Acrobat og Bridge. 
+ Har erfaring med HTML og CSS samt en solid teknisk forståelse. 
+ Har et digitalt mindset og kan tilpasse materiale til specifikke målgrupper. 
+ Er nysgerrig efter nye digitale værktøjer, som fx AI, til at effektivisere og forny produktionen. 
+ 
+ Som personligeadfærdstræk ønskes: 
+ 
+ Kreativitet, men samtidig bevidst om begrænsningernes kunst. 
+ Struktureret og i stand til at håndtere flere projekter samtidigt. 
+ Har en logisk tilgang til opgaver. 
+ Effektiv uden at gå på kompromis med kvaliteten. 
+ Ansvarsbevidst og selvstændig i din tilgang til opgaver. 
+ 
+ Det er absolut en fordel med erfaring med digital markedsføring i detailhandlen, men det er ikke et krav. 
+ Virksomheden tilbyder 
+ 
+ Fuldtidsstilling. 
+ Mulighed for faglig og personlig vækst. 
+ Korte beslutningsveje i en virksomhed i vækst. 
+ Konkurrencedygtig lønpakke inkl. pension, sundhedsforsikring og frit valgs konto. 
+ Frokostordning. 
+ Aktiv personaleforening. 
+ Adgang til motionsrum. 
+ 
+ Uddannelse 
+ Relevant uddannelse inden for den grafiske branche og minimum et par års erfaring. 
+ Sprog 
+ Dansk - ubesværet.  
+ Tiltrædelse 
+ Snarest muligt.",Gammel Højmevej 30,58,Danmark,461,Odense,3,Syddanmark,5250,Odense C,1,1,Fuldtid,None,None,1,,Mediegrafiker,0,"2202, 2203, 2204, Grafisk kunstner",0,0,False,"{'Email': 'cg@targetheadhunting.com', 'PersonName': 'Carsten Gjørtsvang', 'FirstName': 'Carsten', 'LastName': 'Gjørtsvang', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 5140 8960', 'Type': 0, 'Description': 'Primary'}]}, {'Email': 'uk@targetheadhunting.com', 'PersonName': 'Ulrik Kirkely', 'FirstName': 'Ulrik', 'LastName': 'Kirkely', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 6061 6188', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,http://www.targetheadhunting.com/en/available-positions/?hr=show-job/232420&linkref=257872&locale=da_DK,False,2025-02-17T15:28:26+01:00,7,/CV/FindWork/GetLogo?JobAdId=ec2da342-1981-42e9-a6e0-08d18e6ff0e1&Organisation=31934990,"Gammel Højmevej 30,5250, Odense C",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=ec2da342-1981-42e9-a6e0-08d18e6ff0e1&Company.Name=TARGET Headhunting ApS&SubmissionDeadlineDate=2025-2-17&Title=MEDIEGRAFIKER - Til markedsledende & landsdækkende butikskæde i stærk vækst&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,MEDIEGRAFIKER - Til markedsledende & landsdækkende butikskæde i stærk vækst,True,,True,1,,ec2da342-1981-42e9-a6e0-08d18e6ff0e1,,,False,False,,0,False,TARGET Headhunting ApS,Gammel Højmevej 30,,,5250,False,False,False,Odense C,Carsten Gjørtsvang,+45 5140 8960,cg@targetheadhunting.com,,,,,False,,2025-02-17T15:28:26+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Odense kommune,False,TARGET Headhunting ApS,,None,,False,False,"- med reference til Marketingchefen
+
+Harald Nyborg A/S
+Gl. Højmevej 30
+DK-5250 Odense SV
+
+ 
+
+Virksomheden
+
+Harald Nyborg A/S blev grundlagt i 1904 og har hovedkontor i Odense.
+
+Virksomheden er en landsdækkende butikskæde med et sortiment, der henvender sig til gør-det-selv folket.
+
+Virksomheden har i dag ca. 1.800 medarbejdere med i dag +60 butikke","""- med reference til Marketingchefen\n\nHarald Nyborg A/S\nGl. Højmevej 30\nDK-5250 Odense SV\n\n \n\nVirksomheden\n\nHarald Nyborg A/S blev grundlagt i 1904 og har hovedkontor i Odense.\n\nVirksomheden er en landsdækkende butikskæde med et sortiment, der henvender sig til gør-det-selv folket.\n\nVirksomheden har i dag ca. 1.800 medarbejdere med i dag +60 butikke""","""MEDIEGRAFIKER - Til markedsledende \u0026 landsdækkende butikskæde i stærk vækst""","https://www.google.dk/maps/dir//Gammel+Højmevej+30,5250,+Odense+C/","-   med reference til Marketingchefen 
+ Harald Nyborg A/S 
+Gl. Højmevej 30 
+ DK-5250 Odense SV 
+   
+ Virksomheden 
+ Harald Nyborg A/S blev grundlagt i 1904 og har hovedkontor i Odense. 
+ Virksomheden er en landsdækkende butikskæde med et sortiment, der henvender sig til gør-det-selv folket. 
+ Virksomheden har i dag ca. 1.800 medarbejdere med i dag +60 butikker (flere er på vej) og en årlig omsætning på plus DKK 3 mia. og en koncernomsætning på over DKK. 9 mia. 
+ Virksomheden går ind for frihed under ansvar, og forsøger at skabe en munter hverdag med mulighed for udvikling for den enkelte, og arbejder i et uformelt miljø med højt til loftet. 
+ Der er et stærkt fællesskab i Harald Nyborg (HN), hvorfor det hævdes, at det er en af Danmarks bedste arbejdspladser. 
+ HN har fællesskabet og samarbejdet i centrum, da de tror på, at en god dynamik skaber det bedste grundlag for en god kundeoplevelse. 
+ Stillingen 
+ Stillingen som Mediegrafiker (MG) refererer til Marketingchefen.  
+ Den nye MG blive en del af et engageret og humørfyldt marketingteam bestående af otte kolleger, hvor MG overordnet skal udarbejde digitalt markedsføringsmateriale fra start til slut. 
+ Opgaven 
+ MG's primære primære opgave bliver at arbejde med HN’s digitale platforme og producere materiale til disse. Derudover skal MG kunne håndtere opgaver med trykt materiale fra start til slut. 
+ Arbejdsopgaverne vil blandt andet omfatte: 
+ 
+ Udarbejdelse af digitalt indhold: Produktion af materiale til hjemmesiden og opsætning i HN’s CMS-system. 
+ Butiksrelateret materiale: Produktion af indhold til instore-TV og digitale outdoorskilte. 
+ E-mailmarketing: Opsætning, optimering og automatisering af kampagner. 
+ Temakataloger: Produktion af feedbaserede kataloger med et visuelt løft. 
+ Facebookannoncering: Produktion af både organiske og sponsorerede annoncer. 
+ Tekstforfatning: Artikler og kortere tekster til nyhedsbreve og SoMe. 
+ 
+ Kandidaten 
+ Som den nye MG foretrækkes følgendes kvalifikationer: 
+ 
+ Lærer hurtigt at arbejde med digitale platforme. 
+ Mestrer Adobe InDesign og har erfaring med Illustrator, Photoshop, After Effect, Acrobat og Bridge. 
+ Har erfaring med HTML og CSS samt en solid teknisk forståelse. 
+ Har et digitalt mindset og kan tilpasse materiale til specifikke målgrupper. 
+ Er nysgerrig efter nye digitale værktøjer, som fx AI, til at effektivisere og forny produktionen. 
+ 
+ Som personligeadfærdstræk ønskes: 
+ 
+ Kreativitet, men samtidig bevidst om begrænsningernes kunst. 
+ Struktureret og i stand til at håndtere flere projekter samtidigt. 
+ Har en logisk tilgang til opgaver. 
+ Effektiv uden at gå på kompromis med kvaliteten. 
+ Ansvarsbevidst og selvstændig i din tilgang til opgaver. 
+ 
+ Det er absolut en fordel med erfaring med digital markedsføring i detailhandlen, men det er ikke et krav. 
+ Virksomheden tilbyder 
+ 
+ Fuldtidsstilling. 
+ Mulighed for faglig og personlig vækst. 
+ Korte beslutningsveje i en virksomhed i vækst. 
+ Konkurrencedygtig lønpakke inkl. pension, sundhedsforsikring og frit valgs konto. 
+ Frokostordning. 
+ Aktiv personaleforening. 
+ Adgang til motionsrum. 
+ 
+ Uddannelse 
+ Relevant uddannelse inden for den grafiske branche og minimum et par års erfaring. 
+ Sprog 
+ Dansk - ubesværet.  
+ Tiltrædelse 
+ Snarest muligt.","https://www.google.dk/maps/place/Gammel+Højmevej+30,5250,+Odense+C/",31934990,False,False,,False

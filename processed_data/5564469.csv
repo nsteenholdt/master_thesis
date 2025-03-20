@@ -1,0 +1,120 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Industritekniker / Industrial technician,Industritekniker / Industrial technician,"Har du rustfrit stål i blodet?
+
+Wila oplever stor vækst og øget efterspørgsel på vores produkter, og åbner derfor op for flere nye stillinger som industritekniker med muligh",WILA A/S,Mads Clausens Vej 14,8600,Silkeborg,False,False,False,True,2022-04-26T00:00:00,2022-06-21T00:00:00,21. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5564469,Midtjylland,Silkeborg,Danmark,8600,,,,Fuldtid,"Jern, metal og auto","Mekanikerarbejde, øvrigt",Industritekniker,56.2001,9.592,,Dag,141824,123964,27230350,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5564469,https://job.jobnet.dk/CV/FindWork/Details/5564469,https://job.jobnet.dk/CV/FindWork/Details/5564469,True,5564469,56.2001,9.592,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",WILA A/S,Mads Clausens Vej 14,58,Danmark,740,Silkeborg,2,Midtjylland,8600,Silkeborg,,0,Primary,,,,None,,1004904522,27230350,None,5564469,5564469,WILA A/S,Mads Clausens Vej 14,58,Danmark,740,Silkeborg,2,Midtjylland,8600,Silkeborg,,0,Primary,,,,None,,1004904522,27230350,None,,2022-04-26T00:00:00,2022-06-21T00:00:00,Industritekniker / Industrial technician,"Har du rustfrit stål i blodet? 
+ Wila oplever stor vækst og øget efterspørgsel på vores produkter, og åbner derfor op for flere nye stillinger som industritekniker med mulighed for både dags-, aften- og nattevagter. Som industritekniker ved Wila varierer opgaverne fra konstruktion af unikke high-end produkter i rustfast stål til opbygning af komplette procesanlæg til levnedsmiddelindustrien. 
+ Vi er stolte af den kvalitet vi leverer og ikke mindst stolte over vores virksomhedskultur, der bedst beskrives med vores enkle motto ”innovation drevet af mennesker”. Vi søger Industriteknikere, der har lyst til at blive del af vores stærke team. Kunne det være dig? 
+   
+ Du tilbydes: 
+ 
+ At blive fagligt udfordret gennem spændende arbejdsopgaver hvor du kan være med til at sætte dit præg 
+ At blive del af et stærkt fællesskab med fokus på vidensdeling 
+ At arbejde i en virksomhed, der fokuserer på et godt arbejdsmiljø 
+ En uformel omgangstone med plads til masser af lun humor 
+ Konkurrencedygtige løn- og personaleforhold 
+ Flextid 
+ 
+ Dine kvalifikationer: 
+ 
+ du er udlært industritekniker / maskinarbejder 
+ erfaring med CNC-drejning i rustfast materiale 
+ god teknisk forståelse og forstår en tegning 
+ god til at samarbejde hjælpe dine kolleger  
+ forståelse for programmering på CNC maskiner (vi bruger One-CNC med Fanuc, Fagor og Heidenhaim)  
+ 
+ Kan du se mulighederne?  -  Så hører vi gerne fra dig ! 
+ Hos Wila ønsker vi at sikre det rigtige match mellem dig og os, og det rigtige match går som bekendt begge veje. Vi glæder os til at høre om dine tanker og ønsker omkring et drømmejob.  
+ Send venligst kort målrettet ansøgning og cv via knappen “ANSØG HER” nedenfor. Samtaler afholdes løbende og ønsket tiltrædelse er snarest muligt.  
+ Spørgsmål til jobbet rettes til gruppeleder Ronny A Hjelm på tlf. 42401790 eller fabrikschef Michael Nielsen 20206499. Spørgsmål til søgeprocessen rettes venligst til CFO, Ole Rasmussen på tlf. 6120 9201.  
+ Læs mere om Wila A/S  HER 
+   
+ _________________________________________________________________________________________________________________ 
+ ENGLISH VERSION: 
+ Industrial Technician 
+ Do you have stainless steel in your blood ? 
+ At Wila A/S we see an increased demand for our products which very from construction of unique high-end stainless-steel products to complete process equipment for the food industry. 
+ We are proud of our quality and our company culture which is best described with the motto”Innovation Driven by People”.  
+ We are looking for industrial technicians who are interested to be part of our strong team. Is this your new job? 
+ We offer you : 
+ 
+ a challenging job where you have many possibilities to make your mark 
+ to become a part of a strong community with focus on knowledge sharing 
+ to work in a company with focus on work environment 
+ an informal social tone with lots of humor 
+ competitive salary and employment conditions 
+ flexible working hours 
+ 
+   
+ Your qualifications: 
+ 
+ you are a skilled industrial technician or operator 
+ you are experienced in CNC turning in stainless steel 
+ you have good technical skills and can read drawings 
+ it’s natural to you to cooperate and support your team 
+ good understanding of programming of CNC machinery (we use One-CNC with Fanuc, Fagor and Heidenhaim) 
+ 
+   
+ Do you see the possibilities?    Then we would love to hear from you! 
+ At Wila we seek the right match between the employee and Wila – both ways. We are looking forward to hearing about your thoughts and wishes for your dream job.  
+ Please send your motivated application and CV using the below button “ANSØG HER”.   Interviews are held continuously, and we hope you can  join us as soon as possible.  
+ Questions for the job can be directed at Team Manager Ronny A. Hjelm, Tel. 4240 1790 or Factory Manager Michael Nielsen, Tel. 2020 6499.  Questions re. the application process please contact CFO Ole Rasmussen, Tel.  6120 9201. 
+ Read more about Wila A/S  HER",Mads Clausens Vej 14,58,Danmark,740,Silkeborg,2,Midtjylland,8600,Silkeborg,1,1,Fuldtid,None,None,2,,0,,0,0,0,,False,"{'Id': 7936394, 'Email': 'Ronny@wila.dk', 'FaxNumber': None, 'PersonName': 'Ronny Alex Hjelm', 'FirstName': 'Ronny Alex', 'LastName': 'Hjelm', 'PositionTitle': None, 'PhoneNumbers': []}, {'Id': 7936395, 'Email': 'nielsen@wila.dk', 'FaxNumber': None, 'PersonName': 'Michael Nielsen', 'FirstName': 'Michael', 'LastName': 'Nielsen', 'PositionTitle': None, 'PhoneNumbers': []}, {'Id': 7936396, 'Email': 'ole@wila.dk', 'FaxNumber': None, 'PersonName': 'Ole Kannerup Rasmussen', 'FirstName': 'Ole Kannerup', 'LastName': 'Rasmussen', 'PositionTitle': None, 'PhoneNumbers': []}",,True,True,False,False,4,,,False,False,False,True,,,,,https://WILAAS.reqruiting.com/Job.aspx?id=10747,False,2022-06-21T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5564469&Organisation=27230350,"Mads Clausens Vej 14,8600, Silkeborg",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5564469&Company.Name=WILA A/S&SubmissionDeadlineDate=2022-6-21&Title=Industritekniker / Industrial technician&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Industritekniker / Industrial technician,True,,True,1,,5564469,,,False,False,,0,False,WILA A/S,Mads Clausens Vej 14,,,8600,False,False,False,Silkeborg,Ronny Alex Hjelm,,ronny@wila.dk,,,,,False,,2022-06-21T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Dag,Arbejdspladsen ligger i Silkeborg kommune,False,WILA A/S,,None,,False,False,"Har du rustfrit stål i blodet?
+
+Wila oplever stor vækst og øget efterspørgsel på vores produkter, og åbner derfor op for flere nye stillinger som industritekniker med mulighed for både dags-, aften- og nattevagter. Som industritekniker ved Wila varierer opgaverne fra konstruktion af unikke high-end produkter i rustfast stål til opbygning af komplet","""Har du rustfrit stål i blodet?\n\nWila oplever stor vækst og øget efterspørgsel på vores produkter, og åbner derfor op for flere nye stillinger som industritekniker med mulighed for både dags-, aften- og nattevagter. Som industritekniker ved Wila varierer opgaverne fra konstruktion af unikke high-end produkter i rustfast stål til opbygning af komplet""","""Industritekniker / Industrial technician""","https://www.google.dk/maps/dir//Mads+Clausens+Vej+14,8600,+Silkeborg/","Har du rustfrit stål i blodet? 
+ Wila oplever stor vækst og øget efterspørgsel på vores produkter, og åbner derfor op for flere nye stillinger som industritekniker med mulighed for både dags-, aften- og nattevagter. Som industritekniker ved Wila varierer opgaverne fra konstruktion af unikke high-end produkter i rustfast stål til opbygning af komplette procesanlæg til levnedsmiddelindustrien. 
+ Vi er stolte af den kvalitet vi leverer og ikke mindst stolte over vores virksomhedskultur, der bedst beskrives med vores enkle motto ”innovation drevet af mennesker”. Vi søger Industriteknikere, der har lyst til at blive del af vores stærke team. Kunne det være dig? 
+   
+ Du tilbydes: 
+ 
+ At blive fagligt udfordret gennem spændende arbejdsopgaver hvor du kan være med til at sætte dit præg 
+ At blive del af et stærkt fællesskab med fokus på vidensdeling 
+ At arbejde i en virksomhed, der fokuserer på et godt arbejdsmiljø 
+ En uformel omgangstone med plads til masser af lun humor 
+ Konkurrencedygtige løn- og personaleforhold 
+ Flextid 
+ 
+ Dine kvalifikationer: 
+ 
+ du er udlært industritekniker / maskinarbejder 
+ erfaring med CNC-drejning i rustfast materiale 
+ god teknisk forståelse og forstår en tegning 
+ god til at samarbejde hjælpe dine kolleger  
+ forståelse for programmering på CNC maskiner (vi bruger One-CNC med Fanuc, Fagor og Heidenhaim)  
+ 
+ Kan du se mulighederne?  -  Så hører vi gerne fra dig ! 
+ Hos Wila ønsker vi at sikre det rigtige match mellem dig og os, og det rigtige match går som bekendt begge veje. Vi glæder os til at høre om dine tanker og ønsker omkring et drømmejob.  
+ Send venligst kort målrettet ansøgning og cv via knappen “ANSØG HER” nedenfor. Samtaler afholdes løbende og ønsket tiltrædelse er snarest muligt.  
+ Spørgsmål til jobbet rettes til gruppeleder Ronny A Hjelm på tlf. 42401790 eller fabrikschef Michael Nielsen 20206499. Spørgsmål til søgeprocessen rettes venligst til CFO, Ole Rasmussen på tlf. 6120 9201.  
+ Læs mere om Wila A/S  HER 
+   
+ _________________________________________________________________________________________________________________ 
+ ENGLISH VERSION: 
+ Industrial Technician 
+ Do you have stainless steel in your blood ? 
+ At Wila A/S we see an increased demand for our products which very from construction of unique high-end stainless-steel products to complete process equipment for the food industry. 
+ We are proud of our quality and our company culture which is best described with the motto”Innovation Driven by People”.  
+ We are looking for industrial technicians who are interested to be part of our strong team. Is this your new job? 
+ We offer you : 
+ 
+ a challenging job where you have many possibilities to make your mark 
+ to become a part of a strong community with focus on knowledge sharing 
+ to work in a company with focus on work environment 
+ an informal social tone with lots of humor 
+ competitive salary and employment conditions 
+ flexible working hours 
+ 
+   
+ Your qualifications: 
+ 
+ you are a skilled industrial technician or operator 
+ you are experienced in CNC turning in stainless steel 
+ you have good technical skills and can read drawings 
+ it’s natural to you to cooperate and support your team 
+ good understanding of programming of CNC machinery (we use One-CNC with Fanuc, Fagor and Heidenhaim) 
+ 
+   
+ Do you see the possibilities?    Then we would love to hear from you! 
+ At Wila we seek the right match between the employee and Wila – both ways. We are looking forward to hearing about your thoughts and wishes for your dream job.  
+ Please send your motivated application and CV using the below button “ANSØG HER”.   Interviews are held continuously, and we hope you can  join us as soon as possible.  
+ Questions for the job can be directed at Team Manager Ronny A. Hjelm, Tel. 4240 1790 or Factory Manager Michael Nielsen, Tel. 2020 6499.  Questions re. the application process please contact CFO Ole Rasmussen, Tel.  6120 9201. 
+ Read more about Wila A/S  HER","https://www.google.dk/maps/place/Mads+Clausens+Vej+14,8600,+Silkeborg/",27230350,False,False,,False

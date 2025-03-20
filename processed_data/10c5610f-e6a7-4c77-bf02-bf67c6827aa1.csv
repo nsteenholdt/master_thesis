@@ -1,0 +1,192 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Skattespecialist Med Bred Erfaring Til Danmarks Bedste Bedømte Regnskabsvirksomhed For SMV,Skattespecialist Med Bred Erfaring Til Danmarks Bedste Bedømte Regnskabsvirksomhed For SMV,"Stadsrevisionen, et revisionsfirma i stærk vækst, søger dygtige skatterådgivere med passion for skatteretten. Vi tilbyder et arbejdsmiljø, hvor opgavernes bredde sikrer dig konstant variation. Vore",Stadsrevisionen ApS,Flæsketorvet 68  ,1711,København V,False,False,False,True,2024-12-20T00:00:00,2025-02-14T00:00:00,14. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/10c5610f-e6a7-4c77-bf02-bf67c6827aa1,Hovedstaden og Bornholm,København,Danmark,1711,,Almindelige vilkår,Fastansættelse,Fuldtid,Akademisk arbejde,Økonomi og revision,Skatterevisor,55.6677,12.5594,,"Dag, skiftende arbejdstider",1028116744,,43152580,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/10c5610f-e6a7-4c77-bf02-bf67c6827aa1,https://job.jobnet.dk/CV/FindWork/Details/10c5610f-e6a7-4c77-bf02-bf67c6827aa1,https://job.jobnet.dk/CV/FindWork/Details/10c5610f-e6a7-4c77-bf02-bf67c6827aa1,True,10c5610f-e6a7-4c77-bf02-bf67c6827aa1,55.6677,12.5594,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Stadsrevisionen ApS,Flæsketorvet 68,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1711,København V,70604004,0,Primary,,cecilie@stadsrevisionen.dk,https://stadsrevisionen.dk/erfaren-skatteradgiver-kobenhavn/,None,,1028116744,43152580,None,10c5610f-e6a7-4c77-bf02-bf67c6827aa1,Stadsrevisionen ApS,Flæsketorvet 68,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1711,København V,70604004,0,Primary,,cecilie@stadsrevisionen.dk,https://stadsrevisionen.dk/erfaren-skatteradgiver-kobenhavn/,None,,1028116744,43152580,None,,2024-12-20T00:00:00+01:00,2025-02-14T13:52:13.613+01:00,Skattespecialist Med Bred Erfaring Til Danmarks Bedste Bedømte Regnskabsvirksomhed For SMV,"Stadsrevisionen, et revisionsfirma i stærk vækst, søger dygtige skatterådgivere med passion for skatteretten. Vi tilbyder et arbejdsmiljø, hvor opgavernes bredde sikrer dig konstant variation. Vores kontor er beliggende i hjertet af den pulserende hovedstad, København, en by kendt for sin moderne arkitektur, kulturelle arv og det dynamiske byliv. Vi ser frem til at byde dig velkommen til vores team og lade dig blive en del af Københavns spændende erhvervsliv. 
+
+
+Rollen som skatterådgiver hos Stadsrevisionen
+
+
+
+
+ Skatteplanlægning og skatterapportering er blevet stadigt mere komplekst for virksomheder. Med hyppige ændringer i skattelovene oplever både danske og internationale virksomheder et øget pres. Vores kunders behov for rådgivning fra erfarne skatterådgivere har aldrig været større. 
+ Som skatterådgiver hos os vil du rådgive en bred vifte af klienter, herunder direktører, hovedaktionærer, bestyrelser og andre nøgleinteressenter, både i Danmark og internationalt. Med vores brede spektrum af tjenester vil du få mulighed for at dykke ned i mange fagområder – også dem, du endnu ikke har udforsket. 
+
+
+Ambitiøs tilgang og høje standarder
+
+
+
+
+ Din rolle vil kræve et højt ambitionsniveau. Som erfarne skatterådgiver vil der være høje forventninger til kvaliteten af dit arbejde. Men til gengæld garanterer vi: 
+ 
+ En kultur, hvor innovation og kreativitet blomstrer. 
+ En sund balance mellem arbejde og fritid. 
+ Frihed under ansvar med fleksible arbejdsbetingelser. 
+ Muligheder for kontinuerlig faglig og personlig udvikling. 
+ Din faglige styrke kombineret med skarpe kommunikationsevner og mangeårig erfaring er afgørende for rollen. Vi værdsætter evnen til at forstå og imødekomme vores kunders unikke behov og værdier. Kundekontakt og opbygning af langvarige relationer er også centralt for denne position. 
+ 
+ Men livet hos Stadsrevisionen er ikke kun dedikeret til arbejdet. Vi værdsætter det sociale samvær og fællesskabet mellem kolleger. Gennem teambuilding, festlige sammenkomster og andre sociale arrangementer vil du opleve, hvorfor vi mener, at et stærkt kollegialt netværk er hjørnestenen i vores succes. Ved at blive en del af Stadsrevisionen får du en unik mulighed for at bidrage aktivt til vores fortsatte vækst og forme din egen fremtid sammen med os. 
+   
+
+
+Dine primære ansvarsopgaver:
+
+
+
+
+ 
+ Rådgivning til såvel privatpersoner som erhverv indenfor skatteområdet. 
+ Specialiseret rådgivning til hovedaktionærer og deres formueforhold 
+ Intern rådgivning til vores revisorer, særligt inden for erhvervsskat. 
+ 
+ Dit ekspertiseområde vil bl.a. dække: 
+ 
+ Firmabilsskat 
+ Selskabs- og virksomhedsskat 
+ Skattekreditordningen 
+ Forskellige afgifter 
+ Moms 
+ Transfer Pricing 
+ Grøn skat og miljøafgifter 
+ Personlig og aktionærbeskatning 
+ 
+
+
+Vi forventer følgende af dig:
+
+
+
+
+ 
+ Minimum 10 års praktisk erfaring inden for skatteområdet. 
+ En relevant akademisk baggrund såsom cand.merc.aud, cand.merc.jur eller cand.jur. 
+ Alsidig erfaring med fokus på SMV-segmentet. 
+ Dybdegående viden om værktøjer skræddersyet til SMV-klienter. 
+ Praktisk erfaring med bogføringsprogrammer som Economic, Dinero og Billy. 
+ Passion og interesse for erhvervsskat, inklusive kontinuerlig faglig udvikling. 
+ Evnen til at formidle komplekse skattemæssige emner på en letforståelig måde. 
+ Ansvarsbevidst, loyalt og stærke samarbejdsevner. 
+ Et indre drive baseret på at skabe reel værdi for vores kunder, og en proaktiv tilgang. 
+ 
+
+
+Ved at blive en del af Stadsrevisionen vil du opleve:
+
+
+
+
+ 
+ Et stærkt fundament for din personlige og faglige vækst. 
+ En konkurrencedygtig løn, som afspejler dine kompetencer og erfaringer. 
+ Attraktive medarbejdergoder, herunder frokostordning, bruttolønsordninger for bl.a. telefon og firmabil. 
+ En fleksibel arbejdsordning med mulighed for hjemmearbejde. 
+ En skøn placering i København, tæt på byens pulserende liv. 
+ Faglig sparring med dygtige revisorer. 
+ Regelmæssige sociale arrangementer, såsom julefrokost og teambuilding-aktiviteter. 
+ Adgang til kursustilbud, interne og eksterne uddannelsesmuligheder, og mentorprogrammer. 
+ 
+ Som en ekstra bonus tilbyder vi også mulighed for en fordelagtig pensionsordning, sundhedsforsikring, bonusprogrammer og muligheden for forretningsrejser til dem med et eventyrlystent sind. 
+
+
+Hvordan ansøger jeg?
+
+
+
+
+ Vi oplever en markant vækst og vi er konstant på udkig efter dygtige medarbejdere, der ønsker at bidrage positivt til vores kunders oplevelse. Derfor afholder vi regelmæssigt samtaler med potentielle kandidater.  
+ For at søge denne position bedes du sende din ansøgning, CV, og relevante eksamensbeviser.  
+ Ønsker du at skille dig ud i mængden? Så anbefaler vi dig at medsende en kort introduktionsvideo, hvor du præsenterer dig selv.",Flæsketorvet 68,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1711,København V,1,1,Fuldtid,None,None,1,,Skatterevisor,0,5843,0,0,False,"{'Email': 'Cecilie@stadsrevisionen.dk', 'PersonName': 'Cecilie  Foss', 'FirstName': 'Cecilie ', 'LastName': 'Foss', 'PositionTitle': 'Daglig Leder', 'PhoneNumbers': [{'Number': '70604004', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,True,False,True,,,cecilie@stadsrevisionen.dk,70604004,https://stadsrevisionen.dk/erfaren-skatteradgiver-kobenhavn/,False,2025-02-14T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=10c5610f-e6a7-4c77-bf02-bf67c6827aa1&Organisation=43152580,"Flæsketorvet 68,1711, København V",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=10c5610f-e6a7-4c77-bf02-bf67c6827aa1&Company.Name=Stadsrevisionen ApS&SubmissionDeadlineDate=2025-2-14&Title=Skattespecialist Med Bred Erfaring Til Danmarks Bedste Bedømte Regnskabsvirksomhed For SMV&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Skattespecialist Med Bred Erfaring Til Danmarks Bedste Bedømte Regnskabsvirksomhed For SMV,True,,True,1,,10c5610f-e6a7-4c77-bf02-bf67c6827aa1,,,False,False,,0,False,Stadsrevisionen ApS,Flæsketorvet 68,,,1711,False,False,False,København V,Cecilie  Foss,70604004,cecilie@stadsrevisionen.dk,,,,,False,,2025-02-14T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,"Dag, skiftende arbejdstider",Arbejdspladsen ligger i København kommune,False,Stadsrevisionen ApS,,None,,False,False,"Stadsrevisionen, et revisionsfirma i stærk vækst, søger dygtige skatterådgivere med passion for skatteretten. Vi tilbyder et arbejdsmiljø, hvor opgavernes bredde sikrer dig konstant variation. Vores kontor er beliggende i hjertet af den pulserende hovedstad, København, en by kendt for sin moderne arkitektur, kulturelle arv og det dynamiske byliv. V","""Stadsrevisionen, et revisionsfirma i stærk vækst, søger dygtige skatterådgivere med passion for skatteretten. Vi tilbyder et arbejdsmiljø, hvor opgavernes bredde sikrer dig konstant variation. Vores kontor er beliggende i hjertet af den pulserende hovedstad, København, en by kendt for sin moderne arkitektur, kulturelle arv og det dynamiske byliv. V""","""Skattespecialist Med Bred Erfaring Til Danmarks Bedste Bedømte Regnskabsvirksomhed For SMV""","https://www.google.dk/maps/dir//Flæsketorvet+68,1711,+København+V/","Stadsrevisionen, et revisionsfirma i stærk vækst, søger dygtige skatterådgivere med passion for skatteretten. Vi tilbyder et arbejdsmiljø, hvor opgavernes bredde sikrer dig konstant variation. Vores kontor er beliggende i hjertet af den pulserende hovedstad, København, en by kendt for sin moderne arkitektur, kulturelle arv og det dynamiske byliv. Vi ser frem til at byde dig velkommen til vores team og lade dig blive en del af Københavns spændende erhvervsliv. 
+
+
+Rollen som skatterådgiver hos Stadsrevisionen
+
+
+
+
+ Skatteplanlægning og skatterapportering er blevet stadigt mere komplekst for virksomheder. Med hyppige ændringer i skattelovene oplever både danske og internationale virksomheder et øget pres. Vores kunders behov for rådgivning fra erfarne skatterådgivere har aldrig været større. 
+ Som skatterådgiver hos os vil du rådgive en bred vifte af klienter, herunder direktører, hovedaktionærer, bestyrelser og andre nøgleinteressenter, både i Danmark og internationalt. Med vores brede spektrum af tjenester vil du få mulighed for at dykke ned i mange fagområder – også dem, du endnu ikke har udforsket. 
+
+
+Ambitiøs tilgang og høje standarder
+
+
+
+
+ Din rolle vil kræve et højt ambitionsniveau. Som erfarne skatterådgiver vil der være høje forventninger til kvaliteten af dit arbejde. Men til gengæld garanterer vi: 
+ 
+ En kultur, hvor innovation og kreativitet blomstrer. 
+ En sund balance mellem arbejde og fritid. 
+ Frihed under ansvar med fleksible arbejdsbetingelser. 
+ Muligheder for kontinuerlig faglig og personlig udvikling. 
+ Din faglige styrke kombineret med skarpe kommunikationsevner og mangeårig erfaring er afgørende for rollen. Vi værdsætter evnen til at forstå og imødekomme vores kunders unikke behov og værdier. Kundekontakt og opbygning af langvarige relationer er også centralt for denne position. 
+ 
+ Men livet hos Stadsrevisionen er ikke kun dedikeret til arbejdet. Vi værdsætter det sociale samvær og fællesskabet mellem kolleger. Gennem teambuilding, festlige sammenkomster og andre sociale arrangementer vil du opleve, hvorfor vi mener, at et stærkt kollegialt netværk er hjørnestenen i vores succes. Ved at blive en del af Stadsrevisionen får du en unik mulighed for at bidrage aktivt til vores fortsatte vækst og forme din egen fremtid sammen med os. 
+   
+
+
+Dine primære ansvarsopgaver:
+
+
+
+
+ 
+ Rådgivning til såvel privatpersoner som erhverv indenfor skatteområdet. 
+ Specialiseret rådgivning til hovedaktionærer og deres formueforhold 
+ Intern rådgivning til vores revisorer, særligt inden for erhvervsskat. 
+ 
+ Dit ekspertiseområde vil bl.a. dække: 
+ 
+ Firmabilsskat 
+ Selskabs- og virksomhedsskat 
+ Skattekreditordningen 
+ Forskellige afgifter 
+ Moms 
+ Transfer Pricing 
+ Grøn skat og miljøafgifter 
+ Personlig og aktionærbeskatning 
+ 
+
+
+Vi forventer følgende af dig:
+
+
+
+
+ 
+ Minimum 10 års praktisk erfaring inden for skatteområdet. 
+ En relevant akademisk baggrund såsom cand.merc.aud, cand.merc.jur eller cand.jur. 
+ Alsidig erfaring med fokus på SMV-segmentet. 
+ Dybdegående viden om værktøjer skræddersyet til SMV-klienter. 
+ Praktisk erfaring med bogføringsprogrammer som Economic, Dinero og Billy. 
+ Passion og interesse for erhvervsskat, inklusive kontinuerlig faglig udvikling. 
+ Evnen til at formidle komplekse skattemæssige emner på en letforståelig måde. 
+ Ansvarsbevidst, loyalt og stærke samarbejdsevner. 
+ Et indre drive baseret på at skabe reel værdi for vores kunder, og en proaktiv tilgang. 
+ 
+
+
+Ved at blive en del af Stadsrevisionen vil du opleve:
+
+
+
+
+ 
+ Et stærkt fundament for din personlige og faglige vækst. 
+ En konkurrencedygtig løn, som afspejler dine kompetencer og erfaringer. 
+ Attraktive medarbejdergoder, herunder frokostordning, bruttolønsordninger for bl.a. telefon og firmabil. 
+ En fleksibel arbejdsordning med mulighed for hjemmearbejde. 
+ En skøn placering i København, tæt på byens pulserende liv. 
+ Faglig sparring med dygtige revisorer. 
+ Regelmæssige sociale arrangementer, såsom julefrokost og teambuilding-aktiviteter. 
+ Adgang til kursustilbud, interne og eksterne uddannelsesmuligheder, og mentorprogrammer. 
+ 
+ Som en ekstra bonus tilbyder vi også mulighed for en fordelagtig pensionsordning, sundhedsforsikring, bonusprogrammer og muligheden for forretningsrejser til dem med et eventyrlystent sind. 
+
+
+Hvordan ansøger jeg?
+
+
+
+
+ Vi oplever en markant vækst og vi er konstant på udkig efter dygtige medarbejdere, der ønsker at bidrage positivt til vores kunders oplevelse. Derfor afholder vi regelmæssigt samtaler med potentielle kandidater.  
+ For at søge denne position bedes du sende din ansøgning, CV, og relevante eksamensbeviser.  
+ Ønsker du at skille dig ud i mængden? Så anbefaler vi dig at medsende en kort introduktionsvideo, hvor du præsenterer dig selv.","https://www.google.dk/maps/place/Flæsketorvet+68,1711,+København+V/",43152580,False,False,,False

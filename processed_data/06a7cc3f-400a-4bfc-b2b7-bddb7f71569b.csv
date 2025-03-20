@@ -1,0 +1,221 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,PhD scholarship in Internet of Underwater Things - DTU Compute,PhD scholarship in Internet of Underwater Things - DTU Compute,"A PhD position in Internet of Underwater Things (IoUT) is available in the&nbsp;Embedded Systems Engineering
+ &n",Danmarks Tekniske Universitet,Anker Engelunds Vej 101  ,2800,Kongens Lyngby,False,False,False,True,2025-01-22T11:16:00,2025-05-17T00:00:00,17. maj 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/06a7cc3f-400a-4bfc-b2b7-bddb7f71569b,Hovedstaden og Bornholm,Lyngby-Taarbæk,Danmark,2800,,Almindelige vilkår,Tidsbegrænset ansættelse,Fuldtid,Akademisk arbejde,"Forskning og universitetsundervisning, naturvidenskab og teknik","ph.d., naturvidenskab og teknik",55.7857,12.5208,,,1003403265,,30060946,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/06a7cc3f-400a-4bfc-b2b7-bddb7f71569b,https://job.jobnet.dk/CV/FindWork/Details/06a7cc3f-400a-4bfc-b2b7-bddb7f71569b,https://job.jobnet.dk/CV/FindWork/Details/06a7cc3f-400a-4bfc-b2b7-bddb7f71569b,True,06a7cc3f-400a-4bfc-b2b7-bddb7f71569b,55.7857,12.5208,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,,0,Primary,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4583,None,,1003403265,30060946,None,06a7cc3f-400a-4bfc-b2b7-bddb7f71569b,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,,0,Primary,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4583,None,,1003403265,30060946,None,,2025-01-22T11:16:00+01:00,2025-02-19T23:59:00+01:00,PhD scholarship in Internet of Underwater Things - DTU Compute,"A PhD position in Internet of Underwater Things (IoUT) is available in the  Embedded Systems Engineering 
+  (ESE) research section at  DTU Compute 
+ . The project title is “Optimizing Port Operations through Edge Computing and AI-Enhanced Digital Infrastructure and it’s part of the Marie Skłodowska-Curie Actions (MSCA) network including 7 different partners. The main purpose of the project is to transform European maritime ports into energy hubs by establishing Living Labs Networks across Europe. These networks will enable real life evaluation of sustainable energy innovations and a collaboration between the involved stakeholders. The project seeks to reshape European ports into sustainable energy hubs by driving the development of clean energy technologies and encouraging digital innovation. One of the main objectives is to optimize renewable energy solutions (such as wind, solar, and alternative fuels) and improve digital infrastructure by leveraging smart ports and digital twin technology. The communication and sensing capabilities offered by the (IoUT) are essential components in realizing this vision. The different focus of each partner is facilitating a holistic approach that integrates diverse expertise, enabling the seamless development and implementation of advanced solutions. Our new PhD student will have the opportunity to meet and collaborate with the members from other institutes which are part of the MSCA network and expand their network. Being an MSCA PhD fellow enhances career prospects, fosters interdisciplinary skills, and opens pathways to both academic and non-academic sectors. 
+ 
+ In this role, you will leverage your expertise in IoT, low-power computing and communication systems to explore IoT architectures and systems applicable to port environments, extending from nearby industries in the hinterland to offshore wind farms, energy islands, and beyond. The position offers opportunities to research communication methods using acoustic, optical, and radio signals for  underwater 
+ , above-water and  battery-free 
+  devices, as well as to explore the emerging field of cross-medium communication. There is flexibility in this role, allowing you to focus on various aspects, such as communication technologies, energy efficiency, or system reliability. 
+ 
+ Responsibilities and qualifications 
+ 
+ As a PhD candidate at DTU Compute, you will work in the Embedded Systems Engineering section and do research in the IoUT field. The PhD candidate will be working on the wider topics of mobile computing in tasks related to the following activities: 
+ Design an Edge-IoT integrated infrastructure for real-time operational efficiency in ports. 
+ Develop and deploy underwater/terrestrial IoT systems to support energy-efficient port operations. 
+ Establish a robust communication and interoperability framework for digital transitions in ports. 
+ 
+ You will work with colleagues in the section and in our network of strong academic and industrial partners as well as ports through Living Lab Networks. Moreover, you will be seconded with the Chalmers University of Technology (Sweden) and Danfoss Power Electronics (Denmark) during the project.  
+ 
+ Your contributions will include: 
+ Doing cutting-edge research in IoT and IoUT devices, communication, sensing and computer systems 
+ Publishing your research in high-impact journals and conferences. 
+ Collaborating with academic and industrial partners, both nationally and internationally. 
+ Engaging in the mentorship and supervision of BSc and MSc student projects. 
+ Contributing to the teaching at the department to get teaching experience. 
+ Participating actively in the research community, including attending and presenting at conferences. 
+ Participating to the activities organized by the MSCA Doctoral Network (i.e., summer schools, workshops) 
+ 
+ However, you must have a two-year master's degree (120 ECTS points) or a similar degree with an academic level equivalent to a two-year master's degree), in a field related to one or more of the general areas of Computer Science, Computer Engineering, Telecommunication, Electronics.  
+ 
+ You are expected to have a strong background on computer programming, computer communication and electronics. A comprehensive MSc thesis in a relevant field and/or previous publications are highly valued. 
+ 
+ Approval and Enrolment 
+   
+ The scholarship for the PhD degree is subject to academic approval, and the candidate will be enrolled in one of the general degree programmes at DTU. For information about our enrolment requirements and the general planning of the PhD study programme, please see  DTU's rules for the PhD education 
+ .  
+ 
+ We offer 
+ 
+ DTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and academic freedom tempered by responsibility. 
+ 
+ Salary and appointment terms  
+ 
+ The appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed upon with the relevant union. The period of employment is 3 years. 
+ 
+ You can read more about career paths at DTU here http://www.dtu.dk/english/about/job-and-career/working-at-dtu/career-paths .  
+ 
+ Further information 
+   
+ 
+ 
+ Further information may be obtained from Asst. Prof.  Charalampos Orfanidis 
+ , Assoc. Prof. Matthias Bo Stuart and  Prof. Paul Pop 
+ , head of  Embedded Systems Engineering section 
+  at  DTU Compute 
+ .  
+ 
+ You can  read more here 
+  about working in our section, at DTU and in Denmark. 
+ 
+ Applicants must not have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary (Denmark) for more than 12 months in the 36 months immediately before the recruitment date.  
+ 
+ 
+ If you are applying from abroad, you may find useful information on working in Denmark and at DTU at  DTU – Moving to Denmark 
+ . Furthermore, you have the option of joining our monthly free seminar “ PhD relocation to Denmark and startup “Zoom” seminar 
+ ” for all questions regarding the practical matters of moving to Denmark and working as a PhD at DTU.  
+ 
+ Application procedure  
+ 
+ Your complete online application must be submitted no later than  17 May 2025 (23:59 Danish time) 
+ . Applications must be submitted as  one PDF file 
+ containing all materials to be given consideration. To apply, please open the link ""Apply now"", fill out the online application form, and attach  all your materials in English in one PDF file 
+ . The file must include: 
+ A letter motivating the application (cover letter) 
+ Curriculum vitae  
+ Grade transcripts highlighting the coursework related to IoT and BSc/MSc diploma (in English) including official description of grading scale 
+ Detailed descriptions of prior projects relevant to the topic should be mentioned in the CV including the role of the candidate, their contributions and their responsibilities. 
+ Publications (if any) 
+ A research statement outlining how your background aligns with the position's focus areas. 
+ 
+ You may apply prior to ob­tai­ning your master's degree but cannot begin before having received it.  
+ 
+ We will review applications and conduct interviews on a rolling basis as they are received. Candidates are encouraged to submit their applications as early as possible to ensure full consideration. For any inquiries or to express your interest in the position, please contact us promptly. 
+ 
+ Applications received after the deadline will not be considered. 
+ 
+ All interested candidates irrespective of age, gender, disability, race, religion or ethnic background are encouraged to apply. As DTU works with research in critical technology, which is subject to special rules for security and export control, open-source background checks may be conducted on qualified candidates for the position. 
+ 
+ Embedded Systems Engineering (ESE) 
+ 
+  is one of the 10 research section of DTU Compute. Our mission encompasses the creation of insights that allow the development of context-aware, distributed, and embedded cyber-physical systems, with a particular focus on Internet-of-Things (IoT) and the computing continuum eras. Our vision is to pioneer advancements in high-tech distributed and embedded systems technology, driving change, and contributing positively to society. We strive for a future where our research and innovations form the cornerstone of technological advancements, and we're excited to include more brilliant minds in our journey. See our  
+ publications 
+ 
+  and  
+ projects 
+ 
+   
+ here 
+ 
+ . 
+ 
+ 
+ DTU Compute 
+ 
+  is a unique and internationally recognized academic department with 385 employees and 11 research sections spanning the science disciplines mathematics, statistics, computer science, and engineering. We conduct research, teaching and innovation of high international standard – producing new knowledge and technology-based solutions to societal challenges. We have a long-term involvement in applied and interdisciplinary research, big data and data science, artificial intelligence (AI), internet of things (IoT), smart and secure societies, smart manufacturing, and life science. At DTU Compute we believe in a diverse workplace with a flexible work-life balance. 
+ 
+ 
+ Technology for people 
+ 
+ 
+ DTU develops technology for people. With our international elite research and study programmes, we are helping to create a better world and to solve the global challenges formulated in the UN’s 17 Sustainable Development Goals. Hans Christian Ørsted founded DTU in 1829 with a clear mission to develop and create value using science and engineering to benefit society. That mission lives on today. DTU has 13,500 students and 6,000 employees. We work in an international atmosphere and have an inclusive, evolving, and informal working environment. DTU has campuses in all parts of Denmark and in Greenland, and we collaborate with the best universities around the world.",Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,16,1,Fuldtid,None,None,1,,"ph.d., naturvidenskab og teknik",0,"ph.d.-stipendiat, naturvidenskab og teknik",0,0,True,"{'Email': 'chaorf@dtu.dk', 'PersonName': 'Charalampos Orfanidis', 'FirstName': 'Charalampos', 'LastName': 'Orfanidis', 'PositionTitle': 'Asst. Prof.', 'PhoneNumbers': []}, {'Email': 'paupo@dtu.dk', 'PersonName': 'Paul Pop', 'FirstName': 'Paul', 'LastName': 'Pop', 'PositionTitle': 'Prof.', 'PhoneNumbers': []}",,True,True,False,False,4,,,False,False,False,False,False,False,,,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4583,False,2025-05-17T00:00:00+02:00,7,/CV/FindWork/GetLogo?JobAdId=06a7cc3f-400a-4bfc-b2b7-bddb7f71569b&Organisation=30060946,"Anker Engelunds Vej 101,2800, Lyngby-Taarbæk",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=06a7cc3f-400a-4bfc-b2b7-bddb7f71569b&Company.Name=Danmarks Tekniske Universitet&SubmissionDeadlineDate=2025-5-17&Title=PhD scholarship in Internet of Underwater Things - DTU Compute&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,PhD scholarship in Internet of Underwater Things - DTU Compute,True,,True,1,,06a7cc3f-400a-4bfc-b2b7-bddb7f71569b,,,False,False,,0,False,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,,,2800,False,False,False,Lyngby-Taarbæk,Charalampos Orfanidis,,chaorf@dtu.dk,,,,,False,,2025-05-17T00:00:00+02:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Lyngby-Taarbæk kommune,False,Danmarks Tekniske Universitet,,None,,False,False,"A PhD position in Internet of Underwater Things (IoUT) is available in theEmbedded Systems Engineering
+ (ESE) research section atDTU Compute
+ . The project title is“Optimizing Port Operations through Edge Computing and AI-Enhanced Digital Infrastructure and it’s part of the Marie Skłodowska-Curie Actions (MSCA) network including 7 different partner","""A PhD position in Internet of Underwater Things (IoUT) is available in theEmbedded Systems Engineering\n (ESE) research section atDTU Compute\n . The project title is“Optimizing Port Operations through Edge Computing and AI-Enhanced Digital Infrastructure and it’s part of the Marie Skłodowska-Curie Actions (MSCA) network including 7 different partner""","""PhD scholarship in Internet of Underwater Things - DTU Compute""","https://www.google.dk/maps/dir//Anker+Engelunds+Vej+101,2800,+Lyngby-Taarbæk/","A PhD position in Internet of Underwater Things (IoUT) is available in the  Embedded Systems Engineering 
+  (ESE) research section at  DTU Compute 
+ . The project title is “Optimizing Port Operations through Edge Computing and AI-Enhanced Digital Infrastructure and it’s part of the Marie Skłodowska-Curie Actions (MSCA) network including 7 different partners. The main purpose of the project is to transform European maritime ports into energy hubs by establishing Living Labs Networks across Europe. These networks will enable real life evaluation of sustainable energy innovations and a collaboration between the involved stakeholders. The project seeks to reshape European ports into sustainable energy hubs by driving the development of clean energy technologies and encouraging digital innovation. One of the main objectives is to optimize renewable energy solutions (such as wind, solar, and alternative fuels) and improve digital infrastructure by leveraging smart ports and digital twin technology. The communication and sensing capabilities offered by the (IoUT) are essential components in realizing this vision. The different focus of each partner is facilitating a holistic approach that integrates diverse expertise, enabling the seamless development and implementation of advanced solutions. Our new PhD student will have the opportunity to meet and collaborate with the members from other institutes which are part of the MSCA network and expand their network. Being an MSCA PhD fellow enhances career prospects, fosters interdisciplinary skills, and opens pathways to both academic and non-academic sectors. 
+ 
+ In this role, you will leverage your expertise in IoT, low-power computing and communication systems to explore IoT architectures and systems applicable to port environments, extending from nearby industries in the hinterland to offshore wind farms, energy islands, and beyond. The position offers opportunities to research communication methods using acoustic, optical, and radio signals for  underwater 
+ , above-water and  battery-free 
+  devices, as well as to explore the emerging field of cross-medium communication. There is flexibility in this role, allowing you to focus on various aspects, such as communication technologies, energy efficiency, or system reliability. 
+ 
+ Responsibilities and qualifications 
+ 
+ As a PhD candidate at DTU Compute, you will work in the Embedded Systems Engineering section and do research in the IoUT field. The PhD candidate will be working on the wider topics of mobile computing in tasks related to the following activities: 
+ Design an Edge-IoT integrated infrastructure for real-time operational efficiency in ports. 
+ Develop and deploy underwater/terrestrial IoT systems to support energy-efficient port operations. 
+ Establish a robust communication and interoperability framework for digital transitions in ports. 
+ 
+ You will work with colleagues in the section and in our network of strong academic and industrial partners as well as ports through Living Lab Networks. Moreover, you will be seconded with the Chalmers University of Technology (Sweden) and Danfoss Power Electronics (Denmark) during the project.  
+ 
+ Your contributions will include: 
+ Doing cutting-edge research in IoT and IoUT devices, communication, sensing and computer systems 
+ Publishing your research in high-impact journals and conferences. 
+ Collaborating with academic and industrial partners, both nationally and internationally. 
+ Engaging in the mentorship and supervision of BSc and MSc student projects. 
+ Contributing to the teaching at the department to get teaching experience. 
+ Participating actively in the research community, including attending and presenting at conferences. 
+ Participating to the activities organized by the MSCA Doctoral Network (i.e., summer schools, workshops) 
+ 
+ However, you must have a two-year master's degree (120 ECTS points) or a similar degree with an academic level equivalent to a two-year master's degree), in a field related to one or more of the general areas of Computer Science, Computer Engineering, Telecommunication, Electronics.  
+ 
+ You are expected to have a strong background on computer programming, computer communication and electronics. A comprehensive MSc thesis in a relevant field and/or previous publications are highly valued. 
+ 
+ Approval and Enrolment 
+   
+ The scholarship for the PhD degree is subject to academic approval, and the candidate will be enrolled in one of the general degree programmes at DTU. For information about our enrolment requirements and the general planning of the PhD study programme, please see  DTU's rules for the PhD education 
+ .  
+ 
+ We offer 
+ 
+ DTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and academic freedom tempered by responsibility. 
+ 
+ Salary and appointment terms  
+ 
+ The appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed upon with the relevant union. The period of employment is 3 years. 
+ 
+ You can read more about career paths at DTU here  http://www.dtu.dk/english/about/job-and-career/working-at-dtu/career-paths  .  
+ 
+ Further information 
+   
+ 
+ 
+ Further information may be obtained from Asst. Prof.  Charalampos Orfanidis 
+ , Assoc. Prof. Matthias Bo Stuart and  Prof. Paul Pop 
+ , head of  Embedded Systems Engineering section 
+  at  DTU Compute 
+ .  
+ 
+ You can  read more here 
+  about working in our section, at DTU and in Denmark. 
+ 
+ Applicants must not have resided or carried out their main activity (work, studies, etc.) in the country of the recruiting beneficiary (Denmark) for more than 12 months in the 36 months immediately before the recruitment date.  
+ 
+ 
+ If you are applying from abroad, you may find useful information on working in Denmark and at DTU at  DTU – Moving to Denmark 
+ . Furthermore, you have the option of joining our monthly free seminar “ PhD relocation to Denmark and startup “Zoom” seminar 
+ ” for all questions regarding the practical matters of moving to Denmark and working as a PhD at DTU.  
+ 
+ Application procedure  
+ 
+ Your complete online application must be submitted no later than  17 May 2025 (23:59 Danish time) 
+ . Applications must be submitted as  one PDF file 
+ containing all materials to be given consideration. To apply, please open the link ""Apply now"", fill out the online application form, and attach  all your materials in English in one PDF file 
+ . The file must include: 
+ A letter motivating the application (cover letter) 
+ Curriculum vitae  
+ Grade transcripts highlighting the coursework related to IoT and BSc/MSc diploma (in English) including official description of grading scale 
+ Detailed descriptions of prior projects relevant to the topic should be mentioned in the CV including the role of the candidate, their contributions and their responsibilities. 
+ Publications (if any) 
+ A research statement outlining how your background aligns with the position's focus areas. 
+ 
+ You may apply prior to ob­tai­ning your master's degree but cannot begin before having received it.  
+ 
+ We will review applications and conduct interviews on a rolling basis as they are received. Candidates are encouraged to submit their applications as early as possible to ensure full consideration. For any inquiries or to express your interest in the position, please contact us promptly. 
+ 
+ Applications received after the deadline will not be considered. 
+ 
+ All interested candidates irrespective of age, gender, disability, race, religion or ethnic background are encouraged to apply. As DTU works with research in critical technology, which is subject to special rules for security and export control, open-source background checks may be conducted on qualified candidates for the position. 
+ 
+ Embedded Systems Engineering (ESE) 
+ 
+  is one of the 10 research section of DTU Compute. Our mission encompasses the creation of insights that allow the development of context-aware, distributed, and embedded cyber-physical systems, with a particular focus on Internet-of-Things (IoT) and the computing continuum eras. Our vision is to pioneer advancements in high-tech distributed and embedded systems technology, driving change, and contributing positively to society. We strive for a future where our research and innovations form the cornerstone of technological advancements, and we're excited to include more brilliant minds in our journey. See our  
+ publications 
+ 
+  and  
+ projects 
+ 
+   
+ here 
+ 
+ . 
+ 
+ 
+ DTU Compute 
+ 
+  is a unique and internationally recognized academic department with 385 employees and 11 research sections spanning the science disciplines mathematics, statistics, computer science, and engineering. We conduct research, teaching and innovation of high international standard – producing new knowledge and technology-based solutions to societal challenges. We have a long-term involvement in applied and interdisciplinary research, big data and data science, artificial intelligence (AI), internet of things (IoT), smart and secure societies, smart manufacturing, and life science. At DTU Compute we believe in a diverse workplace with a flexible work-life balance. 
+ 
+ 
+ Technology for people 
+ 
+ 
+ DTU develops technology for people. With our international elite research and study programmes, we are helping to create a better world and to solve the global challenges formulated in the UN’s 17 Sustainable Development Goals. Hans Christian Ørsted founded DTU in 1829 with a clear mission to develop and create value using science and engineering to benefit society. That mission lives on today. DTU has 13,500 students and 6,000 employees. We work in an international atmosphere and have an inclusive, evolving, and informal working environment. DTU has campuses in all parts of Denmark and in Greenland, and we collaborate with the best universities around the world.","https://www.google.dk/maps/place/Anker+Engelunds+Vej+101,2800,+Lyngby-Taarbæk/",30060946,False,False,,False

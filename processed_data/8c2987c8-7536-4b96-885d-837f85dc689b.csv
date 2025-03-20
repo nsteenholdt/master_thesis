@@ -1,0 +1,125 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Rengøringsassistent,Rengøringsassistent,"Stevns-Køge
+Rengøringsassistenter søges…
+VI HAR RIGTIG TRAVLT OG SØGER DERFOR NU MORGENFRISKE OG SERVICEMINDEDE KOLLEGAER – FULDTID OG DELTID",Your Cleaning Partner ApS,   ,,,True,False,True,False,2025-01-30T00:00:00,2025-03-27T00:00:00,27. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/8c2987c8-7536-4b96-885d-837f85dc689b,,,Danmark,,,Hotjob,Fastansættelse,Deltid,"Rengøring, ejendomsservice og renovation",Rengøring mv.,Rengøringsassistent,,(25 - 36 timer ugentligt),"Morgen, dag, aften, weekend, skiftende arbejdstider",1028907083,,43763075,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/8c2987c8-7536-4b96-885d-837f85dc689b,https://job.jobnet.dk/CV/FindWork/Details/8c2987c8-7536-4b96-885d-837f85dc689b,https://job.jobnet.dk/CV/FindWork/Details/8c2987c8-7536-4b96-885d-837f85dc689b,False,8c2987c8-7536-4b96-885d-837f85dc689b,0,0,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Your Cleaning Partner ApS,,58,Danmark,0,,0,,,,,0,Primary,,,https://www.yourcleaningpartner.dk/?page_id=940,None,,1028907083,43763075,None,8c2987c8-7536-4b96-885d-837f85dc689b,Your Cleaning Partner ApS,,58,Danmark,0,,0,,,,,0,Primary,,,https://www.yourcleaningpartner.dk/?page_id=940,None,,1028907083,43763075,None,,2025-01-30T00:00:00+01:00,2025-03-27T12:04:54.201+01:00,Rengøringsassistent,"Stevns-Køge 
+ Rengøringsassistenter søges… 
+ VI HAR RIGTIG TRAVLT OG SØGER DERFOR NU MORGENFRISKE OG SERVICEMINDEDE KOLLEGAER – FULDTID OG DELTID - til roterende vagter mellem 6:00-20:00 man-søn, 5 dage om ugen. 
+   
+ Om dig 
+ Som person er du positiv, udadvendt, hjælpsom og serviceminded – og så er du et morgenmenneske og en person, som dit team kan stole på. 
+ Derudover har du en god ordenssans, er stabil og giver gerne lige dét lidt ekstra – da forskellen ligger i detaljen. 
+   
+ Kvalifikationer 
+ ·       Du taler enten dansk eller engelsk 
+ ·       Det forventes at du har egen bil og at du er villig til at bruge den til arbejdet. 
+         Vi tager ikke hensyn til ansøgere, der ikke har en bil til deres rådighed. 
+ ·       Computerfærdigheder på brugerniveau 
+ ·       Du har kendskab til og erfaring med professionel renrøging 
+   
+ Vi tilbyder 
+ ·       Attraktiv timeløn, sundhedsordning og kørselsgodtgørelse 
+ ·        Arbejdstiden ligger i tidsrummet fra kl. 06.00 – 20:00 som fordeles med fem arbejdsdage mandag -                  søndag 
+ ·       Sjovt arbejdsmiljø og gode kollegaer 
+ ·       Personlig udvikling, træning og oplæring 
+   
+ Vi tager os af dig – så du kan tage os af vores kunder! 
+ Vi ved at vores medarbejdere er vores største aktiv. Glade medarbejdere giver glade kunder. Vi gør derfor meget ud af at du trives, bl.a. ved at arbejde i teams, når det er muligt, daglig kontakt og virksomhedsarrangementer i løbet af hele året. 
+   
+ Interesseret? 
+ Skriv til os via https://www.yourcleaningpartner.dk/?page_id=940 hurtigst muligt, så du kan høre mere om os og selve jobbet. Vi kontakter kun ansøgere, der er egnede til en samtale. 
+ Du kan også læse mere om os på vores hjemmeside  www.yourcleaningpartner.dk 
+   
+ Vi glæder os til at høre fra dig. 
+   
+ Your Cleaning Partner er en servicevirksomhed, der tilbyder både rengøring, vinduespudsning og hvad kundernes behov ellers er. Vi servicerer både private hjem og virksomheder indenfor kontor, restaurant, offentlige områder, værksteder og meget andet…. Det gør hverdagen både sjov og alsidig.  
+   
+ Stevns-Køge 
+ Cleaning assistants wanted… 
+ WE ARE REALLY BUSY RIGHT NOW AND THAT IS WHY WE ARE LOOKING FOR EARLY BIRDS THAT ARE MOTIVATED AND SERVICE-MINDED, EITHER FULL-TIME OR PART-TIME – for rotating shifts between 06:00-20:00 Mon-Sun, 5 days a week. 
+     
+ Who you are 
+ You are a positive, outgoing, helpful, and service minded person with a good sense of order and who your team can rely on. Further you are stable and willing to give – just that little bit of extra – the difference lies in the detail. 
+ Qualifications 
+ ·       You speak either Danish or English 
+ ·       You are expected to have your own car and willingness to use it for work. 
+         We do not consider applicants that don't have a  car in their disposal. 
+ ·       Computer skills on user level 
+ ·       You are experienced in professional cleaning 
+   
+ We offer 
+ ·       Attractive hourly wage, private health insurance and we pay for the kilometres’ driven during the workday. 
+ ·        You work 5 days a week, spread Monday-Sunday between 06:00-20:00  
+ ·       Fun working environment and good colleagues 
+ ·       Personal development, training, and education 
+   
+ We take care of you - so you can take care of our customers! 
+ We know that our employees are our greatest asset. Happy employees make happy customers. We therefore make sure that you are comfortable, i.e. by working in teams, we keep daily contact with each other, and we have company events throughout the year. 
+ Interested? 
+ Please send us your application via https://www.yourcleaningpartner.dk/?page_id=940 soonest possible and hear more about us and the job itself. We only contact applicants who are eligible for an interview. 
+ You can also read more about us on our website  www.yourcleaningpartner.dk 
+   
+ We are looking forward to hearing from you. 
+ Your Cleaning Partner is a service company who offer cleaning, window cleaning and whatever else the customers' needs are. We provide services to both private homes and companies within offices, restaurants, public areas, shops and much more... It makes everyday life both fun and versatile.",,58,Danmark,0,,0,,,,1,16,Deltid,None,None,1,"{'DriversLicenceType': 3, 'Name': 'Almindelig bil', 'Description': ''}, {'DriversLicenceType': 11, 'Name': 'Villig til at bruge egen bil', 'Description': ''}",Rengøringsassistent,0,"Bilvaskmedarbejder, Toiletpasser, Strygemedarbejder - beklædning, Rengøringspersonale, Rengøringshjælp, Rengøringsassistent i tog, Rengøringsassistent i fly, Rengøringsassistent i en forlystelsespark, Møbelrenser, Linnedassistent, 5582",0,0,False,"{'Email': 'Krista@yourcleaningpartner.dk', 'PersonName': 'Krista Klint Paulin', 'FirstName': 'Krista', 'LastName': 'Klint Paulin', 'PositionTitle': 'CEO', 'PhoneNumbers': []}",,False,False,False,False,4,36,25,True,False,True,True,True,True,,,,,https://www.yourcleaningpartner.dk/?page_id=940,False,2025-03-27T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=8c2987c8-7536-4b96-885d-837f85dc689b&Organisation=43763075,",, ",False,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=8c2987c8-7536-4b96-885d-837f85dc689b&Company.Name=Your Cleaning Partner ApS&SubmissionDeadlineDate=2025-3-27&Title=Rengøringsassistent&WeeklyWorkTime=2,00000000-0000-0000-0000-000000000000,False,0,,,Rengøringsassistent,True,,True,2,,8c2987c8-7536-4b96-885d-837f85dc689b,,,False,False,,0,False,Your Cleaning Partner ApS,,,,,True,True,False,,Krista Klint Paulin,,krista@yourcleaningpartner.dk,,,,,False,,2025-03-27T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,(25 - 36 timer ugentligt),"Morgen, dag, aften, weekend, skiftende arbejdstider",Arbejdspladsen ligger i Danmark,False,Your Cleaning Partner ApS,,None,,False,False,"Stevns-Køge
+Rengøringsassistenter søges…
+VI HAR RIGTIG TRAVLT OG SØGER DERFOR NU MORGENFRISKE OG SERVICEMINDEDE KOLLEGAER – FULDTID OG DELTID - til roterende vagter mellem 6:00-20:00 man-søn, 5 dage om ugen.
+
+Om dig
+Som person er du positiv, udadvendt, hjælpsom og serviceminded – og så er du et morgenmenneske og en person, som dit team kan stole på","""Stevns-Køge\nRengøringsassistenter søges…\nVI HAR RIGTIG TRAVLT OG SØGER DERFOR NU MORGENFRISKE OG SERVICEMINDEDE KOLLEGAER – FULDTID OG DELTID - til roterende vagter mellem 6:00-20:00 man-søn, 5 dage om ugen.\n\nOm dig\nSom person er du positiv, udadvendt, hjælpsom og serviceminded – og så er du et morgenmenneske og en person, som dit team kan stole på""","""Rengøringsassistent""","https://www.google.dk/maps/dir//,,+/","Stevns-Køge 
+ Rengøringsassistenter søges… 
+ VI HAR RIGTIG TRAVLT OG SØGER DERFOR NU MORGENFRISKE OG SERVICEMINDEDE KOLLEGAER – FULDTID OG DELTID - til roterende vagter mellem 6:00-20:00 man-søn, 5 dage om ugen. 
+   
+ Om dig 
+ Som person er du positiv, udadvendt, hjælpsom og serviceminded – og så er du et morgenmenneske og en person, som dit team kan stole på. 
+ Derudover har du en god ordenssans, er stabil og giver gerne lige dét lidt ekstra – da forskellen ligger i detaljen. 
+   
+ Kvalifikationer 
+ ·       Du taler enten dansk eller engelsk 
+ ·       Det forventes at du har egen bil og at du er villig til at bruge den til arbejdet. 
+         Vi tager ikke hensyn til ansøgere, der ikke har en bil til deres rådighed. 
+ ·       Computerfærdigheder på brugerniveau 
+ ·       Du har kendskab til og erfaring med professionel renrøging 
+   
+ Vi tilbyder 
+ ·       Attraktiv timeløn, sundhedsordning og kørselsgodtgørelse 
+ ·        Arbejdstiden ligger i tidsrummet fra kl. 06.00 – 20:00 som fordeles med fem arbejdsdage mandag -                  søndag 
+ ·       Sjovt arbejdsmiljø og gode kollegaer 
+ ·       Personlig udvikling, træning og oplæring 
+   
+ Vi tager os af dig – så du kan tage os af vores kunder! 
+ Vi ved at vores medarbejdere er vores største aktiv. Glade medarbejdere giver glade kunder. Vi gør derfor meget ud af at du trives, bl.a. ved at arbejde i teams, når det er muligt, daglig kontakt og virksomhedsarrangementer i løbet af hele året. 
+   
+ Interesseret? 
+ Skriv til os via  https://www.yourcleaningpartner.dk/?page_id=940  hurtigst muligt, så du kan høre mere om os og selve jobbet. Vi kontakter kun ansøgere, der er egnede til en samtale. 
+ Du kan også læse mere om os på vores hjemmeside  www.yourcleaningpartner.dk 
+   
+ Vi glæder os til at høre fra dig. 
+   
+ Your Cleaning Partner er en servicevirksomhed, der tilbyder både rengøring, vinduespudsning og hvad kundernes behov ellers er. Vi servicerer både private hjem og virksomheder indenfor kontor, restaurant, offentlige områder, værksteder og meget andet…. Det gør hverdagen både sjov og alsidig.  
+   
+ Stevns-Køge 
+ Cleaning assistants wanted… 
+ WE ARE REALLY BUSY RIGHT NOW AND THAT IS WHY WE ARE LOOKING FOR EARLY BIRDS THAT ARE MOTIVATED AND SERVICE-MINDED, EITHER FULL-TIME OR PART-TIME – for rotating shifts between 06:00-20:00 Mon-Sun, 5 days a week. 
+     
+ Who you are 
+ You are a positive, outgoing, helpful, and service minded person with a good sense of order and who your team can rely on. Further you are stable and willing to give – just that little bit of extra – the difference lies in the detail. 
+ Qualifications 
+ ·       You speak either Danish or English 
+ ·       You are expected to have your own car and willingness to use it for work. 
+         We do not consider applicants that don't have a  car in their disposal. 
+ ·       Computer skills on user level 
+ ·       You are experienced in professional cleaning 
+   
+ We offer 
+ ·       Attractive hourly wage, private health insurance and we pay for the kilometres’ driven during the workday. 
+ ·        You work 5 days a week, spread Monday-Sunday between 06:00-20:00  
+ ·       Fun working environment and good colleagues 
+ ·       Personal development, training, and education 
+   
+ We take care of you - so you can take care of our customers! 
+ We know that our employees are our greatest asset. Happy employees make happy customers. We therefore make sure that you are comfortable, i.e. by working in teams, we keep daily contact with each other, and we have company events throughout the year. 
+ Interested? 
+ Please send us your application via  https://www.yourcleaningpartner.dk/?page_id=940  soonest possible and hear more about us and the job itself. We only contact applicants who are eligible for an interview. 
+ You can also read more about us on our website  www.yourcleaningpartner.dk 
+   
+ We are looking forward to hearing from you. 
+ Your Cleaning Partner is a service company who offer cleaning, window cleaning and whatever else the customers' needs are. We provide services to both private homes and companies within offices, restaurants, public areas, shops and much more... It makes everyday life both fun and versatile.","https://www.google.dk/maps/place/,,+/",43763075,False,False,,False

@@ -1,0 +1,103 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Kvalitetsbevidst og robust produktionsmedarbejder søges til skiftehold - nær Varde,Kvalitetsbevidst og robust produktionsmedarbejder søges til skiftehold - nær Varde,"
+Trives du i et fysisk krævende arbejde, og har du solid erfaring med at køre truck? - Så er det måske dig vi leder efter!
+
+
+Arbejdsopgaver:
+
+Betjening ",Thorn Vikar & Rekruttering A/S,      ,6818,Årre,True,False,False,False,2025-01-20T00:00:00,2025-03-09T00:00:00,9. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67,Syddanmark,Varde,Danmark,6818,,Almindelige vilkår,Fastansættelse,Fuldtid,"Transport, post, lager- og maskinførerarbejde",Kran-og truckførerarbejde,Truckfører,55.5769,8.7151,,Skiftende arbejdstider,1029263252,,38047809,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67,https://job.jobnet.dk/CV/FindWork/Details/9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67,https://job.jobnet.dk/CV/FindWork/Details/9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67,True,9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67,55.5769,8.7151,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Thorn Vikar & Rekruttering A/S,",  ",58,Danmark,573,Varde,3,Syddanmark,6818,Årre,,0,Primary,,,https://thorn.peopletrust.dk/candidate/?module=candidateweb&page=Job&action=readMore&jobId=1003129,None,,1029263252,38047809,None,9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67,Thorn Vikar & Rekruttering A/S,",  ",58,Danmark,573,Varde,3,Syddanmark,6818,Årre,,0,Primary,,,https://thorn.peopletrust.dk/candidate/?module=candidateweb&page=Job&action=readMore&jobId=1003129,None,,1029263252,38047809,None,,2025-01-20T00:00:00+01:00,2025-03-09T12:53:49+01:00,Kvalitetsbevidst og robust produktionsmedarbejder søges til skiftehold - nær Varde,"Trives du i et fysisk krævende arbejde, og har du solid erfaring med at køre truck? - Så er det måske dig vi leder efter! 
+ Arbejdsopgaver: 
+ 
+ Betjening af diverse maskiner i produktionen af belægningssten kan forekomme 
+ Truckkørsel (4-gaflettruck) -  du behøver ikke have erfaring med at køre en 4-gaflet truck, men det er et ufravigeligt krav, at du kommer med solid erfaring bag rattet 
+ Produktion til lager kørsel 
+ Sortering og reparation af paller 
+ Assistere med færdigvareudlæsning 
+ Forefaldende arbejde 
+ 
+ Faglige kompetencer: 
+ 
+ Gerne erfaring fra produktionsvirksomed 
+ Kørekort B 
+ Truckcertifikat B 
+ Ufravigeligt krav at du har  solid erfaring med truckkørsel 
+ 
+ Personlige kompetencer: 
+ 
+ Du har fysikken i orden, da jobbet kan være fysisk hårdt 
+ Du er ikke bange for at blive beskidt 
+ Du er morgefrisk og stabil, på dagskiftet møder du kl. 6:00 
+ Du er fleksibel og villig til at afløse ved sygdom 
+ Du kommunikerer på dansk 
+ 
+ Løn og ansættelsesforhold: 
+ 
+ Du ansættes i  Try & Hire  forløb, med henblik på fastansættelse efterfølgende 
+ Aften- og nattillæg jf. industriens overenskomst 
+ SH, pension og fritvalgsordning 
+ Startløn 150kr/timen + 6kr i mødetillæg 
+ Efter 6 måneder 166kr/timen + 6kr i mødetillæg 
+ Efter fastansættelse tilbyder virkomheden vaskeordning samt attraktiv sundhedsforsikring til lav egenbetaling 
+ 
+ Arbejdet er på skiftehold, dag/aften/nat, der sigtes efter man som udgangspunkt har 3 uger på hvert skift.  Medarbejdere med børn/familie prioriteres så de har færre aftenvagter, hvis dette ønskes. 
+ Arbejdstider:  
+ 
+ Daghold  - 5 dage (man - fre): 06:00 - 13:30 
+ Aftenhold  - 4 dage (man - tors): 13:15 - 21:45 
+ Nathold  - 4 dage (man - tors): 21:30 - 06:15 
+ 
+ Ansøgning og Kontakt: 
+ Er du interesseret? 
+ Så klik på knappen  ""Søg Stilling"" . - Vi ser frem til at at høre fra dig! 
+ Grundet GDPR, modtager vi ikke ansøgninger pr. mail. Du bedes i stedet oprette dig som kandidat og uploade et opdateret CV via. linket i stillingsopslaget. Hvis du ikke kan uploade dine dokumenter eller lign., er du velkommen til at kontakte os direkte. Vores stillingsopslag fornyes automatisk og løbende på div. jobportaler. Dette betyder, at en fornyelse af annoncen ikke skal opfattes som et genopslag, men blot som en rutinemæssig fornyelse.  Vi behandler ansøgninger løbende, derfor tillader vi os at fjerne annoncen, når stillingen er besat. Hvis du ikke indkaldes til en samtale til den søgte stilling, vil du modtage et afslag via mail. Dette udelukker selvfølgelig ikke, at du kan være det rette match til en anden stilling.",",  ",58,Danmark,573,Varde,3,Syddanmark,6818,Årre,1,1,Fuldtid,None,None,1,"{'DriversLicenceType': 3, 'Name': 'Almindelig bil', 'Description': ''}",Truckfører,0,"Inspektør for landbrugsmaskiner, Snerydder, 2088, 2089, 2090",0,0,False,"{'Email': 'js@thornvikar.com', 'PersonName': 'Jeanette Sydbøge', 'FirstName': 'Jeanette', 'LastName': 'Sydbøge', 'PositionTitle': 'Personalekonsulent', 'PhoneNumbers': []}",,False,False,False,False,4,,,False,False,False,False,False,True,,,,,https://thorn.peopletrust.dk/candidate/?module=candidateweb&page=Job&action=readMore&jobId=1003129,False,2025-03-09T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67&Organisation=38047809,",  ,6818, Årre",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67&Company.Name=Thorn Vikar & Rekruttering A/S&SubmissionDeadlineDate=2025-3-9&Title=Kvalitetsbevidst og robust produktionsmedarbejder søges til skiftehold - nær Varde&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Kvalitetsbevidst og robust produktionsmedarbejder søges til skiftehold - nær Varde,True,,True,1,,9ac668e7-37d0-4d1d-9ea6-3067ea6d4e67,,,False,False,,0,False,Thorn Vikar & Rekruttering A/S,",  ",,,6818,False,False,False,Årre,Jeanette Sydbøge,,js@thornvikar.com,,,,,False,,2025-03-09T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Skiftende arbejdstider,Arbejdspladsen ligger i Varde kommune,False,Thorn Vikar & Rekruttering A/S,,None,,False,False,"
+Trives du i et fysisk krævende arbejde, og har du solid erfaring med at køre truck? - Så er det måske dig vi leder efter!
+
+
+Arbejdsopgaver:
+
+Betjening af diverse maskiner i produktionen af belægningssten kan forekomme
+Truckkørsel (4-gaflettruck) -du behøver ikke have erfaring med at køre en 4-gaflet truck, men det er et ufravigeligt krav, at du ko","""\nTrives du i et fysisk krævende arbejde, og har du solid erfaring med at køre truck? - Så er det måske dig vi leder efter!\n\n\nArbejdsopgaver:\n\nBetjening af diverse maskiner i produktionen af belægningssten kan forekomme\nTruckkørsel (4-gaflettruck) -du behøver ikke have erfaring med at køre en 4-gaflet truck, men det er et ufravigeligt krav, at du ko""","""Kvalitetsbevidst og robust produktionsmedarbejder søges til skiftehold - nær Varde""","https://www.google.dk/maps/dir//,++,6818,+Årre/","Trives du i et fysisk krævende arbejde, og har du solid erfaring med at køre truck? - Så er det måske dig vi leder efter! 
+ Arbejdsopgaver: 
+ 
+ Betjening af diverse maskiner i produktionen af belægningssten kan forekomme 
+ Truckkørsel (4-gaflettruck) -  du behøver ikke have erfaring med at køre en 4-gaflet truck, men det er et ufravigeligt krav, at du kommer med solid erfaring bag rattet 
+ Produktion til lager kørsel 
+ Sortering og reparation af paller 
+ Assistere med færdigvareudlæsning 
+ Forefaldende arbejde 
+ 
+ Faglige kompetencer: 
+ 
+ Gerne erfaring fra produktionsvirksomed 
+ Kørekort B 
+ Truckcertifikat B 
+ Ufravigeligt krav at du har  solid erfaring med truckkørsel 
+ 
+ Personlige kompetencer: 
+ 
+ Du har fysikken i orden, da jobbet kan være fysisk hårdt 
+ Du er ikke bange for at blive beskidt 
+ Du er morgefrisk og stabil, på dagskiftet møder du kl. 6:00 
+ Du er fleksibel og villig til at afløse ved sygdom 
+ Du kommunikerer på dansk 
+ 
+ Løn og ansættelsesforhold: 
+ 
+ Du ansættes i  Try & Hire  forløb, med henblik på fastansættelse efterfølgende 
+ Aften- og nattillæg jf. industriens overenskomst 
+ SH, pension og fritvalgsordning 
+ Startløn 150kr/timen + 6kr i mødetillæg 
+ Efter 6 måneder 166kr/timen + 6kr i mødetillæg 
+ Efter fastansættelse tilbyder virkomheden vaskeordning samt attraktiv sundhedsforsikring til lav egenbetaling 
+ 
+ Arbejdet er på skiftehold, dag/aften/nat, der sigtes efter man som udgangspunkt har 3 uger på hvert skift.  Medarbejdere med børn/familie prioriteres så de har færre aftenvagter, hvis dette ønskes. 
+ Arbejdstider:  
+ 
+ Daghold  - 5 dage (man - fre): 06:00 - 13:30 
+ Aftenhold  - 4 dage (man - tors): 13:15 - 21:45 
+ Nathold  - 4 dage (man - tors): 21:30 - 06:15 
+ 
+ Ansøgning og Kontakt: 
+ Er du interesseret? 
+ Så klik på knappen  ""Søg Stilling"" . - Vi ser frem til at at høre fra dig! 
+ Grundet GDPR, modtager vi ikke ansøgninger pr. mail. Du bedes i stedet oprette dig som kandidat og uploade et opdateret CV via. linket i stillingsopslaget. Hvis du ikke kan uploade dine dokumenter eller lign., er du velkommen til at kontakte os direkte. Vores stillingsopslag fornyes automatisk og løbende på div. jobportaler. Dette betyder, at en fornyelse af annoncen ikke skal opfattes som et genopslag, men blot som en rutinemæssig fornyelse.  Vi behandler ansøgninger løbende, derfor tillader vi os at fjerne annoncen, når stillingen er besat. Hvis du ikke indkaldes til en samtale til den søgte stilling, vil du modtage et afslag via mail. Dette udelukker selvfølgelig ikke, at du kan være det rette match til en anden stilling.","https://www.google.dk/maps/place/,++,6818,+Årre/",38047809,False,False,,False

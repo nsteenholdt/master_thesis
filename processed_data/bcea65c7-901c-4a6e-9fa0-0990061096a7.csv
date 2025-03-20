@@ -1,0 +1,140 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,2 Projektchefer - til anlægsområdet i Vand- og spildevandsselskab,2 Projektchefer - til anlægsområdet i Vand- og spildevandsselskab,"Reference til chefen for ""Planlægning"".
+
+VandCenter Syd
+
+Vandværksvej 7
+
+DK- 5000 Odense C
+
+Virksomheden
+
+VandCenter Sy",TARGET Headhunting ApS,Vandværksvej 7  ,5000,Odense C,False,False,False,True,2024-12-20T12:43:19,2025-02-14T12:43:19,14. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/bcea65c7-901c-4a6e-9fa0-0990061096a7,Syddanmark,Odense,Danmark,5000,,Almindelige vilkår,Fastansættelse,Fuldtid,Ledelse,Øvrig ledelse,Projektleder,55.403,10.3917,,,1014988420,,31934990,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/bcea65c7-901c-4a6e-9fa0-0990061096a7,https://job.jobnet.dk/CV/FindWork/Details/bcea65c7-901c-4a6e-9fa0-0990061096a7,https://job.jobnet.dk/CV/FindWork/Details/bcea65c7-901c-4a6e-9fa0-0990061096a7,True,bcea65c7-901c-4a6e-9fa0-0990061096a7,55.403,10.3917,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",TARGET Headhunting ApS,Vandværksvej 7,58,Danmark,461,Odense,3,Syddanmark,5000,Odense C,,0,Primary,,,http://www.targetheadhunting.com/available-positions/?hr=show-job/232061&linkref=257156&locale=da_DK,None,,1014988420,31934990,None,bcea65c7-901c-4a6e-9fa0-0990061096a7,TARGET Headhunting ApS,Vandværksvej 7,58,Danmark,461,Odense,3,Syddanmark,5000,Odense C,,0,Primary,,,http://www.targetheadhunting.com/available-positions/?hr=show-job/232061&linkref=257156&locale=da_DK,None,,1014988420,31934990,None,,2024-12-20T12:43:19+01:00,2025-02-14T12:43:19+01:00,2 Projektchefer - til anlægsområdet i Vand- og spildevandsselskab,"Reference til chefen for ""Planlægning"". 
+ VandCenter Syd 
+ Vandværksvej 7 
+ DK- 5000 Odense C 
+ Virksomheden 
+ VandCenter Syd er ét af Danmarks største vand- og spildevandsselskaber. Her vil du kunne blive en del af et fællesskab, der arbejder for at sikre det livsvigtige vand både hjemme og i naturen, i Danmark og i udlandet – og gøre det på en måde, der holder vand langt ud i fremtiden.  
+ VandCenter Syd er ejet af hhv. Odense og Nordfyns Kommune og består af 200 medarbejdere, som til dagligt drifter og udvikler på vand- og spildevandsområdet i Odense og på Nordfyn. Med deres mange års erfaring har de opnået omfattende praktisk erfaring og knowhow, og de er i dag i stand til at hjælpe andre faciliteter nationalt såvel som internationalt på alle områder, herunder: energiproduktion- og besparelser reduktion af emissioner, ressourcegenvinding og spildevandsrensningsprocesser generelt. Derudover er der hos VandCenter Syd et løbende fokus på forbedringer af natur og miljø.  
+ VandCenter Syd er en moderne arbejdsplads, hvor der er opmærksomhed på work/life balance og rimelighed if.t. forventningen om fleksibilitet.  
+ Trivsel og arbejdsglæde er en essentiel ingrediens i værdierne: Ansvarlighed, Nytænkning, Professionalisme og Humør. 
+ Stillingen 
+ Med reference til chefen for ""Planlægning"" bliver du en del af området ”Plan og projekt” på i forvejen 50 kompetente medarbejdere.  
+ Du kommer til at bidrage til VandCenter Syd´s ambitiøse strategi ”Medskaber af en bæredygtig fremtid”, hvor en af målsætningerne er at bevæge sig fra at være ’en part’ til at være en ’en partner’. VCS vil stræbe efter, at myndigheder og andre samarbejdspartnere opfatter dem som en attraktiv medskaber tidligt i planlægningen af både byudvikling og udvikling i det åbne land. Og de vil tilbyde deres kompetencer i håndteringen af en større del af vandets kredsløb. 
+ Der er allerede mange anlægsprojekter i gang, og fremtiden byder på flere og endnu større projekter. 
+ Opgaver: 
+ 
+ For at styrke et effektivt og konstruktivt samarbejde med kommunerne, vil en af hovedopgaverne være at etablere og deltage i faste møder med Odense Kommune og Nordfyns Kommune. Dette for at sikre, at begge parter har god sparring og er opdaterede om aktuelle projekter, udfordringer og fremtidige planer  
+ Sigte mod fælles mål og strategier for vandforsyningen, herunder bæredygtighedsinitiativer og langsigtede udviklingsplaner 
+ Dele relevant information, herunder data om vandkvalitet, forsyningssikkerhed og økonomiske forhold, således at der er tillid og det sikres, at kommunen har de nødvendige oplysninger i forhold til at træffe informerede beslutninger 
+ Miljøbeskyttelse, således at indsatsen koordineres bedst muligt, med henblik på at beskytte vandressourcerne, herunder grundvandsbeskyttelse og håndtering af forurening  
+ Samarbejde om klimatilpasning, såsom forbedring af kloaksystemer og håndtering af regnvand, hvilket kan hjælpe med at beskytte kommunen mod oversvømmelser og andre klimarelaterede udfordringer 
+ Bæredygtighed, således at VCS bidrager til kommunens bæredygtighedsmål ved at implementere grønne løsninger  
+ VCS skal være åbne for at tilpasse planer og strategier baseret på feedback fra kommunen og andre interessenter. VCS skal dermed kunne reagere hurtigt på ændringer 
+ Sikre at ny lovgivning/bekendtgørelser m.v. bliver implementeret i organisationen 
+ Tovholder/koordinator på forskellige større opgaver ad hoc. 
+ 
+ Kandidaten 
+ Vi forventer, at du: 
+ 
+ Har en solid baggrund indenfor spildevandsteknologi og miljøteknik, dette inkluderer viden om rensningsprocesser, lovgivning og miljøbeskyttelse 
+ Evner at kommunikere positivt, klart og effektivt med både tekniske og ikke-tekniske interessenter, således at tekniske detaljer kan formidles på en forståelig måde 
+ Har erfaring med projektledelse, herunder planlægning, koordinering og gennemførelse af projekter er nødvendigt for at sikre, at samarbejdsprojekter forløber gnidningsfrit 
+ Har indgående kendskab til de relevante love og reguleringer, der styrer spildevandsbehandling og miljøbeskyttelse, således at VCS sikrer overholdelse og effektiv implementering 
+ Taler engelsk  
+ 
+ Derudover kan du sætte hak ved de fleste af nedenstående punkter: 
+ 
+ Som person er du ansvarsfuld og en teamspiller. Du er løsningsorienteret, tager ejerskab og lægger vægt på høj kvalitet og gode løsninger i dit daglige arbejde.  Du er opsøgende og nysgerrig og kan bevare overblikket, også når det er komplekst 
+ Evner at samarbejde positivt og godt i teams og opbygge stærke relationer med kommunale embedsmænd og andre interessenter, for at få et succesfuldt samarbejde 
+ Er proaktiv i din tilgang med henblik på at identificere og løse problemer, der kan opstå i forbindelse med projekter 
+ Dygtig til at forhandle kompetent og strategisk 
+ Evner at tilpasse sig ændringer og håndtere uforudsete udfordringer i en dynamisk virksomhed 
+ Evner at bevare det gode humør og den positive indstilling – også når tingene går stærkt og er komplekse 
+ 
+ Uddannelse 
+ Ingeniør, byplanlægger, arkitekt, geograf eller anden relevant uddannelse. 
+ IT-kompetencer 
+ Du er stærk i brugen af relevante digitale redskaber, herunder office-pakken. Det vigtigste er, at du har nemt ved at sætte dig ind i og udnytte IT-systemers værktøjer i dit daglige arbejde. 
+ Virksomheden tilbyder 
+ VandCenter Syd kan tilbyde dig et spændende og ansvarsfuldt fuldtidsjob med mulighed for delvist hjemmearbejde. De udforsker nye veje, og de kan lide at blive klogere. Derfor får du også gode muligheder for at opkvalificere dig og være opdateret inden for det nyeste i branchen.  
+ Derudover er de en arbejdsplads, der lægger stor vægt på trivsel og krydrer arbejdsdagen med bl.a. sociale arrangementer, motion og en velsmagende kantineordning. Du vil møde en uformel kultur, som lægger vægt på værdibaseret ledelse, og som er præget af høje forventninger, ansvarlighed og rummelighed. De har en stor grad af frihed under ansvar, som gør det muligt at balancere karriere og privatliv og giver mulighed for, at den enkelte kan præge sit job. 
+ Der er løn efter KL-overenskomst, betalt frokostpause, sundhedsforsikring og en række personalegoder som f.eks. sundhedsordning, ugentlig trivselstime, kantineordning mv. Ansættelsen er uden højeste arbejdstid.  
+ Du kan læse mere om VandCenter Syd på  vandcenter.dk/ 
+ 
+VandCenter Syd betragter mangfoldighed som en styrke og opfordrer derfor alle kvalificerede til at søge uanset alder, køn, religion, etnisk tilhørsforhold og handicap. 
+ 
+ Lønpakke 
+ Fast gage efter kvalifikationer og KL's overenskomst plus fritvalgsordning, pension, sundhedsordning, PC og telefon. ​​​​​​ 
+ 
+ Starttidspunkt 
+Hurtigst muligt",Vandværksvej 7,58,Danmark,461,Odense,3,Syddanmark,5000,Odense C,1,1,Fuldtid,None,None,1,,Projektleder,0,"Projektleder med ansvar for undervandsbyggerier, Projektchef, 5470, 5471, 5472, Project Director, Project Manager, PMO Manager",0,0,False,"{'Email': 'sh@targetheadhunting.com', 'PersonName': 'Søren Hemmersam', 'FirstName': 'Søren', 'LastName': 'Hemmersam', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 4029 6757', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,http://www.targetheadhunting.com/available-positions/?hr=show-job/232061&linkref=257156&locale=da_DK,False,2025-02-14T12:43:19+01:00,7,/CV/FindWork/GetLogo?JobAdId=bcea65c7-901c-4a6e-9fa0-0990061096a7&Organisation=31934990,"Vandværksvej 7,5000, Odense C",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=bcea65c7-901c-4a6e-9fa0-0990061096a7&Company.Name=TARGET Headhunting ApS&SubmissionDeadlineDate=2025-2-14&Title=2 Projektchefer - til anlægsområdet i Vand- og spildevandsselskab&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,2 Projektchefer - til anlægsområdet i Vand- og spildevandsselskab,True,,True,1,,bcea65c7-901c-4a6e-9fa0-0990061096a7,,,False,False,,0,False,TARGET Headhunting ApS,Vandværksvej 7,,,5000,False,False,False,Odense C,Søren Hemmersam,+45 4029 6757,sh@targetheadhunting.com,,,,,False,,2025-02-14T12:43:19+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Odense kommune,False,TARGET Headhunting ApS,,None,,False,False,"Reference til chefen for  Planlægning .
+
+VandCenter Syd
+
+Vandværksvej 7
+
+DK- 5000 Odense C
+
+Virksomheden
+
+VandCenter Syd er ét af Danmarks største vand- og spildevandsselskaber. Her vil du kunne blive en del af et fællesskab, der arbejder for at sikre det livsvigtige vand både hjemme og i naturen, i Danmark og i udlandet – og gøre det på en måde, d","""Reference til chefen for  Planlægning .\n\nVandCenter Syd\n\nVandværksvej 7\n\nDK- 5000 Odense C\n\nVirksomheden\n\nVandCenter Syd er ét af Danmarks største vand- og spildevandsselskaber. Her vil du kunne blive en del af et fællesskab, der arbejder for at sikre det livsvigtige vand både hjemme og i naturen, i Danmark og i udlandet – og gøre det på en måde, d""","""2 Projektchefer - til anlægsområdet i Vand- og spildevandsselskab""","https://www.google.dk/maps/dir//Vandværksvej+7,5000,+Odense+C/","Reference til chefen for ""Planlægning"". 
+ VandCenter Syd 
+ Vandværksvej 7 
+ DK- 5000 Odense C 
+ Virksomheden 
+ VandCenter Syd er ét af Danmarks største vand- og spildevandsselskaber. Her vil du kunne blive en del af et fællesskab, der arbejder for at sikre det livsvigtige vand både hjemme og i naturen, i Danmark og i udlandet – og gøre det på en måde, der holder vand langt ud i fremtiden.  
+ VandCenter Syd er ejet af hhv. Odense og Nordfyns Kommune og består af 200 medarbejdere, som til dagligt drifter og udvikler på vand- og spildevandsområdet i Odense og på Nordfyn. Med deres mange års erfaring har de opnået omfattende praktisk erfaring og knowhow, og de er i dag i stand til at hjælpe andre faciliteter nationalt såvel som internationalt på alle områder, herunder: energiproduktion- og besparelser reduktion af emissioner, ressourcegenvinding og spildevandsrensningsprocesser generelt. Derudover er der hos VandCenter Syd et løbende fokus på forbedringer af natur og miljø.  
+ VandCenter Syd er en moderne arbejdsplads, hvor der er opmærksomhed på work/life balance og rimelighed if.t. forventningen om fleksibilitet.  
+ Trivsel og arbejdsglæde er en essentiel ingrediens i værdierne: Ansvarlighed, Nytænkning, Professionalisme og Humør. 
+ Stillingen 
+ Med reference til chefen for ""Planlægning"" bliver du en del af området ”Plan og projekt” på i forvejen 50 kompetente medarbejdere.  
+ Du kommer til at bidrage til VandCenter Syd´s ambitiøse strategi ”Medskaber af en bæredygtig fremtid”, hvor en af målsætningerne er at bevæge sig fra at være ’en part’ til at være en ’en partner’. VCS vil stræbe efter, at myndigheder og andre samarbejdspartnere opfatter dem som en attraktiv medskaber tidligt i planlægningen af både byudvikling og udvikling i det åbne land. Og de vil tilbyde deres kompetencer i håndteringen af en større del af vandets kredsløb. 
+ Der er allerede mange anlægsprojekter i gang, og fremtiden byder på flere og endnu større projekter. 
+ Opgaver: 
+ 
+ For at styrke et effektivt og konstruktivt samarbejde med kommunerne, vil en af hovedopgaverne være at etablere og deltage i faste møder med Odense Kommune og Nordfyns Kommune. Dette for at sikre, at begge parter har god sparring og er opdaterede om aktuelle projekter, udfordringer og fremtidige planer  
+ Sigte mod fælles mål og strategier for vandforsyningen, herunder bæredygtighedsinitiativer og langsigtede udviklingsplaner 
+ Dele relevant information, herunder data om vandkvalitet, forsyningssikkerhed og økonomiske forhold, således at der er tillid og det sikres, at kommunen har de nødvendige oplysninger i forhold til at træffe informerede beslutninger 
+ Miljøbeskyttelse, således at indsatsen koordineres bedst muligt, med henblik på at beskytte vandressourcerne, herunder grundvandsbeskyttelse og håndtering af forurening  
+ Samarbejde om klimatilpasning, såsom forbedring af kloaksystemer og håndtering af regnvand, hvilket kan hjælpe med at beskytte kommunen mod oversvømmelser og andre klimarelaterede udfordringer 
+ Bæredygtighed, således at VCS bidrager til kommunens bæredygtighedsmål ved at implementere grønne løsninger  
+ VCS skal være åbne for at tilpasse planer og strategier baseret på feedback fra kommunen og andre interessenter. VCS skal dermed kunne reagere hurtigt på ændringer 
+ Sikre at ny lovgivning/bekendtgørelser m.v. bliver implementeret i organisationen 
+ Tovholder/koordinator på forskellige større opgaver ad hoc. 
+ 
+ Kandidaten 
+ Vi forventer, at du: 
+ 
+ Har en solid baggrund indenfor spildevandsteknologi og miljøteknik, dette inkluderer viden om rensningsprocesser, lovgivning og miljøbeskyttelse 
+ Evner at kommunikere positivt, klart og effektivt med både tekniske og ikke-tekniske interessenter, således at tekniske detaljer kan formidles på en forståelig måde 
+ Har erfaring med projektledelse, herunder planlægning, koordinering og gennemførelse af projekter er nødvendigt for at sikre, at samarbejdsprojekter forløber gnidningsfrit 
+ Har indgående kendskab til de relevante love og reguleringer, der styrer spildevandsbehandling og miljøbeskyttelse, således at VCS sikrer overholdelse og effektiv implementering 
+ Taler engelsk  
+ 
+ Derudover kan du sætte hak ved de fleste af nedenstående punkter: 
+ 
+ Som person er du ansvarsfuld og en teamspiller. Du er løsningsorienteret, tager ejerskab og lægger vægt på høj kvalitet og gode løsninger i dit daglige arbejde.  Du er opsøgende og nysgerrig og kan bevare overblikket, også når det er komplekst 
+ Evner at samarbejde positivt og godt i teams og opbygge stærke relationer med kommunale embedsmænd og andre interessenter, for at få et succesfuldt samarbejde 
+ Er proaktiv i din tilgang med henblik på at identificere og løse problemer, der kan opstå i forbindelse med projekter 
+ Dygtig til at forhandle kompetent og strategisk 
+ Evner at tilpasse sig ændringer og håndtere uforudsete udfordringer i en dynamisk virksomhed 
+ Evner at bevare det gode humør og den positive indstilling – også når tingene går stærkt og er komplekse 
+ 
+ Uddannelse 
+ Ingeniør, byplanlægger, arkitekt, geograf eller anden relevant uddannelse. 
+ IT-kompetencer 
+ Du er stærk i brugen af relevante digitale redskaber, herunder office-pakken. Det vigtigste er, at du har nemt ved at sætte dig ind i og udnytte IT-systemers værktøjer i dit daglige arbejde. 
+ Virksomheden tilbyder 
+ VandCenter Syd kan tilbyde dig et spændende og ansvarsfuldt fuldtidsjob med mulighed for delvist hjemmearbejde. De udforsker nye veje, og de kan lide at blive klogere. Derfor får du også gode muligheder for at opkvalificere dig og være opdateret inden for det nyeste i branchen.  
+ Derudover er de en arbejdsplads, der lægger stor vægt på trivsel og krydrer arbejdsdagen med bl.a. sociale arrangementer, motion og en velsmagende kantineordning. Du vil møde en uformel kultur, som lægger vægt på værdibaseret ledelse, og som er præget af høje forventninger, ansvarlighed og rummelighed. De har en stor grad af frihed under ansvar, som gør det muligt at balancere karriere og privatliv og giver mulighed for, at den enkelte kan præge sit job. 
+ Der er løn efter KL-overenskomst, betalt frokostpause, sundhedsforsikring og en række personalegoder som f.eks. sundhedsordning, ugentlig trivselstime, kantineordning mv. Ansættelsen er uden højeste arbejdstid.  
+ Du kan læse mere om VandCenter Syd på  vandcenter.dk/ 
+ 
+VandCenter Syd betragter mangfoldighed som en styrke og opfordrer derfor alle kvalificerede til at søge uanset alder, køn, religion, etnisk tilhørsforhold og handicap. 
+ 
+ Lønpakke 
+ Fast gage efter kvalifikationer og KL's overenskomst plus fritvalgsordning, pension, sundhedsordning, PC og telefon. ​​​​​​ 
+ 
+ Starttidspunkt 
+Hurtigst muligt","https://www.google.dk/maps/place/Vandværksvej+7,5000,+Odense+C/",31934990,False,False,,False

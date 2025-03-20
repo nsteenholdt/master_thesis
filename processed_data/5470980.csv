@@ -1,0 +1,114 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Pædagog med autismeerfaring og viden søges,Pædagog med autismeerfaring og viden søges,"Er du uddannet Pædagog?
+Har du viden og interesse indenfor autismeområdet?
+Har du interesse for at arbejde målrettet og med borgerperspektivet i fokus?
+Ønsker du at være en del",Fonden Huset Scheving,Skovbakken 29,8766,Nørre Snede,False,False,False,True,2022-05-03T00:00:00,2022-06-24T00:00:00,24. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5470980,Midtjylland,Ikast-Brande,Danmark,8766,,,,Fuldtid,"Pædagogisk, socialt og kirkeligt arbejde",Pædagogisk arbejde,Socialpædagog,55.9638,9.415,,"Dag, aften, weekend",120653,106985,37934097,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5470980,https://job.jobnet.dk/CV/FindWork/Details/5470980,https://job.jobnet.dk/CV/FindWork/Details/5470980,True,5470980,55.9638,9.415,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Fonden Huset Scheving,Skovbakken 29,58,Danmark,756,Ikast-Brande,2,Midtjylland,8766,Nørre Snede,,0,Primary,,,,"Faglighed Trivsel Udvikling
+Huset Scheving er et døgn og dagtilbud målrettet borgere med Autismespektrum forstyrrelser evt. med ko-morbiditeter (følge/med- lidelser) samt andre  tilstande der som fællesnævner har behov for et struktureret og rammetydeligt miljø.",120653,1021691794,37934097,Huset Scheving er et døgn og dagtilbud målrettet borgere med Autismespektrum forstyrrelser evt. med ko-morbiditeter (følge/med- lidelser) samt andre  tilstande der som fællesnævner har behov for et struktureret og rammetydeligt miljø.,5470980,5470980,Fonden Huset Scheving,Skovbakken 29,58,Danmark,756,Ikast-Brande,2,Midtjylland,8766,Nørre Snede,,0,Primary,,,,"Faglighed Trivsel Udvikling
+Huset Scheving er et døgn og dagtilbud målrettet borgere med Autismespektrum forstyrrelser evt. med ko-morbiditeter (følge/med- lidelser) samt andre  tilstande der som fællesnævner har behov for et struktureret og rammetydeligt miljø.",120653,1021691794,37934097,Huset Scheving er et døgn og dagtilbud målrettet borgere med Autismespektrum forstyrrelser evt. med ko-morbiditeter (følge/med- lidelser) samt andre  tilstande der som fællesnævner har behov for et struktureret og rammetydeligt miljø.,,2022-05-03T00:00:00,2022-06-24T00:00:00,Pædagog med autismeerfaring og viden søges,"Er du uddannet Pædagog? 
+ Har du viden og interesse indenfor autismeområdet? 
+ Har du interesse for at arbejde målrettet og med borgerperspektivet i fokus? 
+ Ønsker du at være en del af et døgntilbud med fokus på den enkelte beboers trivsel? 
+ Så har vi muligvis jobbet til dig 
+   
+ Fonden Huset Scheving er et dag- og døgntilbud for op til 10 voksne mennesker med autisme. Fælles for alle gør det sig gældende at hverdagen fungerer bedst med gode visuelle strukturer og arbejdssystemer.  I Huset Scheving arbejder vi ud fra principperne bag TEACCH som ud over visuelle støttesystemer, dagsskemaer, metodebeskrivelser m.m. tager udgangspunkt i det enkelte menneske og forståelsen af at alle er individuelle og at metode og tilgang derfor skal tilpasses til den enkelte.  
+   
+ Vi tilbyder: 
+ 
+ En fast stilling til dig som på baggrund af din faglighed vil hjælpe, støtte og udvikle vores beboere med autisme i det daglige arbejde. 
+ 
+ 
+ En arbejdsplads der er højt specialiseret og målrettet mod at arbejde med og ikke imod autismen. 
+ 
+ 
+ En arbejdsplads som vægter uddannelse og tilegnelse af viden højt. Vi modtager bl.a. undervisning og faglig sparring af autismefaglig konsulent Dorthe Hölck fra go between og Psykolog Anne-Mette H. Knudsen som er autoriseret Cand.Psych. med speciale i ASF, ADHD og udviklingstraumer, samt Fysioterapeut Kirsten Bundgaard med stor viden indenfor sensoriske forstyrrelser og low arousal tilgang. 
+ 
+ 
+ En arbejdsplads med stort fokus på den enkelte medarbejders trivsel. 
+ 
+ Du vil som fastansat som minimum være tilknyttet een beboer i en kontaktpersonrolle. Kontaktpersonens rolle er særligt at sikre at der arbejdes målrettet med den enkelte beboers trivsel, herunder udarbejdelse af kommunale handleplaner. Kontaktpersonens rolle er ligeledes at være nysgerrig, og på baggrund heraf at udvikle nye støttesystemer tilpasset til beboeren. 
+   
+ Om os:  Fonden Huset Scheving er et dag- og døgntilbud for voksne med autisme med evt. følgelidelser (komorbiditet) 
+ Tilbuddet ligger i Nørre Snede i naturskønne omgivelser. Tæt på skov og tæt på indkøbsmuligheder.  
+ Vi har dyr (ponyer, grise og høns) som vi bruger i det daglige arbejde med vores beboere.  
+ Tilbuddet er indrettet som et hjemlign. miljø og efter hensynstagen til den enkelte beboers behov for velkendte rammer strukturer og visuelt overblik. 
+ Vores faglige fundament er baseret på principperne i TEACCH der arbejder med og ikke imod autismen.  
+ Du vil som ny medarbejder gennemgå grundig introduktion af stedet, beboernes behov og principperne i TEACCH.  
+ Stillingen forudsætter: 
+ 
+ At du eruddannet Pædagog  
+ At du er teamplayer 
+ At du brænder for at dele og tilegne dig viden målrettet mennesker med autisme. 
+ At du formår at kaste og gribe egne og andres bolde 
+ At du kan løfte og tage ansvar for opgaver i det daglige arbejde 
+ At du er loyal mod dine kolleger og er i stand til at arbejde efter fælles frem for egne beslutninger.  
+ At du kan bevare roen når uroen hersker. 
+ At du har kørekort og egen bil, og i øvrigt er selvtransporterende til og fra arbejde. 
+ 
+   
+  Det er en fordel hvis du: 
+ 
+ Formår at arbejde metodisk med div. støttesystemer 
+ Har kendskab til at arbejde med visuel støtte 
+ Er nysgerrig på måden vi arbejder på 
+ Har kendskab til at arbejde målrettet og metodisk med pædagogiske handleplaner  
+ 
+   
+ Arbejdstiden vil være fordelt på formiddags- eftermiddags- aften- og heldagsvagter. Der arbejdes som udgangspunkt en dag hver anden weekend. 
+ Det er af hensyn til vores beboeres behov for forudsigelighed  IKKE  muligt at komme forbi opholdsstedet personligt med en ansøgning.",Skovbakken 29,58,Danmark,756,Ikast-Brande,2,Midtjylland,8766,Nørre Snede,1,1,Fuldtid,None,None,4,"{'DriversLicenceType': 3, 'Name': 'B', 'Description': 'Almindelig bil'}",0,,0,0,0,,False,"{'Id': 7953555, 'Email': 'kontakt@husetscheving.dk', 'FaxNumber': None, 'PersonName': 'Lars Nørgaard', 'FirstName': 'Lars', 'LastName': 'Nørgaard', 'PositionTitle': 'Souschef', 'PhoneNumbers': [{'Number': '93880435', 'Type': 0, 'Description': 'Hovednummer'}]}",2022-07-01T00:00:00,False,False,False,False,4,,,True,False,True,True,,,job@husetscheving.dk,,,False,2022-06-24T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5470980&WorkPlace=120653&Organisation=37934097,"Skovbakken 29,8766, Nørre Snede",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5470980&Company.Name=Fonden Huset Scheving&SubmissionDeadlineDate=2022-6-24&Title=Pædagog med autismeerfaring og viden søges&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Pædagog med autismeerfaring og viden søges,True,,True,1,,5470980,,,False,False,,0,False,Fonden Huset Scheving,Skovbakken 29,,,8766,False,False,False,Nørre Snede,Lars Nørgaard,93880435,kontakt@husetscheving.dk,,,,,False,,2022-06-24T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,"Dag, aften, weekend",Arbejdspladsen ligger i Ikast-Brande kommune,False,Fonden Huset Scheving,,"Faglighed Trivsel Udvikling
+Huset Scheving er et døgn og dagtilbud målrettet borgere med Autismespektrum forstyrrelser evt. med ko-morbiditeter (følge/med- lidelser) samt andre  tilstande der som fællesnævner har behov for et struktureret og rammetydeligt miljø.",,False,False,"Er du uddannet P&aelig;dagog?
+Har du viden og interesse indenfor autismeomr&aring;det?
+Har du interesse for at arbejde m&aring;lrettet og med borgerperspektivet i fokus?
+&Oslash;nsker du at v&aelig;re en del af et d&oslash;gntilbud med fokus p&aring; den enkelte beboers trivsel?
+S&aring; har vi muligvis jobbet til dig
+
+Fonden Huset Scheving er et d","""Er du uddannet P\u0026aelig;dagog?\nHar du viden og interesse indenfor autismeomr\u0026aring;det?\nHar du interesse for at arbejde m\u0026aring;lrettet og med borgerperspektivet i fokus?\n\u0026Oslash;nsker du at v\u0026aelig;re en del af et d\u0026oslash;gntilbud med fokus p\u0026aring; den enkelte beboers trivsel?\nS\u0026aring; har vi muligvis jobbet til dig\n\nFonden Huset Scheving er et d""","""Pædagog med autismeerfaring og viden søges""","https://www.google.dk/maps/dir//Skovbakken+29,8766,+Nørre+Snede/","Er du uddannet Pædagog? 
+ Har du viden og interesse indenfor autismeområdet? 
+ Har du interesse for at arbejde målrettet og med borgerperspektivet i fokus? 
+ Ønsker du at være en del af et døgntilbud med fokus på den enkelte beboers trivsel? 
+ Så har vi muligvis jobbet til dig 
+   
+ Fonden Huset Scheving er et dag- og døgntilbud for op til 10 voksne mennesker med autisme. Fælles for alle gør det sig gældende at hverdagen fungerer bedst med gode visuelle strukturer og arbejdssystemer.  I Huset Scheving arbejder vi ud fra principperne bag TEACCH som ud over visuelle støttesystemer, dagsskemaer, metodebeskrivelser m.m. tager udgangspunkt i det enkelte menneske og forståelsen af at alle er individuelle og at metode og tilgang derfor skal tilpasses til den enkelte.  
+   
+ Vi tilbyder: 
+ 
+ En fast stilling til dig som på baggrund af din faglighed vil hjælpe, støtte og udvikle vores beboere med autisme i det daglige arbejde. 
+ 
+ 
+ En arbejdsplads der er højt specialiseret og målrettet mod at arbejde med og ikke imod autismen. 
+ 
+ 
+ En arbejdsplads som vægter uddannelse og tilegnelse af viden højt. Vi modtager bl.a. undervisning og faglig sparring af autismefaglig konsulent Dorthe Hölck fra go between og Psykolog Anne-Mette H. Knudsen som er autoriseret Cand.Psych. med speciale i ASF, ADHD og udviklingstraumer, samt Fysioterapeut Kirsten Bundgaard med stor viden indenfor sensoriske forstyrrelser og low arousal tilgang. 
+ 
+ 
+ En arbejdsplads med stort fokus på den enkelte medarbejders trivsel. 
+ 
+ Du vil som fastansat som minimum være tilknyttet een beboer i en kontaktpersonrolle. Kontaktpersonens rolle er særligt at sikre at der arbejdes målrettet med den enkelte beboers trivsel, herunder udarbejdelse af kommunale handleplaner. Kontaktpersonens rolle er ligeledes at være nysgerrig, og på baggrund heraf at udvikle nye støttesystemer tilpasset til beboeren. 
+   
+ Om os:  Fonden Huset Scheving er et dag- og døgntilbud for voksne med autisme med evt. følgelidelser (komorbiditet) 
+ Tilbuddet ligger i Nørre Snede i naturskønne omgivelser. Tæt på skov og tæt på indkøbsmuligheder.  
+ Vi har dyr (ponyer, grise og høns) som vi bruger i det daglige arbejde med vores beboere.  
+ Tilbuddet er indrettet som et hjemlign. miljø og efter hensynstagen til den enkelte beboers behov for velkendte rammer strukturer og visuelt overblik. 
+ Vores faglige fundament er baseret på principperne i TEACCH der arbejder med og ikke imod autismen.  
+ Du vil som ny medarbejder gennemgå grundig introduktion af stedet, beboernes behov og principperne i TEACCH.  
+ Stillingen forudsætter: 
+ 
+ At du eruddannet Pædagog  
+ At du er teamplayer 
+ At du brænder for at dele og tilegne dig viden målrettet mennesker med autisme. 
+ At du formår at kaste og gribe egne og andres bolde 
+ At du kan løfte og tage ansvar for opgaver i det daglige arbejde 
+ At du er loyal mod dine kolleger og er i stand til at arbejde efter fælles frem for egne beslutninger.  
+ At du kan bevare roen når uroen hersker. 
+ At du har kørekort og egen bil, og i øvrigt er selvtransporterende til og fra arbejde. 
+ 
+   
+  Det er en fordel hvis du: 
+ 
+ Formår at arbejde metodisk med div. støttesystemer 
+ Har kendskab til at arbejde med visuel støtte 
+ Er nysgerrig på måden vi arbejder på 
+ Har kendskab til at arbejde målrettet og metodisk med pædagogiske handleplaner  
+ 
+   
+ Arbejdstiden vil være fordelt på formiddags- eftermiddags- aften- og heldagsvagter. Der arbejdes som udgangspunkt en dag hver anden weekend. 
+ Det er af hensyn til vores beboeres behov for forudsigelighed  IKKE  muligt at komme forbi opholdsstedet personligt med en ansøgning.","https://www.google.dk/maps/place/Skovbakken+29,8766,+Nørre+Snede/",37934097,False,False,,False

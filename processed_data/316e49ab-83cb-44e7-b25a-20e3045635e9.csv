@@ -1,0 +1,114 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Cloud Engineer: Build Scalable SaaS Solutions for a Global Market,Cloud Engineer: Build Scalable SaaS Solutions for a Global Market,"
+
+At HR-ON, we are looking for a passionate AWS DevOps Specialist to design, optimize, and drive robust cloud solutions for our global HR SaaS platform.
+
+Your Role
+
+As a Senior Cloud",HR-ON,Østre Stationsvej 27  ,5000,Odense C,False,False,False,True,2025-01-22T11:16:00,2025-03-19T00:00:00,19. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/316e49ab-83cb-44e7-b25a-20e3045635e9,Syddanmark,Odense,Danmark,5000,,Almindelige vilkår,Fastansættelse,Fuldtid,It og teleteknik,"Systemudvikling, programmering og design",Programmør og systemudvikler,55.403,10.3917,,,1017601977,,34474540,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/316e49ab-83cb-44e7-b25a-20e3045635e9,https://job.jobnet.dk/CV/FindWork/Details/316e49ab-83cb-44e7-b25a-20e3045635e9,https://job.jobnet.dk/CV/FindWork/Details/316e49ab-83cb-44e7-b25a-20e3045635e9,True,316e49ab-83cb-44e7-b25a-20e3045635e9,55.403,10.3917,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",HR-ON,Østre Stationsvej 27,58,Danmark,461,Odense,3,Syddanmark,5000,Odense C,,0,Primary,,,https://hr-on.com/jobpost/?jobid=235089&linkref=263356&locale=en_US,None,,1017601977,34474540,None,316e49ab-83cb-44e7-b25a-20e3045635e9,HR-ON,Østre Stationsvej 27,58,Danmark,461,Odense,3,Syddanmark,5000,Odense C,,0,Primary,,,https://hr-on.com/jobpost/?jobid=235089&linkref=263356&locale=en_US,None,,1017601977,34474540,None,,2025-01-22T11:16:00+01:00,2025-03-19T11:16:00+01:00,Cloud Engineer: Build Scalable SaaS Solutions for a Global Market,"At HR-ON, we are looking for a passionate AWS DevOps Specialist to design, optimize, and drive robust cloud solutions for our global HR SaaS platform.
+
+Your Role
+
+ As a  Senior Cloud Engineer  at HR-ON, you will be a pivotal figure in shaping the development and scalability of our serverless HR platform. Your expertise will drive critical decisions and implementations, ensuring robust, secure, and high-performing SaaS solution in a global market.  
+
+Key responsibilities include:
+
+ 
+ Architecting, implementing, and maintaining  scalable AWS cloud infrastructure , leveraging services like Lambda, S3, RDS, and CloudFormation. 
+ Building and refining  CI/CD pipelines  for seamless, secure, and efficient software deployment. 
+ Leading the development of  backend functionality  in Node.js and TypeScript. 
+ Monitoring, troubleshooting, and optimizing system performance with AWS CloudWatch and advanced monitoring tools. 
+ Driving  strategic architectural decisions  to future-proof scalability, security, and reliability. 
+ Automating complex operational workflows  to improve system efficiency and developer productivity. 
+ 
+
+Who Are You?
+
+ You’ll thrive in this role if you are: 
+ 
+ 
+ A  team player  who enjoys working closely with colleagues across disciplines to solve challenges together. 
+ Flexible  and adaptable, thriving in a dynamic environment where priorities may shift. 
+ Proactive  and solutions-oriented, always looking for ways to optimize processes and improve outcomes. 
+ Can  communicate and explain complex concepts  in an accessible way to both technical and non-technical colleagues. 
+ 
+
+Preferred Qualifications:
+
+ 
+ Expertise in building APIs with  GraphQL or REST . 
+ Advanced knowledge of Linux/Mac  shell scripting (Bash, Zsh) . 
+ Familiarity with  AWS monitoring tools . 
+ 
+ You have  professional experience with AWS  and thrive on taking ownership, solving complex challenges, and working collaboratively in a fast-paced environment. 
+ 
+What We Offer
+
+ At HR-ON, senior developers like you are empowered to shape both the technology stack and the development culture. Here’s what you can expect: 
+ 
+ Influence : Take the lead on key decisions impacting architecture and workflows. 
+ Flexibility : Enjoy the freedom to work remotely or from our centrally located office in Odense. 
+ Collaboration : Be part of a highly skilled, creative, and supportive team. 
+ Growth : Access opportunities to expand your technical expertise and grow with the company. 
+ 
+
+About HR-ON
+
+ HR-ON is an ambitious, values-driven tech company headquartered in Odense, with offices in Jutland, Zealand, Germany, and Japan. We develop a  cutting-edge HR SaaS solution , empowering businesses worldwide to optimize recruitment and employee development. 
+ At HR-ON, you’ll enjoy a balance of deep technical challenges and team-oriented activities, from solving complex backend problems to brainstorming innovative ideas over a ping pong match.  We value diversity, innovation, and ownership —and we’re looking for someone ready to make a lasting impact.",Østre Stationsvej 27,58,Danmark,461,Odense,3,Syddanmark,5000,Odense C,1,1,Fuldtid,None,None,1,,Programmør og systemudvikler,0,"Analytiker af ikt-systemer, Udvikler af mobilapps, Udvikler af integrerede systemer, Udvikler af integrerede softwaresystemer, Udvikler af ikt-systemer, Udvikler af e-læring, Udvikler af digitale spil, Udvikler af brugergrænseflader, Softwareudvikler inden for mobilt udstyr, Softwareudvikler af ikt-applikationer, Softwarearkitekt, Softwareanalytiker, Programmør til numeriske værktøjer og processer, Ikt-applikationskonfigurator, Ekspert i søgemaskineoptimering, Designer af instruktionsmaterialer, Designer af digitale spil, Arkitekt inden for e-læring, Computerspiludvikler, 6057, 6058, 6059, 6060, 6061, 6062, BI konsulent, Devops tekniker, Devops Ingeniør",0,0,False,"{'Email': 'ali.cevik@hr-on.com', 'PersonName': 'Ali Cevik', 'FirstName': 'Ali', 'LastName': 'Cevik', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '71990765', 'Type': 0, 'Description': 'Primary'}]}",,True,True,False,False,4,,,False,False,False,False,False,False,,,,,https://hr-on.com/jobpost/?jobid=235089&linkref=263356&locale=en_US,False,2025-03-19T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=316e49ab-83cb-44e7-b25a-20e3045635e9&Organisation=34474540,"Østre Stationsvej 27,5000, Odense C",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=316e49ab-83cb-44e7-b25a-20e3045635e9&Company.Name=HR-ON&SubmissionDeadlineDate=2025-3-19&Title=Cloud Engineer: Build Scalable SaaS Solutions for a Global Market&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Cloud Engineer: Build Scalable SaaS Solutions for a Global Market,True,,True,1,,316e49ab-83cb-44e7-b25a-20e3045635e9,,,False,False,,0,False,HR-ON,Østre Stationsvej 27,,,5000,False,False,False,Odense C,Ali Cevik,71990765,ali.cevik@hr-on.com,,,,,False,,2025-03-19T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Odense kommune,False,HR-ON,,None,,False,False,"
+
+At HR-ON, we are looking for a passionate AWS DevOps Specialist to design, optimize, and drive robust cloud solutions for our global HR SaaS platform.
+
+Your Role
+
+As a Senior Cloud Engineer at HR-ON, you will be a pivotal figure in shaping the development and scalability of our serverless HR platform. Your expertise will drive critical decisions ","""\n\nAt HR-ON, we are looking for a passionate AWS DevOps Specialist to design, optimize, and drive robust cloud solutions for our global HR SaaS platform.\n\nYour Role\n\nAs a Senior Cloud Engineer at HR-ON, you will be a pivotal figure in shaping the development and scalability of our serverless HR platform. Your expertise will drive critical decisions ""","""Cloud Engineer: Build Scalable SaaS Solutions for a Global Market""","https://www.google.dk/maps/dir//Østre+Stationsvej+27,5000,+Odense+C/","At HR-ON, we are looking for a passionate AWS DevOps Specialist to design, optimize, and drive robust cloud solutions for our global HR SaaS platform.
+
+Your Role
+
+ As a  Senior Cloud Engineer  at HR-ON, you will be a pivotal figure in shaping the development and scalability of our serverless HR platform. Your expertise will drive critical decisions and implementations, ensuring robust, secure, and high-performing SaaS solution in a global market.  
+
+Key responsibilities include:
+
+ 
+ Architecting, implementing, and maintaining  scalable AWS cloud infrastructure , leveraging services like Lambda, S3, RDS, and CloudFormation. 
+ Building and refining  CI/CD pipelines  for seamless, secure, and efficient software deployment. 
+ Leading the development of  backend functionality  in Node.js and TypeScript. 
+ Monitoring, troubleshooting, and optimizing system performance with AWS CloudWatch and advanced monitoring tools. 
+ Driving  strategic architectural decisions  to future-proof scalability, security, and reliability. 
+ Automating complex operational workflows  to improve system efficiency and developer productivity. 
+ 
+
+Who Are You?
+
+ You’ll thrive in this role if you are: 
+ 
+ 
+ A  team player  who enjoys working closely with colleagues across disciplines to solve challenges together. 
+ Flexible  and adaptable, thriving in a dynamic environment where priorities may shift. 
+ Proactive  and solutions-oriented, always looking for ways to optimize processes and improve outcomes. 
+ Can  communicate and explain complex concepts  in an accessible way to both technical and non-technical colleagues. 
+ 
+
+Preferred Qualifications:
+
+ 
+ Expertise in building APIs with  GraphQL or REST . 
+ Advanced knowledge of Linux/Mac  shell scripting (Bash, Zsh) . 
+ Familiarity with  AWS monitoring tools . 
+ 
+ You have  professional experience with AWS  and thrive on taking ownership, solving complex challenges, and working collaboratively in a fast-paced environment. 
+ 
+What We Offer
+
+ At HR-ON, senior developers like you are empowered to shape both the technology stack and the development culture. Here’s what you can expect: 
+ 
+ Influence : Take the lead on key decisions impacting architecture and workflows. 
+ Flexibility : Enjoy the freedom to work remotely or from our centrally located office in Odense. 
+ Collaboration : Be part of a highly skilled, creative, and supportive team. 
+ Growth : Access opportunities to expand your technical expertise and grow with the company. 
+ 
+
+About HR-ON
+
+ HR-ON is an ambitious, values-driven tech company headquartered in Odense, with offices in Jutland, Zealand, Germany, and Japan. We develop a  cutting-edge HR SaaS solution , empowering businesses worldwide to optimize recruitment and employee development. 
+ At HR-ON, you’ll enjoy a balance of deep technical challenges and team-oriented activities, from solving complex backend problems to brainstorming innovative ideas over a ping pong match.  We value diversity, innovation, and ownership —and we’re looking for someone ready to make a lasting impact.","https://www.google.dk/maps/place/Østre+Stationsvej+27,5000,+Odense+C/",34474540,False,False,,False

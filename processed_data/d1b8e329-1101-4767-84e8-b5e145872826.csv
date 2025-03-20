@@ -1,0 +1,120 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"Hospitalsserviceassistent til Serviceafsnit Køge - COP, Sjællands Universitetshospital Køge","Hospitalsserviceassistent til Serviceafsnit Køge - COP, Sjællands Universitetshospital Køge","
+	
+		
+			
+		
+	
+
+
+Servicemindede hospitalsserviceassistenter søges til  37 timers stillinger.
+
+Serviceafsnit Køge - Driftsafdelingen - på Sjællands Universitetshospital Køge ",Region Sjælland,Lykkebækvej 1  ,4600,Køge,True,False,False,False,2025-02-06T14:06:53,2025-02-20T23:59:00,20. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/d1b8e329-1101-4767-84e8-b5e145872826,Øvrige Sjælland,Køge,Danmark,4600,,Hotjob,Fastansættelse,Fuldtid,"Sundhed, omsorg og personlig pleje",Øvrigt hospitalsarbejde,Hospitalsserviceassistent,55.4553,12.2201,,,1003290870,,29190658,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/d1b8e329-1101-4767-84e8-b5e145872826,https://job.jobnet.dk/CV/FindWork/Details/d1b8e329-1101-4767-84e8-b5e145872826,https://job.jobnet.dk/CV/FindWork/Details/d1b8e329-1101-4767-84e8-b5e145872826,True,d1b8e329-1101-4767-84e8-b5e145872826,55.4553,12.2201,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Region Sjælland,Lykkebækvej 1,58,Danmark,259,Køge,4,"Hovedstaden, Sjælland og Bornholm",4600,Køge,,0,Primary,,,https://www.regionsjaelland.dk/job-og-uddannelse/jobside?hr=show-job/48367&linkref=68332&locale=da_DK,None,,1003290870,29190658,None,d1b8e329-1101-4767-84e8-b5e145872826,Region Sjælland,Lykkebækvej 1,58,Danmark,259,Køge,4,"Hovedstaden, Sjælland og Bornholm",4600,Køge,,0,Primary,,,https://www.regionsjaelland.dk/job-og-uddannelse/jobside?hr=show-job/48367&linkref=68332&locale=da_DK,None,,1003290870,29190658,None,,2025-02-06T14:06:53+01:00,2025-02-20T23:59:00+01:00,"Hospitalsserviceassistent til Serviceafsnit Køge - COP, Sjællands Universitetshospital Køge","Servicemindede hospitalsserviceassistenter søges til  37 timers stillinger. 
+ Serviceafsnit Køge - Driftsafdelingen - på Sjællands Universitetshospital Køge har ledige stillinger til besættelse d. 01.03.2025 eller snarest muligt. 
+ Serviceafsnit Køge er et travlt afsnit, hvor der fokuseres på kvaliteten af den leverede service og den nære kontakt til samarbejdspartnere. Serviceassistenterne er med til at skabe gode patientforløb. De arbejder i teams på de afdelinger, de er tilknyttet. Servicegrupperne er delvis selvstyrende og handler dagligt selvstændigt i planlægningen af arbejdet i henhold til ledelsens retningslinjer. 
+ Jobbeskrivelse 
+ Stillingerne er på gennemsnitlig 37 timer pr. uge med skiftende vagter alle ugens dag. Arbejdstiden er i tidsrummet kl. 07.00 - 23.00. 
+ Du vil indgå i servicegruppe S7, som omfatter områderne operationsgang, opvågning og intensivafdelingen. 
+ Stillingen indebærer bl.a. følgende opgaver 
+ 
+ Rengøring 
+ Transportopgaver 
+ Lejring og forflytning 
+ Opfyldningsopgaver 
+ Diverse serviceopgaver 
+ Ad hoc opgaver 
+ 
+ Vi forventer, at du 
+ Er uddannet hospitalsserviceassistent, eller evt. har erfaring fra lignende stilling og er gerne uddannet indenfor rengørings-, ernærings eller portørområdet. Såfremt du ikke er erhvervsuddannet serviceassistent med speciale i hospitalsservice, ansættes du som ufaglært serviceassistent. Det er i din ansættelse et krav, at du påbegynder og gennemfører uddannelsen som erhvervsuddannet serviceassistent med speciale i hospitalsservice inden udgangen af dit 2. ansættelses år, såfremt du opfylder betingelserne herfor - ellers påbegyndes uddannelse, så snart du opfylder betingelserne, og uddannelseshold oprettes. Under uddannelsen er din gennemsnitlige ugentlige arbejdstid 37 timer pr. uge i blandende vagter. 
+ Desuden forventer vi, at du 
+ 
+ Har kendskab til computer på brugerniveau 
+ Evt. har kendskab til INSTA 800 og DS 2451-10 
+ Er en udadvendt og serviceminded person, der sætter en ære i at yde en god service 
+ Er engageret, ansvarlig, mødestabil og fleksibel 
+ Har interesse for at omgås mennesker og kan samarbejde 
+ Er kvalitetsbevidst og har ordenssans 
+ Er forandringsvillig og omstillingsparat 
+ Kan tale, læse og forstå dansk 
+ Har en god fysik 
+ 
+ Serviceafsnit Køge kan tilbyde 
+ 
+ Faglige og personlige udviklingsmuligheder 
+ Et spændende og udfordrende arbejdsmiljø 
+ En god og grundig introduktion til arbejdet og virksomheden 
+ Mulighed for at påvirke dit eget arbejde 
+ Et job, hvor der lægges stor vægt på selvstændighed og medansvar 
+ 
+ Løn og ansættelsesvilkår efter gældende overenskomst. 
+ Ønsker du at høre mere om stillingen, er du velkommen til at kontakte serviceleder Birthe Clemmensen, 47 32 84 10. 
+ Ansøgningen 
+ Send din ansøgning og CV via ansøgningslinket her på siden. 
+ Der vil løbende blive afholdt samtaler. 
+ Om Serviceafsnit Køge 
+ Hjertet i Serviceafsnit Køge på Sjællands Universitetshospital Køge er serviceassistenterne. Serviceassistenterne løser en lang række opgaver, hvoraf nogle er synlige for patienter og pårørende, andre kun for personalet. Der leveres en meget bred vifte af rengørings- og patientserviceopgaver, linnedhåndtering, specielrengøring og kapelfunktion. Om os 
+ Den 1. januar 2024 fusionerede Sjællands Universitetshospital (SUH) med Nykøbing F. Sygehus (NFS). Som et af Danmarks største akutsygehuse driver og udvikler vi sygehusene i Køge, Roskilde og Nykøbing F. Vi har aktivitet på alle regionens sygehuse, og vi betjener alle regionens patienter med specialiserede sundhedsydelser samt tilbyder sundhedsydelser inden for 32 forskellige lægelige specialer. 
+ Som Danmarks seneste universitetshospital søger vi at omdefinere tilgangen til, hvordan sundhedsfaglige ydelser leveres i regionen. Vi stræber efter at sikre lige sundhedstilbud for alle. Med øget fokus på uddannelse, forskning og innovation arbejder vi ud fra tankesættet om at bygge bro over afstande, etablere tværfaglige fællesskaber og bringe specialiseret behandling tættere på borgerne. 
+ Læs mere om Sjællands Universitetshospital, Nykøbing F.  her 
+ Læs mere om Sjællands Universitetshospital, Køge og Roskilde  her   
+ Se video om Sjællands Universitetshospital  her",Lykkebækvej 1,58,Danmark,259,Køge,4,"Hovedstaden, Sjælland og Bornholm",4600,Køge,1,1,Fuldtid,None,None,3,,Hospitalsserviceassistent,0,"Bagageportør, Portør, 5277, 5278",0,0,False,"{'Email': 'evf@regionsjaelland.dk', 'PersonName': 'Evy Faurholdt', 'FirstName': 'Evy', 'LastName': 'Faurholdt', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '47328400', 'Type': 0, 'Description': 'Primary'}]}",2025-03-01T00:00:00+01:00,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://www.regionsjaelland.dk/job-og-uddannelse/jobside?hr=show-job/48367&linkref=68332&locale=da_DK,False,2025-02-20T23:59:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=d1b8e329-1101-4767-84e8-b5e145872826&Organisation=29190658,"Lykkebækvej 1,4600, Køge",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=d1b8e329-1101-4767-84e8-b5e145872826&Company.Name=Region Sjælland&SubmissionDeadlineDate=2025-2-20&Title=Hospitalsserviceassistent til Serviceafsnit Køge - COP, Sjællands Universitetshospital Køge&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,False,0,,,"Hospitalsserviceassistent til Serviceafsnit Køge - COP, Sjællands Universitetshospital Køge",True,,True,1,,d1b8e329-1101-4767-84e8-b5e145872826,,,False,False,,0,False,Region Sjælland,Lykkebækvej 1,,,4600,False,False,False,Køge,Evy Faurholdt,47328400,evf@regionsjaelland.dk,,,,,False,,2025-02-20T23:59:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Køge kommune,False,Region Sjælland,,None,,False,False,"
+	
+		
+			
+		
+	
+
+
+Servicemindede hospitalsserviceassistenter søges til  37 timers stillinger.
+
+Serviceafsnit Køge - Driftsafdelingen - på Sjællands Universitetshospital Køge har ledige stillinger til besættelse d. 01.03.2025 eller snarest muligt.
+
+Serviceafsnit Køge er et travlt afsnit, hvor der fokuseres på kvaliteten af den leverede service og den","""\n\t\n\t\t\n\t\t\t\n\t\t\n\t\n\n\nServicemindede hospitalsserviceassistenter søges til  37 timers stillinger.\n\nServiceafsnit Køge - Driftsafdelingen - på Sjællands Universitetshospital Køge har ledige stillinger til besættelse d. 01.03.2025 eller snarest muligt.\n\nServiceafsnit Køge er et travlt afsnit, hvor der fokuseres på kvaliteten af den leverede service og den""","""Hospitalsserviceassistent til Serviceafsnit Køge - COP, Sjællands Universitetshospital Køge""","https://www.google.dk/maps/dir//Lykkebækvej+1,4600,+Køge/","Servicemindede hospitalsserviceassistenter søges til  37 timers stillinger. 
+ Serviceafsnit Køge - Driftsafdelingen - på Sjællands Universitetshospital Køge har ledige stillinger til besættelse d. 01.03.2025 eller snarest muligt. 
+ Serviceafsnit Køge er et travlt afsnit, hvor der fokuseres på kvaliteten af den leverede service og den nære kontakt til samarbejdspartnere. Serviceassistenterne er med til at skabe gode patientforløb. De arbejder i teams på de afdelinger, de er tilknyttet. Servicegrupperne er delvis selvstyrende og handler dagligt selvstændigt i planlægningen af arbejdet i henhold til ledelsens retningslinjer. 
+ Jobbeskrivelse 
+ Stillingerne er på gennemsnitlig 37 timer pr. uge med skiftende vagter alle ugens dag. Arbejdstiden er i tidsrummet kl. 07.00 - 23.00. 
+ Du vil indgå i servicegruppe S7, som omfatter områderne operationsgang, opvågning og intensivafdelingen. 
+ Stillingen indebærer bl.a. følgende opgaver 
+ 
+ Rengøring 
+ Transportopgaver 
+ Lejring og forflytning 
+ Opfyldningsopgaver 
+ Diverse serviceopgaver 
+ Ad hoc opgaver 
+ 
+ Vi forventer, at du 
+ Er uddannet hospitalsserviceassistent, eller evt. har erfaring fra lignende stilling og er gerne uddannet indenfor rengørings-, ernærings eller portørområdet. Såfremt du ikke er erhvervsuddannet serviceassistent med speciale i hospitalsservice, ansættes du som ufaglært serviceassistent. Det er i din ansættelse et krav, at du påbegynder og gennemfører uddannelsen som erhvervsuddannet serviceassistent med speciale i hospitalsservice inden udgangen af dit 2. ansættelses år, såfremt du opfylder betingelserne herfor - ellers påbegyndes uddannelse, så snart du opfylder betingelserne, og uddannelseshold oprettes. Under uddannelsen er din gennemsnitlige ugentlige arbejdstid 37 timer pr. uge i blandende vagter. 
+ Desuden forventer vi, at du 
+ 
+ Har kendskab til computer på brugerniveau 
+ Evt. har kendskab til INSTA 800 og DS 2451-10 
+ Er en udadvendt og serviceminded person, der sætter en ære i at yde en god service 
+ Er engageret, ansvarlig, mødestabil og fleksibel 
+ Har interesse for at omgås mennesker og kan samarbejde 
+ Er kvalitetsbevidst og har ordenssans 
+ Er forandringsvillig og omstillingsparat 
+ Kan tale, læse og forstå dansk 
+ Har en god fysik 
+ 
+ Serviceafsnit Køge kan tilbyde 
+ 
+ Faglige og personlige udviklingsmuligheder 
+ Et spændende og udfordrende arbejdsmiljø 
+ En god og grundig introduktion til arbejdet og virksomheden 
+ Mulighed for at påvirke dit eget arbejde 
+ Et job, hvor der lægges stor vægt på selvstændighed og medansvar 
+ 
+ Løn og ansættelsesvilkår efter gældende overenskomst. 
+ Ønsker du at høre mere om stillingen, er du velkommen til at kontakte serviceleder Birthe Clemmensen, 47 32 84 10. 
+ Ansøgningen 
+ Send din ansøgning og CV via ansøgningslinket her på siden. 
+ Der vil løbende blive afholdt samtaler. 
+ Om Serviceafsnit Køge 
+ Hjertet i Serviceafsnit Køge på Sjællands Universitetshospital Køge er serviceassistenterne. Serviceassistenterne løser en lang række opgaver, hvoraf nogle er synlige for patienter og pårørende, andre kun for personalet. Der leveres en meget bred vifte af rengørings- og patientserviceopgaver, linnedhåndtering, specielrengøring og kapelfunktion. Om os 
+ Den 1. januar 2024 fusionerede Sjællands Universitetshospital (SUH) med Nykøbing F. Sygehus (NFS). Som et af Danmarks største akutsygehuse driver og udvikler vi sygehusene i Køge, Roskilde og Nykøbing F. Vi har aktivitet på alle regionens sygehuse, og vi betjener alle regionens patienter med specialiserede sundhedsydelser samt tilbyder sundhedsydelser inden for 32 forskellige lægelige specialer. 
+ Som Danmarks seneste universitetshospital søger vi at omdefinere tilgangen til, hvordan sundhedsfaglige ydelser leveres i regionen. Vi stræber efter at sikre lige sundhedstilbud for alle. Med øget fokus på uddannelse, forskning og innovation arbejder vi ud fra tankesættet om at bygge bro over afstande, etablere tværfaglige fællesskaber og bringe specialiseret behandling tættere på borgerne. 
+ Læs mere om Sjællands Universitetshospital, Nykøbing F.  her 
+ Læs mere om Sjællands Universitetshospital, Køge og Roskilde  her   
+ Se video om Sjællands Universitetshospital  her","https://www.google.dk/maps/place/Lykkebækvej+1,4600,+Køge/",29190658,False,False,,False

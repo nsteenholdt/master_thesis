@@ -1,0 +1,161 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Work at Home - Suomea puhuva asiakaspalvelija - Lääketieteellinen yritys,Work at Home - Suomea puhuva asiakaspalvelija - Lääketieteellinen yritys,"Job Description:&nbsp;
+
+
+
+Huom.: etätyömahdollisuus&nbsp; ainoastaan Tanskassa asuville
+Puhutko suomea sujuvasti? Rakastatko asi",Foundever Denmark ApS,Sluseholmen 2-4 3 ,2450,København SV,False,False,False,True,2024-12-20T00:00:00,2025-02-14T00:00:00,14. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/3808caa7-76be-43c2-a2fe-ba8d96a72fca,Hovedstaden og Bornholm,København,Danmark,2450,,Hotjob,Fastansættelse,Fuldtid,"Salg, indkøb og markedsføring",Salg og indkøb,Kundeservicemedarbejder,55.6408,12.5231,,,1013408056,,30554256,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/3808caa7-76be-43c2-a2fe-ba8d96a72fca,https://job.jobnet.dk/CV/FindWork/Details/3808caa7-76be-43c2-a2fe-ba8d96a72fca,https://job.jobnet.dk/CV/FindWork/Details/3808caa7-76be-43c2-a2fe-ba8d96a72fca,True,3808caa7-76be-43c2-a2fe-ba8d96a72fca,55.6408,12.5231,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Foundever Denmark ApS,"Sluseholmen 2-4, 3",58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",2450,København SV,,0,Primary,,,https://jobs.foundever.com/job/Copenhagen-%28København%29-Work-at-Home-Suomea-puhuva-asiakaspalvelija-Lääketieteellinen-yritys-Denm/899699000/?,None,,1013408056,30554256,None,3808caa7-76be-43c2-a2fe-ba8d96a72fca,Foundever Denmark ApS,"Sluseholmen 2-4, 3",58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",2450,København SV,,0,Primary,,,https://jobs.foundever.com/job/Copenhagen-%28København%29-Work-at-Home-Suomea-puhuva-asiakaspalvelija-Lääketieteellinen-yritys-Denm/899699000/?,None,,1013408056,30554256,None,,2024-12-20T00:00:00+01:00,2025-02-14T09:03:47.71+01:00,Work at Home - Suomea puhuva asiakaspalvelija - Lääketieteellinen yritys,"Job Description:  
+ Huom.: etätyömahdollisuus  ainoastaan Tanskassa asuville 
+ Puhutko suomea sujuvasti? Rakastatko asiakkaiden odotusten ylittämistä? Haluatko olla osa vahvaa tiimiä ja dynaamista työyhteisöä ja mahdollisuuden työskennellä kotoa käsin? 
+ Meillä on sinulle töitä! 
+
+
+
+
+Meistä
+
+
+ Etsimme suomea sujuvasti puhuvaa asiakaspalvelijaa Foundeverin toimistolle Kööpenhaminaan auttamaan asiakkaitamme diabeteksen hoitoon käytettävien laitteiden käytössä yritysasiakkaamme puolesta – yrityksen, joka on globaali johtava yritys diabeteksen hoidossa. 
+ Me Foundeverillä uskomme työntekijöidemme olevan yrityksemme tärkein voimavara, minkä vuoksi etsimme parhaimpia, lahjakkaimpia ja kunnianhimoisimpia tekijöitä osaksi tiimiämme.   
+ Meillä työskentelet osana dynaamista ja sosiaalista ympäristöä positiivisessa ilmapiirissä. Foundeverillä sinulla on mahdollisuus kehittyä ja kasvaa – niin yksilönä kuin ammatillisesti. 
+ ""Pidän siitä, että voin työskennellä kotona, ja asiakas on erittäin jännittävä asiakas"" – Frederik 
+
+
+
+
+Työnkuvaus
+
+
+ Etsimme asiakaspalvelun ammattilaista vastaamaan asiakkaidemme odotuksiin. Maailmanluokan asiakaspalvelun tarjoaminen on sinulle luontaista. Jos sinulta löytyy loistavat kommunikaatiotaidot ja hyvä asenne tiimityöskentelyyn, me opetamme loput! 
+ Tässä työssä sinä: 
+ 
+ Tarjoat parasta mahdollista tukea ja palvelua markkinoiden parhaimpien diabeteksen seurantalaitteiden loppukäyttäjille puhelimitse sekä sähköpostitse liittyen tuotteiden käyttöön, tilauksiin sekä muihin kyselyihin. 
+ Olet osa jatkuvaa palveluidemme ja prosessiemme kehitystyötä taataksesi asiakastyytyväisyyden. 
+ Avustat hallinnollisissa ja muissa työnantajan osoittamissa tehtävissä. 
+ Varmistat, että puheluaikoja, palvelun tasoa ja laatua mittaavat KPI:t ovat jatkuvasti niille asettamillamme tasoilla. 
+ 
+ Yritys, jonka puolesta palvelet asiakkaita, on yksi suurimpia toimijoita lääketieteellisten, diabeteksen hoitoon käytettävien laitteiden markkinoilla ja sinun tulee työssäsi noudattaa heidän standardejaan, eettistä ohjeistustaan ja moraalisia koodejaan. 
+ Tuotevalikoima on monipuolinen, aina virheetön laadultaan ja armottoman innovaation tulos, jonka tavoitteena on taata käyttäjien terveys ja mahdollisuus hyvään elämään.   
+
+
+
+
+Miksi Foundever?
+
+
+ Foundeverillä me tarjoamme sinulle: 
+ 
+ Kilpailukykyisen palkan, sisältäen seuraavat edut:
+ 
+ Pohjapalkka                                                     20.000 DKK 
+ 9% Free Choice Account säästötili               1800 DKK 
+ Eläke - Sitel maksaa 10%                                 2000 DKK 
+ Kokonaispalkka                                               23.800 DKK kuukaudessa 
+ 
+ 
+ Upeat kehittymismahdollisuudet 
+ Herkullinen lounas ruokalassamme, josta Foundever maksaa puolet 
+ 5 maksettua vapaapäivää vuosittain lomapäivien lisäksi 
+ Upea työympäristö, jossa tärkeysjärjestyksessä ovat erilaiset työyhteisön tapahtumat, esimerkiksi lautapeli-ilta, grillijuhlat, tiimitapahtumat jne. 
+ Mahdollisuus etätyöhön Tanskassa asuville 
+ 
+ Me varmistamme, että sinulla on kaikki tarvittava kotoa työskentelyyn (esim. näytöt, kuulokkeet, näppäimistö jne.). Tarvitset vain pysyvän ja rauhallisen työympäristön LAN-yhteydellä. 
+ ""Tiimissäni meillä on yleisesti erittäin hyvä ilmapiiri. Olemme todella hyviä kommunikoimaan ja puhumaan toisillemme ja olemme jopa hyviä ottamaan toisemme mukaan, kun joku työskentelee etänä, mikä on iso plussa"" - Ayah 
+
+
+
+
+Sijainti, yhteystiedot ja hakeminen
+
+
+ Foundeverin toimisto sijaitsee Kööpenhaminassa, osoitteessa Sluseholmen 2-4, 2450 Kbh. SV. 
+ Työaika ma-pe klo 7-15 (37h/vko) 
+ Paikka täytetään heti sopivan henkilön löydyttyä, joten ethän epäröi jättää hakemustasi jos koet, että ilmoitus kuvaa luonnettasi ja tavoitteitasi, sillä haastatteluja käydään hakemusjärjestyksessä. 
+ Lähetäthän CV:si ja hakemuskirjeesi englanniksi. 
+ Työhön ja työpaikkaan liittyviin kysymyksiin vastaa Foundeverin rekrytointi spesialisti Tobias Leth Petersen sähköpostitse osoitteessa Tobias.LethPetersen @foundever.com . 
+ Toivottavasti kuulemme sinusta pian. 
+ Voit lukea lisää Foundeveristä  nettisivuiltamme ,  Facebookistamme  tai  Instagramistamme .","Sluseholmen 2-4, 3",58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",2450,København SV,1,1,Fuldtid,None,None,1,,Kundeservicemedarbejder,0,"Kundecenteragent, Salgsassistent på en togstation, Kundeservicemedarbejder med ansvar for kassemedarbejderne, Kundeserviceassistent, 3345, 3346, 3347, Kontaktopsporingsmedarbejder, Kundekonsulent",0,0,False,"{'Email': 'Tobias.Lethpetersen@foundever.com', 'PersonName': 'Tobias Leth Petersen', 'FirstName': 'Tobias', 'LastName': 'Leth Petersen', 'PositionTitle': 'Recruitment Specialist', 'PhoneNumbers': [{'Number': '44127226', 'Type': 0, 'Description': 'Primary'}]}",,True,False,False,False,4,,,False,False,False,False,False,False,,,,,https://jobs.foundever.com/job/Copenhagen-%28København%29-Work-at-Home-Suomea-puhuva-asiakaspalvelija-Lääketieteellinen-yritys-Denm/899699000/?,False,2025-02-14T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=3808caa7-76be-43c2-a2fe-ba8d96a72fca&Organisation=30554256,"Sluseholmen 2-4, 3,2450, København SV",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=3808caa7-76be-43c2-a2fe-ba8d96a72fca&Company.Name=Foundever Denmark ApS&SubmissionDeadlineDate=2025-2-14&Title=Work at Home - Suomea puhuva asiakaspalvelija - Lääketieteellinen yritys&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Work at Home - Suomea puhuva asiakaspalvelija - Lääketieteellinen yritys,True,,True,1,,3808caa7-76be-43c2-a2fe-ba8d96a72fca,,,False,False,,0,False,Foundever Denmark ApS,"Sluseholmen 2-4, 3",,,2450,False,False,False,København SV,Tobias Leth Petersen,44127226,tobias.lethpetersen@foundever.com,,,,,False,,2025-02-14T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i København kommune,False,Foundever Denmark ApS,,None,,False,False,"Job Description:
+
+
+
+Huom.: etätyömahdollisuus ainoastaan Tanskassa asuville
+Puhutko suomea sujuvasti? Rakastatko asiakkaiden odotusten ylittämistä? Haluatko olla osa vahvaa tiimiä ja dynaamista työyhteisöä ja mahdollisuuden työskennellä kotoa käsin?
+Meillä on sinulle töitä!
+
+
+
+
+Meistä
+
+
+Etsimme suomea sujuvasti puhuvaa asiakaspalvelijaaFoundeverint","""Job Description:\n\n\n\nHuom.: etätyömahdollisuus ainoastaan Tanskassa asuville\nPuhutko suomea sujuvasti? Rakastatko asiakkaiden odotusten ylittämistä? Haluatko olla osa vahvaa tiimiä ja dynaamista työyhteisöä ja mahdollisuuden työskennellä kotoa käsin?\nMeillä on sinulle töitä!\n\n\n\n\nMeistä\n\n\nEtsimme suomea sujuvasti puhuvaa asiakaspalvelijaaFoundeverint""","""Work at Home - Suomea puhuva asiakaspalvelija - Lääketieteellinen yritys""","https://www.google.dk/maps/dir//Sluseholmen+2-4,+3,2450,+København+SV/","Job Description:  
+ Huom.: etätyömahdollisuus  ainoastaan Tanskassa asuville 
+ Puhutko suomea sujuvasti? Rakastatko asiakkaiden odotusten ylittämistä? Haluatko olla osa vahvaa tiimiä ja dynaamista työyhteisöä ja mahdollisuuden työskennellä kotoa käsin? 
+ Meillä on sinulle töitä! 
+
+
+
+
+Meistä
+
+
+ Etsimme suomea sujuvasti puhuvaa asiakaspalvelijaa Foundeverin toimistolle Kööpenhaminaan auttamaan asiakkaitamme diabeteksen hoitoon käytettävien laitteiden käytössä yritysasiakkaamme puolesta – yrityksen, joka on globaali johtava yritys diabeteksen hoidossa. 
+ Me Foundeverillä uskomme työntekijöidemme olevan yrityksemme tärkein voimavara, minkä vuoksi etsimme parhaimpia, lahjakkaimpia ja kunnianhimoisimpia tekijöitä osaksi tiimiämme.   
+ Meillä työskentelet osana dynaamista ja sosiaalista ympäristöä positiivisessa ilmapiirissä. Foundeverillä sinulla on mahdollisuus kehittyä ja kasvaa – niin yksilönä kuin ammatillisesti. 
+ ""Pidän siitä, että voin työskennellä kotona, ja asiakas on erittäin jännittävä asiakas"" – Frederik 
+
+
+
+
+Työnkuvaus
+
+
+ Etsimme asiakaspalvelun ammattilaista vastaamaan asiakkaidemme odotuksiin. Maailmanluokan asiakaspalvelun tarjoaminen on sinulle luontaista. Jos sinulta löytyy loistavat kommunikaatiotaidot ja hyvä asenne tiimityöskentelyyn, me opetamme loput! 
+ Tässä työssä sinä: 
+ 
+ Tarjoat parasta mahdollista tukea ja palvelua markkinoiden parhaimpien diabeteksen seurantalaitteiden loppukäyttäjille puhelimitse sekä sähköpostitse liittyen tuotteiden käyttöön, tilauksiin sekä muihin kyselyihin. 
+ Olet osa jatkuvaa palveluidemme ja prosessiemme kehitystyötä taataksesi asiakastyytyväisyyden. 
+ Avustat hallinnollisissa ja muissa työnantajan osoittamissa tehtävissä. 
+ Varmistat, että puheluaikoja, palvelun tasoa ja laatua mittaavat KPI:t ovat jatkuvasti niille asettamillamme tasoilla. 
+ 
+ Yritys, jonka puolesta palvelet asiakkaita, on yksi suurimpia toimijoita lääketieteellisten, diabeteksen hoitoon käytettävien laitteiden markkinoilla ja sinun tulee työssäsi noudattaa heidän standardejaan, eettistä ohjeistustaan ja moraalisia koodejaan. 
+ Tuotevalikoima on monipuolinen, aina virheetön laadultaan ja armottoman innovaation tulos, jonka tavoitteena on taata käyttäjien terveys ja mahdollisuus hyvään elämään.   
+
+
+
+
+Miksi Foundever?
+
+
+ Foundeverillä me tarjoamme sinulle: 
+ 
+ Kilpailukykyisen palkan, sisältäen seuraavat edut:
+ 
+ Pohjapalkka                                                     20.000 DKK 
+ 9% Free Choice Account säästötili               1800 DKK 
+ Eläke - Sitel maksaa 10%                                 2000 DKK 
+ Kokonaispalkka                                               23.800 DKK kuukaudessa 
+ 
+ 
+ Upeat kehittymismahdollisuudet 
+ Herkullinen lounas ruokalassamme, josta Foundever maksaa puolet 
+ 5 maksettua vapaapäivää vuosittain lomapäivien lisäksi 
+ Upea työympäristö, jossa tärkeysjärjestyksessä ovat erilaiset työyhteisön tapahtumat, esimerkiksi lautapeli-ilta, grillijuhlat, tiimitapahtumat jne. 
+ Mahdollisuus etätyöhön Tanskassa asuville 
+ 
+ Me varmistamme, että sinulla on kaikki tarvittava kotoa työskentelyyn (esim. näytöt, kuulokkeet, näppäimistö jne.). Tarvitset vain pysyvän ja rauhallisen työympäristön LAN-yhteydellä. 
+ ""Tiimissäni meillä on yleisesti erittäin hyvä ilmapiiri. Olemme todella hyviä kommunikoimaan ja puhumaan toisillemme ja olemme jopa hyviä ottamaan toisemme mukaan, kun joku työskentelee etänä, mikä on iso plussa"" - Ayah 
+
+
+
+
+Sijainti, yhteystiedot ja hakeminen
+
+
+ Foundeverin toimisto sijaitsee Kööpenhaminassa, osoitteessa Sluseholmen 2-4, 2450 Kbh. SV. 
+ Työaika ma-pe klo 7-15 (37h/vko) 
+ Paikka täytetään heti sopivan henkilön löydyttyä, joten ethän epäröi jättää hakemustasi jos koet, että ilmoitus kuvaa luonnettasi ja tavoitteitasi, sillä haastatteluja käydään hakemusjärjestyksessä. 
+ Lähetäthän CV:si ja hakemuskirjeesi englanniksi. 
+ Työhön ja työpaikkaan liittyviin kysymyksiin vastaa Foundeverin rekrytointi spesialisti Tobias Leth Petersen sähköpostitse osoitteessa Tobias.LethPetersen @foundever.com . 
+ Toivottavasti kuulemme sinusta pian. 
+ Voit lukea lisää Foundeveristä  nettisivuiltamme ,  Facebookistamme tai  Instagramistamme .","https://www.google.dk/maps/place/Sluseholmen+2-4,+3,2450,+København+SV/",30554256,False,False,,False

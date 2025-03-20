@@ -1,0 +1,119 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"Rejsemontør, kedelanlæg","Rejsemontør, kedelanlæg","For vores kunde – LINKA GROUP i Lem St. - søges en rejsevant montør til installation af biobrændselsanlæg, primært i Skandinavien.
+
+ 
+
+VIRKSOMHEDEN <",ConfidenceSearch,Nylandsvej 38,6940,Lem St,True,False,False,False,2022-03-14T00:00:00,2022-05-09T00:00:00,9. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5552685,Midtjylland,Ringkøbing-Skjern,Danmark,6940,,,,Fuldtid,"Jern, metal og auto",Montørarbejde,"Rejsemontør, industri",56.0242,8.3777,,,108699,97836,34627282,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5552685,https://job.jobnet.dk/CV/FindWork/Details/5552685,https://job.jobnet.dk/CV/FindWork/Details/5552685,True,5552685,56.0242,8.3777,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",ConfidenceSearch,Helgavej 26,58,Danmark,461,Odense,3,Syddanmark,5230,Odense M,,0,Primary,,,,"CONFIDENCE SEARCH er
+En virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd
+
+En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau
+
+En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",108699,1017855014,34627282,"Confidense Search A/S er en virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd. 
+- En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau.
+- En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",5552685,5552685,ConfidenceSearch,Helgavej 26,58,Danmark,461,Odense,3,Syddanmark,5230,Odense M,,0,Primary,,,,"CONFIDENCE SEARCH er
+En virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd
+
+En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau
+
+En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",108699,1017855014,34627282,"Confidense Search A/S er en virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd. 
+- En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau.
+- En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",,2022-03-14T00:00:00,2022-05-09T00:00:00,"Rejsemontør, kedelanlæg","For vores kunde – LINKA GROUP i Lem St. - søges en rejsevant montør til installation af biobrændselsanlæg, primært i Skandinavien. 
+   
+ VIRKSOMHEDEN  
+ Linka Group designer, leverer og servicerer energianlæg til CO2-neutral forbrænding af biobrændsler. Der leveres løsninger til fjernvarmeværker og procesindustrier i hele Europa, med primært fokus på Skandinavien. 
+ Linka Group består af Linka Energy, Jernforsen i Sverige og Weiss ApS. 
+ Med baggrund i en stærk vækst, søges nu endnu en montør til at indgå i et engageret og hårdtarbejdende team. 
+ Yderligere information findes på www.linka.dk 
+   
+ STILLINGEN 
+   
+ Som montør får du til opgave at installere komplette kedelanlæg samt større komponenter ude ved kunden. Du vil i det daglige arbejde tæt sammen med det øvrige montageteam og forskellige underleverandører. 
+ Linka har kunder i hele verden, og du skal forvente op mod 200 rejsedage om året, primært i Skandinavien. Du bliver en del af et engageret og hårdtarbejdende team, som vægter service og kvalitet højt. 
+ 
+ KANDIDATEN  
+ Du har erfaring med montage, gerne af biobrændselsanlæg, og du trives i en travl hverdag med mange forskellige opgaver. 
+ Som person er du serviceminded og sætter en ære i at levere høj kvalitet. Du er ansvarsbevidst og god til at samarbejde på tværs af fagskel. 
+ Dine professionelle kompetencer omfatter således: 
+ 
+ Du er faglært smed 
+ Du har erfaring med VVS-arbejde, PLC styringer, m.v. 
+ Du har erfaring med energianlæg og gerne viden om idriftsættelse af disse. 
+ Det er en fordel, hvis du har kendskab til fyringsanlæg. 
+ Du har erfaring med CO2, TIG og/eller elektrode svejsning – certifikat ikke et krav 
+ Du kan begå dig på engelsk og gerne norsk/svensk. 
+ Du har kørekort 
+ 
+   
+ VIRKSOMHEDEN TILBYDER  
+ Virksomheden tilbyder dig et udfordrende og afvekslende job, hvor ikke to dage er ens. 
+ Du bliver en del af en professionel virksomhed med solide værdier og gode kollegaer. 
+ Du tilbydes en lønpakke, som består af 
+ 
+ Løn efter kvalifikationer 
+ Pension og sundhedsordning 
+ Mobiltelefon 
+ Servicebil 
+ 
+ Kontaktperson i virksomheden er Lars Visgaard, mail  lvj@linka.dk  og mobil 2428 5469. 
+   
+ TILTRÆDELSE  
+ Ønsket tiltrædelse hurtigst mulig, men der ventes gerne på den rette. 
+   
+ BESKYTTELSE AF PERSONDATA 
+ Af hensyn til beskyttelse af persondata bedes du sikre, at de dokumenter du fremsender ifm. din ansøgning, ikke indeholder følsomme persondata som f.eks. dit CPR-nummer eller oplysninger om helbredsforhold, etnisk baggrund, politisk eller religiøs overbevisning, seksuelle forhold mv . 
+ For at beskytte dine persondata modtager vi ikke CV, ansøgning mv. via mail.",Nylandsvej 38,58,Danmark,760,Ringkøbing-Skjern,2,Midtjylland,6940,Lem St,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7817348, 'Email': None, 'FaxNumber': None, 'PersonName': 'Sten Petersen', 'FirstName': 'Sten', 'LastName': 'Petersen', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+4522708320', 'Type': 0, 'Description': 'Hovednummer'}]}",,False,False,False,False,4,,,False,False,False,False,,,,,http://confidencesearch.dk/ledige-stillinger/?hr=show-job/93211,False,2022-05-09T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5552685&WorkPlace=108699&Organisation=34627282,"Nylandsvej 38,6940, Lem St",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5552685&Company.Name=ConfidenceSearch&SubmissionDeadlineDate=2022-5-9&Title=Rejsemontør, kedelanlæg&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,False,0,,,"Rejsemontør, kedelanlæg",True,,True,1,,5552685,,,False,False,,0,False,ConfidenceSearch,Helgavej 26,,,5230,False,False,False,Odense M,Sten Petersen,+4522708320,,,,,,False,,2022-05-09T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Ringkøbing-Skjern kommune,False,ConfidenceSearch,,"CONFIDENCE SEARCH er
+En virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd
+
+En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau
+
+En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",,False,False,"For vores kunde &ndash; LINKA GROUP i Lem St. - s&oslash;ges en rejsevant mont&oslash;r til installation af biobr&aelig;ndselsanl&aelig;g, prim&aelig;rt i Skandinavien.
+
+ 
+
+VIRKSOMHEDEN 
+
+Linka Group designer, leverer og servicerer energianl&aelig;g til CO2-neutral forbr&aelig;nding af biobr&aelig;ndsler. Der leveres l&oslash;sninger til fjer","""For vores kunde \u0026ndash; LINKA GROUP i Lem St. - s\u0026oslash;ges en rejsevant mont\u0026oslash;r til installation af biobr\u0026aelig;ndselsanl\u0026aelig;g, prim\u0026aelig;rt i Skandinavien.\r\n\r\n \r\n\r\nVIRKSOMHEDEN \r\n\r\nLinka Group designer, leverer og servicerer energianl\u0026aelig;g til CO2-neutral forbr\u0026aelig;nding af biobr\u0026aelig;ndsler. Der leveres l\u0026oslash;sninger til fjer""","""Rejsemontør, kedelanlæg""","https://www.google.dk/maps/dir//Nylandsvej+38,6940,+Lem+St/","For vores kunde – LINKA GROUP i Lem St. - søges en rejsevant montør til installation af biobrændselsanlæg, primært i Skandinavien. 
+   
+ VIRKSOMHEDEN  
+ Linka Group designer, leverer og servicerer energianlæg til CO2-neutral forbrænding af biobrændsler. Der leveres løsninger til fjernvarmeværker og procesindustrier i hele Europa, med primært fokus på Skandinavien. 
+ Linka Group består af Linka Energy, Jernforsen i Sverige og Weiss ApS. 
+ Med baggrund i en stærk vækst, søges nu endnu en montør til at indgå i et engageret og hårdtarbejdende team. 
+ Yderligere information findes på  www.linka.dk 
+   
+ STILLINGEN 
+   
+ Som montør får du til opgave at installere komplette kedelanlæg samt større komponenter ude ved kunden. Du vil i det daglige arbejde tæt sammen med det øvrige montageteam og forskellige underleverandører. 
+ Linka har kunder i hele verden, og du skal forvente op mod 200 rejsedage om året, primært i Skandinavien. Du bliver en del af et engageret og hårdtarbejdende team, som vægter service og kvalitet højt. 
+ 
+ KANDIDATEN  
+ Du har erfaring med montage, gerne af biobrændselsanlæg, og du trives i en travl hverdag med mange forskellige opgaver. 
+ Som person er du serviceminded og sætter en ære i at levere høj kvalitet. Du er ansvarsbevidst og god til at samarbejde på tværs af fagskel. 
+ Dine professionelle kompetencer omfatter således: 
+ 
+ Du er faglært smed 
+ Du har erfaring med VVS-arbejde, PLC styringer, m.v. 
+ Du har erfaring med energianlæg og gerne viden om idriftsættelse af disse. 
+ Det er en fordel, hvis du har kendskab til fyringsanlæg. 
+ Du har erfaring med CO2, TIG og/eller elektrode svejsning – certifikat ikke et krav 
+ Du kan begå dig på engelsk og gerne norsk/svensk. 
+ Du har kørekort 
+ 
+   
+ VIRKSOMHEDEN TILBYDER  
+ Virksomheden tilbyder dig et udfordrende og afvekslende job, hvor ikke to dage er ens. 
+ Du bliver en del af en professionel virksomhed med solide værdier og gode kollegaer. 
+ Du tilbydes en lønpakke, som består af 
+ 
+ Løn efter kvalifikationer 
+ Pension og sundhedsordning 
+ Mobiltelefon 
+ Servicebil 
+ 
+ Kontaktperson i virksomheden er Lars Visgaard, mail  lvj@linka.dk  og mobil 2428 5469. 
+   
+ TILTRÆDELSE  
+ Ønsket tiltrædelse hurtigst mulig, men der ventes gerne på den rette. 
+   
+ BESKYTTELSE AF PERSONDATA 
+ Af hensyn til beskyttelse af persondata bedes du sikre, at de dokumenter du fremsender ifm. din ansøgning, ikke indeholder følsomme persondata som f.eks. dit CPR-nummer eller oplysninger om helbredsforhold, etnisk baggrund, politisk eller religiøs overbevisning, seksuelle forhold mv . 
+ For at beskytte dine persondata modtager vi ikke CV, ansøgning mv. via mail.","https://www.google.dk/maps/place/Nylandsvej+38,6940,+Lem+St/",34627282,False,False,,False

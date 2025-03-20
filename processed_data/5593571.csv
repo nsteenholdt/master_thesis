@@ -1,0 +1,244 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"REGIONAL HEAD OF SALES  UK & CENTRAL EUROPE - TRIOWORLD, NYBORG","REGIONAL HEAD OF SALES  UK & CENTRAL EUROPE - TRIOWORLD, NYBORG","
+	med reference til Sales Director Europe 
+
+
+ 
+
+TRIOWORLD A/S 
+
+Taasingevej 1
+
+DK - 5800 Nyborg
+
+Web-adresse: ",TARGET Headhunting ApS,,,,False,False,True,False,2022-05-08T00:00:00,2022-07-03T00:00:00,3. juli 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5593571,,,Danmark,5230,,,,Fuldtid,Ledelse,"Salg, indkøb og markedsføring",Salgschef,55.3786,10.4114,,,120724,107045,31934990,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5593571,https://job.jobnet.dk/CV/FindWork/Details/5593571,https://job.jobnet.dk/CV/FindWork/Details/5593571,True,5593571,55.3786,10.4114,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",TARGET Headhunting ApS,Forskerparken 10,58,Danmark,461,Odense,3,Syddanmark,5230,Odense M,,0,Primary,,,,None,120724,1014988420,31934990,None,5593571,5593571,TARGET Headhunting ApS,Forskerparken 10,58,Danmark,461,Odense,3,Syddanmark,5230,Odense M,,0,Primary,,,,None,120724,1014988420,31934990,None,,2022-05-08T00:00:00,2022-07-03T00:00:00,"REGIONAL HEAD OF SALES  UK & CENTRAL EUROPE - TRIOWORLD, NYBORG","med reference til Sales Director Europe  
+ 
+   
+ TRIOWORLD A/S  
+ Taasingevej 1 
+ DK - 5800 Nyborg 
+ Web-adresse:  www.trioworld.com 
+   
+ VIRKSOMHEDEN  
+ I mere end 50 år, har Trioworld (tidl. Trioplast A/S) været markedsledende indenfor plastemballageløsninger primært målrettet industri, erhverv og landbrug.  
+ Trioworld blev opkøbt af Altor i 2018 med det formål at tilføje kommerciel professionalisme og bæredygtighed til det stærke produktions setup, som har medført korte tilbagebetalingstider på investeringerne i produktionsanlæg. 
+ Altor har en konsolideringsstrategi som løbende vil styrke Trioworlds markedsposition. 
+ Trioworld er en industrikoncern med lidt over 1.500 ansatte og en omsætning på EUR 640 mio. 
+ Selskabets HQ er beliggende i Smålandsstenar i Sverige. Der er produktionsfaciliteter i Sverige, Danmark, Holland, Storbritannien og Frankrig. Produkterne sælges globalt, men med skandinaviske og nordeuropæiske markeder som de absolut primære.  
+ I HQ er funktionerne CEO, Business Development, Group HR, Group Marketing, Group Finance og en indkøbsenhed, der håndterer større kategorier (Rå materialer, fragt) og bæredygtighed. 
+ Trioworld Group består af 5 autonome divisioner, 14 produktionsanlæg og flere salgsenheder og salgsrepræsentanter i det store Nordeuropa.  
+ Koncernen er en af ​​Europas førende aktører inden for innovative og omkostningseffektive emballageløsninger baseret på polyethylenfilm.  
+ 2023 mål er opgraderet til 2025 mål med DKK 15 mia. i omsætning, 15% EBITDA og #1 sustainability (inkl. M&A). Indtjeningen har alle år været over de strategiske mål.  
+ Siden 2018 har indtjeningen været på eller over de strategiske mål. Mængderne vokser langsommere end forventes, i 2020 på grund af Corona, i 2021 på grund af mangel på råvarer. Markederne er dog nu åbne for nye vækstaktiviteter. 
+ Trioworld Industrial Film er den næststørste division, med HQ i Nyborg (DK), og produktion i Nyborg, Varberg, Sundsvall og Botnaryd. Hovedprodukter i divisionen er Stretch Hoods, FFS, Forrest Film, Refuse bags og Shrink Film. Desuden bidrager ”Bags and Sachs” og kundetilpassede løsninger til indtjeningen.  
+ Divisionsresultaterne har været meget tilfredsstillende i perioden fra 2018-2021. Hertil hører, at der er foretaget store investeringer i divisionen, herunder Sales Enabling (Sales Excellence, Marketing, Contract Management, Price Management) og Product Management samt væsentlige opgraderinger i produktionsenhederne. 
+ Trioworld’s mission:  
+ 
+ Fokus på udvalgte kernemarkeder med virksomhedens kerneprodukter 
+ Naturlig del af deres kunders konkurrenceevne 
+ Bæredygtige Premium produkter og - løsninger med højest mulige serviceniveau 
+ Lede branchens rejse ind i cirkulær plast 
+ 
+ Til nyoprettet stilling i divisionen ”TW Industrial Film”, leder vi nu efter en Regional Head of Sales med ansvaret for UK og udvalgte lande i Central Europe.  
+ STILLINGEN 
+ Stillingen refererer til Sales Director - Industri & Refuse Europe 
+ Stillingens salgsansvar udgør i dag ca. 10% af det samlede salg i divisionen, som nu ønskes væsentligt forøget, grundet det store potentiale i regionen. 
+ Den nye Head of Sales får også en KAM rolle, og vil desuden få ansvaret for tre sælgere, hvoraf to opererer fra UK og den tredje fra DK med ansvar for central Europe og de baltiske lande. 
+ OPGAVEN 
+ Den nye Head of Sales for UK & Central Europe kommer til at spille en central rolle i Trioworld vækstrejse, hvor man har rustet sig til fremtiden med et professionelt salgs setup. 
+ Den væsentligste parameter for succes i stillingen vil være at få vedligeholdt og opdyrket nye internationale industrikunder. Stillingen ligger kraftigt op til, at man selvstændigt skal kunne danne rammerne for denne del af forretningen. 
+ Stillingen vil være en spillende træner, idet den indeholder ledelse i henholdsvis DK og UK plus salg til egne kunder.   
+ Som Head of Sales for UK & Central Europe bliver de væsentligste opgaver:  
+ 
+ Ledelse, udvikling og motivation af 3 medarbejdere 
+ Udvikling af salgsarbejdet i regionen, samarbejde med salgsledelsen om retningen for salget 
+ Udvikling af KAM-funktionen i Divisionen (med Salgsledelsen) 
+ Supportere og udvikle salgsaktiviteterne i regionen 
+ Udarbejdelse af Business- / handlingsplaner og opfølgning på samme   
+ Udarbejdelse af - og opfølgning på salgsbudgetter   
+ Deltagelse på messer 
+ Deltagelse i sambesøg med strategiske kunder 
+ Kompetent sparringspartner til ledelsen  
+ 
+ Som Key Account Manager bliver de væsentligste opgaver:   
+ 
+ Lede tværorganisatoriske salgsaktiviteter på større strategiske nøglekunder.  
+ Accountansvarlig på kunder, hvor sælgerne i egen og øvrige regioner er sælgere på forskellige geografier 
+ 
+ 
+ 
+ 
+ Account Planning 
+ Opfølgning og rapportering 
+ Salgsudvikling 
+ Forhandling 
+ 
+ 
+ 
+ 
+ Opsøgende salgsarbejde på prospects med strategisk fit (Potentielle Internationale Key Accounts) 
+ 
+ Målet for det geografiske område er sat.  
+ KANDIDATEN  
+ Den ideelle kandidat sidder i en tilsvarende stilling eller i en relateret branche med en relevant kommerciel baggrund og ikke mindst erfaring fra en international orienteret produktionsvirksomhed. 
+ Kendskab til plastindustrien vil være en fordel, men ikke et must. 
+ Man behøver ikke solid erfaring med salgsledelse. Man skal være dygtig til at lede sig selv, og gerne have ”rørt ved en team-lead” position som minimum.  
+ Erfaring fra en international orienteret KAM-funktion til industri-kunder/salg er nødvendigt.  
+ Vi ser gerne kandidaten med følgende baggrund 
+ 
+ Mindst 5 års erfaring fra salg / account management  
+ Excellent til kunderelationer og dygtig til at kommunikere  
+ God forretningssans 
+ Selvkørende og resultatorienteret 
+ Salgsorienteret og forstår og er drevet af hele salgscyklussen 
+ Holdspiller, der også motiveres af at være en del af et team 
+ Balancerer det strategiske arbejde med det øvrige salgsarbejde - og motiveres af begge dele 
+ Relations skabende, optimistisk og serviceorienteret 
+ Entreprenant med en ""can-do"" attitude 
+ Ambitiøs med højt drive 
+ 
+ ØVRIGE FORHOLD 
+ REJSEAKTIVITET 
+ Der må forventes en del rejseaktivitet i perioder – ca. 50 – 60 dage årligt. 
+ UDDANNELSE 
+ Gerne en kommerciel teoretisk baggrund som Eksporttekniker, HA, HD (A), Cand. Merc. eller lignende uddannelse - erfaring fra en lignende stilling. 
+ BOPÆL  
+ I ngen specifikke krav til bopæl 
+ SPROG  
+ Flydende i dansk og engelsk, både skriftligt og mundtligt.   
+ IT  
+ Erfaring med at anvende ERP-systemer – gerne Navision BC, rapporterings-værktøjer MS Office skills (Word, Excel, PowerPoint) 
+ VIRKSOMHEDEN TILBYDER  
+ En spændende udfordring i en stærk international orienteret virksomhed, hvor udviklingen i høj grad bærer præg af egne kompetencer og bestræbelser på at udvikle salget i de nævnte lande og på den måde være med til at præge og udvikle både stillingen og virksomheden.  
+ Desuden:  
+ Unik mulighed for at skabe resultater til eget CV 
+ Attraktiv region med stærke produktfordele 
+ Professionelt Salgs-setup med stærke enabling-funktioner.  
+ GAGEPAKKEN  
+ Der tilbydes en særdeles udfordrende stilling med fast gage, attraktiv bonusordning & pension  
+ STARTTIDSPUNKT 
+ Gerne med start snarest eller pr. 1. august 2022.",,58,Danmark,9090,,99,Intet fast arbejdssted,,,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7970336, 'Email': None, 'FaxNumber': None, 'PersonName': 'Carsten Gjørtsvang', 'FirstName': 'Carsten', 'LastName': 'Gjørtsvang', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 5140 8960', 'Type': 0, 'Description': 'Hovednummer'}]}, {'Id': 7970337, 'Email': None, 'FaxNumber': None, 'PersonName': 'Susanne Brendholdt', 'FirstName': 'Susanne', 'LastName': 'Brendholdt', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 20454577', 'Type': 0, 'Description': 'Hovednummer'}]}",,False,False,False,False,4,,,False,False,False,False,,,,,http://www.targetheadhunting.com/available-positions/?hr=show-job/97754,False,2022-07-03T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5593571&WorkPlace=120724&Organisation=31934990,"Forskerparken 10,5230, Odense M",False,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5593571&Company.Name=TARGET Headhunting ApS&SubmissionDeadlineDate=2022-7-3&Title=REGIONAL HEAD OF SALES  UK & CENTRAL EUROPE - TRIOWORLD, NYBORG&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,False,0,,,"REGIONAL HEAD OF SALES  UK & CENTRAL EUROPE - TRIOWORLD, NYBORG",True,,True,1,,5593571,,,False,False,,0,False,TARGET Headhunting ApS,Forskerparken 10,,,5230,False,False,False,Odense M,Carsten Gjørtsvang,+45 5140 8960,,,,,,False,,2022-07-03T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Intet fast arbejdssted,False,TARGET Headhunting ApS,,None,,False,False,"
+	med reference til Sales Director Europe 
+
+
+ 
+
+TRIOWORLD A/S 
+
+Taasingevej 1
+
+DK - 5800 Nyborg
+
+Web-adresse: www.trioworld.com
+
+ 
+
+VIRKSOMHEDEN 
+
+I mere end 50 &aring;r, har Trioworld (tidl. Trioplast A/S) v&aelig;ret markedsledende indenfor plastemballagel&oslash;sninger prim&aelig;rt m&aring;lrettet industri, erhverv og landbru","""\r\n\tmed reference til Sales Director Europe \r\n\r\n\r\n \r\n\r\nTRIOWORLD A/S \r\n\r\nTaasingevej 1\r\n\r\nDK - 5800 Nyborg\r\n\r\nWeb-adresse: www.trioworld.com\r\n\r\n \r\n\r\nVIRKSOMHEDEN \r\n\r\nI mere end 50 \u0026aring;r, har Trioworld (tidl. Trioplast A/S) v\u0026aelig;ret markedsledende indenfor plastemballagel\u0026oslash;sninger prim\u0026aelig;rt m\u0026aring;lrettet industri, erhverv og landbru""","""REGIONAL HEAD OF SALES  UK \u0026 CENTRAL EUROPE - TRIOWORLD, NYBORG""","https://www.google.dk/maps/dir//Forskerparken+10,5230,+Odense+M/","med reference til Sales Director Europe  
+ 
+   
+ TRIOWORLD A/S  
+ Taasingevej 1 
+ DK - 5800 Nyborg 
+ Web-adresse:  www.trioworld.com 
+   
+ VIRKSOMHEDEN  
+ I mere end 50 år, har Trioworld (tidl. Trioplast A/S) været markedsledende indenfor plastemballageløsninger primært målrettet industri, erhverv og landbrug.  
+ Trioworld blev opkøbt af Altor i 2018 med det formål at tilføje kommerciel professionalisme og bæredygtighed til det stærke produktions setup, som har medført korte tilbagebetalingstider på investeringerne i produktionsanlæg. 
+ Altor har en konsolideringsstrategi som løbende vil styrke Trioworlds markedsposition. 
+ Trioworld er en industrikoncern med lidt over 1.500 ansatte og en omsætning på EUR 640 mio. 
+ Selskabets HQ er beliggende i Smålandsstenar i Sverige. Der er produktionsfaciliteter i Sverige, Danmark, Holland, Storbritannien og Frankrig. Produkterne sælges globalt, men med skandinaviske og nordeuropæiske markeder som de absolut primære.  
+ I HQ er funktionerne CEO, Business Development, Group HR, Group Marketing, Group Finance og en indkøbsenhed, der håndterer større kategorier (Rå materialer, fragt) og bæredygtighed. 
+ Trioworld Group består af 5 autonome divisioner, 14 produktionsanlæg og flere salgsenheder og salgsrepræsentanter i det store Nordeuropa.  
+ Koncernen er en af ​​Europas førende aktører inden for innovative og omkostningseffektive emballageløsninger baseret på polyethylenfilm.  
+ 2023 mål er opgraderet til 2025 mål med DKK 15 mia. i omsætning, 15% EBITDA og #1 sustainability (inkl. M&A). Indtjeningen har alle år været over de strategiske mål.  
+ Siden 2018 har indtjeningen været på eller over de strategiske mål. Mængderne vokser langsommere end forventes, i 2020 på grund af Corona, i 2021 på grund af mangel på råvarer. Markederne er dog nu åbne for nye vækstaktiviteter. 
+ Trioworld Industrial Film er den næststørste division, med HQ i Nyborg (DK), og produktion i Nyborg, Varberg, Sundsvall og Botnaryd. Hovedprodukter i divisionen er Stretch Hoods, FFS, Forrest Film, Refuse bags og Shrink Film. Desuden bidrager ”Bags and Sachs” og kundetilpassede løsninger til indtjeningen.  
+ Divisionsresultaterne har været meget tilfredsstillende i perioden fra 2018-2021. Hertil hører, at der er foretaget store investeringer i divisionen, herunder Sales Enabling (Sales Excellence, Marketing, Contract Management, Price Management) og Product Management samt væsentlige opgraderinger i produktionsenhederne. 
+ Trioworld’s mission:  
+ 
+ Fokus på udvalgte kernemarkeder med virksomhedens kerneprodukter 
+ Naturlig del af deres kunders konkurrenceevne 
+ Bæredygtige Premium produkter og - løsninger med højest mulige serviceniveau 
+ Lede branchens rejse ind i cirkulær plast 
+ 
+ Til nyoprettet stilling i divisionen ”TW Industrial Film”, leder vi nu efter en Regional Head of Sales med ansvaret for UK og udvalgte lande i Central Europe.  
+ STILLINGEN 
+ Stillingen refererer til Sales Director - Industri & Refuse Europe 
+ Stillingens salgsansvar udgør i dag ca. 10% af det samlede salg i divisionen, som nu ønskes væsentligt forøget, grundet det store potentiale i regionen. 
+ Den nye Head of Sales får også en KAM rolle, og vil desuden få ansvaret for tre sælgere, hvoraf to opererer fra UK og den tredje fra DK med ansvar for central Europe og de baltiske lande. 
+ OPGAVEN 
+ Den nye Head of Sales for UK & Central Europe kommer til at spille en central rolle i Trioworld vækstrejse, hvor man har rustet sig til fremtiden med et professionelt salgs setup. 
+ Den væsentligste parameter for succes i stillingen vil være at få vedligeholdt og opdyrket nye internationale industrikunder. Stillingen ligger kraftigt op til, at man selvstændigt skal kunne danne rammerne for denne del af forretningen. 
+ Stillingen vil være en spillende træner, idet den indeholder ledelse i henholdsvis DK og UK plus salg til egne kunder.   
+ Som Head of Sales for UK & Central Europe bliver de væsentligste opgaver:  
+ 
+ Ledelse, udvikling og motivation af 3 medarbejdere 
+ Udvikling af salgsarbejdet i regionen, samarbejde med salgsledelsen om retningen for salget 
+ Udvikling af KAM-funktionen i Divisionen (med Salgsledelsen) 
+ Supportere og udvikle salgsaktiviteterne i regionen 
+ Udarbejdelse af Business- / handlingsplaner og opfølgning på samme   
+ Udarbejdelse af - og opfølgning på salgsbudgetter   
+ Deltagelse på messer 
+ Deltagelse i sambesøg med strategiske kunder 
+ Kompetent sparringspartner til ledelsen  
+ 
+ Som Key Account Manager bliver de væsentligste opgaver:   
+ 
+ Lede tværorganisatoriske salgsaktiviteter på større strategiske nøglekunder.  
+ Accountansvarlig på kunder, hvor sælgerne i egen og øvrige regioner er sælgere på forskellige geografier 
+ 
+ 
+ 
+ 
+ Account Planning 
+ Opfølgning og rapportering 
+ Salgsudvikling 
+ Forhandling 
+ 
+ 
+ 
+ 
+ Opsøgende salgsarbejde på prospects med strategisk fit (Potentielle Internationale Key Accounts) 
+ 
+ Målet for det geografiske område er sat.  
+ KANDIDATEN  
+ Den ideelle kandidat sidder i en tilsvarende stilling eller i en relateret branche med en relevant kommerciel baggrund og ikke mindst erfaring fra en international orienteret produktionsvirksomhed. 
+ Kendskab til plastindustrien vil være en fordel, men ikke et must. 
+ Man behøver ikke solid erfaring med salgsledelse. Man skal være dygtig til at lede sig selv, og gerne have ”rørt ved en team-lead” position som minimum.  
+ Erfaring fra en international orienteret KAM-funktion til industri-kunder/salg er nødvendigt.  
+ Vi ser gerne kandidaten med følgende baggrund 
+ 
+ Mindst 5 års erfaring fra salg / account management  
+ Excellent til kunderelationer og dygtig til at kommunikere  
+ God forretningssans 
+ Selvkørende og resultatorienteret 
+ Salgsorienteret og forstår og er drevet af hele salgscyklussen 
+ Holdspiller, der også motiveres af at være en del af et team 
+ Balancerer det strategiske arbejde med det øvrige salgsarbejde - og motiveres af begge dele 
+ Relations skabende, optimistisk og serviceorienteret 
+ Entreprenant med en ""can-do"" attitude 
+ Ambitiøs med højt drive 
+ 
+ ØVRIGE FORHOLD 
+ REJSEAKTIVITET 
+ Der må forventes en del rejseaktivitet i perioder – ca. 50 – 60 dage årligt. 
+ UDDANNELSE 
+ Gerne en kommerciel teoretisk baggrund som Eksporttekniker, HA, HD (A), Cand. Merc. eller lignende uddannelse - erfaring fra en lignende stilling. 
+ BOPÆL  
+ I ngen specifikke krav til bopæl 
+ SPROG  
+ Flydende i dansk og engelsk, både skriftligt og mundtligt.   
+ IT  
+ Erfaring med at anvende ERP-systemer – gerne Navision BC, rapporterings-værktøjer MS Office skills (Word, Excel, PowerPoint) 
+ VIRKSOMHEDEN TILBYDER  
+ En spændende udfordring i en stærk international orienteret virksomhed, hvor udviklingen i høj grad bærer præg af egne kompetencer og bestræbelser på at udvikle salget i de nævnte lande og på den måde være med til at præge og udvikle både stillingen og virksomheden.  
+ Desuden:  
+ Unik mulighed for at skabe resultater til eget CV 
+ Attraktiv region med stærke produktfordele 
+ Professionelt Salgs-setup med stærke enabling-funktioner.  
+ GAGEPAKKEN  
+ Der tilbydes en særdeles udfordrende stilling med fast gage, attraktiv bonusordning & pension  
+ STARTTIDSPUNKT 
+ Gerne med start snarest eller pr. 1. august 2022.","https://www.google.dk/maps/place/Forskerparken+10,5230,+Odense+M/",31934990,False,False,,False

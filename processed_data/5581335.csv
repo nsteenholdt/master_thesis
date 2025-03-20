@@ -1,0 +1,137 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Sælger til salg af bemandingsløsninger på Fyn søges,Sælger til salg af bemandingsløsninger på Fyn søges,"Jobbeskrivelse
+Vil du hjælpe JobTeam Syd med at blive Fyns foretrukne rekrutteringsbureau?
+JobTeam Syd er en Franchise afdeling, under JobTeam A/S. JobTeam Syd er i e",JobTeam Syd,,5000,Odense C,True,False,False,False,2022-04-23T00:00:00,2022-05-14T00:00:00,14. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5581335,Syddanmark,Odense,Danmark,5000,,,,Fuldtid,"Salg, indkøb og markedsføring",Salg og indkøb,Salgs- og kundeansvarlig,55.403,10.3917,,,123623,109298,29483574,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5581335,https://job.jobnet.dk/CV/FindWork/Details/5581335,https://job.jobnet.dk/CV/FindWork/Details/5581335,True,5581335,55.403,10.3917,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",JobTeam Syd,Egevej 22,58,Danmark,580,Aabenraa,3,Syddanmark,6200,Aabenraa,,0,Primary,,,,None,,1022648159,29483574,None,5581335,5581335,JobTeam Syd,Egevej 22,58,Danmark,580,Aabenraa,3,Syddanmark,6200,Aabenraa,,0,Primary,,,,None,,1022648159,29483574,None,,2022-04-23T00:00:00,2022-05-14T00:00:00,Sælger til salg af bemandingsløsninger på Fyn søges,"Jobbeskrivelse 
+ Vil du hjælpe JobTeam Syd med at blive Fyns foretrukne rekrutteringsbureau? 
+ JobTeam Syd er en Franchise afdeling, under JobTeam A/S. JobTeam Syd er i en rivende udviklling, og for at videreudvikle og øge salget på Fyn, søger vi nu en engageret og dygtig B2B-sælger og Recruiter. 
+ Den ideelle kandidat har et godt kendskab til de lokale industri- og metalvirksomheder på Fyn. Dette kendskab kan kandidaten have opnået på flere forskellige måder, f.eks. som ansat eller sælger i branchen. 
+ Da du bliver den absolut drivende kraft i vores Fynske afdeling vil dine arbejdsopgaver også blive meget alsidige. Primært bliver dine opgaver løsning af kundernes bemandingsbehov, samt rekruttering af kandidater hertil. Der udover kommer de administrative opgaver der naturligt følger med dette.  
+ Du vil naturligvis ikke komme til at stå alene med opgaverne, men vil få solid opbakning af et særdeles kompetent team, samt al den sidemandsoplæring som måtte være påkrævet. Der ud over vil der i løbet af året være kurser, erfa-møder og lign. som afholdes på hovedkontoret i Esbjerg  
+ Du vil få et job med høj grad af selvbestemmelse og du planlægger selv dine salgs- og kundemøder samt samtaler med kandidater, så du kan opfylde dit salgsbudget (og gerne mere end det). 
+ Evnen til at skabe gode relationer vil være en af nøglerne til din succes, da vedligeholdelse og videreudvikling af kunder vil blive en af dine vigtigste opgaver. Tillid er et nøgleord, som vi opbygger ved at løse opgaverne over kundernes forventning. 
+ Lyder dette som noget for dig? 
+ Så kontakt John på tlf.: 60 21 19 59 
+ Eller på mail: Jhp@jobteam.dk mærket ""Fyn"" 
+ Arbejdsopgaver 
+ Dine arbejdsopgaver vil være meget varierende. Dine primære arbejdsopgaver vil dog være indenfor:  
+ 
+ Udvikling af egen kundeportefølje og sikring af stærke relationer 
+ Opsøgende salg og kundemøder 
+ Opfølgning og lukning af ordrer  
+ Mødebookning 
+ Rekruttering af kandidater 
+ Afholdelse af samtaler med kanddiater 
+ Præsentation af kandidater hos kunden 
+ Udvikling af eget netværk, online og offline 
+ Div. alm. kontoropgaver. 
+ 
+ Faglige Kvalifikationer 
+ Din faglige baggrund kan enten fra lignende stillinger eller som ansat i metal industrien, med lyst til at udvide dine kompetencer. 
+ Vigtigst er det at du kan og vil tale med mennesker, samt at du brænder for at skabe og vedligeholde relationer. 
+ Den optimale profil har:  
+ 
+ Flere års erfaring i metalindustrien hvor der benyttes  faglærte  metalarbejdere 
+ Relevant uddannelse 
+ Erfaring fra enten rekrutteringsverdenen eller produktionsverdenen 
+ Evner for at boltrer dig både i ""felten"" og hjemme foran computeren 
+ 
+ Personlige Kvalifikationer 
+ For at gøre dig godt i dette job er det vigtigt at du: 
+ 
+ Kan arbejde selvstændigt 
+ Har et stort drive og god energi 
+ Brænder for at nå dine resultater 
+ Har menneskekendskab og er god til at skabe relationer 
+ Levere god service, også når det går stærkt 
+ Overholder dine deadlines 
+ Er positiv af natur 
+ Ikke er ""bange"" for telefonen 
+ 
+ Særlige Forhold 
+ Vi tilbyder et selvstændigt job i en dynamisk og vækstorienteret virksomhed, som er præget af en uformel omgangstone, flad organisationsstruktur, handlekraft og en veldokumenteret succes.  
+ Du vil i høj grad være med til at definere denne nyoprettede stilling da du i samarbejde med indehaveren af JobTeam Syd kommer til at opbygge afdelingen helt fra bunden.  Dog er der allerede en påbegyndt kundedatabase. 
+ En god fast løn + præstationsbaseret bonus 
+ Mulighed for firmabil 
+ Du skal derudover forvente at der er møder på hovedkontoret i Esbjerg 4 - 6 gange i løbet af året.  
+ Vi tilbyder: 
+ 
+ Et job med frihed under ansvar 
+ Gode kolleger 
+ En virksomhed med en flad organisationsstruktur 
+ En uformel omgangstone 
+ Mulighed for at påvirke og optimere salg positivt 
+ 
+ Ansøgningsfrist 
+ Skriftlig ansøgning og CV sendes til John Pedersen på jhp@jobteam.dk mærket. ”Fyn”.  
+ Har du yderligere spørgsmål, er du velkommen til at kontakte John på 60 21 19 59 for at høre nærmere omkring jobbet. 
+ Deadline for ansøgning er d. 14. Maj 2022. 
+ Ansøgere behandles løbende og samtaler vil blive afholdt når de rette kandidater er fundet. 
+ Sørg derfor for at søge med det samme!",,58,Danmark,461,Odense,3,Syddanmark,5000,Odense C,1,1,Fuldtid,None,None,1,"{'DriversLicenceType': 3, 'Name': 'B', 'Description': 'Almindelig bil'}",0,,0,0,0,,False,"{'Id': 7924423, 'Email': 'jhp@jobteam.dk', 'FaxNumber': None, 'PersonName': 'John Pedersen', 'FirstName': 'John', 'LastName': 'Pedersen', 'PositionTitle': 'Indehaver', 'PhoneNumbers': [{'Number': '60211959', 'Type': 0, 'Description': 'Hovednummer'}, {'Number': '60211959', 'Type': 2, 'Description': 'Mobil'}]}",,False,False,False,False,4,,,False,False,False,False,,,jhp@jobteam.dk,60211959,,False,2022-05-14T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5581335&Organisation=29483574,"Egevej 22,6200, Aabenraa",False,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5581335&Company.Name=JobTeam Syd&SubmissionDeadlineDate=2022-5-14&Title=Sælger til salg af bemandingsløsninger på Fyn søges&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Sælger til salg af bemandingsløsninger på Fyn søges,True,,True,1,,5581335,,,False,False,,0,False,JobTeam Syd,Egevej 22,,,6200,False,False,False,Aabenraa,John Pedersen,60211959,jhp@jobteam.dk,,,,,False,,2022-05-14T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Odense kommune,False,JobTeam Syd,,None,,False,False,"Jobbeskrivelse
+Vil du hjælpe JobTeam Syd med at blive Fyns foretruknerekrutteringsbureau?
+JobTeam Syd er en Franchise afdeling, under JobTeam A/S. JobTeam Syd er i en rivende udviklling, og for at videreudvikle og øge salget på Fyn, søger vi nu en engageret og dygtig B2B-sælger og Recruiter.
+Den ideelle kandidat har et godt kendskab til de lokale i","""Jobbeskrivelse\nVil du hjælpe JobTeam Syd med at blive Fyns foretruknerekrutteringsbureau?\nJobTeam Syd er en Franchise afdeling, under JobTeam A/S. JobTeam Syd er i en rivende udviklling, og for at videreudvikle og øge salget på Fyn, søger vi nu en engageret og dygtig B2B-sælger og Recruiter.\nDen ideelle kandidat har et godt kendskab til de lokale i""","""Sælger til salg af bemandingsløsninger på Fyn søges""","https://www.google.dk/maps/dir//Egevej+22,6200,+Aabenraa/","Jobbeskrivelse 
+ Vil du hjælpe JobTeam Syd med at blive Fyns foretrukne rekrutteringsbureau? 
+ JobTeam Syd er en Franchise afdeling, under JobTeam A/S. JobTeam Syd er i en rivende udviklling, og for at videreudvikle og øge salget på Fyn, søger vi nu en engageret og dygtig B2B-sælger og Recruiter. 
+ Den ideelle kandidat har et godt kendskab til de lokale industri- og metalvirksomheder på Fyn. Dette kendskab kan kandidaten have opnået på flere forskellige måder, f.eks. som ansat eller sælger i branchen. 
+ Da du bliver den absolut drivende kraft i vores Fynske afdeling vil dine arbejdsopgaver også blive meget alsidige. Primært bliver dine opgaver løsning af kundernes bemandingsbehov, samt rekruttering af kandidater hertil. Der udover kommer de administrative opgaver der naturligt følger med dette.  
+ Du vil naturligvis ikke komme til at stå alene med opgaverne, men vil få solid opbakning af et særdeles kompetent team, samt al den sidemandsoplæring som måtte være påkrævet. Der ud over vil der i løbet af året være kurser, erfa-møder og lign. som afholdes på hovedkontoret i Esbjerg  
+ Du vil få et job med høj grad af selvbestemmelse og du planlægger selv dine salgs- og kundemøder samt samtaler med kandidater, så du kan opfylde dit salgsbudget (og gerne mere end det). 
+ Evnen til at skabe gode relationer vil være en af nøglerne til din succes, da vedligeholdelse og videreudvikling af kunder vil blive en af dine vigtigste opgaver. Tillid er et nøgleord, som vi opbygger ved at løse opgaverne over kundernes forventning. 
+ Lyder dette som noget for dig? 
+ Så kontakt John på tlf.: 60 21 19 59 
+ Eller på mail: Jhp@jobteam.dk mærket ""Fyn"" 
+ Arbejdsopgaver 
+ Dine arbejdsopgaver vil være meget varierende. Dine primære arbejdsopgaver vil dog være indenfor:  
+ 
+ Udvikling af egen kundeportefølje og sikring af stærke relationer 
+ Opsøgende salg og kundemøder 
+ Opfølgning og lukning af ordrer  
+ Mødebookning 
+ Rekruttering af kandidater 
+ Afholdelse af samtaler med kanddiater 
+ Præsentation af kandidater hos kunden 
+ Udvikling af eget netværk, online og offline 
+ Div. alm. kontoropgaver. 
+ 
+ Faglige Kvalifikationer 
+ Din faglige baggrund kan enten fra lignende stillinger eller som ansat i metal industrien, med lyst til at udvide dine kompetencer. 
+ Vigtigst er det at du kan og vil tale med mennesker, samt at du brænder for at skabe og vedligeholde relationer. 
+ Den optimale profil har:  
+ 
+ Flere års erfaring i metalindustrien hvor der benyttes  faglærte  metalarbejdere 
+ Relevant uddannelse 
+ Erfaring fra enten rekrutteringsverdenen eller produktionsverdenen 
+ Evner for at boltrer dig både i ""felten"" og hjemme foran computeren 
+ 
+ Personlige Kvalifikationer 
+ For at gøre dig godt i dette job er det vigtigt at du: 
+ 
+ Kan arbejde selvstændigt 
+ Har et stort drive og god energi 
+ Brænder for at nå dine resultater 
+ Har menneskekendskab og er god til at skabe relationer 
+ Levere god service, også når det går stærkt 
+ Overholder dine deadlines 
+ Er positiv af natur 
+ Ikke er ""bange"" for telefonen 
+ 
+ Særlige Forhold 
+ Vi tilbyder et selvstændigt job i en dynamisk og vækstorienteret virksomhed, som er præget af en uformel omgangstone, flad organisationsstruktur, handlekraft og en veldokumenteret succes.  
+ Du vil i høj grad være med til at definere denne nyoprettede stilling da du i samarbejde med indehaveren af JobTeam Syd kommer til at opbygge afdelingen helt fra bunden.  Dog er der allerede en påbegyndt kundedatabase. 
+ En god fast løn + præstationsbaseret bonus 
+ Mulighed for firmabil 
+ Du skal derudover forvente at der er møder på hovedkontoret i Esbjerg 4 - 6 gange i løbet af året.  
+ Vi tilbyder: 
+ 
+ Et job med frihed under ansvar 
+ Gode kolleger 
+ En virksomhed med en flad organisationsstruktur 
+ En uformel omgangstone 
+ Mulighed for at påvirke og optimere salg positivt 
+ 
+ Ansøgningsfrist 
+ Skriftlig ansøgning og CV sendes til John Pedersen på jhp@jobteam.dk mærket. ”Fyn”.  
+ Har du yderligere spørgsmål, er du velkommen til at kontakte John på 60 21 19 59 for at høre nærmere omkring jobbet. 
+ Deadline for ansøgning er d. 14. Maj 2022. 
+ Ansøgere behandles løbende og samtaler vil blive afholdt når de rette kandidater er fundet. 
+ Sørg derfor for at søge med det samme!","https://www.google.dk/maps/place/Egevej+22,6200,+Aabenraa/",29483574,False,False,,False

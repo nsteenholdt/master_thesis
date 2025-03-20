@@ -1,0 +1,157 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Fritidsjobkonsulent til Jobcenter Esbjerg,Fritidsjobkonsulent til Jobcenter Esbjerg,"Fritidsjobkonsulent til Jobcenter Esbjerg / Fritidsjob I Esbjerg Kommune 
+
+
+Vil du være med til at løfte en spændende fritidsjobindsats i Esbjerg Kommune? ",Esbjerg Kommune,Gl Novrupvej 14  ,6705,Esbjerg Ø,False,False,False,True,2025-02-05T00:00:00,2025-02-19T23:59:00,19. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/612e5a2b-0142-4916-87b6-60241136b7a9,Syddanmark,Esbjerg,Danmark,6705,,Almindelige vilkår,Fastansættelse,Fuldtid,Undervisning og vejledning,Vejledning,Job- og virksomhedskonsulent,55.4912,8.5067,,,1021802367,,29189803,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/612e5a2b-0142-4916-87b6-60241136b7a9,https://job.jobnet.dk/CV/FindWork/Details/612e5a2b-0142-4916-87b6-60241136b7a9,https://job.jobnet.dk/CV/FindWork/Details/612e5a2b-0142-4916-87b6-60241136b7a9,True,612e5a2b-0142-4916-87b6-60241136b7a9,55.4912,8.5067,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Esbjerg Kommune,Gl Novrupvej 14,58,Danmark,561,Esbjerg,3,Syddanmark,6705,Esbjerg Ø,,0,Primary,,,https://esbjergkommune.hr-on.com/show-job/237244?linkref=266915&locale=da_DK,None,,1021802367,29189803,None,612e5a2b-0142-4916-87b6-60241136b7a9,Esbjerg Kommune,Gl Novrupvej 14,58,Danmark,561,Esbjerg,3,Syddanmark,6705,Esbjerg Ø,,0,Primary,,,https://esbjergkommune.hr-on.com/show-job/237244?linkref=266915&locale=da_DK,None,,1021802367,29189803,None,,2025-02-05T00:00:00+01:00,2025-02-19T23:59:00+01:00,Fritidsjobkonsulent til Jobcenter Esbjerg,"Fritidsjobkonsulent til Jobcenter Esbjerg / Fritidsjob I Esbjerg Kommune  
+ 
+ Vil du være med til at løfte en spændende fritidsjobindsats i Esbjerg Kommune?  
+ 
+Trives du i en foranderlig hverdag, hvor du skal: 
+ 
+ Opdyrke nye jobområder indenfor fritidsjob. 
+ Arbejde håndholdt med unge mellem 16 og 18 år, hvor du er opsøgende og indgår konkrete aftaler med virksomheder om job. 
+ Arbejde med vejledning af alle elever i 8.-9. klasse på folkeskolerne, samt tilbyde en mere håndholdt indsats til eleverne, hvor du er opsøgende og indgår konkrete aftaler med virksomheder om job.  
+ Udbrede viden om indsatsen på vores sociale medier. 
+ 
+   
+ Jobcenter Esbjerg søger en dynamisk og innovativ fritidsjobkonsulent med opstart senest 1. april 2025. Arbejdstiden er 37 timer pr. uge og arbejdsstedet er Vindmøllen, Gl. Novrupvej 14, 6705 Esbjerg Ø.  
+   
+ Opgaverne vil bl.a. være at: 
+ 
+ bygge bro mellem udvalgte unge og virksomheder i Esbjerg Kommune. 
+ tilbyde en håndholdt indsats, hvor elever i 8.-9. klasse og unge fra 16 til 18 år opnår fritidsjob og bliver motiveret for uddannelse og job. Indsatsen sker i et samarbejde med folkeskolerne, vejledningen, virksomhederne og fritidsjobindsatsen. 
+ Vedligehold og udvikle vores SoMe platforme.  
+ 
+ 
+Det er målet med indsatsen, at  flere unge  udvikler kompetencerne til og i højere grad er motiverede for at fastholde et fritidsjob eller job. På den længere bane er det målet, at flere unge i Esbjerg Kommune får de bedste forudsætninger og grundlag for at etablere sig i uddannelsessystemet og efterfølgende finder vej ind i beskæftigelse. 
+ 
+ Opgaver for fritidsjobkonsulenten: 
+ 
+ at tilbyde en håndholdt fritidsjobindsats. 
+ at opdyrke nye jobområder indenfor fritidsjob. 
+ at etablere faste aftaler med virksomheder om rekruttering til fritidsjob. 
+ at bygge bro og skabe sammenhæng om indsatsen mellem de mange aktører. 
+ at afprøve, evaluere og dele viden om nye indsatser. 
+ 
+   
+ Din profil: 
+ Du skal kunne udfordre den ”normale” tænkning. Du skal kunne tænke kreativt, samt forme og udvikle nye indsatser. Du er nysgerrig - og søger viden og sparring, der kan kvalificere dine næste skridt i opgaverne. 
+ 
+Du har erfaring med ar arbejde med elever i folkeskolen, og unge under 19 år. 
+ 
+Du er god til at skabe relationer til unge, forældre og de mange dygtige fagpersoner omkring de unge. Du brænder for, at indsatsen skaber positive forandringer i de unges livsforløb. Du er en god formidler, god facilitator og inspirator. Du har lyst til den håndholdte indsats. 
+ 
+Du har erfaring med virksomhedssamarbejde og har evnen til at opbygge og opretholde relationer til virksomhederne. Du ser muligheder både i samarbejdet med det private erhvervsliv og den offentlige sektor. Du lukker aftaler og skaber fremdrift.  
+   
+ Du får: 
+ 
+ mulighed for at indgå i et team – der er en del af unge- og fritidsjobindsatsen, der varetages af Vindmøllen, som er placeret i Østerbyen.  
+ et job, hvor du vil være en del af et kreativt og innovativt miljø i Vindmøllen, hvor det fælles mål er, at flere unge i Esbjerg Kommune opnår uddannelse og job. 
+ en stor frihed i planlægningen og udførelsen af jobbet. 
+ 
+   
+ Løn- og ansættelsesvilkår: 
+ Stillingen er en fastansættelse (37 timer/uge). 
+ Ansættelse sker efter gældende overenskomst og efter aftale om lokal løndannelse. 
+ I Jobcenter Esbjerg er der mulighed for den enkelte medarbejder til at vælge mellem en 4 eller 5 dags arbejdsuge. Vælger man 4 dage, har man fri om fredagen.    
+ Det forventes, at du har kørekort. 
+ Går du videre efter ansættelsessamtale, vil der blive indhentet referencer fra nuværende og/eller tidligere arbejdsgiver, hvis du fortsat er i betragtning til stillingen. Du vil blive informeret inden, at der bliver indhentet en reference. 
+ Ved ansættelse i stillingen indhentes straffe- og børneattest. 
+ 
+Alle kvalificerede uanset køn, alder eller etnisk baggrund opfordres til at søge stillingen. 
+ 
+Spørgsmål kan rettes til: 
+ 
+ Projektleder Pernille Madsen tlf. 29600825  
+ Sektionsleder Peter Nikolajsen tlf. 40218475 
+ 
+ Alle henvendelser behandles fortroligt. 
+   
+ Ansøgningsfrist: 
+ Onsdag den 19. februar 2025. 
+ 
+ Ansættelsessamtaler: 
+ Forventes afholdt tirsdag den 25. februar 2025. 
+   
+ Ansøgningen sendes elektronisk. Klik på ”send ansøgning” nederst og vedhæft din ansøgning, CV og relevant dokumentation i Word eller PDF-format.",Gl Novrupvej 14,58,Danmark,561,Esbjerg,3,Syddanmark,6705,Esbjerg Ø,1,1,Fuldtid,None,None,1,,Job- og virksomhedskonsulent,0,"Beskæftigelseskonsulent, Koordinator for beskæftigelsesprogram, Karrierevejleder, Jobformidler, 3026, 3027, 3028, 3029",0,0,False,"{'Email': 'pem3@esbjerg.dk', 'PersonName': 'Pernille Madsen', 'FirstName': 'Pernille', 'LastName': 'Madsen', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '29600825', 'Type': 0, 'Description': 'Primary'}]}",2025-04-01T00:00:00+02:00,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://esbjergkommune.hr-on.com/show-job/237244?linkref=266915&locale=da_DK,False,2025-02-19T23:59:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=612e5a2b-0142-4916-87b6-60241136b7a9&Organisation=29189803,"Gl Novrupvej 14,6705, Esbjerg Ø",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=612e5a2b-0142-4916-87b6-60241136b7a9&Company.Name=Esbjerg Kommune&SubmissionDeadlineDate=2025-2-19&Title=Fritidsjobkonsulent til Jobcenter Esbjerg&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Fritidsjobkonsulent til Jobcenter Esbjerg,True,,True,1,,612e5a2b-0142-4916-87b6-60241136b7a9,,,False,False,,0,False,Esbjerg Kommune,Gl Novrupvej 14,,,6705,False,False,False,Esbjerg Ø,Pernille Madsen,29600825,pem3@esbjerg.dk,,,,,False,,2025-02-19T23:59:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Esbjerg kommune,False,Esbjerg Kommune,,None,,False,False,"Fritidsjobkonsulent til Jobcenter Esbjerg / Fritidsjob I Esbjerg Kommune 
+
+
+Vil du være med til at løfte en spændende fritidsjobindsats i Esbjerg Kommune? 
+
+
+Trives du i en foranderlig hverdag, hvor du skal:
+
+
+	Opdyrke nye jobområder indenfor fritidsjob.
+	Arbejde håndholdt med unge mellem 16 og 18 år, hvor du er opsøgende og indgår konkrete aftaler","""Fritidsjobkonsulent til Jobcenter Esbjerg / Fritidsjob I Esbjerg Kommune \n\n\nVil du være med til at løfte en spændende fritidsjobindsats i Esbjerg Kommune? \n\n\nTrives du i en foranderlig hverdag, hvor du skal:\n\n\n\tOpdyrke nye jobområder indenfor fritidsjob.\n\tArbejde håndholdt med unge mellem 16 og 18 år, hvor du er opsøgende og indgår konkrete aftaler""","""Fritidsjobkonsulent til Jobcenter Esbjerg""","https://www.google.dk/maps/dir//Gl+Novrupvej+14,6705,+Esbjerg+Ø/","Fritidsjobkonsulent til Jobcenter Esbjerg / Fritidsjob I Esbjerg Kommune  
+ 
+ Vil du være med til at løfte en spændende fritidsjobindsats i Esbjerg Kommune?  
+ 
+Trives du i en foranderlig hverdag, hvor du skal: 
+ 
+ Opdyrke nye jobområder indenfor fritidsjob. 
+ Arbejde håndholdt med unge mellem 16 og 18 år, hvor du er opsøgende og indgår konkrete aftaler med virksomheder om job. 
+ Arbejde med vejledning af alle elever i 8.-9. klasse på folkeskolerne, samt tilbyde en mere håndholdt indsats til eleverne, hvor du er opsøgende og indgår konkrete aftaler med virksomheder om job.  
+ Udbrede viden om indsatsen på vores sociale medier. 
+ 
+   
+ Jobcenter Esbjerg søger en dynamisk og innovativ fritidsjobkonsulent med opstart senest 1. april 2025. Arbejdstiden er 37 timer pr. uge og arbejdsstedet er Vindmøllen, Gl. Novrupvej 14, 6705 Esbjerg Ø.  
+   
+ Opgaverne vil bl.a. være at: 
+ 
+ bygge bro mellem udvalgte unge og virksomheder i Esbjerg Kommune. 
+ tilbyde en håndholdt indsats, hvor elever i 8.-9. klasse og unge fra 16 til 18 år opnår fritidsjob og bliver motiveret for uddannelse og job. Indsatsen sker i et samarbejde med folkeskolerne, vejledningen, virksomhederne og fritidsjobindsatsen. 
+ Vedligehold og udvikle vores SoMe platforme.  
+ 
+ 
+Det er målet med indsatsen, at  flere unge  udvikler kompetencerne til og i højere grad er motiverede for at fastholde et fritidsjob eller job. På den længere bane er det målet, at flere unge i Esbjerg Kommune får de bedste forudsætninger og grundlag for at etablere sig i uddannelsessystemet og efterfølgende finder vej ind i beskæftigelse. 
+ 
+ Opgaver for fritidsjobkonsulenten: 
+ 
+ at tilbyde en håndholdt fritidsjobindsats. 
+ at opdyrke nye jobområder indenfor fritidsjob. 
+ at etablere faste aftaler med virksomheder om rekruttering til fritidsjob. 
+ at bygge bro og skabe sammenhæng om indsatsen mellem de mange aktører. 
+ at afprøve, evaluere og dele viden om nye indsatser. 
+ 
+   
+ Din profil: 
+ Du skal kunne udfordre den ”normale” tænkning. Du skal kunne tænke kreativt, samt forme og udvikle nye indsatser. Du er nysgerrig - og søger viden og sparring, der kan kvalificere dine næste skridt i opgaverne. 
+ 
+Du har erfaring med ar arbejde med elever i folkeskolen, og unge under 19 år. 
+ 
+Du er god til at skabe relationer til unge, forældre og de mange dygtige fagpersoner omkring de unge. Du brænder for, at indsatsen skaber positive forandringer i de unges livsforløb. Du er en god formidler, god facilitator og inspirator. Du har lyst til den håndholdte indsats. 
+ 
+Du har erfaring med virksomhedssamarbejde og har evnen til at opbygge og opretholde relationer til virksomhederne. Du ser muligheder både i samarbejdet med det private erhvervsliv og den offentlige sektor. Du lukker aftaler og skaber fremdrift.  
+   
+ Du får: 
+ 
+ mulighed for at indgå i et team – der er en del af unge- og fritidsjobindsatsen, der varetages af Vindmøllen, som er placeret i Østerbyen.  
+ et job, hvor du vil være en del af et kreativt og innovativt miljø i Vindmøllen, hvor det fælles mål er, at flere unge i Esbjerg Kommune opnår uddannelse og job. 
+ en stor frihed i planlægningen og udførelsen af jobbet. 
+ 
+   
+ Løn- og ansættelsesvilkår: 
+ Stillingen er en fastansættelse (37 timer/uge). 
+ Ansættelse sker efter gældende overenskomst og efter aftale om lokal løndannelse. 
+ I Jobcenter Esbjerg er der mulighed for den enkelte medarbejder til at vælge mellem en 4 eller 5 dags arbejdsuge. Vælger man 4 dage, har man fri om fredagen.    
+ Det forventes, at du har kørekort. 
+ Går du videre efter ansættelsessamtale, vil der blive indhentet referencer fra nuværende og/eller tidligere arbejdsgiver, hvis du fortsat er i betragtning til stillingen. Du vil blive informeret inden, at der bliver indhentet en reference. 
+ Ved ansættelse i stillingen indhentes straffe- og børneattest. 
+ 
+Alle kvalificerede uanset køn, alder eller etnisk baggrund opfordres til at søge stillingen. 
+ 
+Spørgsmål kan rettes til: 
+ 
+ Projektleder Pernille Madsen tlf. 29600825  
+ Sektionsleder Peter Nikolajsen tlf. 40218475 
+ 
+ Alle henvendelser behandles fortroligt. 
+   
+ Ansøgningsfrist: 
+ Onsdag den 19. februar 2025. 
+ 
+ Ansættelsessamtaler: 
+ Forventes afholdt tirsdag den 25. februar 2025. 
+   
+ Ansøgningen sendes elektronisk. Klik på ”send ansøgning” nederst og vedhæft din ansøgning, CV og relevant dokumentation i Word eller PDF-format.","https://www.google.dk/maps/place/Gl+Novrupvej+14,6705,+Esbjerg+Ø/",29189803,False,False,,False

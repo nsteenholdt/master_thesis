@@ -1,0 +1,144 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Projektkoordinator til Tandsundhed Uden Grænser / Project Coordinator for Dental Health Without Borders,Projektkoordinator til Tandsundhed Uden Grænser / Project Coordinator for Dental Health Without Borders,Er du passioneret omkring at forbedre folkesundheden globalt? Har du erfaring med projektledelse og ønsker at arbejde i en dynamisk og international organisation? Så er denne stilling nok n,Tandsundhed Uden Grænser,Amaliegade 17  ,1256,København K,False,False,False,True,2025-01-31T00:00:00,2025-02-20T00:00:00,20. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/c671a12e-4cab-4694-acdf-8b1f924300b4,Hovedstaden og Bornholm,København,Danmark,1256,,Almindelige vilkår,Fastansættelse,Fuldtid,Ledelse,Øvrig ledelse,Projektkoordinator,55.6858,12.5942,,,1010340132,,27552765,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/c671a12e-4cab-4694-acdf-8b1f924300b4,https://job.jobnet.dk/CV/FindWork/Details/c671a12e-4cab-4694-acdf-8b1f924300b4,https://job.jobnet.dk/CV/FindWork/Details/c671a12e-4cab-4694-acdf-8b1f924300b4,True,c671a12e-4cab-4694-acdf-8b1f924300b4,55.6858,12.5942,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Tandsundhed Uden Grænser,Amaliegade 17,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1256,,,0,Primary,,mvl@dhwb.dk,,None,,1010340132,27552765,None,c671a12e-4cab-4694-acdf-8b1f924300b4,Tandsundhed Uden Grænser,Amaliegade 17,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1256,,,0,Primary,,mvl@dhwb.dk,,None,,1010340132,27552765,None,,2025-01-31T00:00:00+01:00,2025-02-20T11:00:00+01:00,Projektkoordinator til Tandsundhed Uden Grænser / Project Coordinator for Dental Health Without Borders,"Er du passioneret omkring at forbedre folkesundheden globalt? Har du erfaring med projektledelse og ønsker at arbejde i en dynamisk og international organisation? Så er denne stilling nok noget for dig! 
+ Om os:   
+ Tandsundhed Uden Grænser er en international NGO, der arbejder for at forbedre tandsundheden og hermed folkesundheden for udsatte børn verden over. Vores mission er at skabe bæredygtige løsninger og hjælpe flest mulige børn i verden. Vi har fokus på folkesundhed og bygger vores programmer på evidens. Vi er et lille sekretariat, der har til huse i Tandlægeforeningen i Amaliegade. Lige nu har vi projekter i Rwanda, Palæstina, Guatemala, Bolivia og Colombia. 
+ Dine ansvarsområder: 
+ 
+ Planlægning, implementering og monitorering af projekter fra start til slut 
+ Koordinering med internationale partnere og interessenter 
+ Udarbejdelse af rapporter og præsentationer til donorer og ledelse 
+ Projektøkonomi, herunder regnskab samt sikring af at projekterne overholder budgetter, tidsplaner etc. 
+ Metodeudvikling og læring indenfor interventioner 
+ Andre ad-hoc opgaver, da vi er et lille sekretariat 
+ 
+ Vi søger dig, som: 
+ 
+ Har en relevant akademisk uddannelse inden for projektledelse, folkesundhed, international udvikling eller lignende 
+ Har mindst 3 års erfaring med projektkoordinering, gerne i en NGO 
+ Er flydende i engelsk og meget gerne spansk, samt har stærke kommunikationsevner 
+ Har erfaring med udvikling af folkesundhedsinterventioner samt gerne erfaring med fondsansøgninger 
+ Er struktureret, detaljeorienteret og kan arbejde selvstændigt 
+ Har en passion for humanitært arbejde og en stærk forståelse for kulturelle forskelle 
+ Har mulighed for at rejse, da der vil være 30+ rejsedage årligt i stillingen 
+ 
+ Du får: 
+ 
+ En spændende og udfordrende stilling i en international organisation 
+ Mulighed for at arbejde med meningsfulde projekter, der gør en forskel for folkesundheden blandt udsatte børn ude i verden 
+ Et job i en flad, uformel organisation med kort fra tanke til handling, højt til loftet og tæt samarbejde 
+ Et støttende og hyggeligt arbejdsmiljø med engagerede kolleger (vi griner meget, laver sociale ting udenfor arbejdet - og hvis man har lyst, så vinterbader vi en gang om ugen). 
+ 
+ Lidt mere om stillingen: 
+ Stillingen er på 37 timer inkl. frokostpause. Du vil komme til at referere til sekretariatslederen, men der er samarbejde med hele sekretariatet. Jobbet ønskes besat hurtigst muligt. 
+ Send din ansøgning og CV til mvl@dhwb.dk senest d. 20. februar 2025 kl. 12.00 
+ Der forventes at være samtaler d. 24. og 25. februar 2025 
+ Vi tror på, at mangfoldighed styrker vores team, og vi opfordrer alle kvalificerede kandidater til at ansøge. Uanset køn, etnicitet og religion så tøv ikke med at søge, bare du er klar til at tage verden med storm. Vi er et lille sekretariat, der glæder os til at lige netop du bliver en del af vores hverdag. Send din ansøgning afsted, og lad os sammen skabe noget fantastisk! 
+ Har du nogle spørgsmål til stillingen, så kontakt endelig sekretariatsleder, Mathilde Vinther-Larsen på mail:  mvl@dhwb.dk  eller på telefon: 42830564 
+   
+ Project Coordinator for Dental Health Without Borders 
+ Are you passionate about improving global public health? Do you have experience in project management and wish to work in a dynamic and international organization? Then this position might be for you! 
+ About Us:  Dental Health Without Borders is an international NGO working to improve dental health and thereby public health for vulnerable children worldwide. Our mission is to create sustainable solutions and help as many children as possible. We focus on public health and base our programs on evidence. We are a small secretariat located at the Danish Dental Association in Amaliegade. Currently, we have projects in Rwanda, Palestine, Guatemala, Bolivia, and Colombia. 
+ Your Responsibilities: 
+ 
+ Planning, implementing, and monitoring projects from start to finish 
+ Coordinating with international partners and stakeholders 
+ Preparing reports and presentations for donors and management 
+ Project finance, including accounting and ensuring projects adhere to budgets, timelines, etc. 
+ Developing methods and learning within interventions 
+ Other ad-hoc tasks, as we are a small secretariat 
+ 
+ We are looking for someone who: 
+ 
+ Has a relevant academic education in project management, public health, international development, or similar 
+ Has at least 3 years of experience in project coordination, preferably in an NGO 
+ Is fluent in English and preferably Spanish, with strong communication skills 
+ Has experience in developing public health interventions and preferably experience with grant applications 
+ Is structured, detail-oriented, and can work independently 
+ Has a passion for humanitarian work and a strong understanding of cultural differences 
+ Is able to travel, as the position includes 30+ travel days annually 
+ 
+ You will get: 
+ 
+ An exciting and challenging position in an international organization 
+ The opportunity to work on meaningful projects that make a difference in public health among vulnerable children worldwide 
+ A job in a flat, informal organization with short decision-making processes, and close collaboration 
+ A supportive and friendly work environment with dedicated colleagues (we laugh a lot, do social activities outside of work, and if you're interested, we go winter bathing once a week) 
+ 
+ More about the position:   
+ The position is full-time (37 hours per week, including lunch break). You will report to the Head of Dental Health Without Borders but will collaborate with the entire secretariat. The job is to be filled as soon as possible. 
+ Send your application and CV to  mvl@dhwb.dk  by February 20, 2025. Danish or English application is okay. 
+ Interviews are expected to be held on February 24 and 25, 2025. 
+ We believe that diversity strengthens our team, and we encourage all qualified candidates to apply. Regardless of gender, ethnicity, or religion, don't hesitate to apply if you're ready to take the world by storm. We are a small secretariat looking forward to having you as part of our daily life. Send your application, and let's create something fantastic together! 
+ If you have any questions about the position, please contact Mathilde Vinther-Larsen at  mvl@dhwb.dk  or by phone at 42830564.",Amaliegade 17,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1256,,1,1,Fuldtid,None,None,1,,Projektkoordinator,0,,0,0,False,"{'Email': 'mvl@dhwb.dk', 'PersonName': 'Mathilde Vinther-Larsen', 'FirstName': 'Mathilde', 'LastName': 'Vinther-Larsen', 'PositionTitle': 'Sekretariatsleder', 'PhoneNumbers': [{'Number': '42830564', 'Type': 0, 'Description': 'Primary'}]}",,True,True,False,False,4,,,False,False,False,False,False,False,,,mvl@dhwb.dk,,,False,2025-02-20T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=c671a12e-4cab-4694-acdf-8b1f924300b4&Organisation=27552765,"Amaliegade 17,1256, ",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=c671a12e-4cab-4694-acdf-8b1f924300b4&Company.Name=Tandsundhed Uden Grænser&SubmissionDeadlineDate=2025-2-20&Title=Projektkoordinator til Tandsundhed Uden Grænser / Project Coordinator for Dental Health Without Borders&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Projektkoordinator til Tandsundhed Uden Grænser / Project Coordinator for Dental Health Without Borders,True,,True,1,,c671a12e-4cab-4694-acdf-8b1f924300b4,,,False,False,,0,False,Tandsundhed Uden Grænser,Amaliegade 17,,,1256,False,False,False,,Mathilde Vinther-Larsen,42830564,mvl@dhwb.dk,,,,,False,,2025-02-20T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i København kommune,False,Tandsundhed Uden Grænser,,None,,False,False,"Er du passioneret omkring at forbedre folkesundheden globalt? Har du erfaring med projektledelse og ønsker at arbejde i en dynamisk og international organisation? Så er denne stilling nok noget for dig!
+Om os:
+Tandsundhed Uden Grænser er en international NGO, der arbejder for at forbedre tandsundheden og hermed folkesundheden for udsatte børn verde","""Er du passioneret omkring at forbedre folkesundheden globalt? Har du erfaring med projektledelse og ønsker at arbejde i en dynamisk og international organisation? Så er denne stilling nok noget for dig!\nOm os:\nTandsundhed Uden Grænser er en international NGO, der arbejder for at forbedre tandsundheden og hermed folkesundheden for udsatte børn verde""","""Projektkoordinator til Tandsundhed Uden Grænser / Project Coordinator for Dental Health Without Borders""","https://www.google.dk/maps/dir//Amaliegade+17,1256,+/","Er du passioneret omkring at forbedre folkesundheden globalt? Har du erfaring med projektledelse og ønsker at arbejde i en dynamisk og international organisation? Så er denne stilling nok noget for dig! 
+ Om os:   
+ Tandsundhed Uden Grænser er en international NGO, der arbejder for at forbedre tandsundheden og hermed folkesundheden for udsatte børn verden over. Vores mission er at skabe bæredygtige løsninger og hjælpe flest mulige børn i verden. Vi har fokus på folkesundhed og bygger vores programmer på evidens. Vi er et lille sekretariat, der har til huse i Tandlægeforeningen i Amaliegade. Lige nu har vi projekter i Rwanda, Palæstina, Guatemala, Bolivia og Colombia. 
+ Dine ansvarsområder: 
+ 
+ Planlægning, implementering og monitorering af projekter fra start til slut 
+ Koordinering med internationale partnere og interessenter 
+ Udarbejdelse af rapporter og præsentationer til donorer og ledelse 
+ Projektøkonomi, herunder regnskab samt sikring af at projekterne overholder budgetter, tidsplaner etc. 
+ Metodeudvikling og læring indenfor interventioner 
+ Andre ad-hoc opgaver, da vi er et lille sekretariat 
+ 
+ Vi søger dig, som: 
+ 
+ Har en relevant akademisk uddannelse inden for projektledelse, folkesundhed, international udvikling eller lignende 
+ Har mindst 3 års erfaring med projektkoordinering, gerne i en NGO 
+ Er flydende i engelsk og meget gerne spansk, samt har stærke kommunikationsevner 
+ Har erfaring med udvikling af folkesundhedsinterventioner samt gerne erfaring med fondsansøgninger 
+ Er struktureret, detaljeorienteret og kan arbejde selvstændigt 
+ Har en passion for humanitært arbejde og en stærk forståelse for kulturelle forskelle 
+ Har mulighed for at rejse, da der vil være 30+ rejsedage årligt i stillingen 
+ 
+ Du får: 
+ 
+ En spændende og udfordrende stilling i en international organisation 
+ Mulighed for at arbejde med meningsfulde projekter, der gør en forskel for folkesundheden blandt udsatte børn ude i verden 
+ Et job i en flad, uformel organisation med kort fra tanke til handling, højt til loftet og tæt samarbejde 
+ Et støttende og hyggeligt arbejdsmiljø med engagerede kolleger (vi griner meget, laver sociale ting udenfor arbejdet - og hvis man har lyst, så vinterbader vi en gang om ugen). 
+ 
+ Lidt mere om stillingen: 
+ Stillingen er på 37 timer inkl. frokostpause. Du vil komme til at referere til sekretariatslederen, men der er samarbejde med hele sekretariatet. Jobbet ønskes besat hurtigst muligt. 
+ Send din ansøgning og CV til mvl@dhwb.dk senest d. 20. februar 2025 kl. 12.00 
+ Der forventes at være samtaler d. 24. og 25. februar 2025 
+ Vi tror på, at mangfoldighed styrker vores team, og vi opfordrer alle kvalificerede kandidater til at ansøge. Uanset køn, etnicitet og religion så tøv ikke med at søge, bare du er klar til at tage verden med storm. Vi er et lille sekretariat, der glæder os til at lige netop du bliver en del af vores hverdag. Send din ansøgning afsted, og lad os sammen skabe noget fantastisk! 
+ Har du nogle spørgsmål til stillingen, så kontakt endelig sekretariatsleder, Mathilde Vinther-Larsen på mail:  mvl@dhwb.dk  eller på telefon: 42830564 
+   
+ Project Coordinator for Dental Health Without Borders 
+ Are you passionate about improving global public health? Do you have experience in project management and wish to work in a dynamic and international organization? Then this position might be for you! 
+ About Us:  Dental Health Without Borders is an international NGO working to improve dental health and thereby public health for vulnerable children worldwide. Our mission is to create sustainable solutions and help as many children as possible. We focus on public health and base our programs on evidence. We are a small secretariat located at the Danish Dental Association in Amaliegade. Currently, we have projects in Rwanda, Palestine, Guatemala, Bolivia, and Colombia. 
+ Your Responsibilities: 
+ 
+ Planning, implementing, and monitoring projects from start to finish 
+ Coordinating with international partners and stakeholders 
+ Preparing reports and presentations for donors and management 
+ Project finance, including accounting and ensuring projects adhere to budgets, timelines, etc. 
+ Developing methods and learning within interventions 
+ Other ad-hoc tasks, as we are a small secretariat 
+ 
+ We are looking for someone who: 
+ 
+ Has a relevant academic education in project management, public health, international development, or similar 
+ Has at least 3 years of experience in project coordination, preferably in an NGO 
+ Is fluent in English and preferably Spanish, with strong communication skills 
+ Has experience in developing public health interventions and preferably experience with grant applications 
+ Is structured, detail-oriented, and can work independently 
+ Has a passion for humanitarian work and a strong understanding of cultural differences 
+ Is able to travel, as the position includes 30+ travel days annually 
+ 
+ You will get: 
+ 
+ An exciting and challenging position in an international organization 
+ The opportunity to work on meaningful projects that make a difference in public health among vulnerable children worldwide 
+ A job in a flat, informal organization with short decision-making processes, and close collaboration 
+ A supportive and friendly work environment with dedicated colleagues (we laugh a lot, do social activities outside of work, and if you're interested, we go winter bathing once a week) 
+ 
+ More about the position:   
+ The position is full-time (37 hours per week, including lunch break). You will report to the Head of Dental Health Without Borders but will collaborate with the entire secretariat. The job is to be filled as soon as possible. 
+ Send your application and CV to  mvl@dhwb.dk  by February 20, 2025. Danish or English application is okay. 
+ Interviews are expected to be held on February 24 and 25, 2025. 
+ We believe that diversity strengthens our team, and we encourage all qualified candidates to apply. Regardless of gender, ethnicity, or religion, don't hesitate to apply if you're ready to take the world by storm. We are a small secretariat looking forward to having you as part of our daily life. Send your application, and let's create something fantastic together! 
+ If you have any questions about the position, please contact Mathilde Vinther-Larsen at  mvl@dhwb.dk  or by phone at 42830564.","https://www.google.dk/maps/place/Amaliegade+17,1256,+/",27552765,False,False,,False

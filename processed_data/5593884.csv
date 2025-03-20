@@ -1,0 +1,86 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Produktions/lagermedarbejder til kunde i Vejle,Produktions/lagermedarbejder til kunde i Vejle,"Vikariat 12 måneder
+Kvalifikationer faglige
+
+Erfaring produktion/lager en fordel
+Truck kort - haves det ikke er vi behjælpelig med at erhverve d",Selekt Vikar og Rekruttering ApS,,7100,Vejle,True,False,False,False,2022-05-09T00:00:00,2022-07-04T00:00:00,4. juli 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5593884,Syddanmark,Vejle,Danmark,7100,,,,Fuldtid,"Transport, post, lager- og maskinførerarbejde",Lagerarbejde mv.,Lager- og logistikmedarbejder,55.6905,9.5066,,Dag,130309,114503,40171843,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5593884,https://job.jobnet.dk/CV/FindWork/Details/5593884,https://job.jobnet.dk/CV/FindWork/Details/5593884,True,5593884,55.6905,9.5066,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Selekt Vikar og Rekruttering ApS,Godthåbsvej 27,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,,0,Primary,,,,None,130309,1024304163,40171843,"Kære jobsøger, der er mange fordele ved at arbejde for et vikarbureau som er medlem af Dansk Industri.
+Som vikar nyder du godt af fleksible arbejdstider og selvvalgte skiftende udfordringer. Flere har sagt farvel til en tilværelse som fastansat for at få mere frihed. Andre vælger at være vikar i en periode mellem jobs, eller inden de skal ind på studiet – vi har brug for alle, som er motiverede og engagerede. Se fordelene nedenfor.",5593884,5593884,Selekt Vikar og Rekruttering ApS,Godthåbsvej 27,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,,0,Primary,,,,None,130309,1024304163,40171843,"Kære jobsøger, der er mange fordele ved at arbejde for et vikarbureau som er medlem af Dansk Industri.
+Som vikar nyder du godt af fleksible arbejdstider og selvvalgte skiftende udfordringer. Flere har sagt farvel til en tilværelse som fastansat for at få mere frihed. Andre vælger at være vikar i en periode mellem jobs, eller inden de skal ind på studiet – vi har brug for alle, som er motiverede og engagerede. Se fordelene nedenfor.",,2022-05-09T00:00:00,2022-07-04T00:00:00,Produktions/lagermedarbejder til kunde i Vejle,"Vikariat 12 måneder 
+ Kvalifikationer faglige 
+ 
+ Erfaring produktion/lager en fordel 
+ Truck kort -  haves det ikke er vi behjælpelig med at erhverve det 
+ Kursus varmt arbejde -  haves det ikke er vi behjælpelig med at erhverve det 
+ Kunne tale og forstå dansk 
+ Håndværker snilde vil være en god ting 
+ 
+ Kvalifikationer personlige: 
+ 
+ Mødestabil 
+ Kunne samarbejde 
+ Arbejde under pres i perioder 
+ Have mange bolde i luften 
+ Den rette indstilling kan alt læres 
+ 
+ Virksomheden kan tilbyde: 
+ 
+ Ordnede forhold 
+ Løn efter overenskomst 
+ 
+ Arbejdstid 
+ 
+ Mandag til og med torsdag 0600-1400 
+ Fredag fra 0600-1330 
+ 
+   
+ Kan du se dig selv i ovenstående, så gå på vores hjemmeside: 
+ www.selekt.dk  REG CV 
+ Der holdes løbende samtaler 
+ M;VH 
+ Selekt Vikar&Rekruttering",,58,Danmark,630,Vejle,3,Syddanmark,7100,Vejle,16,1,Fuldtid,None,None,1,"{'DriversLicenceType': 103, 'Name': 'Truck', 'Description': 'Truckcertifikat'}",0,,0,0,0,,False,"{'Id': 7972534, 'Email': 'info@selekt.dk', 'FaxNumber': None, 'PersonName': 'John Sylvester', 'FirstName': 'John', 'LastName': 'Sylvester', 'PositionTitle': 'Direktør', 'PhoneNumbers': [{'Number': '70777075', 'Type': 0, 'Description': 'Hovednummer'}, {'Number': '70777075', 'Type': 2, 'Description': 'Mobil'}]}",,True,False,False,False,4,,,False,False,False,True,,,,,www.selekt.dk,False,2022-07-04T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5593884&WorkPlace=130309&Organisation=40171843,"Godthåbsvej 27,8660, Skanderborg",False,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5593884&Company.Name=Selekt Vikar og Rekruttering ApS&SubmissionDeadlineDate=2022-7-4&Title=Produktions/lagermedarbejder til kunde i Vejle&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Produktions/lagermedarbejder til kunde i Vejle,True,,True,1,,5593884,,,False,False,,0,False,Selekt Vikar og Rekruttering ApS,Godthåbsvej 27,,,8660,False,False,False,Skanderborg,John Sylvester,70777075,info@selekt.dk,,,,,False,,2022-07-04T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Dag,Arbejdspladsen ligger i Vejle kommune,False,Selekt Vikar og Rekruttering ApS,,"Kære jobsøger, der er mange fordele ved at arbejde for et vikarbureau som er medlem af Dansk Industri.
+Som vikar nyder du godt af fleksible arbejdstider og selvvalgte skiftende udfordringer. Flere har sagt farvel til en tilværelse som fastansat for at få mere frihed. Andre vælger at være vikar i en periode mellem jobs, eller inden de skal ind på studiet – vi har brug for alle, som er motiverede og engagerede. Se fordelene nedenfor.",,False,False,"Vikariat 12 måneder
+Kvalifikationer faglige
+
+Erfaring produktion/lager en fordel
+Truck kort - haves det ikke er vi behjælpelig med at erhverve det
+Kursus varmt arbejde - haves det ikke er vi behjælpelig med at erhverve det
+Kunne tale og forstå dansk
+Håndværker snilde vil være en god ting
+
+Kvalifikationer personlige:
+
+Mødestabil
+Kunne samarbejde
+Arb","""Vikariat 12 måneder\nKvalifikationer faglige\n\nErfaring produktion/lager en fordel\nTruck kort - haves det ikke er vi behjælpelig med at erhverve det\nKursus varmt arbejde - haves det ikke er vi behjælpelig med at erhverve det\nKunne tale og forstå dansk\nHåndværker snilde vil være en god ting\n\nKvalifikationer personlige:\n\nMødestabil\nKunne samarbejde\nArb""","""Produktions/lagermedarbejder til kunde i Vejle""","https://www.google.dk/maps/dir//Godthåbsvej+27,8660,+Skanderborg/","Vikariat 12 måneder 
+ Kvalifikationer faglige 
+ 
+ Erfaring produktion/lager en fordel 
+ Truck kort -  haves det ikke er vi behjælpelig med at erhverve det 
+ Kursus varmt arbejde -  haves det ikke er vi behjælpelig med at erhverve det 
+ Kunne tale og forstå dansk 
+ Håndværker snilde vil være en god ting 
+ 
+ Kvalifikationer personlige: 
+ 
+ Mødestabil 
+ Kunne samarbejde 
+ Arbejde under pres i perioder 
+ Have mange bolde i luften 
+ Den rette indstilling kan alt læres 
+ 
+ Virksomheden kan tilbyde: 
+ 
+ Ordnede forhold 
+ Løn efter overenskomst 
+ 
+ Arbejdstid 
+ 
+ Mandag til og med torsdag 0600-1400 
+ Fredag fra 0600-1330 
+ 
+   
+ Kan du se dig selv i ovenstående, så gå på vores hjemmeside: 
+ www.selekt.dk  REG CV 
+ Der holdes løbende samtaler 
+ M;VH 
+ Selekt Vikar&Rekruttering","https://www.google.dk/maps/place/Godthåbsvej+27,8660,+Skanderborg/",40171843,False,False,,False

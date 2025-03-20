@@ -1,0 +1,114 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Chauffør til autotransport,Chauffør til autotransport,"
+
+Chauffør til autotransport
+Er du klar til at tage rattet og køre din karriere mod nye horisonter? Vi søger en entusiastisk og pålidelig chauf",Lubi Transport ApS,Allerød Stationsvej   ,3450,Allerød,True,False,False,False,2024-12-16T00:00:00,2025-02-10T00:00:00,10. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5e364ebf-9357-4688-85bb-4d1920c7b866,Hovedstaden og Bornholm,Allerød,Danmark,3450,,Almindelige vilkår,Tidsbegrænset ansættelse,Deltid,"Transport, post, lager- og maskinførerarbejde",Vejtransport,"Chauffør, fragt, distribution, blandet kørsel",55.8661,12.3366,(25 - 36 timer ugentligt),Dag,1025670813,,41245476,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5e364ebf-9357-4688-85bb-4d1920c7b866,https://job.jobnet.dk/CV/FindWork/Details/5e364ebf-9357-4688-85bb-4d1920c7b866,https://job.jobnet.dk/CV/FindWork/Details/5e364ebf-9357-4688-85bb-4d1920c7b866,True,5e364ebf-9357-4688-85bb-4d1920c7b866,55.8661,12.3366,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Lubi Transport ApS,Allerød Stationsvej,58,Danmark,201,Allerød,4,"Hovedstaden, Sjælland og Bornholm",3450,Allerød,44408994,0,Primary,,job@lubijob.dk,https://lubitransport.dk/jobs/chauffoer-til-autotransport/,None,,1025670813,41245476,None,5e364ebf-9357-4688-85bb-4d1920c7b866,Lubi Transport ApS,Allerød Stationsvej,58,Danmark,201,Allerød,4,"Hovedstaden, Sjælland og Bornholm",3450,Allerød,44408994,0,Primary,,job@lubijob.dk,https://lubitransport.dk/jobs/chauffoer-til-autotransport/,None,,1025670813,41245476,None,,2024-12-16T00:00:00+01:00,2025-02-10T10:29:18.067+01:00,Chauffør til autotransport,"Chauffør til autotransport
+ Er du klar til at tage rattet og køre din karriere mod nye horisonter? Vi søger en entusiastisk og pålidelig  chauffør  til et spændende job, hvor der både tilbydes en fuldtidsstilling eller en deltidstilling, alt efter hvad der passer bedst ind.  
+
+
+
+
+Om jobbet:
+
+
+
+
+ Som vores nye chauffør på vejen vil dine dage blive fyldt med spændende opgaver: 
+ 
+ Du bliver ansvarlig for  transporten  af personbiler efter lakering – det er din tid til at glitre, mens du sørger for, at vores kunders køretøjer skinner som aldrig før. 
+ Levering af biler til kunder – tag styringen og gør deres dag ekstraordinær ved at levere deres køretøj med et smil. 
+ Du vil også være ansvarlig for at bringe løsdele tilbage til os efter  lakering , og her kan du virkelig vise dine færdigheder i at jonglere med logistik. 
+ 
+
+
+
+
+Vi forventer, at du:
+
+
+
+
+ 
+ Har et kørekort CE,  EU-chaufførbevis  og førerkort eller et kørekort BE med VUB-bevis – det er nøglen til at låse op for dette eventyr på landevejen. 
+ Erfaring fra lignende job vil være en fordel, men ikke afgørende. Vi værdsætter passion og pålidelighed højere end anciennitet. 
+ Kan vise  straffeattest . 
+ Behersker dansk eller engelsk i både skrift og tale. 
+ 
+
+
+
+
+Hvad vi tilbyder:
+
+
+
+
+ 
+ En spændende hverdag, hvor ingen dag er den samme. 
+ Plads til både personlig og faglig udvikling – lad os sammen sætte kursen mod succes. 
+ Et varmt og indbydende  arbejdsmiljø , hvor trivsel og samarbejde er i højsædet. 
+ 
+ Hvis du tror på, at du har det, der skal til for at være stjernechauffør, så tøv ikke med at sende os din ansøgning og dit CV. Drømmejobbet venter på dig, og vejen fremad er klar – tag rattet og kør mod en strålende fremtid sammen med os! 
+ Vi glæder os til at høre fra dig!  
+ Oplys Job ID:  5122  ved telefonisk henvendelse.",Allerød Stationsvej,58,Danmark,201,Allerød,4,"Hovedstaden, Sjælland og Bornholm",3450,Allerød,16,16,Deltid,None,None,1,"{'DriversLicenceType': 3, 'Name': 'Almindelig bil', 'Description': ''}, {'DriversLicenceType': 4, 'Name': 'Stor lastbil', 'Description': ''}, {'DriversLicenceType': 7, 'Name': 'Stor lastbil med stort påhængskøretøj', 'Description': ''}","Chauffør, fragt, distribution, blandet kørsel",0,,0,0,False,"{'Email': 'maria@lubijob.dk', 'PersonName': 'Maria Jakobsen', 'FirstName': 'Maria', 'LastName': 'Jakobsen', 'PositionTitle': 'Administrationschef', 'PhoneNumbers': [{'Number': '44408994', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,36,25,False,False,False,True,False,False,,,job@lubijob.dk,44408994,https://lubitransport.dk/jobs/chauffoer-til-autotransport/,False,2025-02-10T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=5e364ebf-9357-4688-85bb-4d1920c7b866&Organisation=41245476,"Allerød Stationsvej,3450, Allerød",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5e364ebf-9357-4688-85bb-4d1920c7b866&Company.Name=Lubi Transport ApS&SubmissionDeadlineDate=2025-2-10&Title=Chauffør til autotransport&WeeklyWorkTime=2,00000000-0000-0000-0000-000000000000,False,0,,,Chauffør til autotransport,True,,True,2,,5e364ebf-9357-4688-85bb-4d1920c7b866,,,False,False,,0,False,Lubi Transport ApS,Allerød Stationsvej,,,3450,False,False,False,Allerød,Maria Jakobsen,44408994,maria@lubijob.dk,,,,,False,,2025-02-10T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,(25 - 36 timer ugentligt),Dag,Arbejdspladsen ligger i Allerød kommune,False,Lubi Transport ApS,,None,,False,False,"
+
+Chauffør til autotransport
+Er du klar til at tage rattet og køre din karriere mod nye horisonter? Vi søger en entusiastisk og pålidelig chauffør til et spændende job, hvor der både tilbydes en fuldtidsstilling eller en deltidstilling, alt efter hvad der passer bedst ind.
+
+
+
+
+Om jobbet:
+
+
+
+
+Som vores nye chauffør på vejen vil dine dage blive fyldt","""\n\nChauffør til autotransport\nEr du klar til at tage rattet og køre din karriere mod nye horisonter? Vi søger en entusiastisk og pålidelig chauffør til et spændende job, hvor der både tilbydes en fuldtidsstilling eller en deltidstilling, alt efter hvad der passer bedst ind.\n\n\n\n\nOm jobbet:\n\n\n\n\nSom vores nye chauffør på vejen vil dine dage blive fyldt""","""Chauffør til autotransport""","https://www.google.dk/maps/dir//Allerød+Stationsvej,3450,+Allerød/","Chauffør til autotransport
+ Er du klar til at tage rattet og køre din karriere mod nye horisonter? Vi søger en entusiastisk og pålidelig  chauffør  til et spændende job, hvor der både tilbydes en fuldtidsstilling eller en deltidstilling, alt efter hvad der passer bedst ind.  
+
+
+
+
+Om jobbet:
+
+
+
+
+ Som vores nye chauffør på vejen vil dine dage blive fyldt med spændende opgaver: 
+ 
+ Du bliver ansvarlig for  transporten  af personbiler efter lakering – det er din tid til at glitre, mens du sørger for, at vores kunders køretøjer skinner som aldrig før. 
+ Levering af biler til kunder – tag styringen og gør deres dag ekstraordinær ved at levere deres køretøj med et smil. 
+ Du vil også være ansvarlig for at bringe løsdele tilbage til os efter  lakering , og her kan du virkelig vise dine færdigheder i at jonglere med logistik. 
+ 
+
+
+
+
+Vi forventer, at du:
+
+
+
+
+ 
+ Har et kørekort CE,  EU-chaufførbevis  og førerkort eller et kørekort BE med VUB-bevis – det er nøglen til at låse op for dette eventyr på landevejen. 
+ Erfaring fra lignende job vil være en fordel, men ikke afgørende. Vi værdsætter passion og pålidelighed højere end anciennitet. 
+ Kan vise  straffeattest . 
+ Behersker dansk eller engelsk i både skrift og tale. 
+ 
+
+
+
+
+Hvad vi tilbyder:
+
+
+
+
+ 
+ En spændende hverdag, hvor ingen dag er den samme. 
+ Plads til både personlig og faglig udvikling – lad os sammen sætte kursen mod succes. 
+ Et varmt og indbydende  arbejdsmiljø , hvor trivsel og samarbejde er i højsædet. 
+ 
+ Hvis du tror på, at du har det, der skal til for at være stjernechauffør, så tøv ikke med at sende os din ansøgning og dit CV. Drømmejobbet venter på dig, og vejen fremad er klar – tag rattet og kør mod en strålende fremtid sammen med os! 
+ Vi glæder os til at høre fra dig! 
+ Oplys Job ID:  5122  ved telefonisk henvendelse.","https://www.google.dk/maps/place/Allerød+Stationsvej,3450,+Allerød/",41245476,False,False,,False

@@ -1,0 +1,121 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Logistikansvarlig,Logistikansvarlig,"For Heras-Mobilhegn ApS søges en logistikansvarlig med blik for hele forsyningskæden 
+
+VIRKSOMHEDEN
+Heras-Mobilhegn ApS er den internationale ekspert ",ConfidenceSearch,Prins Christians Kvarter 26,7000,Fredericia,True,False,False,False,2022-05-03T00:00:00,2022-06-28T00:00:00,28. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5588833,Syddanmark,Fredericia,Danmark,7000,,,,Fuldtid,Ledelse,"Administration, strategi og personale",Afdelingsleder,55.5371,9.6999,,,108699,97836,34627282,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5588833,https://job.jobnet.dk/CV/FindWork/Details/5588833,https://job.jobnet.dk/CV/FindWork/Details/5588833,True,5588833,55.5371,9.6999,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",ConfidenceSearch,Helgavej 26,58,Danmark,461,Odense,3,Syddanmark,5230,Odense M,,0,Primary,,,,"CONFIDENCE SEARCH er
+En virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd
+
+En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau
+
+En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",108699,1017855014,34627282,"Confidense Search A/S er en virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd. 
+- En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau.
+- En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",5588833,5588833,ConfidenceSearch,Helgavej 26,58,Danmark,461,Odense,3,Syddanmark,5230,Odense M,,0,Primary,,,,"CONFIDENCE SEARCH er
+En virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd
+
+En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau
+
+En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",108699,1017855014,34627282,"Confidense Search A/S er en virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd. 
+- En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau.
+- En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",,2022-05-03T00:00:00,2022-06-28T00:00:00,Logistikansvarlig,"For Heras-Mobilhegn ApS søges en logistikansvarlig med blik for hele forsyningskæden  
+ VIRKSOMHEDEN 
+Heras-Mobilhegn ApS er den internationale ekspert på midlertidige og semi-permanente sikkerhedsløsninger. En helt speciel specialisme, der bidrager til at bygge og drive virksomhed uden bekymringer. Blandt andet på grund af fremragende logistik. 
+Koncernen er aktiv i 22 europæiske lande, Nordamerika, Canada og Mellemøsten. Vi er i nærheden og kender dit marked. Heras er opfinderen af det midlertidige hegn i 1966. Virksomheden har en stærk position i Europa. 
+ Vores midlertidige hegn ændrer sig i takt med markedets efterspørgsel. Resultatet er produkter med større sikkerhed og længere levetid. Med varierende succes prøver vores kolleger at efterligne mobilhegnet Heras M500 Anti Climb. Det ser vi som et stort kompliment. 
+ Læs mere på  https://www.heras-mobilhegn.dk 
+   
+ STILLINGEN 
+I rollen som logistikansvarlig bliver du med reference til afdelingschefen en tæt sparringspartner til at få ordrerne ekspederet på den mest optimale måde til både gavn for kunderne og virksomheden på de to sites i Fredericia og Rødovre. 
+ Du får samtidig ledelsesansvar for 2 pligtopfyldende og loyale medarbejdere, hvor du skal sikre både motivation, trivsel og fremdrift i teamet. 
+ Hovedopgaverne er fokuseret på: 
+ 
+ Sikre, at der disponeres/indkøbes ind til de bedste priser i rette kvalitet og rette tid. 
+ Sikre og optimere lagerbeholdninger, logistik og transportplanlægning 
+ Opfølgning på igangværende ordrer. 
+ Udbygning af de gode relationer hos eksisterende leverandører herunder moderselskabet i Holland. 
+ Løbende oprettelse af indkøbsordrer og vedligeholdelse af vare-/leverandør stamdata. 
+ Styre lagerbeholdning og kapitalbinding på varegrupperne 
+ Andre logistik relaterede ad hoc-opgaver på tværs af afdelingerne og i forhold til moderselskabet 
+ 
+ Der lægges bl.a. vægt på, at kandidaten: 
+ 
+ Sikrer høj kvalitet og leveringssikkerhed inden for sit funktionsområde 
+ Lykkes med løbende at optimere på leveringssikkerhed, lagerbeholdninger og kapitalbindinger 
+ Skaber gode synergieffekter mellem afdelingerne i Fredericia og Rødovre 
+ 
+   
+ KANDIDATEN 
+Det er vigtigt, at du besidder godt købmandskab, men samtidig er god til at skabe tætte relationer til vores kolleger på tværs af afdelinger, samarbejdspartnere og leverandører. 
+ Den ideelle kandidat er/har: 
+ 
+ solid erfaring med lignende opgaver 
+ en relevant uddannelse inden for logistik og/eller supply chain 
+ supporterende, motiverende og praktiserer tværorganisatorisk samarbejde og kommunikation. 
+ godt købmandskab og ser det også ud fra de kommercielle sider af forretningen 
+ forhandlingsvant på dansk og engelsk, i både skrift og tale 
+ god til at kommunikere, samarbejde og formidle på tværs i organisationen. 
+ en empatisk person, men som også kan træffe beslutninger og stå ved dem, samt tør udfordre forretningen og det bestående. 
+ god til at bruge diverse IT- og ERP-systemer – og gerne Navision eller lign. 
+ en hands on tilgang, og er ikke bange for at give en hånd med, når det presser på 
+ lyst til arbejde i en mindre agil virksomhed, hvor man hjælper hinanden på tværs af funktioner og ansvar. 
+ 
+ GAGE OG BENEFITS 
+Du tilbydes et spændende og alsidigt job i en dynamisk virksomhed med mulighed for at arbejde i en international koncern med gode kolleger omkring dig.  
+Virksomheden tilbyder en gage pakke, der modsvarer dine kompetencer og din erfaring. 
+   
+ TILTRÆDELSE OG ARBEJDSTED. 
+Snarest muligt, men vi venter gerne på den rette person. Der vil løbende blive indkaldt til interviews. Arbejdsstedet er Fredericia.",Prins Christians Kvarter 26,58,Danmark,607,Fredericia,3,Syddanmark,7000,Fredericia,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7953587, 'Email': None, 'FaxNumber': None, 'PersonName': 'Kenneth Toftdal', 'FirstName': 'Kenneth', 'LastName': 'Toftdal', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '27879453', 'Type': 0, 'Description': 'Hovednummer'}]}",,False,False,False,False,4,,,False,False,False,False,,,,,http://confidencesearch.dk/ledige-stillinger/?hr=show-job/96737,False,2022-06-28T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5588833&WorkPlace=108699&Organisation=34627282,"Prins Christians Kvarter 26,7000, Fredericia",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5588833&Company.Name=ConfidenceSearch&SubmissionDeadlineDate=2022-6-28&Title=Logistikansvarlig&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Logistikansvarlig,True,,True,1,,5588833,,,False,False,,0,False,ConfidenceSearch,Helgavej 26,,,5230,False,False,False,Odense M,Kenneth Toftdal,27879453,,,,,,False,,2022-06-28T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Fredericia kommune,False,ConfidenceSearch,,"CONFIDENCE SEARCH er
+En virksomhed, hvor fortrolighed, tillid og troværdighed er dybt rodfæstet i både vores værdier og vores adfærd
+
+En virksomhed, som er etableret af nogle af branchens mest troværdige headhuntere, som både har national og international erfaring fra en lang række opgaver på executive, leder og specialist niveau
+
+En virksomhed, hvor persondatasikkerhed og diskretion er altafgørende for at kunne agere professionelt, og vi har opnået tilladelse fra Datatilsynet.",,False,False,"For Heras-Mobilhegn ApS s&oslash;ges en logistikansvarlig med blik for hele forsyningsk&aelig;den 
+
+VIRKSOMHEDEN
+Heras-Mobilhegn ApS er den internationale ekspert p&aring; midlertidige og semi-permanente sikkerhedsl&oslash;sninger. En helt speciel specialisme, der bidrager til at bygge og drive virksomhed uden bekymringer. Blandt andet p&aring; ","""For Heras-Mobilhegn ApS s\u0026oslash;ges en logistikansvarlig med blik for hele forsyningsk\u0026aelig;den \r\n\r\nVIRKSOMHEDEN\r\nHeras-Mobilhegn ApS er den internationale ekspert p\u0026aring; midlertidige og semi-permanente sikkerhedsl\u0026oslash;sninger. En helt speciel specialisme, der bidrager til at bygge og drive virksomhed uden bekymringer. Blandt andet p\u0026aring; ""","""Logistikansvarlig""","https://www.google.dk/maps/dir//Prins+Christians+Kvarter+26,7000,+Fredericia/","For Heras-Mobilhegn ApS søges en logistikansvarlig med blik for hele forsyningskæden  
+ VIRKSOMHEDEN 
+Heras-Mobilhegn ApS er den internationale ekspert på midlertidige og semi-permanente sikkerhedsløsninger. En helt speciel specialisme, der bidrager til at bygge og drive virksomhed uden bekymringer. Blandt andet på grund af fremragende logistik. 
+Koncernen er aktiv i 22 europæiske lande, Nordamerika, Canada og Mellemøsten. Vi er i nærheden og kender dit marked. Heras er opfinderen af det midlertidige hegn i 1966. Virksomheden har en stærk position i Europa. 
+ Vores midlertidige hegn ændrer sig i takt med markedets efterspørgsel. Resultatet er produkter med større sikkerhed og længere levetid. Med varierende succes prøver vores kolleger at efterligne mobilhegnet Heras M500 Anti Climb. Det ser vi som et stort kompliment. 
+ Læs mere på  https://www.heras-mobilhegn.dk 
+   
+ STILLINGEN 
+I rollen som logistikansvarlig bliver du med reference til afdelingschefen en tæt sparringspartner til at få ordrerne ekspederet på den mest optimale måde til både gavn for kunderne og virksomheden på de to sites i Fredericia og Rødovre. 
+ Du får samtidig ledelsesansvar for 2 pligtopfyldende og loyale medarbejdere, hvor du skal sikre både motivation, trivsel og fremdrift i teamet. 
+ Hovedopgaverne er fokuseret på: 
+ 
+ Sikre, at der disponeres/indkøbes ind til de bedste priser i rette kvalitet og rette tid. 
+ Sikre og optimere lagerbeholdninger, logistik og transportplanlægning 
+ Opfølgning på igangværende ordrer. 
+ Udbygning af de gode relationer hos eksisterende leverandører herunder moderselskabet i Holland. 
+ Løbende oprettelse af indkøbsordrer og vedligeholdelse af vare-/leverandør stamdata. 
+ Styre lagerbeholdning og kapitalbinding på varegrupperne 
+ Andre logistik relaterede ad hoc-opgaver på tværs af afdelingerne og i forhold til moderselskabet 
+ 
+ Der lægges bl.a. vægt på, at kandidaten: 
+ 
+ Sikrer høj kvalitet og leveringssikkerhed inden for sit funktionsområde 
+ Lykkes med løbende at optimere på leveringssikkerhed, lagerbeholdninger og kapitalbindinger 
+ Skaber gode synergieffekter mellem afdelingerne i Fredericia og Rødovre 
+ 
+   
+ KANDIDATEN 
+Det er vigtigt, at du besidder godt købmandskab, men samtidig er god til at skabe tætte relationer til vores kolleger på tværs af afdelinger, samarbejdspartnere og leverandører. 
+ Den ideelle kandidat er/har: 
+ 
+ solid erfaring med lignende opgaver 
+ en relevant uddannelse inden for logistik og/eller supply chain 
+ supporterende, motiverende og praktiserer tværorganisatorisk samarbejde og kommunikation. 
+ godt købmandskab og ser det også ud fra de kommercielle sider af forretningen 
+ forhandlingsvant på dansk og engelsk, i både skrift og tale 
+ god til at kommunikere, samarbejde og formidle på tværs i organisationen. 
+ en empatisk person, men som også kan træffe beslutninger og stå ved dem, samt tør udfordre forretningen og det bestående. 
+ god til at bruge diverse IT- og ERP-systemer – og gerne Navision eller lign. 
+ en hands on tilgang, og er ikke bange for at give en hånd med, når det presser på 
+ lyst til arbejde i en mindre agil virksomhed, hvor man hjælper hinanden på tværs af funktioner og ansvar. 
+ 
+ GAGE OG BENEFITS 
+Du tilbydes et spændende og alsidigt job i en dynamisk virksomhed med mulighed for at arbejde i en international koncern med gode kolleger omkring dig.  
+Virksomheden tilbyder en gage pakke, der modsvarer dine kompetencer og din erfaring. 
+   
+ TILTRÆDELSE OG ARBEJDSTED. 
+Snarest muligt, men vi venter gerne på den rette person. Der vil løbende blive indkaldt til interviews. Arbejdsstedet er Fredericia.","https://www.google.dk/maps/place/Prins+Christians+Kvarter+26,7000,+Fredericia/",34627282,False,False,,False

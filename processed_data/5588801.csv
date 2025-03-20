@@ -1,0 +1,156 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,PhD scholarship in Startup Formation & Equity,PhD scholarship in Startup Formation & Equity,"DTU, The Technical University of Denmark, Centre for Technology Entrepreneurship invites applicants for a 3-year PhD position on 'Carbon as a Startup's Currency', starting on 1st Sept 2022. This PhD p",Danmarks Tekniske Universitet,Anker Engelunds Vej 101,2800,Kongens Lyngby,True,False,False,False,2022-05-03T00:00:00,2022-05-31T00:00:00,31. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5588801,Hovedstaden og Bornholm,Lyngby-Taarbæk,Danmark,2800,,,,Fuldtid,Akademisk arbejde,"Forskning og universitetsundervisning, naturvidenskab og teknik ","Ph.d., naturvidenskab og teknik",55.7859,12.5241,,,83955,66175,30060946,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5588801,https://job.jobnet.dk/CV/FindWork/Details/5588801,https://job.jobnet.dk/CV/FindWork/Details/5588801,True,5588801,55.7859,12.5241,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,159,Gladsaxe,4,"Hovedstaden, Sjælland og Bornholm",2800,Kongens Lyngby,,0,Primary,,,,None,83955,1003403265,30060946,None,5588801,5588801,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,159,Gladsaxe,4,"Hovedstaden, Sjælland og Bornholm",2800,Kongens Lyngby,,0,Primary,,,,None,83955,1003403265,30060946,None,,2022-05-03T00:00:00,2022-05-31T00:00:00,PhD scholarship in Startup Formation & Equity,"DTU, The Technical University of Denmark, Centre for Technology Entrepreneurship invites applicants for a 3-year PhD position on 'Carbon as a Startup's Currency', starting on 1st Sept 2022. This PhD project will be supervised by Associate Professor Thomas J. Howard, Head of Tech Ent in Practice Group.  
+ 
+ The Centre for Technology Entrepreneurship (DTU Entrepreneurship) puts evidence-based research in focus on a wide range of management, pedagogic, and policy issues related to entrepreneurship and innovation. Our research promotes technology-based entrepreneurship by generating, disseminating, and applying knowledge and competencies to education and business development within and beyond DTU.  
+ 
+ We collaborate closely with a range of industry partners, as well as private and public organizations. We strive to develop the entrepreneurial capabilities of students, civil society, executives, researchers, and policymakers to create positive social and economic change. At the Centre, the interplay between research, education and start-ups creates a thriving entrepreneurial ecosystem.  
+ 
+ The project focuses on the early stages of company formation and the shareholder agreements. The research will focus on new approaches to and methods to company formation as well as creating practically implementable tools and services for 'enlarging the pie' in shareholder agreements and equity splits. The research can draw upon research from various disciplines from social psychology, entrepreneurship, corporate governance, as well as legal contracts and IP agreements.  
+ 
+ The researcher will be challenged to strike the balance between quality, rigorous, empirical research and producing an output as a tool, method, process or service that is directly useful and implementable in the eco-system to improve new company formation.  
+ 
+ Responsibilities and tasks 
+ 
+ Your research tasks include theoretical and empirical work on company formation that can inform the practice of creating new companies and shareholders agreements. We expect you to disseminate your results in academically and practically relevant outlets, as well as translating your knowledge into teaching materials and exercises. In order to do so, we will help to provide you with access to network associations, incubators, early stage start-ups from the X-Tech programme and MSc in Technology Entrepreneurship, and Executive Board Education programme, in which you will be actively included.  
+ 
+ The project work requires good understanding of qualitative methods, good communication skills, and an analytically mind-set with reasonable digital skills. Experience in start-ups, shareholder agreements, company registrations would be a bonus.  
+ 
+ We are looking for a candidate with a background in entrepreneurship or management, or legal / auditing or possibly from a psychology background with some practical experience in startups.  
+ 
+ You will be required to: 
+ conduct a literature review about Startup formation and equity splits  
+ engage with start-up founders to collect empirical data  
+ analyse data  
+ write high-level academic publications on an internationally leading level  
+ translate research outcomes into practice/teaching material  
+ 
+ 
+ Qualifications 
+ 
+ Candidates should have a master's degree (120 ECTS points) in Sustainability, Management, Entrepreneurship, Innovation Management, Law, Finance or a similar degree with an academic level equivalent to the master's degree in engineering.  
+ 
+ Approval and Enrolment 
+ 
+ The scholarship for the PhD degree is subject to academic approval, and the candidate will be enrolled in one of the general degree programmes at DTU. For information about our enrolment requirements and the general planning of the PhD study programme, please see DTU's rules for the PhD education. https://www.dtu.dk/english/Education/PhD/Rules  
+ 
+ Assessment 
+ 
+ The assessment of the applicants will be made by Associate Professor Thomas J. Howard.  
+ 
+ We offer 
+ 
+ DTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and an academic freedom tempered by responsibility.  
+ 
+ Salary and appointment terms 
+ 
+ The appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed with the relevant union. The period of employment is 3 years.  
+ 
+ The position will be based at the DTU Entrepreneurship, Centre for Technology Entrepreneurship in Lyngby, just outside Copenhagen, Denmark.  
+ 
+ You can read more about career paths at DTU here. http://www.dtu.dk/english/career/meet-our-people/career-paths  
+ 
+ Further information 
+ 
+ Further information may be obtained from Thomas J. Howard, email: thow@dtu.dk.  
+ 
+ You can read more about the about DTU Entrepreneurship: www.entrepreneurship.dtu.dk.  
+ 
+ If you are applying from abroad, you may find useful information on working in Denmark and at DTU at DTU - Moving to Denmark. https://www.dtu.dk/english/about/job-and-career/moving-to-denmark  
+ 
+ Application procedure 
+ 
+ Your complete online application must be submitted no later than 15 June 2022 (local time). Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link ""Apply online"", fill in the online application form, and attach all your materials in English in one PDF file. The file must include:  A letter motivating the application, including your research activities and ideas for the research project (cover letter, max 2-pages)  
+ Curriculum vitae  
+ Grade transcripts and BSc/MSc diploma, certificates, and lists of subjects with your results as well as their official translation into English including official description of grading scale  
+ Two reference contacts who may be contacted by the assessment committee  
+ 
+ 
+ You may apply prior to ob­tai­ning your master's degree but cannot begin before having received it.  
+ 
+ Applications received after the deadline will not be considered.  
+ 
+ All interested candidates irrespective of age, gender, race, disability, religion or ethnic background are encouraged to apply.  
+ 
+  DTU Entrepreneurship is amongst the international leading entities in technology entrepreneurship and helps develop an entrepreneurial culture across DTU. As part of a dynamic and evolving ecosystem, we combine practice-oriented education and research in entrepreneurship with real start-up opportunities from all DTU departments. With rigorous research at its core, the Centre builds the entrepreneurial capabilities of students, industry leaders, academics and policymakers to address unsolved problems, and together create new knowledge, methodologies and initiatives. We enable ethically minded entrepreneurs to build solutions that benefit people, society and the world. The Centre experiments with new entrepreneurial methodologies and activities to push boundaries within research and education.  
+ 
+ Technology for people 
+ 
+ DTU develops technology for people. With our international elite research and study programmes, we are helping to create a better world and to solve the global challenges formulated in the UN's 17 Sustainable Development Goals. Hans Christian Ørsted founded DTU in 1829 with a clear vision to develop and create value using science and engineering to benefit society. That vision lives on today. DTU has 13,400 students and 5,800 employees. We work in an international atmosphere and have an inclusive, evolving, and informal working environment. DTU has campuses in all parts of Denmark and in Greenland, and we collaborate with the best universities around the world.",Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Kongens Lyngby,1,1,Fuldtid,None,None,1,,0,,0,0,0,,True,"{'Id': 7954708, 'Email': 'thow@dtu.dk', 'FaxNumber': None, 'PersonName': 'Thomas J. Howard', 'FirstName': 'Thomas J.', 'LastName': 'Howard', 'PositionTitle': None, 'PhoneNumbers': []}",2022-09-01T00:00:00,True,True,False,False,4,,,False,False,False,False,,,,,https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=6d3946fd-c8e6-4eaf-9aa6-fe5fae2c727d,False,2022-05-31T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5588801&WorkPlace=83955&Organisation=30060946,"Anker Engelunds Vej 101,2800, Kongens Lyngby",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5588801&Company.Name=Danmarks Tekniske Universitet&SubmissionDeadlineDate=2022-5-31&Title=PhD scholarship in Startup Formation & Equity&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,PhD scholarship in Startup Formation & Equity,True,,True,1,,5588801,,,False,False,,0,False,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,,,2800,False,False,False,Kongens Lyngby,Thomas J. Howard,,thow@dtu.dk,,,,,False,,2022-05-31T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Lyngby-Taarbæk kommune,False,Danmarks Tekniske Universitet,,None,,False,False,"DTU, The Technical University of Denmark, Centre for Technology Entrepreneurship invites applicants for a 3-year PhD position on 'Carbon as a Startup's Currency', starting on 1st Sept 2022. This PhD project will be supervised by Associate Professor Thomas J. Howard, Head of Tech Ent in Practice Group. 
+
+ The Centre for Technology Entrepreneurship (","""DTU, The Technical University of Denmark, Centre for Technology Entrepreneurship invites applicants for a 3-year PhD position on \u0027Carbon as a Startup\u0027s Currency\u0027, starting on 1st Sept 2022. This PhD project will be supervised by Associate Professor Thomas J. Howard, Head of Tech Ent in Practice Group. \n\n The Centre for Technology Entrepreneurship (""","""PhD scholarship in Startup Formation \u0026 Equity""","https://www.google.dk/maps/dir//Anker+Engelunds+Vej+101,2800,+Kongens+Lyngby/","DTU, The Technical University of Denmark, Centre for Technology Entrepreneurship invites applicants for a 3-year PhD position on 'Carbon as a Startup's Currency', starting on 1st Sept 2022. This PhD project will be supervised by Associate Professor Thomas J. Howard, Head of Tech Ent in Practice Group.  
+ 
+ The Centre for Technology Entrepreneurship (DTU Entrepreneurship) puts evidence-based research in focus on a wide range of management, pedagogic, and policy issues related to entrepreneurship and innovation. Our research promotes technology-based entrepreneurship by generating, disseminating, and applying knowledge and competencies to education and business development within and beyond DTU.  
+ 
+ We collaborate closely with a range of industry partners, as well as private and public organizations. We strive to develop the entrepreneurial capabilities of students, civil society, executives, researchers, and policymakers to create positive social and economic change. At the Centre, the interplay between research, education and start-ups creates a thriving entrepreneurial ecosystem.  
+ 
+ The project focuses on the early stages of company formation and the shareholder agreements. The research will focus on new approaches to and methods to company formation as well as creating practically implementable tools and services for 'enlarging the pie' in shareholder agreements and equity splits. The research can draw upon research from various disciplines from social psychology, entrepreneurship, corporate governance, as well as legal contracts and IP agreements.  
+ 
+ The researcher will be challenged to strike the balance between quality, rigorous, empirical research and producing an output as a tool, method, process or service that is directly useful and implementable in the eco-system to improve new company formation.  
+ 
+ Responsibilities and tasks 
+ 
+ Your research tasks include theoretical and empirical work on company formation that can inform the practice of creating new companies and shareholders agreements. We expect you to disseminate your results in academically and practically relevant outlets, as well as translating your knowledge into teaching materials and exercises. In order to do so, we will help to provide you with access to network associations, incubators, early stage start-ups from the X-Tech programme and MSc in Technology Entrepreneurship, and Executive Board Education programme, in which you will be actively included.  
+ 
+ The project work requires good understanding of qualitative methods, good communication skills, and an analytically mind-set with reasonable digital skills. Experience in start-ups, shareholder agreements, company registrations would be a bonus.  
+ 
+ We are looking for a candidate with a background in entrepreneurship or management, or legal / auditing or possibly from a psychology background with some practical experience in startups.  
+ 
+ You will be required to: 
+ conduct a literature review about Startup formation and equity splits  
+ engage with start-up founders to collect empirical data  
+ analyse data  
+ write high-level academic publications on an internationally leading level  
+ translate research outcomes into practice/teaching material  
+ 
+ 
+ Qualifications 
+ 
+ Candidates should have a master's degree (120 ECTS points) in Sustainability, Management, Entrepreneurship, Innovation Management, Law, Finance or a similar degree with an academic level equivalent to the master's degree in engineering.  
+ 
+ Approval and Enrolment 
+ 
+ The scholarship for the PhD degree is subject to academic approval, and the candidate will be enrolled in one of the general degree programmes at DTU. For information about our enrolment requirements and the general planning of the PhD study programme, please see DTU's rules for the PhD education.  https://www.dtu.dk/english/Education/PhD/Rules   
+ 
+ Assessment 
+ 
+ The assessment of the applicants will be made by Associate Professor Thomas J. Howard.  
+ 
+ We offer 
+ 
+ DTU is a leading technical university globally recognized for the excellence of its research, education, innovation and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and an academic freedom tempered by responsibility.  
+ 
+ Salary and appointment terms 
+ 
+ The appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed with the relevant union. The period of employment is 3 years.  
+ 
+ The position will be based at the DTU Entrepreneurship, Centre for Technology Entrepreneurship in Lyngby, just outside Copenhagen, Denmark.  
+ 
+ You can read more about career paths at DTU here.  http://www.dtu.dk/english/career/meet-our-people/career-paths   
+ 
+ Further information 
+ 
+ Further information may be obtained from Thomas J. Howard, email: thow@dtu.dk.  
+ 
+ You can read more about the about DTU Entrepreneurship:  www.entrepreneurship.dtu.dk .  
+ 
+ If you are applying from abroad, you may find useful information on working in Denmark and at DTU at DTU - Moving to Denmark.  https://www.dtu.dk/english/about/job-and-career/moving-to-denmark   
+ 
+ Application procedure 
+ 
+ Your complete online application must be submitted no later than 15 June 2022 (local time). Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link ""Apply online"", fill in the online application form, and attach all your materials in English in one PDF file. The file must include:  A letter motivating the application, including your research activities and ideas for the research project (cover letter, max 2-pages)  
+ Curriculum vitae  
+ Grade transcripts and BSc/MSc diploma, certificates, and lists of subjects with your results as well as their official translation into English including official description of grading scale  
+ Two reference contacts who may be contacted by the assessment committee  
+ 
+ 
+ You may apply prior to ob­tai­ning your master's degree but cannot begin before having received it.  
+ 
+ Applications received after the deadline will not be considered.  
+ 
+ All interested candidates irrespective of age, gender, race, disability, religion or ethnic background are encouraged to apply.  
+ 
+  DTU Entrepreneurship is amongst the international leading entities in technology entrepreneurship and helps develop an entrepreneurial culture across DTU. As part of a dynamic and evolving ecosystem, we combine practice-oriented education and research in entrepreneurship with real start-up opportunities from all DTU departments. With rigorous research at its core, the Centre builds the entrepreneurial capabilities of students, industry leaders, academics and policymakers to address unsolved problems, and together create new knowledge, methodologies and initiatives. We enable ethically minded entrepreneurs to build solutions that benefit people, society and the world. The Centre experiments with new entrepreneurial methodologies and activities to push boundaries within research and education.  
+ 
+ Technology for people 
+ 
+ DTU develops technology for people. With our international elite research and study programmes, we are helping to create a better world and to solve the global challenges formulated in the UN's 17 Sustainable Development Goals. Hans Christian Ørsted founded DTU in 1829 with a clear vision to develop and create value using science and engineering to benefit society. That vision lives on today. DTU has 13,400 students and 5,800 employees. We work in an international atmosphere and have an inclusive, evolving, and informal working environment. DTU has campuses in all parts of Denmark and in Greenland, and we collaborate with the best universities around the world.","https://www.google.dk/maps/place/Anker+Engelunds+Vej+101,2800,+Kongens+Lyngby/",30060946,False,False,,False

@@ -1,0 +1,224 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Systems Engineer (Infrastructure),Systems Engineer (Infrastructure),"Har du talent for infrastruktur, herunder VMware og automatisering? Vil du lære fra nogle af de bedste i hostingbranchen? Så er denne stilling noget for dig.
+
+Med over 250.000 kunder fordel",team.blue Denmark A/S,Højvangen 4  ,8660,Skanderborg,False,False,False,True,2024-12-19T00:00:00,2025-02-13T00:00:00,13. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/0ef5f1d7-560f-4caa-ac3d-239fc542003b,Midtjylland,Skanderborg,Danmark,8660,,Almindelige vilkår,Fastansættelse,Fuldtid,It og teleteknik,"Systemudvikling, programmering og design",IT-ingeniør,56.0239,9.8924,,,1012111106,,29412006,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/0ef5f1d7-560f-4caa-ac3d-239fc542003b,https://job.jobnet.dk/CV/FindWork/Details/0ef5f1d7-560f-4caa-ac3d-239fc542003b,https://job.jobnet.dk/CV/FindWork/Details/0ef5f1d7-560f-4caa-ac3d-239fc542003b,True,0ef5f1d7-560f-4caa-ac3d-239fc542003b,56.0239,9.8924,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",team.blue Denmark A/S,Højvangen 4,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,,0,Primary,,,https://dkcareers.team.blue/jobs/4827270-systems-engineer-infrastructure,None,,1012111106,29412006,None,0ef5f1d7-560f-4caa-ac3d-239fc542003b,team.blue Denmark A/S,Højvangen 4,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,,0,Primary,,,https://dkcareers.team.blue/jobs/4827270-systems-engineer-infrastructure,None,,1012111106,29412006,None,,2024-12-19T00:00:00+01:00,2025-02-13T10:15:04.234+01:00,Systems Engineer (Infrastructure),"Har du talent for infrastruktur, herunder VMware og automatisering? Vil du lære fra nogle af de bedste i hostingbranchen? Så er denne stilling noget for dig. 
+ Med over 250.000 kunder fordelt på brands som DanDomain, Curanet, og Simply.com, 17.500+ virtuelle servere og 40+ PB data lagret i 5 datacentre er team.blue ét af Danmarks førende hostingselskaber. 
+   
+ Om stillingen   
+ Du bliver en del af vores Infrastruktur-team, der består af 12 højtspecialiserede medarbejdere. 
+ I teamet arbejder vi med fundamentet for alt, hvad vi bygger i forretningen, dvs. networks, storage og VMware vSphere. 
+ I stillingen er du med til at drifte vores infrastruktur, hvor automatisering indgår som en kernekomponent og høj oppetid er en selvfølge. 
+   
+ Opgaver og projekter 
+ 
+ Konfiguration, drift og fejlsøgning af VMware-baserede Private Clouds for kunder såvel som interne Clouds  
+ 
+ 
+ Daglig drift af både konventionelle og distribuerede storage miljøer  
+ 
+ 
+ Arbejde med basalt netværk i større Spine-Leaf fabrics samt på firewalls  
+ 
+ 
+ Viderebygning af vores automatiseringsløsninger 
+ 
+ 
+ Interne- og kundeorienterede projekter 
+ 
+   
+ Hvis   du kan genkende dette, så er det dig, vi søger 
+ 
+ At nå en deadline, at overholde en aftale – det er for dig ikke et spørgsmål, men en garanti. Du stræber efter at overholde det ansvar, du tager.  
+ 
+ 
+ Du er skarp til rutiner, at sikre deadlines, og du bygger struktur for dig selv. Detaljer giver dig overblik, så dem har du styr på.  
+ 
+ 
+ Du er meget nysgerrig og forstår ikke altid, når andre ikke finder ny viden og læring spændende - for dig åbner det op for nye verdener og muligheder.  
+ 
+ 
+ Du vil kalde dig selv for specialist på de områder, du er mest nysgerrig på. Du ved ikke bare lidt om emnerne, du ved meget, og ofte mere end de fleste.  
+ 
+ 
+ Du elsker at tage noget godt, og gøre det fremragende. Du nyder processen i at tænke: ”Hvordan kan vi gøre det her bedre/smartere næste gang?”  
+ 
+ 
+ Du elsker at løse problemer. Faktisk er det jo reelt ikke problemer, men spændende muligheder – for dig. Når problemer opstår, går du fluks i gang med at løse dem.  
+ 
+ 
+ Du kan lide det sociale, og du trives i det. Der behøver ikke være en masse eller nye mennesker, men blot der er nogen, du trives med, er du tilfreds.  
+ 
+   
+ Din baggrund og profil     
+ Vi forestiller os, at du har minimum 2 års relevant erhvervserfaring. Du er passioneret omkring dit arbejde og ønsker at forbedre dig og vokse i rollen, f.eks. ved at tage relevante certificeringer.     
+   
+ Vi forventer, at du på det tekniske plan har erfaring med følgende:   
+ 
+ Daglig drift af en vSphere-baseret hypervisor-infrastruktur  
+ 
+ 
+ Basalt netværk (VLAN, ACL, Subnetting)  
+ 
+   
+ Hvis du har kendskab til noget af nedenstående, er det blot en bonus. Hvis ikke, så lærer du det. 
+ 
+ Debugging af VMware-infrastruktur  
+ 
+ 
+ Erfaring med IP-baseret storage  
+ 
+ 
+ Automatisering via scripting med Powershell eller programmering i GoLang   
+ 
+ Vi forventer også, at du:       
+ 
+ Behersker dansk og engelsk på et højt niveau i både skrift og tale       
+ 
+ 
+ Har forståelse for, at der i jobbet vil være nat- og weekendarbejde       
+ 
+ 
+ Er villig til at indgå i vores vagtordning på sigt 
+ 
+ 
+ Har kørekort til bil 
+ 
+   
+ Vi tilbyder     
+ 
+ Løbende uddannelse og certificeringskurser     
+ 
+ 
+ En fantastisk kantine med morgenmad, frokost og ualmindelig god kaffe   
+ 
+ 
+ Et væld af sociale arrangementer og personaleture - også på afdelingsniveau   
+ 
+ 
+ Rabatordninger og medarbejdertilbud som fx fitness, massage 
+ 
+ 
+ Pensionsordning og sundsforsikring 
+ 
+ 
+ Fleksibilitet og mulighed for hjemmearbejde 
+ 
+ 
+ Introforløb og buddyordning.      
+ 
+   
+ Interesseret? 
+ Send gerne din ansøgning snarest muligt. Vi evaluerer og interviewer løbende kandidater til stillingen.      
+ Har du spørgsmål til stillingen, er du velkommen til at kontakte Teamlead, Infrastructure, Mikkel Nilsson, på  mikkel.nilsson@team.blue      
+ Arbejdssted : team.blue Denmark A/S, Højvangen 4, 8660 Skanderborg.   Tiltrædelse : Snarest muligt.",Højvangen 4,58,Danmark,746,Skanderborg,2,Midtjylland,8660,Skanderborg,1,1,Fuldtid,None,None,1,,IT-ingeniør,0,"Dataintegrationsingeniør, Videningeniør, Ikt-salgsingeniør, Ikt-netværksingeniør, 3012, 3013, 3014, 3015, Cloudingeniør",0,0,False,"{'Email': 'christian.leth@team.blue', 'PersonName': 'Christian Leth', 'FirstName': 'Christian', 'LastName': 'Leth', 'PositionTitle': 'Onboarding and Recruitment Coordinator', 'PhoneNumbers': [{'Number': '70400000', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://dkcareers.team.blue/jobs/4827270-systems-engineer-infrastructure,False,2025-02-13T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=0ef5f1d7-560f-4caa-ac3d-239fc542003b&Organisation=29412006,"Højvangen 4,8660, Skanderborg",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=0ef5f1d7-560f-4caa-ac3d-239fc542003b&Company.Name=team.blue Denmark A/S&SubmissionDeadlineDate=2025-2-13&Title=Systems Engineer (Infrastructure)&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Systems Engineer (Infrastructure),True,,True,1,,0ef5f1d7-560f-4caa-ac3d-239fc542003b,,,False,False,,0,False,team.blue Denmark A/S,Højvangen 4,,,8660,False,False,False,Skanderborg,Christian Leth,70400000,christian.leth@team.blue,,,,,False,,2025-02-13T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Skanderborg kommune,False,team.blue Denmark A/S,,None,,False,False,"Har du talent for infrastruktur, herunder VMware og automatisering? Vil du lære fra nogle af de bedste i hostingbranchen? Så er denne stilling noget for dig.
+
+Med over 250.000 kunder fordelt på brands som DanDomain, Curanet, og Simply.com, 17.500+ virtuelle servere og 40+ PB data lagret i 5 datacentre er team.blue ét af Danmarks førende hostingsels","""Har du talent for infrastruktur, herunder VMware og automatisering? Vil du lære fra nogle af de bedste i hostingbranchen? Så er denne stilling noget for dig.\n\nMed over 250.000 kunder fordelt på brands som DanDomain, Curanet, og Simply.com, 17.500+ virtuelle servere og 40+ PB data lagret i 5 datacentre er team.blue ét af Danmarks førende hostingsels""","""Systems Engineer (Infrastructure)""","https://www.google.dk/maps/dir//Højvangen+4,8660,+Skanderborg/","Har du talent for infrastruktur, herunder VMware og automatisering? Vil du lære fra nogle af de bedste i hostingbranchen? Så er denne stilling noget for dig. 
+ Med over 250.000 kunder fordelt på brands som DanDomain, Curanet, og Simply.com, 17.500+ virtuelle servere og 40+ PB data lagret i 5 datacentre er team.blue ét af Danmarks førende hostingselskaber. 
+   
+ Om stillingen   
+ Du bliver en del af vores Infrastruktur-team, der består af 12 højtspecialiserede medarbejdere. 
+ I teamet arbejder vi med fundamentet for alt, hvad vi bygger i forretningen, dvs. networks, storage og VMware vSphere. 
+ I stillingen er du med til at drifte vores infrastruktur, hvor automatisering indgår som en kernekomponent og høj oppetid er en selvfølge. 
+   
+ Opgaver og projekter 
+ 
+ Konfiguration, drift og fejlsøgning af VMware-baserede Private Clouds for kunder såvel som interne Clouds  
+ 
+ 
+ Daglig drift af både konventionelle og distribuerede storage miljøer  
+ 
+ 
+ Arbejde med basalt netværk i større Spine-Leaf fabrics samt på firewalls  
+ 
+ 
+ Viderebygning af vores automatiseringsløsninger 
+ 
+ 
+ Interne- og kundeorienterede projekter 
+ 
+   
+ Hvis   du kan genkende dette, så er det dig, vi søger 
+ 
+ At nå en deadline, at overholde en aftale – det er for dig ikke et spørgsmål, men en garanti. Du stræber efter at overholde det ansvar, du tager.  
+ 
+ 
+ Du er skarp til rutiner, at sikre deadlines, og du bygger struktur for dig selv. Detaljer giver dig overblik, så dem har du styr på.  
+ 
+ 
+ Du er meget nysgerrig og forstår ikke altid, når andre ikke finder ny viden og læring spændende - for dig åbner det op for nye verdener og muligheder.  
+ 
+ 
+ Du vil kalde dig selv for specialist på de områder, du er mest nysgerrig på. Du ved ikke bare lidt om emnerne, du ved meget, og ofte mere end de fleste.  
+ 
+ 
+ Du elsker at tage noget godt, og gøre det fremragende. Du nyder processen i at tænke: ”Hvordan kan vi gøre det her bedre/smartere næste gang?”  
+ 
+ 
+ Du elsker at løse problemer. Faktisk er det jo reelt ikke problemer, men spændende muligheder – for dig. Når problemer opstår, går du fluks i gang med at løse dem.  
+ 
+ 
+ Du kan lide det sociale, og du trives i det. Der behøver ikke være en masse eller nye mennesker, men blot der er nogen, du trives med, er du tilfreds.  
+ 
+   
+ Din baggrund og profil     
+ Vi forestiller os, at du har minimum 2 års relevant erhvervserfaring. Du er passioneret omkring dit arbejde og ønsker at forbedre dig og vokse i rollen, f.eks. ved at tage relevante certificeringer.     
+   
+ Vi forventer, at du på det tekniske plan har erfaring med følgende:   
+ 
+ Daglig drift af en vSphere-baseret hypervisor-infrastruktur  
+ 
+ 
+ Basalt netværk (VLAN, ACL, Subnetting)  
+ 
+   
+ Hvis du har kendskab til noget af nedenstående, er det blot en bonus. Hvis ikke, så lærer du det. 
+ 
+ Debugging af VMware-infrastruktur  
+ 
+ 
+ Erfaring med IP-baseret storage  
+ 
+ 
+ Automatisering via scripting med Powershell eller programmering i GoLang   
+ 
+ Vi forventer også, at du:       
+ 
+ Behersker dansk og engelsk på et højt niveau i både skrift og tale       
+ 
+ 
+ Har forståelse for, at der i jobbet vil være nat- og weekendarbejde       
+ 
+ 
+ Er villig til at indgå i vores vagtordning på sigt 
+ 
+ 
+ Har kørekort til bil 
+ 
+   
+ Vi tilbyder     
+ 
+ Løbende uddannelse og certificeringskurser     
+ 
+ 
+ En fantastisk kantine med morgenmad, frokost og ualmindelig god kaffe   
+ 
+ 
+ Et væld af sociale arrangementer og personaleture - også på afdelingsniveau   
+ 
+ 
+ Rabatordninger og medarbejdertilbud som fx fitness, massage 
+ 
+ 
+ Pensionsordning og sundsforsikring 
+ 
+ 
+ Fleksibilitet og mulighed for hjemmearbejde 
+ 
+ 
+ Introforløb og buddyordning.      
+ 
+   
+ Interesseret? 
+ Send gerne din ansøgning snarest muligt. Vi evaluerer og interviewer løbende kandidater til stillingen.      
+ Har du spørgsmål til stillingen, er du velkommen til at kontakte Teamlead, Infrastructure, Mikkel Nilsson, på  mikkel.nilsson@team.blue      
+ Arbejdssted : team.blue Denmark A/S, Højvangen 4, 8660 Skanderborg.   Tiltrædelse : Snarest muligt.","https://www.google.dk/maps/place/Højvangen+4,8660,+Skanderborg/",29412006,False,False,,False

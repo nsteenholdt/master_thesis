@@ -1,0 +1,172 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Lager Arbejde//FLEXJOB STILLING// åbenrå,Lager Arbejde//FLEXJOB STILLING// åbenrå,"Stillingen kan kun søges af personer der er tildelt flexjob.
+Til lager i åbenrå:
+ 
+ 
+Vi søger en ny kollega.
+ 
+St",CAPOLLA A/S,,6200,Aabenraa,True,False,False,False,2022-05-08T00:00:00,2022-05-25T00:00:00,25. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5218504,Syddanmark,Aabenraa,Danmark,6200,,,,Deltid,"Transport, post, lager- og maskinførerarbejde",Lagerarbejde mv.,Lager- og logistikmedarbejder,55.029,9.4998,(12 - 20 timer ugentligt),Dag,97683,89590,30724828,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5218504,https://job.jobnet.dk/CV/FindWork/Details/5218504,https://job.jobnet.dk/CV/FindWork/Details/5218504,True,5218504,55.029,9.4998,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",CAPOLLA A/S,Østergade 60,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1100,København K,,0,Primary,,,,None,,1013477643,30724828,vi rekrutterer for virksomhed i lokal området.,5218504,5218504,CAPOLLA A/S,Østergade 60,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",1100,København K,,0,Primary,,,,None,,1013477643,30724828,vi rekrutterer for virksomhed i lokal området.,,2022-05-08T00:00:00,2022-05-25T00:00:00,Lager Arbejde//FLEXJOB STILLING// åbenrå,"Stillingen kan kun søges af personer der er tildelt  flexjob. 
+ Til lager i åbenrå: 
+   
+   
+ Vi søger en ny kollega. 
+   
+ Stillingsbeskrivelse: 
+ 
+ vil du arbejde sammen med andre flexjobbere, så læs videre: 
+   
+   
+   
+ Jobbet beskrives bedst ved at sige du skal være en lager blæksprutte!!. 
+   
+ På lageret er der ca 15 kollegaer, som lagerchefen holder i gang og hver dag giver nye opgaver der skal løses, lige fra truckkørsel, til ordre ekspedering, ompakning og alt andet forefaldende lager arbejde, et hvirvar af ting , der hele tiden skal være under fuld kontrol. 
+ På opvarmet lager: 
+   
+ Du skal løse alle disse daglige opgaver som er sammen med kollegaerne i flexjob teams: 
+   
+ vare/ palle afgang og modtagelse 
+ vareoptælling /kontrol opgave planlægning/manko kontrol 
+ kontakt til vognmænd 
+   
+   
+ truckkørsel,elhund kørsel, af/på - læsning af egne og vognmands lastbiler. 
+ indsætning pallereoler/ langtidslager. 
+ cmr fragtbreve udfyldelse 
+ kontrol af europaller kvalitet 
+ hjælpe med at holde styr på minimum 1000 lagerpaller konstant 
+   
+ og lidt ompakning af vare 
+ tilbagemelding til lagerchefen.  
+   
+ synes du det lyder spændende, læs videre!! 
+   
+ Om dig : 
+   
+   
+ du er flexjobber og vil og skal (kan )  kun  arbejde på nedsat tid. 
+ Du kan tiltræde jobbet hurtigst, og med minimum på 12 timer pr uge, men gerne 20 timer om muligt- og dermed 4 timer pr dag . 
+   
+   
+ Og du er M/K er underordnet- bare du har et godt humør og en positivt tilgang til hverdagen. 
+   
+ Du har kørekort til minimum personbil idet der er kørsel imellem flere store lagre i området i en af vores biler, og dette vil blive en del af jobbet, kørsel vil max andrage 1timer pr uge. 
+ Du er ikke et rodehoved, men tværtimod et ordensmenneske, som elsker at holde orden og rydde op. 
+   
+   
+ Du er helt ok på at flere af kollegaerne er flexjobbere, herunder kollegaer med evt både psykisk og eller fysiske skavanker, 
+   
+   
+   
+ Du går og brænder efter at få et job, hvor du igen får nogle rare kolleger, men er grundet at du er flexjobber ikke i stand til at klare fuld tid mere, grundet de skader du har. 
+ Du ved at her er en virksomhed som har flere som dig og derfor ved virksomheden hvorfor en flexjobber er flexjobber, og at du ikke kan fuld tid mere, sådan er det bare. 
+   
+ Du behøver ikke at have lagererfaring, men klart en fordel til jobbet.  
+   
+ vi ska nok lære dig det hele!! 
+   
+ Du bor gerne i lokalområdet, men ikke et krav. 
+   
+ Lyder det stadigvæk spændende =? 
+ Så er dette jobbet for dig, et job med ca 15 kollegaer, absolut ordnede forhold, fastansættelse i en virksomhed med mere end 27 år på markedet, hvor vi alle sætter en ære i at udføre vores arbejde på bedste vis, og dermed i hverdagen sørge for at vores kunder gerne vil arbejde med os igen og igen. 
+   
+   
+ ER du i tvivl om jobbet, og vil gerne høre mere til samme, inden du søger det, så skriv kort til vores email, med dit navn, og telefon nummer , så ringer vi dig op. 
+ Jobbet skal søges skriftlig via email, og den heldige nye kollega får direkte besked. 
+   
+ Vi har travlt, og ansætter hurtigst muligt, og ansættelse sker i henhold til industriens overenskomst. 
+   
+ Vi glæder os til at modtage din ansøgning. 
+   
+   
+   
+  capolla job og unopeople rekruttering  hjælper os med at finde vores nye kollega. 
+ Udvalgte får direkte besked.",,58,Danmark,580,Aabenraa,3,Syddanmark,6200,Aabenraa,1,16,Deltid,None,None,1,,0,,0,0,0,,False,"{'Id': 7971529, 'Email': 'capollaholding@gmail.com', 'FaxNumber': None, 'PersonName': 'v jensen capolla rekruttering', 'FirstName': 'v', 'LastName': 'jensen capolla rekruttering', 'PositionTitle': None, 'PhoneNumbers': []}",,False,False,False,False,16,20,12,False,False,False,True,lager 2 - lager  åbenrå,,capollaholding@gmail.com,,,False,2022-05-25T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5218504&Organisation=30724828,"Østergade 60,1100, København K",False,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5218504&Company.Name=CAPOLLA A/S&SubmissionDeadlineDate=2022-5-25&Title=Lager Arbejde//FLEXJOB STILLING// åbenrå&WeeklyWorkTime=2,00000000-0000-0000-0000-000000000000,False,0,,,Lager Arbejde//FLEXJOB STILLING// åbenrå,True,,True,2,,5218504,,,False,False,,0,False,CAPOLLA A/S,Østergade 60,,,1100,False,False,False,København K,v jensen capolla rekruttering,,capollaholding@gmail.com,,,,,False,,2022-05-25T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,(12 - 20 timer ugentligt),Dag,Arbejdspladsen ligger i Aabenraa kommune,False,CAPOLLA A/S,,vi rekrutterer for virksomhed i lokal området.,,False,False,"Stillingen kan kun søges af personer der er tildelt flexjob.
+Til lager i åbenrå:
+
+
+Vi søger en ny kollega.
+
+Stillingsbeskrivelse:
+
+vil du arbejde sammen med andre flexjobbere, så læs videre:
+
+
+
+Jobbet beskrives bedst ved at sige du skal være en lager blæksprutte!!.
+
+På lageret er der ca 15 kollegaer, som lagerchefen holder i gang og hver dag giver ","""Stillingen kan kun søges af personer der er tildelt flexjob.\nTil lager i åbenrå:\n\n\nVi søger en ny kollega.\n\nStillingsbeskrivelse:\n\nvil du arbejde sammen med andre flexjobbere, så læs videre:\n\n\n\nJobbet beskrives bedst ved at sige du skal være en lager blæksprutte!!.\n\nPå lageret er der ca 15 kollegaer, som lagerchefen holder i gang og hver dag giver ""","""Lager Arbejde//FLEXJOB STILLING// åbenrå""","https://www.google.dk/maps/dir//Østergade+60,1100,+København+K/","Stillingen kan kun søges af personer der er tildelt  flexjob. 
+ Til lager i åbenrå: 
+   
+   
+ Vi søger en ny kollega. 
+   
+ Stillingsbeskrivelse: 
+ 
+ vil du arbejde sammen med andre flexjobbere, så læs videre: 
+   
+   
+   
+ Jobbet beskrives bedst ved at sige du skal være en lager blæksprutte!!. 
+   
+ På lageret er der ca 15 kollegaer, som lagerchefen holder i gang og hver dag giver nye opgaver der skal løses, lige fra truckkørsel, til ordre ekspedering, ompakning og alt andet forefaldende lager arbejde, et hvirvar af ting , der hele tiden skal være under fuld kontrol. 
+ På opvarmet lager: 
+   
+ Du skal løse alle disse daglige opgaver som er sammen med kollegaerne i flexjob teams: 
+   
+ vare/ palle afgang og modtagelse 
+ vareoptælling /kontrol opgave planlægning/manko kontrol 
+ kontakt til vognmænd 
+   
+   
+ truckkørsel,elhund kørsel, af/på - læsning af egne og vognmands lastbiler. 
+ indsætning pallereoler/ langtidslager. 
+ cmr fragtbreve udfyldelse 
+ kontrol af europaller kvalitet 
+ hjælpe med at holde styr på minimum 1000 lagerpaller konstant 
+   
+ og lidt ompakning af vare 
+ tilbagemelding til lagerchefen.  
+   
+ synes du det lyder spændende, læs videre!! 
+   
+ Om dig : 
+   
+   
+ du er flexjobber og vil og skal (kan )  kun  arbejde på nedsat tid. 
+ Du kan tiltræde jobbet hurtigst, og med minimum på 12 timer pr uge, men gerne 20 timer om muligt- og dermed 4 timer pr dag . 
+   
+   
+ Og du er M/K er underordnet- bare du har et godt humør og en positivt tilgang til hverdagen. 
+   
+ Du har kørekort til minimum personbil idet der er kørsel imellem flere store lagre i området i en af vores biler, og dette vil blive en del af jobbet, kørsel vil max andrage 1timer pr uge. 
+ Du er ikke et rodehoved, men tværtimod et ordensmenneske, som elsker at holde orden og rydde op. 
+   
+   
+ Du er helt ok på at flere af kollegaerne er flexjobbere, herunder kollegaer med evt både psykisk og eller fysiske skavanker, 
+   
+   
+   
+ Du går og brænder efter at få et job, hvor du igen får nogle rare kolleger, men er grundet at du er flexjobber ikke i stand til at klare fuld tid mere, grundet de skader du har. 
+ Du ved at her er en virksomhed som har flere som dig og derfor ved virksomheden hvorfor en flexjobber er flexjobber, og at du ikke kan fuld tid mere, sådan er det bare. 
+   
+ Du behøver ikke at have lagererfaring, men klart en fordel til jobbet.  
+   
+ vi ska nok lære dig det hele!! 
+   
+ Du bor gerne i lokalområdet, men ikke et krav. 
+   
+ Lyder det stadigvæk spændende =? 
+ Så er dette jobbet for dig, et job med ca 15 kollegaer, absolut ordnede forhold, fastansættelse i en virksomhed med mere end 27 år på markedet, hvor vi alle sætter en ære i at udføre vores arbejde på bedste vis, og dermed i hverdagen sørge for at vores kunder gerne vil arbejde med os igen og igen. 
+   
+   
+ ER du i tvivl om jobbet, og vil gerne høre mere til samme, inden du søger det, så skriv kort til vores email, med dit navn, og telefon nummer , så ringer vi dig op. 
+ Jobbet skal søges skriftlig via email, og den heldige nye kollega får direkte besked. 
+   
+ Vi har travlt, og ansætter hurtigst muligt, og ansættelse sker i henhold til industriens overenskomst. 
+   
+ Vi glæder os til at modtage din ansøgning. 
+   
+   
+   
+  capolla job og unopeople rekruttering  hjælper os med at finde vores nye kollega. 
+ Udvalgte får direkte besked.","https://www.google.dk/maps/place/Østergade+60,1100,+København+K/",30724828,False,False,,False

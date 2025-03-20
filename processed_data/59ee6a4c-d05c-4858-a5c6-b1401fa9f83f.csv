@@ -1,0 +1,138 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Vil du stå i spidsen for det nye Ældretilsyn Øst?,Vil du stå i spidsen for det nye Ældretilsyn Øst?,"Drømmer du om at bygge noget helt nyt op, der gør en forskel for både ældre og deres pårørende? Vil du være med til at sætte retning for en ny enhed hjemhørende i Gentofte Kommune, og kan du skabe føl",Gentofte Kommune,Bernstorffsvej 161  ,2920,Charlottenlund,False,False,False,True,2025-01-27T10:20:19,2025-02-13T23:59:00,13. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/59ee6a4c-d05c-4858-a5c6-b1401fa9f83f,Hovedstaden og Bornholm,Gentofte,Danmark,2920,,Almindelige vilkår,Fastansættelse,Fuldtid,Ledelse,Øvrig ledelse,Områdechef,55.7575,12.6282,,,1003262352,,19438414,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/59ee6a4c-d05c-4858-a5c6-b1401fa9f83f,https://job.jobnet.dk/CV/FindWork/Details/59ee6a4c-d05c-4858-a5c6-b1401fa9f83f,https://job.jobnet.dk/CV/FindWork/Details/59ee6a4c-d05c-4858-a5c6-b1401fa9f83f,True,59ee6a4c-d05c-4858-a5c6-b1401fa9f83f,55.7575,12.6282,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Gentofte Kommune,Bernstorffsvej 161,58,Danmark,157,Gentofte,4,"Hovedstaden, Sjælland og Bornholm",2920,Charlottenlund,,0,Primary,,,https://gentofte.hr-on.com/show-job/236519?linkref=264996&locale=da_DK,None,,1003262352,19438414,None,59ee6a4c-d05c-4858-a5c6-b1401fa9f83f,Gentofte Kommune,Bernstorffsvej 161,58,Danmark,157,Gentofte,4,"Hovedstaden, Sjælland og Bornholm",2920,Charlottenlund,,0,Primary,,,https://gentofte.hr-on.com/show-job/236519?linkref=264996&locale=da_DK,None,,1003262352,19438414,None,,2025-01-27T10:20:19+01:00,2025-02-13T23:59:00+01:00,Vil du stå i spidsen for det nye Ældretilsyn Øst?,"Drømmer du om at bygge noget helt nyt op, der gør en forskel for både ældre og deres pårørende? Vil du være med til at sætte retning for en ny enhed hjemhørende i Gentofte Kommune, og kan du skabe følgeskab og engagement omkring opgaverne? Så håber vi at høre fra dig!
+
+ 
+
+   
+ Et spændende job, som du selv er med til at forme 
+ Fra 1. juli 2025 skal Gentofte Kommune sammen med Hjørring og Silkeborg kommuner varetage funktionen som ældretilsyn som en del af den samlede ældrereform. Aftalegrundlaget har fokus på et nyt og forenklet ældretilsyn, der skal tage afsæt i læring, dialog og kvalitet i helhedsplejen. De bærende værdier i reformen er den ældres selvbestemmelse, tillid til medarbejderne og den borgernære ledelse samt et tæt samspil med pårørende, lokale fællesskaber og civilsamfund.  
+ Gentofte Kommune skal den 1. juli 2025 have etableret Ældretilsyn Øst, der skal dække Region Sjælland, Region Hovedstaden og Hjørring Kommune. Du vil som ældretilsynschef få en central rolle i arbejdet med etablering og udvikling af tilsynet, og du vil dermed få mulighed for at præge en spændende ny enhed.   
+ Som ældretilsynschef vil din hverdag handle om både ledelse, drift og udvikling. Du får ansvaret for at opbygge og lede en ny enhed med ca. 15 medarbejdere, der skal sikre kvaliteten i helhedsplejen for ældre borgere. Derudover bliver du en del af et chefteam med de øvrige tilsynschefer i Hjørring og Silkeborg Kommune. Du vil også indgå i den samlede implementering sammen med ministerier og styrelser. Vi vil i Gentofte kommune også sikre en tilknytning i organisationen via samarbejde og kollegaskab med såvel sundheds- og ældreområdet og kommunens øvrige afdelinger. Du vil referere til kommunaldirektøren. 
+ I din rolle som chef vil du have stor indflydelse på at forme din egen stilling og på at skabe en kultur, der bygger på tillid, samarbejde og et tæt samspil med de mennesker, der er en del af borgernes hverdag – fra medarbejdere til pårørende og lokale fællesskaber. Kort sagt: Du får et job med både ansvar, muligheder og ikke mindst en unik chance for at være med til at forme fremtidens ældrepleje. 
+   
+ Et bredt spænd i chefopgaven   
+ Som ny ældretilsynschef får du det overordnede ledelsesansvar for tilsynsenheden. Ledelsesopgaven omfatter både strategisk ledelse, personaleledelse og administrativ ledelse (med budgetansvar). De konkrete opgaver vil bl.a. bestå af:  
+ 
+ Etablering og udvikling af Ældretilsyn Øst i et tæt samarbejde med relevante aktører på tværs af kommunen  
+ Personaleledelse og faglig ledelse af ca. 15 medarbejdere, der fører tilsyn i Region Sjælland, Region Hovedstaden og Hjørring Kommune. Medarbejderne vil have forskellige faglige baggrunde, bl.a. sygeplejerske, akademiker og administrativ medarbejder  
+ Ledelse af den daglige drift af ældretilsynet, herunder tværgående samarbejde med de to andre tilsynskommuner   
+ Deltagelse i relevante fora i og udenfor Gentofte Kommune  
+ Samarbejde med relevante aktører og interessenter i og udenfor kommunen  
+ 
+   
+ Inden ældretilsynet sættes i drift den 1. juli 2025, bliver der udmeldt forskelligt vejledningsmateriale, som ældretilsynskommunerne skal benytte. Som tilsynschef bliver det dit ansvar at sikre udvikling og implementering af de værktøjer og materialer, der udvikles til opgaveløsningen.  
+   
+ Vores forestillinger om dig  
+ Vi søger en chef, der har mod på at gå ind i opgaverne med nysgerrighed, tillid og åbenhed. I forhold til formelle kvalifikationskrav forventer vi, at du har:  
+ 
+ En relevant uddannelse og sundhedsfaglig viden  
+ Solid erfaring med både personale- og projektledelse – gerne fra en eller flere komplekse driftsorganisationer  
+ Viden om og erfaring fra ældre- eller plejeområdet og gerne erfaring med tilsynsopgaven eller lignende opgaver 
+ Erfaring med etablering og udvikling af nye enheder/afdelinger, herunder team- og kulturudvikling   
+ Erfaring fra en politisk styret organisation og gerne erfaring med at driftsliggøre ny lovgivning 
+ 
+   
+ I forhold til personlige kompetencer og din tilgang til opgaven forventer vi, at du: 
+ 
+ Er rolig, systematisk og bevarer – eller skaber - overblikket  
+ Er nysgerrig og har udsyn samt mod på tværgående samarbejde både i organisationen og eksternt  
+ Har ambitioner, visioner og evner til at samarbejde med dine chefkollegaer om at sætte strategisk retning og fremdrift i opgaverne på tværs af tilsynsområdet 
+ Er strategisk tænkende, samarbejdende og handlekraftig   
+ Formår at skabe følgeskab, tillid og engagement hos dine medarbejdere 
+ 
+   
+ Lidt om os 
+ Gentofte Kommune er en ressourcestærk og ambitiøs organisation, hvor der er højt til loftet, og hvor du som chef får mulighed for at præge og udvikle både stillingen og dit område. Kommunaldirektør Torben Frølich udtaler bl.a.:   
+ ""Vi glæder os meget til at få den nye ældretilsynschef med på holdet af dygtige og engagerede medarbejdere. I Gentofte Kommune bliver man en del af et stærkt fællesskab, hvor vi tænker fremad og sætter kvalitet og dialog i centrum. Vi er sammen om ledelse og opgaverne, og vores kultur er præget af dialog og samskabelse. Her er der plads til at gøre en forskel og tage ansvar – både som leder og som menneske""  
+ I Gentofte Kommune har vi besluttet, at alle ansatte har indflydelse på arbejdsrammerne. Læs mere på  Gentofte Kommunes jobløfte  og lær Gentoftes jobløfte at kende. 
+   
+ Lidt om det praktiske 
+ 
+ Stillingen er på fuldtid og en fast ansættelse. 
+ Ansøgningsfristen er den 13. februar 2025. 
+ Tiltrædelsesdato er den 1. april 2025. 
+ Ansættelsesudvalget mødes den 14. februar og udvælger kandidater til 1. samtale. Hvis du bliver udvalgt, så hører du fra os umiddelbart herefter.  
+ Vi holder første samtale den 18. februar og anden samtale den 26. februar. 
+ Mellem samtalerne skal udvalgte kandidater gennemføre en personanalyse (PTP), med tilbagemeldingssamtaler enten den 21. eller 24. februar på rådhuset.  
+ Arbejdspladsen er Gentofte Kommune – konkret adresse følger, når organiseringen er på plads. 
+ 
+ 
+ Arbejdsområdet omfatter alle plejeenheder i Region Sjælland, Region Hovedstaden og Hjørring Kommune, og stillingen vil derfor indbefatte rejseaktivitet i et vist omfang  
+ 
+   
+ Læs evt. mere om reform og tilsyn her:  Ældrereformen - Ældreministeriet 
+ Hvis du har spørgsmål til stillingen, er du velkommen til at kontakte kommunaldirektør Torben Frølich på telefon 21296856 eller projektleder Flemming Bøchmann Andersen på telefon 20122881. 
+ Løn- og ansættelsesvilkår fastsættes i henhold til gældende overenskomst og efter forhandling med den relevante faglige organisation. 
+ Ansøgning skal fremsendes elektronisk via linket.",Bernstorffsvej 161,58,Danmark,157,Gentofte,4,"Hovedstaden, Sjælland og Bornholm",2920,Charlottenlund,1,1,Fuldtid,None,None,1,,Områdechef,0,,0,0,False,"{'Email': 'tfr@gentofte.dk', 'PersonName': 'Torben Frølich', 'FirstName': 'Torben', 'LastName': 'Frølich', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '21296856', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://gentofte.hr-on.com/show-job/236519?linkref=264996&locale=da_DK,False,2025-02-13T23:59:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=59ee6a4c-d05c-4858-a5c6-b1401fa9f83f&Organisation=19438414,"Bernstorffsvej 161,2920, Charlottenlund",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=59ee6a4c-d05c-4858-a5c6-b1401fa9f83f&Company.Name=Gentofte Kommune&SubmissionDeadlineDate=2025-2-13&Title=Vil du stå i spidsen for det nye Ældretilsyn Øst?&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Vil du stå i spidsen for det nye Ældretilsyn Øst?,True,,True,1,,59ee6a4c-d05c-4858-a5c6-b1401fa9f83f,,,False,False,,0,False,Gentofte Kommune,Bernstorffsvej 161,,,2920,False,False,False,Charlottenlund,Torben Frølich,21296856,tfr@gentofte.dk,,,,,False,,2025-02-13T23:59:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Gentofte kommune,False,Gentofte Kommune,,None,,False,False,"Drømmer du om at bygge noget helt nyt op, der gør en forskel for både ældre og deres pårørende? Vil du være med til at sætte retning for en ny enhed hjemhørende i Gentofte Kommune, og kan du skabe følgeskab og engagement omkring opgaverne? Så håber vi at høre fra dig!
+
+ 
+
+ 
+
+Et spændende job, som du selv er med til at forme
+
+Fra 1. juli 2025 skal G","""Drømmer du om at bygge noget helt nyt op, der gør en forskel for både ældre og deres pårørende? Vil du være med til at sætte retning for en ny enhed hjemhørende i Gentofte Kommune, og kan du skabe følgeskab og engagement omkring opgaverne? Så håber vi at høre fra dig!\n\n \n\n \n\nEt spændende job, som du selv er med til at forme\n\nFra 1. juli 2025 skal G""","""Vil du stå i spidsen for det nye Ældretilsyn Øst?""","https://www.google.dk/maps/dir//Bernstorffsvej+161,2920,+Charlottenlund/","Drømmer du om at bygge noget helt nyt op, der gør en forskel for både ældre og deres pårørende? Vil du være med til at sætte retning for en ny enhed hjemhørende i Gentofte Kommune, og kan du skabe følgeskab og engagement omkring opgaverne? Så håber vi at høre fra dig!
+
+ 
+
+   
+ Et spændende job, som du selv er med til at forme 
+ Fra 1. juli 2025 skal Gentofte Kommune sammen med Hjørring og Silkeborg kommuner varetage funktionen som ældretilsyn som en del af den samlede ældrereform. Aftalegrundlaget har fokus på et nyt og forenklet ældretilsyn, der skal tage afsæt i læring, dialog og kvalitet i helhedsplejen. De bærende værdier i reformen er den ældres selvbestemmelse, tillid til medarbejderne og den borgernære ledelse samt et tæt samspil med pårørende, lokale fællesskaber og civilsamfund.  
+ Gentofte Kommune skal den 1. juli 2025 have etableret Ældretilsyn Øst, der skal dække Region Sjælland, Region Hovedstaden og Hjørring Kommune. Du vil som ældretilsynschef få en central rolle i arbejdet med etablering og udvikling af tilsynet, og du vil dermed få mulighed for at præge en spændende ny enhed.   
+ Som ældretilsynschef vil din hverdag handle om både ledelse, drift og udvikling. Du får ansvaret for at opbygge og lede en ny enhed med ca. 15 medarbejdere, der skal sikre kvaliteten i helhedsplejen for ældre borgere. Derudover bliver du en del af et chefteam med de øvrige tilsynschefer i Hjørring og Silkeborg Kommune. Du vil også indgå i den samlede implementering sammen med ministerier og styrelser. Vi vil i Gentofte kommune også sikre en tilknytning i organisationen via samarbejde og kollegaskab med såvel sundheds- og ældreområdet og kommunens øvrige afdelinger. Du vil referere til kommunaldirektøren. 
+ I din rolle som chef vil du have stor indflydelse på at forme din egen stilling og på at skabe en kultur, der bygger på tillid, samarbejde og et tæt samspil med de mennesker, der er en del af borgernes hverdag – fra medarbejdere til pårørende og lokale fællesskaber. Kort sagt: Du får et job med både ansvar, muligheder og ikke mindst en unik chance for at være med til at forme fremtidens ældrepleje. 
+   
+ Et bredt spænd i chefopgaven   
+ Som ny ældretilsynschef får du det overordnede ledelsesansvar for tilsynsenheden. Ledelsesopgaven omfatter både strategisk ledelse, personaleledelse og administrativ ledelse (med budgetansvar). De konkrete opgaver vil bl.a. bestå af:  
+ 
+ Etablering og udvikling af Ældretilsyn Øst i et tæt samarbejde med relevante aktører på tværs af kommunen  
+ Personaleledelse og faglig ledelse af ca. 15 medarbejdere, der fører tilsyn i Region Sjælland, Region Hovedstaden og Hjørring Kommune. Medarbejderne vil have forskellige faglige baggrunde, bl.a. sygeplejerske, akademiker og administrativ medarbejder  
+ Ledelse af den daglige drift af ældretilsynet, herunder tværgående samarbejde med de to andre tilsynskommuner   
+ Deltagelse i relevante fora i og udenfor Gentofte Kommune  
+ Samarbejde med relevante aktører og interessenter i og udenfor kommunen  
+ 
+   
+ Inden ældretilsynet sættes i drift den 1. juli 2025, bliver der udmeldt forskelligt vejledningsmateriale, som ældretilsynskommunerne skal benytte. Som tilsynschef bliver det dit ansvar at sikre udvikling og implementering af de værktøjer og materialer, der udvikles til opgaveløsningen.  
+   
+ Vores forestillinger om dig  
+ Vi søger en chef, der har mod på at gå ind i opgaverne med nysgerrighed, tillid og åbenhed. I forhold til formelle kvalifikationskrav forventer vi, at du har:  
+ 
+ En relevant uddannelse og sundhedsfaglig viden  
+ Solid erfaring med både personale- og projektledelse – gerne fra en eller flere komplekse driftsorganisationer  
+ Viden om og erfaring fra ældre- eller plejeområdet og gerne erfaring med tilsynsopgaven eller lignende opgaver 
+ Erfaring med etablering og udvikling af nye enheder/afdelinger, herunder team- og kulturudvikling   
+ Erfaring fra en politisk styret organisation og gerne erfaring med at driftsliggøre ny lovgivning 
+ 
+   
+ I forhold til personlige kompetencer og din tilgang til opgaven forventer vi, at du: 
+ 
+ Er rolig, systematisk og bevarer – eller skaber - overblikket  
+ Er nysgerrig og har udsyn samt mod på tværgående samarbejde både i organisationen og eksternt  
+ Har ambitioner, visioner og evner til at samarbejde med dine chefkollegaer om at sætte strategisk retning og fremdrift i opgaverne på tværs af tilsynsområdet 
+ Er strategisk tænkende, samarbejdende og handlekraftig   
+ Formår at skabe følgeskab, tillid og engagement hos dine medarbejdere 
+ 
+   
+ Lidt om os 
+ Gentofte Kommune er en ressourcestærk og ambitiøs organisation, hvor der er højt til loftet, og hvor du som chef får mulighed for at præge og udvikle både stillingen og dit område. Kommunaldirektør Torben Frølich udtaler bl.a.:   
+ ""Vi glæder os meget til at få den nye ældretilsynschef med på holdet af dygtige og engagerede medarbejdere. I Gentofte Kommune bliver man en del af et stærkt fællesskab, hvor vi tænker fremad og sætter kvalitet og dialog i centrum. Vi er sammen om ledelse og opgaverne, og vores kultur er præget af dialog og samskabelse. Her er der plads til at gøre en forskel og tage ansvar – både som leder og som menneske""  
+ I Gentofte Kommune har vi besluttet, at alle ansatte har indflydelse på arbejdsrammerne. Læs mere på  Gentofte Kommunes jobløfte  og lær Gentoftes jobløfte at kende. 
+   
+ Lidt om det praktiske 
+ 
+ Stillingen er på fuldtid og en fast ansættelse. 
+ Ansøgningsfristen er den 13. februar 2025. 
+ Tiltrædelsesdato er den 1. april 2025. 
+ Ansættelsesudvalget mødes den 14. februar og udvælger kandidater til 1. samtale. Hvis du bliver udvalgt, så hører du fra os umiddelbart herefter.  
+ Vi holder første samtale den 18. februar og anden samtale den 26. februar. 
+ Mellem samtalerne skal udvalgte kandidater gennemføre en personanalyse (PTP), med tilbagemeldingssamtaler enten den 21. eller 24. februar på rådhuset.  
+ Arbejdspladsen er Gentofte Kommune – konkret adresse følger, når organiseringen er på plads. 
+ 
+ 
+ Arbejdsområdet omfatter alle plejeenheder i Region Sjælland, Region Hovedstaden og Hjørring Kommune, og stillingen vil derfor indbefatte rejseaktivitet i et vist omfang  
+ 
+   
+ Læs evt. mere om reform og tilsyn her:  Ældrereformen - Ældreministeriet 
+ Hvis du har spørgsmål til stillingen, er du velkommen til at kontakte kommunaldirektør Torben Frølich på telefon 21296856 eller projektleder Flemming Bøchmann Andersen på telefon 20122881. 
+ Løn- og ansættelsesvilkår fastsættes i henhold til gældende overenskomst og efter forhandling med den relevante faglige organisation. 
+ Ansøgning skal fremsendes elektronisk via linket.","https://www.google.dk/maps/place/Bernstorffsvej+161,2920,+Charlottenlund/",19438414,False,False,,False

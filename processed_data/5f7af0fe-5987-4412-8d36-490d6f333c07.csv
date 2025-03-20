@@ -1,0 +1,174 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,VVS-tekniker til HVAC – DTU Campus Service,VVS-tekniker til HVAC – DTU Campus Service,"Er du uddannet VVS tekniker, og kunne du tænke dig et job, hvor du kan få dine faglige ambitioner indfriet samtidig med at du har en sund balance mellem arbejde og fritid? Vil du også gerne arbejde",Danmarks Tekniske Universitet,Anker Engelunds Vej 101  ,2800,Kongens Lyngby,False,False,False,True,2025-01-15T11:20:00,2025-02-28T00:00:00,28. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5f7af0fe-5987-4412-8d36-490d6f333c07,Hovedstaden og Bornholm,Lyngby-Taarbæk,Danmark,2800,,Almindelige vilkår,Fastansættelse,Fuldtid,Bygge og anlæg,Vvs og blik,VVS-tekniker,55.7857,12.5208,,,1003403265,,30060946,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5f7af0fe-5987-4412-8d36-490d6f333c07,https://job.jobnet.dk/CV/FindWork/Details/5f7af0fe-5987-4412-8d36-490d6f333c07,https://job.jobnet.dk/CV/FindWork/Details/5f7af0fe-5987-4412-8d36-490d6f333c07,True,5f7af0fe-5987-4412-8d36-490d6f333c07,55.7857,12.5208,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,,0,Primary,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4553,None,,1003403265,30060946,None,5f7af0fe-5987-4412-8d36-490d6f333c07,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,,0,Primary,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4553,None,,1003403265,30060946,None,,2025-01-15T11:20:00+01:00,2025-02-12T23:59:00+01:00,VVS-tekniker til HVAC – DTU Campus Service,"Er du uddannet VVS tekniker, og kunne du tænke dig et job, hvor du kan få dine faglige ambitioner indfriet samtidig med at du har en sund balance mellem arbejde og fritid? Vil du også gerne arbejde et sted, der investerer i din faglig udvikling og understøtter, at du kan holde dig opdateret på det nyeste inden for branchen - så er det nu, du skal slå til.  
+ 
+ Du får en vigtig rolle i forhold til at understøtte forskning og uddannelse i verdensklasse på Europas førende tekniske universitet kåret i hård konkurrence med 225 tekniske universiteter.  
+ 
+ Stor variation med fokus på udvikling hele vejen fra strategi, design og til drift  
+ 
+ Mere end 150 geografisk spredte bygninger hvoraf mange er højt specialiserede fyldt med spændende teknik. Det er din nye spilleplade, hvor din personlige indsats skaber målbare resultater. 
+ 
+ Som VVS-tekniker vil du få en vigtig rolle med kontakt til mange brugere, studerende, kolleger og lejere på DTU. Du og dine kollegaer har ansvaret for at sikre en pålidelig drift af DTU´s mange forskellige VVS-anlæg, som spænder fra små simple anlæg til store komplekse anlæg. 
+ 
+ Arbejdsopgaverne varierer fra alm. planlagt service til de akutopgaver, som løbende indrapporteres fra brugerne eller driftens kollegaer. Ofte gør vi brug af eksterne VVS-teknikere, og hvor eksterne leverandører anvendes, vil du få ansvar for koordinering og opfølgning på dine opgaver. 
+ 
+ Som VVS-tekniker på DTU vil der være mulighed for at blive ansvarlig for en eller flere anlægstyper, hvor det indebære at være overordnet ansvarlig for anlæggets funktion, service samt optimering og mindre ombygninger, og at sikre at vedligeholdelsesprogram i Dalux er opdateret. 
+ 
+ DTU anvender Dalux, og vi er godt i gang med den digital rejse i HVAC, hvor vi får registeret alle anlæg, for derefter at gennemgå dem mht. service, optimeringer samt vurderinger af evt. tiltag. Det er vigtigt, at du kan og vil indgå i denne udvikling og være med til at præge den positivt. 
+ 
+ DTU har projekter for ca. 2 mia. DKK i pipeline og udførsel. Her er vi i driften med hele vejen fra præcisering og kommentering af design til modtagelse af bygningen samt overgang til drift. Processen er baseret på vores gennemtestede  projektmodel 
+ , hvor driftsinvolvering er en forudsætning for succesfulde projekter. Processen sikrer, at vi får velfungerende bygninger i høj kvalitet. Alt, vi bygger, er med et mangeårigt drifts- og omkostningsperspektiv i fokus.  
+ 
+ Vi håber at du har interesse for og kan byde ind med god håndværker erfaringer, da det er guld værd i denne proces med månedlige gennemgange, tilsyn, mangelgennemgange samt modtagelse af de færdige anlæg. 
+ 
+ Dine arbejdsopgaver vil bl.a. bestå af: 
+ Reparation og fejlsøgning af diverse VVS-anlæg. 
+ VVS-service samt forebyggende/løbende vedligehold og servicering af VVS-anlæg.  
+ Opgaver inden for laboratorietekniske anlæg inkl. alle VVS relateret installationer  
+ Energi-og driftsoptimeringsopgaver 
+ Mindre VVS-tekniske ombygninger, f.eks. bestillinger fra brugere eller energiforbedringer  
+ Måling af VVS-parametre i forhold til vandbalancer og effekter samt funktionskontrol  
+ Betjening af anlæg via CTS samt fejlfinding 
+ Anvende Dalux mht. fejl og driftsopgaver.  
+ Prissætning af mindre opgaver.  
+ 
+ Vores forventninger til dine kompetencer er, at du:  
+ 
+ har en relevant uddannelse inden for VVS-faget  
+ har en åben og direkte tilgang.  
+ interesserer dig for drift af alt fra simple til komplekse tekniske anlæg.  
+ kan se dig meget varieret job, hvor du det ene øjeblik læser op på de tekniske områder og det næste øjeblik er ude og få styr på akutte problemer 
+ har erfaring med IT-værktøjer – herunder Microsoft Office pakken 
+ har flair og lyst til at arbejde digitalt  
+ har god situationsfornemmelse og vægter positiv kommunikation med kunderne, kollegaer og samarbejdspartnere højt – selv når der er travlt 
+ arbejder selvstændigt og løsningsorienteret. 
+ er mødestabil, fleksibel og engageret. 
+ evner at kommunikere klart og forståeligt – både på skrift og mundtligt  
+ som minimum har kørekort B til bil. 
+ 
+ Du kan være nyuddannet eller du kan have erfaring med VVS-faget fra lignende stilling.  
+ 
+ Dit nye team 
+ 
+ Du bliver del af et meget velfungerende HVAC-team med ca.15 gode kolleger. Vi er teknikere, maskinmestre og ingeniører. Vi tror på, at samarbejde og vidensdeling giver både en sjovere hverdag, bedre faglig udvikling og ikke mindst langt bedre resultater.  
+ 
+ Vi tror også på, at mennesker i balance skaber bedre løsninger. Fleksibilitet og sund balance mellem arbejde og fritid er derfor en fast del af hverdagen hos os.  
+ 
+ Vi bygger vores arbejde på forskellige principper, der skal sikre, at vi alle forstår helheden samt tænker og handler parallelt. Vi tager selvfølgelig også ansvar for uddannelse af fremtidens unge studerende og har derfor altid praktikanter og spændende projektsamarbejder med bl.a. mange forskere i gang. I den sammenhæng er vi bestemt ikke blinde for, at de studerende kan lære os noget. Nu glæder vi os bare til at byde dig velkommen på holdet.  
+ 
+ Løn og ansættelsesvilkår 
+ 
+ Løn- og ansættelsesvilkår i henhold til OAO-S-fællesoverenskomsten og organisationsaftale for Håndværkere og teknikere. 
+ 
+ Stillingen er på 37 timer og ønskes besat pr. 1. maj 2025 eller snarest derefter.  
+ 
+ Din arbejdsplads vil være på DTU Lyngby Campus. 
+ 
+ Ansøgning og kontakt 
+ 
+ Vi skal modtage din online ansøgning senest den  28. februar 2025 
+ . Åbn linket ""Ansøg online"", hvor du udfylder ansøgningsformularen samt vedhæfter motiveret ansøgning, CV og eksamensbeviser.  
+ 
+ Ansættelsessamtaler forventes afholdt i uge 10, 11 og 12 med tiltrædelse 1. maj 2025. 
+ 
+ Har du spørgsmål, er du meget velkommen til at kontakte sektionsleder, Niels Gjerring Hansen på 2937 9415. 
+ 
+ Ansøgninger modtaget efter ansøgningsfristens udløb tages ikke i betragtning. 
+ 
+ Alle interesserede uanset alder, køn, handicap, race, religion eller etnisk tilhørsforhold, opfordres til at søge stillingen. Da DTU arbejder med forskning i kritisk teknologi, hvormed der gælder særlige regler for blandt andet sikkerhed og eksportkontrol, kan der blive foretage open source-baggrundstjek af kvalificerede kandidater til stillingen. 
+ 
+ DTU Campus Service 
+ 
+ 
+ Campus Service har ansvar for at udvikle, drive og vedligeholde DTU’s bygningsmasse, arealer og faciliteter. Målsætningen er den samme som for DTU generelt, og den kan sammenfattes i et enkelt ord. Verdensklasse. Vi lever ud fra ideen om, at vi skal være bedre til at blive bedre. I alt, hvad vi gør, sætter vi barren begavet højt, for det er ganske enkelt nødvendigt, hvis DTU fortsat skal befinde sig på den øverste hylde, når det gælder forskning og undervisning. DTU’s bygninger, omgivelser og faciliteter skal være maksimalt attraktive for de ansatte og studerende. Dertil skal borgere, virksomheder og lokalsamfund se DTU og DTU’s faciliteter som et aktiv, man meget gerne benytter og samarbejder med. Campus Services mission er at sikre, at det sker.  
+ 
+ 
+ Teknologi for mennesker 
+ 
+ 
+ DTU udvikler teknologi for mennesker. Med vores forskning og uddannelser i international topklasse er vi med til at skabe en bedre verden, og vi bidrager til løsningen af de globale udfordringer formuleret i FN’s 17 verdensmål for en bæredygtig udvikling. H.C. Ørsted grundlagde DTU i 1829 med en klar vision om at udvikle og nyttiggøre naturvidenskab og teknisk videnskab til gavn for samfundet. Den vision lever den dag i dag. DTU har 15.500 studerende og 6.000 ansatte. Vi arbejder i en international atmosfære og har et inkluderende, udviklende og uformelt arbejdsmiljø. DTU har campusser i hele Danmark og i Grønland og samarbejder med de bedste universiteter verden over.",Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Lyngby-Taarbæk,1,1,Fuldtid,None,None,1,,VVS-tekniker,0,"Ansvarlig for rørledningsprojekt, 7203, 7204, Tekniker inden for køle-, luftkonditionerings- og varmepumpeanlæg, Tekniker inden for geotermi",0,0,True,"{'Email': None, 'PersonName': 'Niels Gjerring Hansen', 'FirstName': 'Niels Gjerring', 'LastName': 'Hansen', 'PositionTitle': 'Sektionsleder', 'PhoneNumbers': [{'Number': '2937 9415', 'Type': 0, 'Description': 'Primary'}]}",2025-05-01T00:00:00+02:00,True,False,False,False,4,,,False,False,False,False,False,False,,,,,https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_1/job/4553,False,2025-02-28T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=5f7af0fe-5987-4412-8d36-490d6f333c07&Organisation=30060946,"Anker Engelunds Vej 101,2800, Lyngby-Taarbæk",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5f7af0fe-5987-4412-8d36-490d6f333c07&Company.Name=Danmarks Tekniske Universitet&SubmissionDeadlineDate=2025-2-28&Title=VVS-tekniker til HVAC – DTU Campus Service&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,VVS-tekniker til HVAC – DTU Campus Service,True,,True,1,,5f7af0fe-5987-4412-8d36-490d6f333c07,,,False,False,,0,False,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,,,2800,False,False,False,Lyngby-Taarbæk,Niels Gjerring Hansen,2937 9415,,,,,,False,,2025-02-28T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Lyngby-Taarbæk kommune,False,Danmarks Tekniske Universitet,,None,,False,False,"Er du uddannet VVS tekniker, og kunne du tænke dig et job, hvor du kan få dine faglige ambitioner indfriet samtidig med at du har en sund balance mellem arbejde og fritid? Vil du også gerne arbejde et sted, der investerer i din faglig udvikling og understøtter, at du kan holde dig opdateret på det nyeste inden for branchen - så er det nu, du skal s","""Er du uddannet VVS tekniker, og kunne du tænke dig et job, hvor du kan få dine faglige ambitioner indfriet samtidig med at du har en sund balance mellem arbejde og fritid? Vil du også gerne arbejde et sted, der investerer i din faglig udvikling og understøtter, at du kan holde dig opdateret på det nyeste inden for branchen - så er det nu, du skal s""","""VVS-tekniker til HVAC – DTU Campus Service""","https://www.google.dk/maps/dir//Anker+Engelunds+Vej+101,2800,+Lyngby-Taarbæk/","Er du uddannet VVS tekniker, og kunne du tænke dig et job, hvor du kan få dine faglige ambitioner indfriet samtidig med at du har en sund balance mellem arbejde og fritid? Vil du også gerne arbejde et sted, der investerer i din faglig udvikling og understøtter, at du kan holde dig opdateret på det nyeste inden for branchen - så er det nu, du skal slå til.  
+ 
+ Du får en vigtig rolle i forhold til at understøtte forskning og uddannelse i verdensklasse på Europas førende tekniske universitet kåret i hård konkurrence med 225 tekniske universiteter.  
+ 
+ Stor variation med fokus på udvikling hele vejen fra strategi, design og til drift  
+ 
+ Mere end 150 geografisk spredte bygninger hvoraf mange er højt specialiserede fyldt med spændende teknik. Det er din nye spilleplade, hvor din personlige indsats skaber målbare resultater. 
+ 
+ Som VVS-tekniker vil du få en vigtig rolle med kontakt til mange brugere, studerende, kolleger og lejere på DTU. Du og dine kollegaer har ansvaret for at sikre en pålidelig drift af DTU´s mange forskellige VVS-anlæg, som spænder fra små simple anlæg til store komplekse anlæg. 
+ 
+ Arbejdsopgaverne varierer fra alm. planlagt service til de akutopgaver, som løbende indrapporteres fra brugerne eller driftens kollegaer. Ofte gør vi brug af eksterne VVS-teknikere, og hvor eksterne leverandører anvendes, vil du få ansvar for koordinering og opfølgning på dine opgaver. 
+ 
+ Som VVS-tekniker på DTU vil der være mulighed for at blive ansvarlig for en eller flere anlægstyper, hvor det indebære at være overordnet ansvarlig for anlæggets funktion, service samt optimering og mindre ombygninger, og at sikre at vedligeholdelsesprogram i Dalux er opdateret. 
+ 
+ DTU anvender Dalux, og vi er godt i gang med den digital rejse i HVAC, hvor vi får registeret alle anlæg, for derefter at gennemgå dem mht. service, optimeringer samt vurderinger af evt. tiltag. Det er vigtigt, at du kan og vil indgå i denne udvikling og være med til at præge den positivt. 
+ 
+ DTU har projekter for ca. 2 mia. DKK i pipeline og udførsel. Her er vi i driften med hele vejen fra præcisering og kommentering af design til modtagelse af bygningen samt overgang til drift. Processen er baseret på vores gennemtestede  projektmodel 
+ , hvor driftsinvolvering er en forudsætning for succesfulde projekter. Processen sikrer, at vi får velfungerende bygninger i høj kvalitet. Alt, vi bygger, er med et mangeårigt drifts- og omkostningsperspektiv i fokus.  
+ 
+ Vi håber at du har interesse for og kan byde ind med god håndværker erfaringer, da det er guld værd i denne proces med månedlige gennemgange, tilsyn, mangelgennemgange samt modtagelse af de færdige anlæg. 
+ 
+ Dine arbejdsopgaver vil bl.a. bestå af: 
+ Reparation og fejlsøgning af diverse VVS-anlæg. 
+ VVS-service samt forebyggende/løbende vedligehold og servicering af VVS-anlæg.  
+ Opgaver inden for laboratorietekniske anlæg inkl. alle VVS relateret installationer  
+ Energi-og driftsoptimeringsopgaver 
+ Mindre VVS-tekniske ombygninger, f.eks. bestillinger fra brugere eller energiforbedringer  
+ Måling af VVS-parametre i forhold til vandbalancer og effekter samt funktionskontrol  
+ Betjening af anlæg via CTS samt fejlfinding 
+ Anvende Dalux mht. fejl og driftsopgaver.  
+ Prissætning af mindre opgaver.  
+ 
+ Vores forventninger til dine kompetencer er, at du:  
+ 
+ har en relevant uddannelse inden for VVS-faget  
+ har en åben og direkte tilgang.  
+ interesserer dig for drift af alt fra simple til komplekse tekniske anlæg.  
+ kan se dig meget varieret job, hvor du det ene øjeblik læser op på de tekniske områder og det næste øjeblik er ude og få styr på akutte problemer 
+ har erfaring med IT-værktøjer – herunder Microsoft Office pakken 
+ har flair og lyst til at arbejde digitalt  
+ har god situationsfornemmelse og vægter positiv kommunikation med kunderne, kollegaer og samarbejdspartnere højt – selv når der er travlt 
+ arbejder selvstændigt og løsningsorienteret. 
+ er mødestabil, fleksibel og engageret. 
+ evner at kommunikere klart og forståeligt – både på skrift og mundtligt  
+ som minimum har kørekort B til bil. 
+ 
+ Du kan være nyuddannet eller du kan have erfaring med VVS-faget fra lignende stilling.  
+ 
+ Dit nye team 
+ 
+ Du bliver del af et meget velfungerende HVAC-team med ca.15 gode kolleger. Vi er teknikere, maskinmestre og ingeniører. Vi tror på, at samarbejde og vidensdeling giver både en sjovere hverdag, bedre faglig udvikling og ikke mindst langt bedre resultater.  
+ 
+ Vi tror også på, at mennesker i balance skaber bedre løsninger. Fleksibilitet og sund balance mellem arbejde og fritid er derfor en fast del af hverdagen hos os.  
+ 
+ Vi bygger vores arbejde på forskellige principper, der skal sikre, at vi alle forstår helheden samt tænker og handler parallelt. Vi tager selvfølgelig også ansvar for uddannelse af fremtidens unge studerende og har derfor altid praktikanter og spændende projektsamarbejder med bl.a. mange forskere i gang. I den sammenhæng er vi bestemt ikke blinde for, at de studerende kan lære os noget. Nu glæder vi os bare til at byde dig velkommen på holdet.  
+ 
+ Løn og ansættelsesvilkår 
+ 
+ Løn- og ansættelsesvilkår i henhold til OAO-S-fællesoverenskomsten og organisationsaftale for Håndværkere og teknikere. 
+ 
+ Stillingen er på 37 timer og ønskes besat pr. 1. maj 2025 eller snarest derefter.  
+ 
+ Din arbejdsplads vil være på DTU Lyngby Campus. 
+ 
+ Ansøgning og kontakt 
+ 
+ Vi skal modtage din online ansøgning senest den  28. februar 2025 
+ . Åbn linket ""Ansøg online"", hvor du udfylder ansøgningsformularen samt vedhæfter motiveret ansøgning, CV og eksamensbeviser.  
+ 
+ Ansættelsessamtaler forventes afholdt i uge 10, 11 og 12 med tiltrædelse 1. maj 2025. 
+ 
+ Har du spørgsmål, er du meget velkommen til at kontakte sektionsleder, Niels Gjerring Hansen på 2937 9415. 
+ 
+ Ansøgninger modtaget efter ansøgningsfristens udløb tages ikke i betragtning. 
+ 
+ Alle interesserede uanset alder, køn, handicap, race, religion eller etnisk tilhørsforhold, opfordres til at søge stillingen. Da DTU arbejder med forskning i kritisk teknologi, hvormed der gælder særlige regler for blandt andet sikkerhed og eksportkontrol, kan der blive foretage open source-baggrundstjek af kvalificerede kandidater til stillingen. 
+ 
+ DTU Campus Service 
+ 
+ 
+ Campus Service har ansvar for at udvikle, drive og vedligeholde DTU’s bygningsmasse, arealer og faciliteter. Målsætningen er den samme som for DTU generelt, og den kan sammenfattes i et enkelt ord. Verdensklasse. Vi lever ud fra ideen om, at vi skal være bedre til at blive bedre. I alt, hvad vi gør, sætter vi barren begavet højt, for det er ganske enkelt nødvendigt, hvis DTU fortsat skal befinde sig på den øverste hylde, når det gælder forskning og undervisning. DTU’s bygninger, omgivelser og faciliteter skal være maksimalt attraktive for de ansatte og studerende. Dertil skal borgere, virksomheder og lokalsamfund se DTU og DTU’s faciliteter som et aktiv, man meget gerne benytter og samarbejder med. Campus Services mission er at sikre, at det sker.  
+ 
+ 
+ Teknologi for mennesker 
+ 
+ 
+ DTU udvikler teknologi for mennesker. Med vores forskning og uddannelser i international topklasse er vi med til at skabe en bedre verden, og vi bidrager til løsningen af de globale udfordringer formuleret i FN’s 17 verdensmål for en bæredygtig udvikling. H.C. Ørsted grundlagde DTU i 1829 med en klar vision om at udvikle og nyttiggøre naturvidenskab og teknisk videnskab til gavn for samfundet. Den vision lever den dag i dag. DTU har 15.500 studerende og 6.000 ansatte. Vi arbejder i en international atmosfære og har et inkluderende, udviklende og uformelt arbejdsmiljø. DTU har campusser i hele Danmark og i Grønland og samarbejder med de bedste universiteter verden over.","https://www.google.dk/maps/place/Anker+Engelunds+Vej+101,2800,+Lyngby-Taarbæk/",30060946,False,False,,False

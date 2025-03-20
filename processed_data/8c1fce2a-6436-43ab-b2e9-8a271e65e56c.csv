@@ -1,0 +1,126 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,True,1,Kundeservicemedarbejder til Riga -  Flybillet plus 2 måneders bolig betales af virksomheden,Kundeservicemedarbejder til Riga -  Flybillet plus 2 måneders bolig betales af virksomheden,"Stilling: Kundeservicemedarbejder
+Sprog: Dansk + Engelsk
+Lokation: Riga, Letland
+Stillingstype: Fuld tid ell",Lillelund Vestergaard v/Peter Lillelund Vestergaard,   ,,,True,True,True,False,2025-01-21T00:00:00,2025-03-18T00:00:00,18. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/8c1fce2a-6436-43ab-b2e9-8a271e65e56c,,,Letland,,,Hotjob,Fastansættelse,Fuldtid,"Salg, indkøb og markedsføring",Salg og indkøb,Kundeservicemedarbejder,,,Skiftende arbejdstider,1030952037,,45299090,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/8c1fce2a-6436-43ab-b2e9-8a271e65e56c,https://job.jobnet.dk/CV/FindWork/Details/8c1fce2a-6436-43ab-b2e9-8a271e65e56c,https://job.jobnet.dk/CV/FindWork/Details/8c1fce2a-6436-43ab-b2e9-8a271e65e56c,False,8c1fce2a-6436-43ab-b2e9-8a271e65e56c,0,0,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Lillelund Vestergaard v/Peter Lillelund Vestergaard,,128,Letland,0,,0,,,,51912290,0,Primary,,Rene@jobhuntworldwide.com,https://www.jobhuntworldwide.com/jobs/csa-riga-da,None,,1030952037,45299090,None,8c1fce2a-6436-43ab-b2e9-8a271e65e56c,Lillelund Vestergaard v/Peter Lillelund Vestergaard,,128,Letland,0,,0,,,,51912290,0,Primary,,Rene@jobhuntworldwide.com,https://www.jobhuntworldwide.com/jobs/csa-riga-da,None,,1030952037,45299090,None,,2025-01-21T00:00:00+01:00,2025-03-18T10:43:00+01:00,Kundeservicemedarbejder til Riga -  Flybillet plus 2 måneders bolig betales af virksomheden,"Stilling:  Kundeservicemedarbejder 
+ Sprog:  Dansk + Engelsk 
+ Lokation:  Riga, Letland 
+ Stillingstype:  Fuld tid eller deltid 
+ Opstart:  6. februar, 6. marts eller 2. april 
+ Kvalifikationer 
+ 
+ Du skal tale og skrive dansk, og du skal også kunne forstå og tale engelsk. 
+ Villighed til at flytte til Riga eller allerede bo der. 
+ Det er vigtigt for os, at du er serviceminded. 
+ Du er nysgerrig, er en teamplayer og løsningsorienteret. 
+ Fleksibilitet til at arbejde skiftende timer/deltid (hvor det er lovligt muligt) og tilpasse dig hurtigt til ændringer. 
+ Grundlæggende computerfærdigheder med en skrivningshastighed på mindst 50 ord per minut og 90% nøjagtighed. 
+ 
+ Ansvarsområder 
+ 
+ Håndtere indgående beskeder fra kunder på en betalingsplatform via telefon, chat og e-mail og hjælpe brugerne med deres forespørgsler. 
+ Datalogning på kundehenvendelser. 
+ Sikre, at sager bliver løst inden for den aftalte tidsramme. 
+ Arbejde selvstændigt og i team. 
+ Overholde målsætninger for kontaktbehandling, såsom svartid, behandlingstid og løsningsrate i overensstemmelse med projektets målsætninger. 
+ Udføre ad hoc-opgaver, der kan forbedre servicen til kunden eller dine KPI'er. 
+ 
+ Benefits 
+ 
+ Betalt opstartstræning og faglig udvikling. 
+ Arbejdstider fra kl. 10.00 til 18.00, mandag til søndag, 40 timer om ugen. 
+ Mulighed for hybridarbejde (afhængigt af præstation) efter de første 3 måneders ansættelse. 
+ Hjælp til flytning. 
+ Et dynamisk og mangfoldigt job i et behageligt og moderne miljø. 
+ Muligheder for personlig og faglig udvikling. 
+ Premium sundhedsforsikring: Få omfattende dækning for dig og din familie (ægtefælle og børn), herunder rutinemæssige sundhedstjek, tandpleje, synspleje, receptpligtig medicin, mental sundhedsstøtte og meget mere. 
+ Arbejde hjemmefra ved sene vagter: Mulighed for at arbejde hjemmefra, når du arbejder sent (efter kl. 21.00), hvilket giver dig fleksibilitet til at styre din tidsplan effektivt. 
+ 
+ Hvorfor arbejde i Riga? 
+ At arbejde i Riga giver dig mulighed for at opleve en dynamisk og kulturelt rig hovedstad i Letland. Byen er kendt for sin smukke arkitektur, livlige kulturscene og en spændende blanding af historiske og moderne indflydelser. Her får du mulighed for at udforske charmerende brostensbelagte gader, smage på lækre lokale retter og nyde et pulserende natteliv. Riga er også hjemsted for adskillige internationale virksomheder og tech-startups, hvilket gør det til et fremragende sted for faglig udvikling og karrierefremskridt. 
+ Opkvalificering af din profil Ved at arbejde i en international virksomhed i Riga vil du få værdifuld erfaring, der kan styrke din professionelle profil på flere måder: 
+ 
+ 
+ Internationale arbejdsstandarder:  Du vil arbejde i en organisation, der opererer på tværs af grænser, og du vil få indsigt i globale arbejdsstandarder og bedste praksis. 
+ 
+ 
+ Sprogkundskaber:  At arbejde i et flersproget miljø vil styrke dine færdigheder i både dansk og engelsk, samt muligvis andre sprog, afhængigt af dine kolleger og kunder. 
+ 
+ 
+ Kulturel forståelse:  At bo og arbejde i et andet land vil forbedre din kulturelle forståelse og tilpasningsevne, hvilket er meget værdifuldt på det moderne arbejdsmarked. 
+ 
+ 
+ Networking:  Du vil få mulighed for at bygge et internationalt netværk af professionelle kontakter, hvilket kan åbne døre for fremtidige karrieremuligheder. 
+ 
+ 
+ Personlig udvikling:  At flytte til og arbejde i et nyt land kræver tilpasningsevne, selvstændighed og initiativ – egenskaber, der kan styrke din selvtillid og personlige vækst. 
+ 
+ 
+ At tage springet og arbejde i Riga kan være en fantastisk mulighed for både din karriere og personlige udvikling. Det vil give dig en unik oplevelse, som vil berige din CV og gøre dig mere attraktiv for fremtidige arbejdsgivere. 
+ Kontakt os på  Rene@jobhuntworldwide.com  for at få yderligere informationer. 
+ Cv skal være på engelsk for at ansøge denne stilling.",,128,Letland,0,,0,,,,1,1,Fuldtid,None,None,4,,Kundeservicemedarbejder,0,"Kundecenteragent, Salgsassistent på en togstation, Kundeservicemedarbejder med ansvar for kassemedarbejderne, Kundeserviceassistent, 3345, 3346, 3347, Kontaktopsporingsmedarbejder, Kundekonsulent",0,0,False,"{'Email': 'Rene@Jobhuntworldwide.com', 'PersonName': 'René Lillelund Vestergaard', 'FirstName': 'René', 'LastName': 'Lillelund Vestergaard', 'PositionTitle': 'Global Recruitment Manager', 'PhoneNumbers': [{'Number': '36967262', 'Type': 0, 'Description': 'Primary'}]}",,True,False,False,False,4,,,False,False,False,False,False,True,,,Rene@jobhuntworldwide.com,51912290,https://www.jobhuntworldwide.com/jobs/csa-riga-da,False,2025-03-18T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=8c1fce2a-6436-43ab-b2e9-8a271e65e56c&Organisation=45299090,",, ",False,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=8c1fce2a-6436-43ab-b2e9-8a271e65e56c&Company.Name=Lillelund Vestergaard v/Peter Lillelund Vestergaard&SubmissionDeadlineDate=2025-3-18&Title=Kundeservicemedarbejder til Riga -  Flybillet plus 2 måneders bolig betales af virksomheden&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Kundeservicemedarbejder til Riga -  Flybillet plus 2 måneders bolig betales af virksomheden,True,,True,1,,8c1fce2a-6436-43ab-b2e9-8a271e65e56c,,,False,False,,0,False,Lillelund Vestergaard v/Peter Lillelund Vestergaard,,,,,True,True,False,,René Lillelund Vestergaard,36967262,rene@jobhuntworldwide.com,,,,,False,,2025-03-18T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Skiftende arbejdstider,Arbejdspladsen ligger i Letland,False,Lillelund Vestergaard v/Peter Lillelund Vestergaard,,None,,False,False,"Stilling: Kundeservicemedarbejder
+Sprog: Dansk + Engelsk
+Lokation: Riga, Letland
+Stillingstype: Fuld tid eller deltid
+Opstart: 6. februar, 6. marts eller 2. april
+Kvalifikationer
+
+Du skal tale og skrive dansk, og du skal også kunne forstå og tale engelsk.
+Villighed til at flytte til Riga eller allerede bo der.
+Det er vigtigt for os, at du er servic","""Stilling: Kundeservicemedarbejder\nSprog: Dansk + Engelsk\nLokation: Riga, Letland\nStillingstype: Fuld tid eller deltid\nOpstart: 6. februar, 6. marts eller 2. april\nKvalifikationer\n\nDu skal tale og skrive dansk, og du skal også kunne forstå og tale engelsk.\nVillighed til at flytte til Riga eller allerede bo der.\nDet er vigtigt for os, at du er servic""","""Kundeservicemedarbejder til Riga -  Flybillet plus 2 måneders bolig betales af virksomheden""","https://www.google.dk/maps/dir//,,+/","Stilling:  Kundeservicemedarbejder 
+ Sprog:  Dansk + Engelsk 
+ Lokation:  Riga, Letland 
+ Stillingstype:  Fuld tid eller deltid 
+ Opstart:  6. februar, 6. marts eller 2. april 
+ Kvalifikationer 
+ 
+ Du skal tale og skrive dansk, og du skal også kunne forstå og tale engelsk. 
+ Villighed til at flytte til Riga eller allerede bo der. 
+ Det er vigtigt for os, at du er serviceminded. 
+ Du er nysgerrig, er en teamplayer og løsningsorienteret. 
+ Fleksibilitet til at arbejde skiftende timer/deltid (hvor det er lovligt muligt) og tilpasse dig hurtigt til ændringer. 
+ Grundlæggende computerfærdigheder med en skrivningshastighed på mindst 50 ord per minut og 90% nøjagtighed. 
+ 
+ Ansvarsområder 
+ 
+ Håndtere indgående beskeder fra kunder på en betalingsplatform via telefon, chat og e-mail og hjælpe brugerne med deres forespørgsler. 
+ Datalogning på kundehenvendelser. 
+ Sikre, at sager bliver løst inden for den aftalte tidsramme. 
+ Arbejde selvstændigt og i team. 
+ Overholde målsætninger for kontaktbehandling, såsom svartid, behandlingstid og løsningsrate i overensstemmelse med projektets målsætninger. 
+ Udføre ad hoc-opgaver, der kan forbedre servicen til kunden eller dine KPI'er. 
+ 
+ Benefits 
+ 
+ Betalt opstartstræning og faglig udvikling. 
+ Arbejdstider fra kl. 10.00 til 18.00, mandag til søndag, 40 timer om ugen. 
+ Mulighed for hybridarbejde (afhængigt af præstation) efter de første 3 måneders ansættelse. 
+ Hjælp til flytning. 
+ Et dynamisk og mangfoldigt job i et behageligt og moderne miljø. 
+ Muligheder for personlig og faglig udvikling. 
+ Premium sundhedsforsikring: Få omfattende dækning for dig og din familie (ægtefælle og børn), herunder rutinemæssige sundhedstjek, tandpleje, synspleje, receptpligtig medicin, mental sundhedsstøtte og meget mere. 
+ Arbejde hjemmefra ved sene vagter: Mulighed for at arbejde hjemmefra, når du arbejder sent (efter kl. 21.00), hvilket giver dig fleksibilitet til at styre din tidsplan effektivt. 
+ 
+ Hvorfor arbejde i Riga? 
+ At arbejde i Riga giver dig mulighed for at opleve en dynamisk og kulturelt rig hovedstad i Letland. Byen er kendt for sin smukke arkitektur, livlige kulturscene og en spændende blanding af historiske og moderne indflydelser. Her får du mulighed for at udforske charmerende brostensbelagte gader, smage på lækre lokale retter og nyde et pulserende natteliv. Riga er også hjemsted for adskillige internationale virksomheder og tech-startups, hvilket gør det til et fremragende sted for faglig udvikling og karrierefremskridt. 
+ Opkvalificering af din profil Ved at arbejde i en international virksomhed i Riga vil du få værdifuld erfaring, der kan styrke din professionelle profil på flere måder: 
+ 
+ 
+ Internationale arbejdsstandarder:  Du vil arbejde i en organisation, der opererer på tværs af grænser, og du vil få indsigt i globale arbejdsstandarder og bedste praksis. 
+ 
+ 
+ Sprogkundskaber:  At arbejde i et flersproget miljø vil styrke dine færdigheder i både dansk og engelsk, samt muligvis andre sprog, afhængigt af dine kolleger og kunder. 
+ 
+ 
+ Kulturel forståelse:  At bo og arbejde i et andet land vil forbedre din kulturelle forståelse og tilpasningsevne, hvilket er meget værdifuldt på det moderne arbejdsmarked. 
+ 
+ 
+ Networking:  Du vil få mulighed for at bygge et internationalt netværk af professionelle kontakter, hvilket kan åbne døre for fremtidige karrieremuligheder. 
+ 
+ 
+ Personlig udvikling:  At flytte til og arbejde i et nyt land kræver tilpasningsevne, selvstændighed og initiativ – egenskaber, der kan styrke din selvtillid og personlige vækst. 
+ 
+ 
+ At tage springet og arbejde i Riga kan være en fantastisk mulighed for både din karriere og personlige udvikling. Det vil give dig en unik oplevelse, som vil berige din CV og gøre dig mere attraktiv for fremtidige arbejdsgivere. 
+ Kontakt os på  Rene@jobhuntworldwide.com  for at få yderligere informationer. 
+ Cv skal være på engelsk for at ansøge denne stilling.","https://www.google.dk/maps/place/,,+/",45299090,False,False,,False

@@ -1,0 +1,132 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"GF2 + Social og sundhedsassistentelev eller GF2 + social og sundhedshjælper i et samlet forløb i Lejre Kommune. Ansættelse i jan, april, august, oktober 2025","GF2 + Social og sundhedsassistentelev eller GF2 + social og sundhedshjælper i et samlet forløb i Lejre Kommune. Ansættelse i jan, april, august, oktober 2025","
+
+Lejre kommune søger motiverede elever, så overvejer du at blive social og sundhedsassistent eller social og sundhedshjælper er du måske vores nye elev i Lejre kommune? 
+
+Om uddannelsen",Lejre Kommune,Bøgebakken 1  ,4320,Lejre,False,False,False,True,2025-01-06T13:51:00,2025-03-03T00:00:00,3. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/44ae5048-4d2f-4843-bad0-a1a70fe2a265,Øvrige Sjælland,Lejre,Danmark,4320,,Almindelige vilkår,Fastansættelse,Fuldtid,Elever,"Sundhed, omsorg og personlig pleje",Social- og sundhedsassistentelev,55.5946,11.957,,,1003284858,,29188548,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/44ae5048-4d2f-4843-bad0-a1a70fe2a265,https://job.jobnet.dk/CV/FindWork/Details/44ae5048-4d2f-4843-bad0-a1a70fe2a265,https://job.jobnet.dk/CV/FindWork/Details/44ae5048-4d2f-4843-bad0-a1a70fe2a265,True,44ae5048-4d2f-4843-bad0-a1a70fe2a265,55.5946,11.957,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Lejre Kommune,Bøgebakken 1,58,Danmark,350,Lejre,4,"Hovedstaden, Sjælland og Bornholm",4320,Lejre,,0,Primary,,,https://www.lejre.dk/ledige-job/ledige-job/?hr=show-job/233091&linkref=259031&locale=da_DK,None,,1003284858,29188548,None,44ae5048-4d2f-4843-bad0-a1a70fe2a265,Lejre Kommune,Bøgebakken 1,58,Danmark,350,Lejre,4,"Hovedstaden, Sjælland og Bornholm",4320,Lejre,,0,Primary,,,https://www.lejre.dk/ledige-job/ledige-job/?hr=show-job/233091&linkref=259031&locale=da_DK,None,,1003284858,29188548,None,,2025-01-06T13:51:00+01:00,2025-03-03T13:51:00+01:00,"GF2 + Social og sundhedsassistentelev eller GF2 + social og sundhedshjælper i et samlet forløb i Lejre Kommune. Ansættelse i jan, april, august, oktober 2025","Lejre kommune søger motiverede elever, så overvejer du at blive social og sundhedsassistent eller social og sundhedshjælper er du måske vores nye elev i Lejre kommune?  
+
+Om uddannelsen
+
+ Som social og sundhedsassistent elev vil uddannelsen vare ca. 3 år og 3 måneder inkl. grundforløb 2 og varierer mellem skole på ZBC og praktik på plejehjem og hjemmepleje i Lejre Kommune, praktik i psykiatrien og på sygehus. Du vil modtage løn under hele uddannelsen. Da vi cykler rundt til borgerne i hjemmeplejen, er det et krav, at du kan cykle. 
+ Som Social-og sundhedshjælper elev vil uddannelsen vare ca. 20 måneder inkl. grundforløb 2 og varierer mellem skole på ZBC og praktik på plejehjem og hjemmepleje i Lejre Kommune. Da vi cykler rundt til borgerne i hjemmeplejen, er det et krav, at du kan cykle. 
+
+Du vil lære:
+
+ 
+ Helhedsorienteret personlig og praktisk hjælp, herunder håndtering af medicin 
+ At arbejde sundhedsfremmende og sygdomsforebyggende 
+ At dokumentere den udførte sygepleje i et fagsprog 
+ At kende lovgivningen og arbejde ansvarsfuldt inden for denne 
+ Tidlig opsporing, rehabilitering og igangsættelse af aktiviteter 
+ At støtte og hjælpe borgeren til at være aktiv i eget liv 
+ At samarbejde professionelt, tværfagligt og tværsektorielt 
+ 
+
+Om os
+
+ Hos os får du rigtig gode vilkår for uddannelsen. 
+ Som elev i Lejre kommune, vil du få en spændende uforudsigelig hverdag, hvor fokus er på menneskelige behov, forskellige livssituationer og på at gøre borgeren i stand til at mestre mest muligt i eget liv. Din praktikvejleder og Teamleder er dine nærmeste samarbejdspartnere. De støtter og vejleder dig. 
+ Du starter med at få undervisning i: 
+Hvordan samarbejder jeg med en borger i en forflytning? 
+Hvordan samarbejder jeg med en borger med demens? 
+Hvordan skal jeg dokumentere i den elektroniske omsorgsjournal? 
+Hvordan skal jeg håndtere medicin? 
+  Studietid til at fordybe dig i faget imens du er i praktik. 
+
+Om dig
+
+ Vi lægger vægt på, at du er motiveret, nysgerrig, innovativ og kreativt tænkende og har fokus på, at borgeren er i centrum - ikke kun i ord, men også i handling. 
+ Social- og sundhedsassistenteleverne/Social-og sundhedshjælpereleverne i Lejre Kommune er desuden kendetegnet ved at være: 
+ 
+ Ambitiøse, engagerede og mødestabile 
+ Optaget af at skabe kvalitet, faglighed og resultater inden for plejesektoren 
+ Målrettet mod at indtage en faglig rolle med stort ansvar og med mange bolde i luften 
+ Parate til at tage ansvar for egen læring og uddannelse 
+ 
+
+Optagelse og ansættelse:
+
+ Når du ansøger til stillingen som elev skal du opfylde de formelle kriterier. 
+  Derfor skal du dokumentere en: 
+ 
+ Motiverende ansøgning 
+ CV 
+ Realkompetencevurdering fra ZBC 
+ Du har søgt optagelse på GF2 og ZBC har registreret dig (kopi medsendes ansøgning) 
+ Du som udenlandsk statsborger skal du have opholds- og arbejdstilladelse. (kopi medsendes ansøgning) 
+ 
+ Du vil modtage løn under hele din uddannelse, både i skole- og praktikperioder, Lønnen er efter gældende overenskomst med FOA 
+ Du må forvente at have weekendvagt under hovedforløbet 
+ Praktikstederne er geografisk placeret i hele Lejre Kommune 
+ Din arbejdstid er 37 t/uge og du skal selv dække udgiften til bøger og computer. 
+
+Frister og vilkår:
+
+ Løn- og ansættelsesvilkår under uddannelse efter gældende overenskomst mellem KL og FOA. 
+ Ansættelsessamtaler afholdes løbende til de forskellige hold der bliver oprettet i 2025.",Bøgebakken 1,58,Danmark,350,Lejre,4,"Hovedstaden, Sjælland og Bornholm",4320,Lejre,1,1,Fuldtid,None,None,3,,Social- og sundhedsassistentelev,0,,0,0,False,"{'Email': 'tija@lejre.dk', 'PersonName': 'Tine Jacobsen', 'FirstName': 'Tine', 'LastName': 'Jacobsen', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '30788221', 'Type': 0, 'Description': 'Primary'}]}",,False,False,False,False,4,,,False,False,False,False,False,False,,,,,https://www.lejre.dk/ledige-job/ledige-job/?hr=show-job/233091&linkref=259031&locale=da_DK,False,2025-03-03T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=44ae5048-4d2f-4843-bad0-a1a70fe2a265&Organisation=29188548,"Bøgebakken 1,4320, Lejre",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=44ae5048-4d2f-4843-bad0-a1a70fe2a265&Company.Name=Lejre Kommune&SubmissionDeadlineDate=2025-3-3&Title=GF2 + Social og sundhedsassistentelev eller GF2 + social og sundhedshjælper i et samlet forløb i Lejre Kommune. Ansættelse i jan, april, august, oktober 2025&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,True,0,,,"GF2 + Social og sundhedsassistentelev eller GF2 + social og sundhedshjælper i et samlet forløb i Lejre Kommune. Ansættelse i jan, april, august, oktober 2025",True,,True,1,,44ae5048-4d2f-4843-bad0-a1a70fe2a265,,,False,False,,0,False,Lejre Kommune,Bøgebakken 1,,,4320,False,False,False,Lejre,Tine Jacobsen,30788221,tija@lejre.dk,,,,,False,,2025-03-03T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Lejre kommune,False,Lejre Kommune,,None,,False,False,"
+
+Lejre kommune søger motiverede elever, så overvejer du at blive social og sundhedsassistent eller social og sundhedshjælper er du måske vores nye elev i Lejre kommune? 
+
+Om uddannelsen
+
+Som social og sundhedsassistent elev vil uddannelsen vare ca. 3 år og 3 måneder inkl. grundforløb 2 og varierer mellem skole på ZBC og praktik på plejehjem og hje","""\n\nLejre kommune søger motiverede elever, så overvejer du at blive social og sundhedsassistent eller social og sundhedshjælper er du måske vores nye elev i Lejre kommune? \n\nOm uddannelsen\n\nSom social og sundhedsassistent elev vil uddannelsen vare ca. 3 år og 3 måneder inkl. grundforløb 2 og varierer mellem skole på ZBC og praktik på plejehjem og hje""","""GF2 + Social og sundhedsassistentelev eller GF2 + social og sundhedshjælper i et samlet forløb i Lejre Kommune. Ansættelse i jan, april, august, oktober 2025""","https://www.google.dk/maps/dir//Bøgebakken+1,4320,+Lejre/","Lejre kommune søger motiverede elever, så overvejer du at blive social og sundhedsassistent eller social og sundhedshjælper er du måske vores nye elev i Lejre kommune?  
+
+Om uddannelsen
+
+ Som social og sundhedsassistent elev vil uddannelsen vare ca. 3 år og 3 måneder inkl. grundforløb 2 og varierer mellem skole på ZBC og praktik på plejehjem og hjemmepleje i Lejre Kommune, praktik i psykiatrien og på sygehus. Du vil modtage løn under hele uddannelsen. Da vi cykler rundt til borgerne i hjemmeplejen, er det et krav, at du kan cykle. 
+ Som Social-og sundhedshjælper elev vil uddannelsen vare ca. 20 måneder inkl. grundforløb 2 og varierer mellem skole på ZBC og praktik på plejehjem og hjemmepleje i Lejre Kommune. Da vi cykler rundt til borgerne i hjemmeplejen, er det et krav, at du kan cykle. 
+
+Du vil lære:
+
+ 
+ Helhedsorienteret personlig og praktisk hjælp, herunder håndtering af medicin 
+ At arbejde sundhedsfremmende og sygdomsforebyggende 
+ At dokumentere den udførte sygepleje i et fagsprog 
+ At kende lovgivningen og arbejde ansvarsfuldt inden for denne 
+ Tidlig opsporing, rehabilitering og igangsættelse af aktiviteter 
+ At støtte og hjælpe borgeren til at være aktiv i eget liv 
+ At samarbejde professionelt, tværfagligt og tværsektorielt 
+ 
+
+Om os
+
+ Hos os får du rigtig gode vilkår for uddannelsen. 
+ Som elev i Lejre kommune, vil du få en spændende uforudsigelig hverdag, hvor fokus er på menneskelige behov, forskellige livssituationer og på at gøre borgeren i stand til at mestre mest muligt i eget liv. Din praktikvejleder og Teamleder er dine nærmeste samarbejdspartnere. De støtter og vejleder dig. 
+ Du starter med at få undervisning i: 
+Hvordan samarbejder jeg med en borger i en forflytning? 
+Hvordan samarbejder jeg med en borger med demens? 
+Hvordan skal jeg dokumentere i den elektroniske omsorgsjournal? 
+Hvordan skal jeg håndtere medicin? 
+  Studietid til at fordybe dig i faget imens du er i praktik. 
+
+Om dig
+
+ Vi lægger vægt på, at du er motiveret, nysgerrig, innovativ og kreativt tænkende og har fokus på, at borgeren er i centrum - ikke kun i ord, men også i handling. 
+ Social- og sundhedsassistenteleverne/Social-og sundhedshjælpereleverne i Lejre Kommune er desuden kendetegnet ved at være: 
+ 
+ Ambitiøse, engagerede og mødestabile 
+ Optaget af at skabe kvalitet, faglighed og resultater inden for plejesektoren 
+ Målrettet mod at indtage en faglig rolle med stort ansvar og med mange bolde i luften 
+ Parate til at tage ansvar for egen læring og uddannelse 
+ 
+
+Optagelse og ansættelse:
+
+ Når du ansøger til stillingen som elev skal du opfylde de formelle kriterier. 
+  Derfor skal du dokumentere en: 
+ 
+ Motiverende ansøgning 
+ CV 
+ Realkompetencevurdering fra ZBC 
+ Du har søgt optagelse på GF2 og ZBC har registreret dig (kopi medsendes ansøgning) 
+ Du som udenlandsk statsborger skal du have opholds- og arbejdstilladelse. (kopi medsendes ansøgning) 
+ 
+ Du vil modtage løn under hele din uddannelse, både i skole- og praktikperioder, Lønnen er efter gældende overenskomst med FOA 
+ Du må forvente at have weekendvagt under hovedforløbet 
+ Praktikstederne er geografisk placeret i hele Lejre Kommune 
+ Din arbejdstid er 37 t/uge og du skal selv dække udgiften til bøger og computer. 
+
+Frister og vilkår:
+
+ Løn- og ansættelsesvilkår under uddannelse efter gældende overenskomst mellem KL og FOA. 
+ Ansættelsessamtaler afholdes løbende til de forskellige hold der bliver oprettet i 2025.","https://www.google.dk/maps/place/Bøgebakken+1,4320,+Lejre/",29188548,False,False,,False

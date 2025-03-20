@@ -1,0 +1,132 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Signalling Maintenance Engineer,Signalling Maintenance Engineer,"Alstom arbejder mod en fremtid med lavt CO2 og udvikler og markedsfører mobilitetsløsninger, der danner det bæredygtige grundlag for fremtidens transport. Vores produktportefølje spænder fra højhas",ALSTOM TRANSPORT DANMARK A/S,Amerika Plads 19  ,2100,København Ø,False,False,False,True,2025-01-23T00:00:00,2025-03-20T00:00:00,20. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/58d77084-0ae1-43a2-bfa7-6483163bf066,Hovedstaden og Bornholm,København,Danmark,2100,,Almindelige vilkår,Fastansættelse,Fuldtid,Akademisk arbejde,Ingeniørarbejde,Elektronikingeniør,55.711,12.5737,,,1011653622,,17184210,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/58d77084-0ae1-43a2-bfa7-6483163bf066,https://job.jobnet.dk/CV/FindWork/Details/58d77084-0ae1-43a2-bfa7-6483163bf066,https://job.jobnet.dk/CV/FindWork/Details/58d77084-0ae1-43a2-bfa7-6483163bf066,True,58d77084-0ae1-43a2-bfa7-6483163bf066,55.711,12.5737,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",ALSTOM TRANSPORT DANMARK A/S,Amerika Plads 19,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",2100,,,0,Primary,,,https://jobsearch.alstom.com/job-invite/473278/,None,,1011653622,17184210,None,58d77084-0ae1-43a2-bfa7-6483163bf066,ALSTOM TRANSPORT DANMARK A/S,Amerika Plads 19,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",2100,,,0,Primary,,,https://jobsearch.alstom.com/job-invite/473278/,None,,1011653622,17184210,None,,2025-01-23T00:00:00+01:00,2025-03-20T12:02:00+01:00,Signalling Maintenance Engineer,"Alstom arbejder mod en fremtid med lavt CO2 og udvikler og markedsfører mobilitetsløsninger, der danner det bæredygtige grundlag for fremtidens transport. Vores produktportefølje spænder fra højhastighedstog, metroer, monorail og sporvogne/letbaner til integrerede systemer, tilpassede tjenester, infrastruktur, signalering og digitale mobilitetsløsninger. At slutte sig til os betyder at blive en del af en omsorgsfuld, ansvarlig og innovativ virksomhed, hvor mere end 80.000 mennesker leder vejen til grønnere og smartere mobilitet på verdensplan. 
+ Danmark har sat sig et ambitiøst og radikalt mål - at opgradere hele hovednettet på jernbanen. Alstom arbejder for at realisere denne ambition og har påbegyndt implementeringen af ​​det avancerede ERTMS niveau 2 baseline 3 signalteknologi, både på banen og ombord i togene. 
+   
+ Er du vores nye Sikringstekniker (Signalling Maintenance Engineer) på fuld tid, med base i København, vi leder efter? 
+   
+ Din fremtidige rolle 
+ Påtag udfordringerne og anvend din tekniske ekspertise på et nyt banebrydende felt. 
+ Du kommer til at arbejde sammen med et dedikeret og motiveret vedligeholdelsesteam baseret i København, der dækker 24 timers service. 
+ Til dagligt vil du arbejde tæt sammen med teams på tværs af virksomheden (design, projektledelse, test og idriftsættelse), udføre vedligeholdelsesopgaver langs banen og backoffice-aktiviteter og meget mere. Du vil være en del af supporten for vores kunder i tilfælde af fejl, ved at håndtere problemet indtil den endelige løsning. 
+   
+ Normale arbejdstid er en blanding af at arbejde på Alstom-kontoret og i ”felten” efter virksomhedens regler. Du forventes at arbejde i vagt-rotationsliste (24 timer/dage) i begrænsede planlagte perioder (en uge om måneden i gennemsnit). Du kan have arbejde uden for normal arbejdstid, om natten eller i weekenden til planlagte vedligeholdelsesaktiviteter. 
+ Arbejdsopgaver 
+ 
+ Overvågning af diagnosesystemet, som modtager information om Alstom Systems sundhedsstatus. 
+ Understøttelse af kundeteknikere ved at levere loganalyse eller vejledning over telefonen og i tilfælde af kompleks fejlfinding udføre arbejde i felten, hvis det er nødvendigt. 
+ Gennemgang af fejlrapporter, der indmeldes af kundeteknikere på daglig basis for at sikre at kvalitetsstandarder overholdes. 
+ Undersøgelse af nye fejl, hvor årsagen er ukendt, indsamler alle nødvendige oplysninger om udstyr i felten og analyserer diagnostiske logfiler. 
+ Støtte til Defect-Manager med at vidensdele ​​erfaring med hele vedligeholdelsesteamet. 
+ Udførelse af fejlrettende og/eller forebyggende vedligeholdelse af signaludstyr installeret langs jernbanesporene eller i togene som: 
+ 
+ 
+ Sikringsteknisk udstyr 
+ ERTMS udstyr (ombord i tog og langs banen) 
+ Strømforsyningsudstyr 
+ Hjælpeudstyr/eksternt udstyr 
+ Overkørsler 
+ 
+ 
+ Giver nøjagtig og detaljeret rapport efter udførelsen af opgaver. 
+ Giver uddannelsessessioner til kundeteknikerne, når det obligatoriske ekspertiseniveau er opnået. 
+ 
+ Om dig 
+ Vi værdsætter passion og attitude frem for erfaring. Derfor forventer vi ikke, at du har hver eneste færdighed. I stedet har vi listet nogle op, som vi tror vil hjælpe dig med at få succes og vokse i denne rolle: 
+ 
+ Ingeniør (elektronik eller elektrisk eller Mekanisk, Automation) og erfaring i en jernbane eller kompleks industrisektor. Er færdiguddannet inden for et teknisk fag, såsom IT eller Elektronik (f.eks. elektriker, elektronikmekaniker/-tekniker). 
+ Evne til at forstå elektriske tegninger og skemaer 
+ Kendskab til elektronisk designprincip og metodik 
+ Evne til at bruge testværktøjer (oscilloskop, signalgenerator, multimeter osv.) 
+ God praksis med mekanisk værktøj og kabler 
+ Elektronisk og Mekanisk fejlfinding 
+ 'Taler og Forstår: Dansk og Engelsk' 
+ Kendskab til jernbane- og signalsystemer er et plus 
+ Kendskab til flersprogede miljøer 
+ En robust og analytisk tankegang til løsning af komplekse systemfejl 
+ Fleksibilitet til at arbejde nætter, weekender og helligdage efter behov 
+ Kørekort 
+ Effektive kommunikationsevner med en række forskellige interessenter 
+ PPPB (Pas På På Banen) og L-AUS certifikater er et plus 
+ 
+ Der vil blive leveret en grundig teknisk træning i forhold til Alstoms signalsystemer for at sikre nødvendige kompetencer overensstemmelse med kvalitets-, omkostninger- og deadline-forpligtelser. 
+ Ting du vil nyde 
+ Tag med os på en livslang foranderlig rejse – jernbaneindustrien er kommet for at blive, så du kan vokse og udvikle nye færdigheder og erfaringer gennem din karriere. Du vil også: 
+ 
+ Stabilitet, udfordringer og en langvarig karriere fri for kedelige daglige rutiner 
+ Arbejde med banebrydende jernbanesignalsystemer 
+ Samarbejde med tværgående teams og hjælpsomme kollegaer 
+ Bidrage til innovative projekter, der former fremtidens mobilitet 
+ Udnyt vores fleksible arbejdsforhold 
+ Styr din karriere i den retning, du vælger på tværs af funktioner og lande 
+ Drag fordel af vores investering i din udvikling gennem prisvindende læring 
+ Fremskridt mod lederroller inden for ingeniør- og projektledelse 
+ Drag fordel af en retfærdig og dynamisk belønningspakke, der anerkender din præstation og potentiale, plus omfattende og konkurrencedygtig social dækning (liv, sundhedspakke, pension) 
+ 
+ Du behøver ikke at være tog-entusiast for at trives hos os. Vi garanterer, at når du træder ind i et af vores tog med dine venner eller familie, vil du være stolt. Hvis du er klar til udfordringen, hører vi meget gerne fra dig! 
+ Vigtigt at bemærke 
+ Som en global virksomhed er vi en ligestillingsarbejdsgiver, der hylder mangfoldighed på tværs af de 63 lande, vi opererer i. Vi er forpligtet til at skabe en inkluderende arbejdsplads for alle.",Amerika Plads 19,58,Danmark,101,København,4,"Hovedstaden, Sjælland og Bornholm",2100,,1,1,Fuldtid,None,None,1,"{'DriversLicenceType': 3, 'Name': 'Almindelig bil', 'Description': ''}",Elektronikingeniør,0,"Elektromekanikingeniør, Strømforsyningsingeniør, Optoelektronikingeniør, Kraftværksingeniør, Ingeniør inden for intelligent belysning, Elingeniør til fordelingsanlæg, Elingeniør inden for minedrift, Elektroingeniør, 1577, 1578, 1579, 1580, 1581, Ingeniør inden for intelligent mikroelektonikproduktion, Sensortekniker",0,0,False,"{'Email': 'ahmed.eldaly@alstomgroup.com', 'PersonName': 'Ahmed Eldaly', 'FirstName': 'Ahmed', 'LastName': 'Eldaly', 'PositionTitle': 'TA Specialist', 'PhoneNumbers': []}",,True,False,False,False,4,,,False,False,False,False,False,False,,,,,https://jobsearch.alstom.com/job-invite/473278/,False,2025-03-20T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=58d77084-0ae1-43a2-bfa7-6483163bf066&Organisation=17184210,"Amerika Plads 19,2100, ",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=58d77084-0ae1-43a2-bfa7-6483163bf066&Company.Name=ALSTOM TRANSPORT DANMARK A/S&SubmissionDeadlineDate=2025-3-20&Title=Signalling Maintenance Engineer&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Signalling Maintenance Engineer,True,,True,1,,58d77084-0ae1-43a2-bfa7-6483163bf066,,,False,False,,0,False,ALSTOM TRANSPORT DANMARK A/S,Amerika Plads 19,,,2100,False,False,False,,Ahmed Eldaly,,ahmed.eldaly@alstomgroup.com,,,,,False,,2025-03-20T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i København kommune,False,ALSTOM TRANSPORT DANMARK A/S,,None,,False,False,"Alstom arbejder mod en fremtid med lavt CO2 og udvikler og markedsfører mobilitetsløsninger, der danner det bæredygtige grundlag for fremtidens transport. Vores produktportefølje spænder fra højhastighedstog, metroer, monorail og sporvogne/letbaner til integrerede systemer, tilpassede tjenester, infrastruktur, signalering og digitale mobilitetsløsn","""Alstom arbejder mod en fremtid med lavt CO2 og udvikler og markedsfører mobilitetsløsninger, der danner det bæredygtige grundlag for fremtidens transport. Vores produktportefølje spænder fra højhastighedstog, metroer, monorail og sporvogne/letbaner til integrerede systemer, tilpassede tjenester, infrastruktur, signalering og digitale mobilitetsløsn""","""Signalling Maintenance Engineer""","https://www.google.dk/maps/dir//Amerika+Plads+19,2100,+/","Alstom arbejder mod en fremtid med lavt CO2 og udvikler og markedsfører mobilitetsløsninger, der danner det bæredygtige grundlag for fremtidens transport. Vores produktportefølje spænder fra højhastighedstog, metroer, monorail og sporvogne/letbaner til integrerede systemer, tilpassede tjenester, infrastruktur, signalering og digitale mobilitetsløsninger. At slutte sig til os betyder at blive en del af en omsorgsfuld, ansvarlig og innovativ virksomhed, hvor mere end 80.000 mennesker leder vejen til grønnere og smartere mobilitet på verdensplan. 
+ Danmark har sat sig et ambitiøst og radikalt mål - at opgradere hele hovednettet på jernbanen. Alstom arbejder for at realisere denne ambition og har påbegyndt implementeringen af ​​det avancerede ERTMS niveau 2 baseline 3 signalteknologi, både på banen og ombord i togene. 
+   
+ Er du vores nye Sikringstekniker (Signalling Maintenance Engineer) på fuld tid, med base i København, vi leder efter? 
+   
+ Din fremtidige rolle 
+ Påtag udfordringerne og anvend din tekniske ekspertise på et nyt banebrydende felt. 
+ Du kommer til at arbejde sammen med et dedikeret og motiveret vedligeholdelsesteam baseret i København, der dækker 24 timers service. 
+ Til dagligt vil du arbejde tæt sammen med teams på tværs af virksomheden (design, projektledelse, test og idriftsættelse), udføre vedligeholdelsesopgaver langs banen og backoffice-aktiviteter og meget mere. Du vil være en del af supporten for vores kunder i tilfælde af fejl, ved at håndtere problemet indtil den endelige løsning. 
+   
+ Normale arbejdstid er en blanding af at arbejde på Alstom-kontoret og i ”felten” efter virksomhedens regler. Du forventes at arbejde i vagt-rotationsliste (24 timer/dage) i begrænsede planlagte perioder (en uge om måneden i gennemsnit). Du kan have arbejde uden for normal arbejdstid, om natten eller i weekenden til planlagte vedligeholdelsesaktiviteter. 
+ Arbejdsopgaver 
+ 
+ Overvågning af diagnosesystemet, som modtager information om Alstom Systems sundhedsstatus. 
+ Understøttelse af kundeteknikere ved at levere loganalyse eller vejledning over telefonen og i tilfælde af kompleks fejlfinding udføre arbejde i felten, hvis det er nødvendigt. 
+ Gennemgang af fejlrapporter, der indmeldes af kundeteknikere på daglig basis for at sikre at kvalitetsstandarder overholdes. 
+ Undersøgelse af nye fejl, hvor årsagen er ukendt, indsamler alle nødvendige oplysninger om udstyr i felten og analyserer diagnostiske logfiler. 
+ Støtte til Defect-Manager med at vidensdele ​​erfaring med hele vedligeholdelsesteamet. 
+ Udførelse af fejlrettende og/eller forebyggende vedligeholdelse af signaludstyr installeret langs jernbanesporene eller i togene som: 
+ 
+ 
+ Sikringsteknisk udstyr 
+ ERTMS udstyr (ombord i tog og langs banen) 
+ Strømforsyningsudstyr 
+ Hjælpeudstyr/eksternt udstyr 
+ Overkørsler 
+ 
+ 
+ Giver nøjagtig og detaljeret rapport efter udførelsen af opgaver. 
+ Giver uddannelsessessioner til kundeteknikerne, når det obligatoriske ekspertiseniveau er opnået. 
+ 
+ Om dig 
+ Vi værdsætter passion og attitude frem for erfaring. Derfor forventer vi ikke, at du har hver eneste færdighed. I stedet har vi listet nogle op, som vi tror vil hjælpe dig med at få succes og vokse i denne rolle: 
+ 
+ Ingeniør (elektronik eller elektrisk eller Mekanisk, Automation) og erfaring i en jernbane eller kompleks industrisektor. Er færdiguddannet inden for et teknisk fag, såsom IT eller Elektronik (f.eks. elektriker, elektronikmekaniker/-tekniker). 
+ Evne til at forstå elektriske tegninger og skemaer 
+ Kendskab til elektronisk designprincip og metodik 
+ Evne til at bruge testværktøjer (oscilloskop, signalgenerator, multimeter osv.) 
+ God praksis med mekanisk værktøj og kabler 
+ Elektronisk og Mekanisk fejlfinding 
+ 'Taler og Forstår: Dansk og Engelsk' 
+ Kendskab til jernbane- og signalsystemer er et plus 
+ Kendskab til flersprogede miljøer 
+ En robust og analytisk tankegang til løsning af komplekse systemfejl 
+ Fleksibilitet til at arbejde nætter, weekender og helligdage efter behov 
+ Kørekort 
+ Effektive kommunikationsevner med en række forskellige interessenter 
+ PPPB (Pas På På Banen) og L-AUS certifikater er et plus 
+ 
+ Der vil blive leveret en grundig teknisk træning i forhold til Alstoms signalsystemer for at sikre nødvendige kompetencer overensstemmelse med kvalitets-, omkostninger- og deadline-forpligtelser. 
+ Ting du vil nyde 
+ Tag med os på en livslang foranderlig rejse – jernbaneindustrien er kommet for at blive, så du kan vokse og udvikle nye færdigheder og erfaringer gennem din karriere. Du vil også: 
+ 
+ Stabilitet, udfordringer og en langvarig karriere fri for kedelige daglige rutiner 
+ Arbejde med banebrydende jernbanesignalsystemer 
+ Samarbejde med tværgående teams og hjælpsomme kollegaer 
+ Bidrage til innovative projekter, der former fremtidens mobilitet 
+ Udnyt vores fleksible arbejdsforhold 
+ Styr din karriere i den retning, du vælger på tværs af funktioner og lande 
+ Drag fordel af vores investering i din udvikling gennem prisvindende læring 
+ Fremskridt mod lederroller inden for ingeniør- og projektledelse 
+ Drag fordel af en retfærdig og dynamisk belønningspakke, der anerkender din præstation og potentiale, plus omfattende og konkurrencedygtig social dækning (liv, sundhedspakke, pension) 
+ 
+ Du behøver ikke at være tog-entusiast for at trives hos os. Vi garanterer, at når du træder ind i et af vores tog med dine venner eller familie, vil du være stolt. Hvis du er klar til udfordringen, hører vi meget gerne fra dig! 
+ Vigtigt at bemærke 
+ Som en global virksomhed er vi en ligestillingsarbejdsgiver, der hylder mangfoldighed på tværs af de 63 lande, vi opererer i. Vi er forpligtet til at skabe en inkluderende arbejdsplads for alle.","https://www.google.dk/maps/place/Amerika+Plads+19,2100,+/",17184210,False,False,,False

@@ -1,0 +1,133 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Technical sales specialist needed for scale-up company ,Technical sales specialist needed for scale-up company ,"Are you the newest member of TEMcompany's sales team?
+About Us
+TEMcompany is a fast-growing scale-up that uses cutting-edge technology to produce geo",TEMcompany ApS,Vester Søgårdsvej 22  ,8230,Åbyhøj,False,False,False,True,2025-01-31T00:00:00,2025-03-14T00:00:00,14. marts 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5affda98-f18f-4114-8022-fa3410473247,Midtjylland,Aarhus,Danmark,8230,,Almindelige vilkår,Fastansættelse,Fuldtid,"Salg, indkøb og markedsføring",Salg og indkøb,Salgs- og kundeansvarlig,56.152,10.1605,,,1026258649,,41674849,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5affda98-f18f-4114-8022-fa3410473247,https://job.jobnet.dk/CV/FindWork/Details/5affda98-f18f-4114-8022-fa3410473247,https://job.jobnet.dk/CV/FindWork/Details/5affda98-f18f-4114-8022-fa3410473247,True,5affda98-f18f-4114-8022-fa3410473247,56.152,10.1605,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",TEMcompany ApS,Vester Søgårdsvej 22,58,Danmark,751,Aarhus,2,Midtjylland,8230,,,0,Primary,,jobs@temcompany.com,,None,,1026258649,41674849,None,5affda98-f18f-4114-8022-fa3410473247,TEMcompany ApS,Vester Søgårdsvej 22,58,Danmark,751,Aarhus,2,Midtjylland,8230,,,0,Primary,,jobs@temcompany.com,,None,,1026258649,41674849,None,,2025-01-31T00:00:00+01:00,2025-03-14T08:30:00+01:00,Technical sales specialist needed for scale-up company ,"Are you the newest member of TEMcompany's sales team? 
+ About Us 
+ TEMcompany is a fast-growing scale-up that uses cutting-edge technology to produce geoscanners. 
+ We are dedicated to addressing one of the most urgent challenges of our time—the global water crisis. The climate crisis is intensifying, and water scarcity is becoming a pressing issue, particularly in vulnerable regions like the African continent. Our mission is to empower people with the tools and experience to locate and manage water resources effectively. 
+ TEMcompany's innovative geoscanners are designed to drive meaningful impact, offering advanced technological solutions to help communities, researchers, and organizations uncover sustainable water sources in some of the world's most water-stressed areas. Equipping people with these solutions supports resilience, fosters sustainable development, and contributes to a future where access to clean water is a reality for all. 
+ Our expanding team combines expertise, experience, and dedication to working alongside clients from diverse fields. We provide training and support to ensure customer and business success. Operating across Europe, North America, India and Africa, we're proud to contribute to solutions to global water challenges. 
+ The TEMcompany team punches well above its size; we are ambitious in what we deliver and do well because we care about our work and the projects we are involved in. Our products make a difference. 
+   
+ The opportunity 
+ We are now seeking a new sales specialist to join the team at TEMcompany. The company's technology and products are ready for the market, and the current team of more than 25 employees is searching for a dynamic technical sales and support specialist who can assist in driving success. 
+ We are looking for someone who enjoys a technology-driven environment and who, as part of the sales team, will support and help our customers in the sales process and later with subsequent support and training. 
+ You must be eager to join a dynamic scale-up company, learning as we fly and where change is constant. However, you must also demonstrate care and insight into sales processes and help build long-term customer relationships.   
+     
+ We would like you to have: 
+ 
+ Strong skills in networking and customer relations. 
+ Either a background in natural sciences or engineering with sales experience or a sales-oriented education with flair for technology from a business school. 
+ Open to travel for conferences, tradeshows, and adventures. 
+ Be adaptable and able to work with many different people and nationalities. 
+ 
+   
+ We would like you to : 
+ 
+ Be open to talking to people of different cultures. 
+ Have an interest in being part of a small, dynamic sales team. 
+ Be organized and able to work independently 
+ Love to understand and talk passionately about advanced technology. 
+ Understand new customers, their needs, and how best to help them. 
+ Value other people's perspectives and are good at understanding different points of view. 
+ Communicate and write in fluent and professional English. 
+ Speak other languages is a plus, i.e., Spanish, French, or German, but this is not a requirement. 
+ 
+   
+ Your targets will be to: 
+ 
+ Build sales for our existing products and newly developed products. 
+ Continued improvement of our sales processes based on experience and feedback. 
+ Be able to run sales meetings by knowing the key aspects of the instruments. 
+ 
+   
+ What we provide:  
+ 
+ Flexible working hours and excellent employment conditions. 
+ High-quality lunch arrangement. 
+ An active Staff association with planned events 
+ Dedicated, supportive colleagues where English is spoken as much as Danish. 
+ 
+ Above all, we offer meaningful work where the solutions you help deliver often improve people's lives worldwide. 
+   
+ Your Application  
+ 
+ In a separate cover letter, tell us about yourself, your background, and why you want to work with us. 
+ Provide your CV with relevant qualifications, previous experience, and references. 
+ 
+   
+ Deadline for application  
+ We aim to have you start as soon as possible. Suitable candidates will be invited to an interview promptly. 
+   
+ Please send your application, CV, and other relevant documents to  jobs@temcompany.com . 
+ In the subject line, mention ""Technical sales specialist."" 
+ International applicants are welcome; the workplace is in Aarhus, Denmark. 
+   
+ You can learn more about TEMcompany at  www.temcompany.com 
+ For further information, please contact CEO Esben Auken at  ea@temcompany.com  or +45 28992587.",Vester Søgårdsvej 22,58,Danmark,751,Aarhus,2,Midtjylland,8230,,1,1,Fuldtid,None,None,1,,Salgs- og kundeansvarlig,0,"Key account manager, Key Account Director, After sales specialist",0,0,False,,,False,True,False,False,4,,,False,False,False,False,False,False,,,jobs@temcompany.com,,,False,2025-03-14T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=5affda98-f18f-4114-8022-fa3410473247&Organisation=41674849,"Vester Søgårdsvej 22,8230, ",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5affda98-f18f-4114-8022-fa3410473247&Company.Name=TEMcompany ApS&SubmissionDeadlineDate=2025-3-14&Title=Technical sales specialist needed for scale-up company &WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,True,0,,,Technical sales specialist needed for scale-up company ,True,,True,1,,5affda98-f18f-4114-8022-fa3410473247,,,False,False,,0,False,TEMcompany ApS,Vester Søgårdsvej 22,,,8230,False,False,False,,,,,,,,,False,,2025-03-14T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Aarhus kommune,False,TEMcompany ApS,,None,,False,False,"Are you the newest member of TEMcompany's sales team?
+About Us
+TEMcompany is a fast-growing scale-up that uses cutting-edge technology to produce geoscanners.
+We are dedicated to addressing one of the most urgent challenges of our time—the global water crisis. The climate crisis is intensifying, and water scarcity is becoming a pressing issue, part","""Are you the newest member of TEMcompany\u0027s sales team?\nAbout Us\nTEMcompany is a fast-growing scale-up that uses cutting-edge technology to produce geoscanners.\nWe are dedicated to addressing one of the most urgent challenges of our time—the global water crisis. The climate crisis is intensifying, and water scarcity is becoming a pressing issue, part""","""Technical sales specialist needed for scale-up company ""","https://www.google.dk/maps/dir//Vester+Søgårdsvej+22,8230,+/","Are you the newest member of TEMcompany's sales team? 
+ About Us 
+ TEMcompany is a fast-growing scale-up that uses cutting-edge technology to produce geoscanners. 
+ We are dedicated to addressing one of the most urgent challenges of our time—the global water crisis. The climate crisis is intensifying, and water scarcity is becoming a pressing issue, particularly in vulnerable regions like the African continent. Our mission is to empower people with the tools and experience to locate and manage water resources effectively. 
+ TEMcompany's innovative geoscanners are designed to drive meaningful impact, offering advanced technological solutions to help communities, researchers, and organizations uncover sustainable water sources in some of the world's most water-stressed areas. Equipping people with these solutions supports resilience, fosters sustainable development, and contributes to a future where access to clean water is a reality for all. 
+ Our expanding team combines expertise, experience, and dedication to working alongside clients from diverse fields. We provide training and support to ensure customer and business success. Operating across Europe, North America, India and Africa, we're proud to contribute to solutions to global water challenges. 
+ The TEMcompany team punches well above its size; we are ambitious in what we deliver and do well because we care about our work and the projects we are involved in. Our products make a difference. 
+   
+ The opportunity 
+ We are now seeking a new sales specialist to join the team at TEMcompany. The company's technology and products are ready for the market, and the current team of more than 25 employees is searching for a dynamic technical sales and support specialist who can assist in driving success. 
+ We are looking for someone who enjoys a technology-driven environment and who, as part of the sales team, will support and help our customers in the sales process and later with subsequent support and training. 
+ You must be eager to join a dynamic scale-up company, learning as we fly and where change is constant. However, you must also demonstrate care and insight into sales processes and help build long-term customer relationships.   
+     
+ We would like you to have: 
+ 
+ Strong skills in networking and customer relations. 
+ Either a background in natural sciences or engineering with sales experience or a sales-oriented education with flair for technology from a business school. 
+ Open to travel for conferences, tradeshows, and adventures. 
+ Be adaptable and able to work with many different people and nationalities. 
+ 
+   
+ We would like you to : 
+ 
+ Be open to talking to people of different cultures. 
+ Have an interest in being part of a small, dynamic sales team. 
+ Be organized and able to work independently 
+ Love to understand and talk passionately about advanced technology. 
+ Understand new customers, their needs, and how best to help them. 
+ Value other people's perspectives and are good at understanding different points of view. 
+ Communicate and write in fluent and professional English. 
+ Speak other languages is a plus, i.e., Spanish, French, or German, but this is not a requirement. 
+ 
+   
+ Your targets will be to: 
+ 
+ Build sales for our existing products and newly developed products. 
+ Continued improvement of our sales processes based on experience and feedback. 
+ Be able to run sales meetings by knowing the key aspects of the instruments. 
+ 
+   
+ What we provide:  
+ 
+ Flexible working hours and excellent employment conditions. 
+ High-quality lunch arrangement. 
+ An active Staff association with planned events 
+ Dedicated, supportive colleagues where English is spoken as much as Danish. 
+ 
+ Above all, we offer meaningful work where the solutions you help deliver often improve people's lives worldwide. 
+   
+ Your Application  
+ 
+ In a separate cover letter, tell us about yourself, your background, and why you want to work with us. 
+ Provide your CV with relevant qualifications, previous experience, and references. 
+ 
+   
+ Deadline for application  
+ We aim to have you start as soon as possible. Suitable candidates will be invited to an interview promptly. 
+   
+ Please send your application, CV, and other relevant documents to  jobs@temcompany.com . 
+ In the subject line, mention ""Technical sales specialist."" 
+ International applicants are welcome; the workplace is in Aarhus, Denmark. 
+   
+ You can learn more about TEMcompany at  www.temcompany.com 
+ For further information, please contact CEO Esben Auken at  ea@temcompany.com  or +45 28992587.","https://www.google.dk/maps/place/Vester+Søgårdsvej+22,8230,+/",41674849,False,False,,False

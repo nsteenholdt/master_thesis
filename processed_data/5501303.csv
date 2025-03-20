@@ -1,0 +1,118 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Social og sundhedsassistentelever i sammenhængende forløb,Social og sundhedsassistentelever i sammenhængende forløb,Social- og sundhedsassistentelever i sammenhængende forløb søges. Har du lyst til en afvekslende hverdag? Har du lyst til et  fag der er rivende udvikling? Et job hvor faglighed og livskvalitet er i c,Kvalitet og udvikling,,9600,Aars,False,False,False,True,2022-05-04T00:00:00,2022-06-29T00:00:00,29. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5501303,Nordjylland,Vesthimmerlands,Danmark,9600,,,,Fuldtid,Elever,"Sundhed, omsorg og personlig pleje",Social- og sundhedsassistentelev,56.8,9.4961,,,0,59010,29189471,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5501303,https://job.jobnet.dk/CV/FindWork/Details/5501303,https://job.jobnet.dk/CV/FindWork/Details/5501303,True,5501303,56.8,9.4961,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Kvalitet og udvikling,Højgårdsvej 10,58,Danmark,820,Vesthimmerlands,1,Nordjylland,9640,Farsø,,0,Primary,,,,None,,1015547673,29189471,None,5501303,5501303,Kvalitet og udvikling,Højgårdsvej 10,58,Danmark,820,Vesthimmerlands,1,Nordjylland,9640,Farsø,,0,Primary,,,,None,,1015547673,29189471,None,,2022-05-04T00:00:00,2022-06-29T00:00:00,Social og sundhedsassistentelever i sammenhængende forløb,"Social- og sundhedsassistentelever i sammenhængende forløb søges. Har du lyst til en afvekslende hverdag? Har du lyst til et  fag der er rivende udvikling? Et job hvor faglighed og livskvalitet er i centrum - så læs med her Social- og sundhedsassistent elever i sammenhængende forløb søges 
+ Vesthimmerlands Kommune søger Social- og sundhedsassistentelever sammenhængende forløb med uddannelsesstart på grundforløb 2 + SSA uddannelse på SOSU Nord. August 2022 
+ Grundforløb 2 kan gennemføres på HEG i Aars, hovedforløbet gennemføres i Aalborg. 
+ Som social- og sundhedsassistentelev bliver du uddannet til, at kunne arbejde på et på plejecenter og i hjemmeplejegrupper, på bosteder, bofællesskaber, i psykiatrien og på sygehus. 
+ Om uddannelsen 
+ Ansættelse i et sammenhængende forløb indeholder: 
+ 
+ Grundforløb 2 varighed 20 uger 
+ Hovedforløb til social og sundhedsassistent varighed 2 år 10 mdr. 
+ 
+ Social- og sundhedsassistentuddannelsen er en autoriseret uddannelse, hvor man forpligter sig til at vise omhu og samvittighedsfuldhed. Uddannelsen indebærer opgaver indenfor ""det nære sundhedsvæsen"" og ""det sammenhængende borgerforløb"". Som social- og sundhedsassistent bliver du uddannet både indenfor serviceloven og sundhedsloven.Dine arbejdsopgaver er mangeartede, du vil sjældent møde to dage der er ens.  
+ Du uddannes til at varetage opgaver der strækker sig fra pleje og omsorg til målrettet sygeplejefaglig indsats altid med borgeren/patienten i centrum. Under uddannelsen kommer du til at arbejde tværfagligt med samarbejdspartnere i hele sundheds sektoren. 
+ Som social- og sundhedsassistentelev arbejder du specielt med mennesker, der er fysisk, psykisk eller socialt udfordrede. Vi lægger derfor vægt på, at du har lyst til at udvikle dine evner inden for kommunikation og samarbejde. Vi vægter også, at du har et stort personligt engagement og er frisk på at arbejde tværfagligt med patientsikkerhed for øje. 
+ Din Profil 
+ Faglige kvalifikationer: 
+ 
+ Du skal have bestået dansk på D-niveau og naturfag/matematik på E- niveau – dvs. folkeskolens afgangseksamen. 
+ Du skal vedhæfte optagelsesbrev, RKV og individuel uddannelsesplan fra SOSU Nord 
+ 
+ Du  SKAL  vedlægge dokumentation for ovenstående, når du søger stillingen. Gør du ikke det, vil din ansøgning ikke komme i betragtning. 
+ Personlige egenskaber: 
+ 
+ Ansvarlighed for egen uddannelse 
+ Åbenhed og tillid i mødet med borgere, kollegaer og andre relationer 
+ Stabilitet og fysisk og psykisk robusthed 
+ Overblik og nysgerrig på ny viden 
+ Lyst til at tage ansvar og være en god rollemodel 
+ Har kendskab til IT og lyst til at bruge det som arbejdsredskab. 
+ 
+ Vi tilbyder 
+ 
+ En spændende og varieret uddannelse med højt faglig niveau 
+ Masser af personlig udvikling, udfordringer og ansvar 
+ Afvekslende hverdag, hvor to dage sjældent ligner hinanden 
+ Tæt sammenspil med kollegaer, tværfaglige samarbejdspartnere, pårørende mv. 
+ Godt socialt netværk med de øvrige elever og medarbejdere 
+ Løn under uddannelse 
+ Sikret praktikplads 
+ Ordnede forhold under uddannelsen 
+ 
+ Løn- og ansættelsesvilkår 
+ Efter gældende overenskomster 
+ FOA hjemmeside  http://www.foa.dk/Social-Sundhed/Overenskomster 
+ Du ansættes på 37 timer ugentlig. 
+ Ansøgningsfrist og tiltrædelse 
+ Vi holder løbende ansættelsesamtaler  og der er uddannelsesstart på GF 2 i August og Januar. 
+ Husk at du i den elektroniske ansøgning skal uploade en personlig ansøgning, et CV samt dokumentationer/ beviser for: 
+ 
+ Bestået dansk og matematik på minimum 9. kl. niveau 
+ Opholds og arbejdstilladelse, hvis du ikke er dansk statsborger 
+ Optagelsesbrev, RKV og individuel uddannelsesplan fra SOSU Nord 
+ 
+   
+ Yderligere oplysninger 
+ Får du et afslag på din ansøgning om elevstilling, er Vesthimmerlands Kommune forpligtet til at registrere afslaget – herunder også dit cpr-nummer. Oplysningerne registreres på Praktikpladsen.dk og overføres til Datavarehuset i Styrelsen for It og Læring. Oplysningerne indsamles udelukkende til statistiske formål. De registrerede oplysninger er ikke synlige for dig eller offentligheden. Indsamlingen af disse data sker med hjemmel i §58 i Bekendtgørelse om Erhvervsuddannelser. 
+ Ved behov for yderligere oplysninger kontaktes Uddannelseskoordinatorerne 
+ Heidi Hougaard på 51583824  eller  hho@vesthimmerland.dk 
+ Rikke Larsen på 24970538 eller  rlar@vesthimmerland.dk",,58,Danmark,820,Vesthimmerlands,1,Nordjylland,9600,Aars,16,1,Fuldtid,None,None,15,,0,,0,0,0,,False,"{'Id': 7962301, 'Email': None, 'FaxNumber': None, 'PersonName': 'Heidi Hougaard', 'FirstName': 'Heidi', 'LastName': 'Hougaard', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '99667000', 'Type': 0, 'Description': 'Hovednummer'}]}",2022-08-11T00:00:00,False,False,False,False,4,,,False,False,False,False,,,,,https://vesthimmerland.dk/ledige-stillinger?hr=show-job/25379,False,2022-06-29T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5501303&Organisation=29189471,"Højgårdsvej 10,9640, Farsø",False,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5501303&Company.Name=Kvalitet og udvikling&SubmissionDeadlineDate=2022-6-29&Title=Social og sundhedsassistentelever i sammenhængende forløb&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Social og sundhedsassistentelever i sammenhængende forløb,True,,True,1,,5501303,,,False,False,,0,False,Kvalitet og udvikling,Højgårdsvej 10,,,9640,False,False,False,Farsø,Heidi Hougaard,99667000,,,,,,False,,2022-06-29T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Vesthimmerlands kommune,False,Kvalitet og udvikling,,None,,False,False,"Social- og sundhedsassistentelever i sammenhængende forløb søges. Har du lyst til en afvekslende hverdag? Har du lyst til et  fag der er rivende udvikling? Et job hvor faglighed og livskvalitet er i centrum - så læs med herSocial- og sundhedsassistent elever i sammenhængende forløb søges
+
+Vesthimmerlands Kommune søger Social- og sundhedsassistentel","""Social- og sundhedsassistentelever i sammenhængende forløb søges. Har du lyst til en afvekslende hverdag? Har du lyst til et  fag der er rivende udvikling? Et job hvor faglighed og livskvalitet er i centrum - så læs med herSocial- og sundhedsassistent elever i sammenhængende forløb søges\n\nVesthimmerlands Kommune søger Social- og sundhedsassistentel""","""Social og sundhedsassistentelever i sammenhængende forløb""","https://www.google.dk/maps/dir//Højgårdsvej+10,9640,+Farsø/","Social- og sundhedsassistentelever i sammenhængende forløb søges. Har du lyst til en afvekslende hverdag? Har du lyst til et  fag der er rivende udvikling? Et job hvor faglighed og livskvalitet er i centrum - så læs med her Social- og sundhedsassistent elever i sammenhængende forløb søges 
+ Vesthimmerlands Kommune søger Social- og sundhedsassistentelever sammenhængende forløb med uddannelsesstart på grundforløb 2 + SSA uddannelse på SOSU Nord. August 2022 
+ Grundforløb 2 kan gennemføres på HEG i Aars, hovedforløbet gennemføres i Aalborg. 
+ Som social- og sundhedsassistentelev bliver du uddannet til, at kunne arbejde på et på plejecenter og i hjemmeplejegrupper, på bosteder, bofællesskaber, i psykiatrien og på sygehus. 
+ Om uddannelsen 
+ Ansættelse i et sammenhængende forløb indeholder: 
+ 
+ Grundforløb 2 varighed 20 uger 
+ Hovedforløb til social og sundhedsassistent varighed 2 år 10 mdr. 
+ 
+ Social- og sundhedsassistentuddannelsen er en autoriseret uddannelse, hvor man forpligter sig til at vise omhu og samvittighedsfuldhed. Uddannelsen indebærer opgaver indenfor ""det nære sundhedsvæsen"" og ""det sammenhængende borgerforløb"". Som social- og sundhedsassistent bliver du uddannet både indenfor serviceloven og sundhedsloven.Dine arbejdsopgaver er mangeartede, du vil sjældent møde to dage der er ens.  
+ Du uddannes til at varetage opgaver der strækker sig fra pleje og omsorg til målrettet sygeplejefaglig indsats altid med borgeren/patienten i centrum. Under uddannelsen kommer du til at arbejde tværfagligt med samarbejdspartnere i hele sundheds sektoren. 
+ Som social- og sundhedsassistentelev arbejder du specielt med mennesker, der er fysisk, psykisk eller socialt udfordrede. Vi lægger derfor vægt på, at du har lyst til at udvikle dine evner inden for kommunikation og samarbejde. Vi vægter også, at du har et stort personligt engagement og er frisk på at arbejde tværfagligt med patientsikkerhed for øje. 
+ Din Profil 
+ Faglige kvalifikationer: 
+ 
+ Du skal have bestået dansk på D-niveau og naturfag/matematik på E- niveau – dvs. folkeskolens afgangseksamen. 
+ Du skal vedhæfte optagelsesbrev, RKV og individuel uddannelsesplan fra SOSU Nord 
+ 
+ Du  SKAL  vedlægge dokumentation for ovenstående, når du søger stillingen. Gør du ikke det, vil din ansøgning ikke komme i betragtning. 
+ Personlige egenskaber: 
+ 
+ Ansvarlighed for egen uddannelse 
+ Åbenhed og tillid i mødet med borgere, kollegaer og andre relationer 
+ Stabilitet og fysisk og psykisk robusthed 
+ Overblik og nysgerrig på ny viden 
+ Lyst til at tage ansvar og være en god rollemodel 
+ Har kendskab til IT og lyst til at bruge det som arbejdsredskab. 
+ 
+ Vi tilbyder 
+ 
+ En spændende og varieret uddannelse med højt faglig niveau 
+ Masser af personlig udvikling, udfordringer og ansvar 
+ Afvekslende hverdag, hvor to dage sjældent ligner hinanden 
+ Tæt sammenspil med kollegaer, tværfaglige samarbejdspartnere, pårørende mv. 
+ Godt socialt netværk med de øvrige elever og medarbejdere 
+ Løn under uddannelse 
+ Sikret praktikplads 
+ Ordnede forhold under uddannelsen 
+ 
+ Løn- og ansættelsesvilkår 
+ Efter gældende overenskomster 
+ FOA hjemmeside  http://www.foa.dk/Social-Sundhed/Overenskomster 
+ Du ansættes på 37 timer ugentlig. 
+ Ansøgningsfrist og tiltrædelse 
+ Vi holder løbende ansættelsesamtaler  og der er uddannelsesstart på GF 2 i August og Januar. 
+ Husk at du i den elektroniske ansøgning skal uploade en personlig ansøgning, et CV samt dokumentationer/ beviser for: 
+ 
+ Bestået dansk og matematik på minimum 9. kl. niveau 
+ Opholds og arbejdstilladelse, hvis du ikke er dansk statsborger 
+ Optagelsesbrev, RKV og individuel uddannelsesplan fra SOSU Nord 
+ 
+   
+ Yderligere oplysninger 
+ Får du et afslag på din ansøgning om elevstilling, er Vesthimmerlands Kommune forpligtet til at registrere afslaget – herunder også dit cpr-nummer. Oplysningerne registreres på Praktikpladsen.dk og overføres til Datavarehuset i Styrelsen for It og Læring. Oplysningerne indsamles udelukkende til statistiske formål. De registrerede oplysninger er ikke synlige for dig eller offentligheden. Indsamlingen af disse data sker med hjemmel i §58 i Bekendtgørelse om Erhvervsuddannelser. 
+ Ved behov for yderligere oplysninger kontaktes Uddannelseskoordinatorerne 
+ Heidi Hougaard på 51583824  eller  hho@vesthimmerland.dk 
+ Rikke Larsen på 24970538 eller  rlar@vesthimmerland.dk","https://www.google.dk/maps/place/Højgårdsvej+10,9640,+Farsø/",29189471,False,False,,False

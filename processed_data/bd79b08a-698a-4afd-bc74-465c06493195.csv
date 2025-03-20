@@ -1,0 +1,104 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeMorning,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeVarious,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"Rengøringsassistent ( studiejob, 6 timer om ugen)","Rengøringsassistent ( studiejob, 6 timer om ugen)","Vi søger en selvstændig, morgenfrisk, og detaljeorienteret medarbejder der kan arbejde i Aarhus Centrum.Vi tilbyder dig:
+
+
+Du kommer til at arbejde med rengø",The Cleaning Company ApS,Ny Banegårdsgade 48  ,8000,Aarhus C,False,False,False,True,2024-12-30T00:00:00,2025-02-24T00:00:00,24. februar 2025,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/bd79b08a-698a-4afd-bc74-465c06493195,Midtjylland,Aarhus,Danmark,8000,,Hotjob,Fastansættelse,Deltid,"Rengøring, ejendomsservice og renovation",Rengøring mv.,Rengøringsassistent,56.1505,10.278,(6 - 12 timer ugentligt),"Morgen, dag, aften, weekend, skiftende arbejdstider",1017315893,,34075549,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/bd79b08a-698a-4afd-bc74-465c06493195,https://job.jobnet.dk/CV/FindWork/Details/bd79b08a-698a-4afd-bc74-465c06493195,https://job.jobnet.dk/CV/FindWork/Details/bd79b08a-698a-4afd-bc74-465c06493195,True,bd79b08a-698a-4afd-bc74-465c06493195,56.1505,10.278,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",The Cleaning Company ApS,Ny Banegårdsgade 48,58,Danmark,751,Aarhus,2,Midtjylland,8000,Aarhus C,70301730,0,Primary,,HR@thecleaningcompany.dk,https://www.thecompanygroup.dk/kontakt/ledige-stillinger/?jobId=BaC6iwv6rG5-,None,,1017315893,34075549,None,bd79b08a-698a-4afd-bc74-465c06493195,The Cleaning Company ApS,Ny Banegårdsgade 48,58,Danmark,751,Aarhus,2,Midtjylland,8000,Aarhus C,70301730,0,Primary,,HR@thecleaningcompany.dk,https://www.thecompanygroup.dk/kontakt/ledige-stillinger/?jobId=BaC6iwv6rG5-,None,,1017315893,34075549,None,,2024-12-30T00:00:00+01:00,2025-02-24T14:07:00+01:00,"Rengøringsassistent ( studiejob, 6 timer om ugen)","Vi søger en selvstændig, morgenfrisk, og detaljeorienteret medarbejder der kan arbejde i Aarhus Centrum. Vi tilbyder dig: 
+ 
+ 
+ Du kommer til at arbejde med rengøring af kontorer. 
+ 
+ 
+ Du vil modtage en grundig oplæring i vores rengøringssystemer, og der vil altid være hjælp ved hånden til de udfordringer der narturligt ville opstå. 
+ 
+ 
+ Du vil indgår i et stærkt team med en overvægt af studerende fra det aarhusianske universitetsliv. 
+ 
+ 
+ Du kan få muligheden for at skabe dine egne rammer og dermed få en alsidig arbejdsdag med spændende udfordringer. 
+ 
+ 
+ Opgaverne vil primært udføres fra kl. 5 
+ 
+ 
+ Ugentlig timer: 6+ timer pr. uge 
+ 
+ 
+   
+ Du kan tilbyde: 
+ 
+ 
+ Du skal kunne arbejde både selvstændigt og i samarbejde med dine skønne kollegaer 
+ 
+ 
+ Du er serviceminded - og dit smil kan følge dig hele dagen. 
+ 
+ 
+ Du er omstillingsparat når udfordringerne møder dig i hverdagen. 
+ 
+ 
+ Du må gerne have kørekort. 
+ 
+ 
+ Løn efter kvalifikation og relevant erfaring. 
+ 
+ 
+   
+ Vi vil gerne se både en ansøgning og et CV vedsendt Vi glæder os til at læse din ansøgning igennem. 
+   
+   
+ Send din ansøgning ved at trykke på knappen 'Apply now'  
+ https://www.thecompanygroup.dk/kontakt/ledige-stillinger/?jobId=BaC6iwv6rG5-",Ny Banegårdsgade 48,58,Danmark,751,Aarhus,2,Midtjylland,8000,Aarhus C,1,16,Deltid,None,None,1,,Rengøringsassistent,0,"Bilvaskmedarbejder, Toiletpasser, Strygemedarbejder - beklædning, Rengøringspersonale, Rengøringshjælp, Rengøringsassistent i tog, Rengøringsassistent i fly, Rengøringsassistent i en forlystelsespark, Møbelrenser, Linnedassistent, 5582",0,0,False,,,False,False,False,False,4,12,6,True,False,True,True,True,True,,,HR@thecleaningcompany.dk,70301730,https://www.thecompanygroup.dk/kontakt/ledige-stillinger/?jobId=BaC6iwv6rG5-,False,2025-02-24T00:00:00+01:00,7,/CV/FindWork/GetLogo?JobAdId=bd79b08a-698a-4afd-bc74-465c06493195&Organisation=34075549,"Ny Banegårdsgade 48,8000, Aarhus C",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=bd79b08a-698a-4afd-bc74-465c06493195&Company.Name=The Cleaning Company ApS&SubmissionDeadlineDate=2025-2-24&Title=Rengøringsassistent ( studiejob, 6 timer om ugen)&WeeklyWorkTime=2",00000000-0000-0000-0000-000000000000,True,0,,,"Rengøringsassistent ( studiejob, 6 timer om ugen)",True,,True,2,,bd79b08a-698a-4afd-bc74-465c06493195,,,False,False,,0,False,The Cleaning Company ApS,Ny Banegårdsgade 48,,,8000,False,False,False,Aarhus C,,,,,,,,False,,2025-02-24T00:00:00+01:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,(6 - 12 timer ugentligt),"Morgen, dag, aften, weekend, skiftende arbejdstider",Arbejdspladsen ligger i Aarhus kommune,False,The Cleaning Company ApS,,None,,False,False,"Vi søger en selvstændig, morgenfrisk, og detaljeorienteret medarbejder der kan arbejde i Aarhus Centrum.Vi tilbyder dig:
+
+
+Du kommer til at arbejde med rengøring af kontorer.
+
+
+Du vil modtage en grundig oplæring i vores rengøringssystemer, og der vil altid være hjælp ved hånden til de udfordringer der narturligt ville opstå.
+
+
+Du vil indgår i et st","""Vi søger en selvstændig, morgenfrisk, og detaljeorienteret medarbejder der kan arbejde i Aarhus Centrum.Vi tilbyder dig:\n\n\nDu kommer til at arbejde med rengøring af kontorer.\n\n\nDu vil modtage en grundig oplæring i vores rengøringssystemer, og der vil altid være hjælp ved hånden til de udfordringer der narturligt ville opstå.\n\n\nDu vil indgår i et st""","""Rengøringsassistent ( studiejob, 6 timer om ugen)""","https://www.google.dk/maps/dir//Ny+Banegårdsgade+48,8000,+Aarhus+C/","Vi søger en selvstændig, morgenfrisk, og detaljeorienteret medarbejder der kan arbejde i Aarhus Centrum. Vi tilbyder dig: 
+ 
+ 
+ Du kommer til at arbejde med rengøring af kontorer. 
+ 
+ 
+ Du vil modtage en grundig oplæring i vores rengøringssystemer, og der vil altid være hjælp ved hånden til de udfordringer der narturligt ville opstå. 
+ 
+ 
+ Du vil indgår i et stærkt team med en overvægt af studerende fra det aarhusianske universitetsliv. 
+ 
+ 
+ Du kan få muligheden for at skabe dine egne rammer og dermed få en alsidig arbejdsdag med spændende udfordringer. 
+ 
+ 
+ Opgaverne vil primært udføres fra kl. 5 
+ 
+ 
+ Ugentlig timer: 6+ timer pr. uge 
+ 
+ 
+   
+ Du kan tilbyde: 
+ 
+ 
+ Du skal kunne arbejde både selvstændigt og i samarbejde med dine skønne kollegaer 
+ 
+ 
+ Du er serviceminded - og dit smil kan følge dig hele dagen. 
+ 
+ 
+ Du er omstillingsparat når udfordringerne møder dig i hverdagen. 
+ 
+ 
+ Du må gerne have kørekort. 
+ 
+ 
+ Løn efter kvalifikation og relevant erfaring. 
+ 
+ 
+   
+ Vi vil gerne se både en ansøgning og et CV vedsendt Vi glæder os til at læse din ansøgning igennem. 
+   
+   
+ Send din ansøgning ved at trykke på knappen 'Apply now'  
+ https://www.thecompanygroup.dk/kontakt/ledige-stillinger/?jobId=BaC6iwv6rG5-","https://www.google.dk/maps/place/Ny+Banegårdsgade+48,8000,+Aarhus+C/",34075549,False,False,,False

@@ -1,0 +1,160 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,PhD scholarship in new 'element test' specimens for the study on damage evolution in composites structures,PhD scholarship in new 'element test' specimens for the study on damage evolution in composites structures,"Would you like to take part in the future research in the damage evolution of composite structures such as wind turbine rotor blades using fracture mechanics testing and modelling? 
+
+ If so,",Danmarks Tekniske Universitet,Anker Engelunds Vej 101,2800,Kongens Lyngby,True,False,False,False,2022-05-06T00:00:00,2022-06-03T00:00:00,3. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5592554,Hovedstaden og Bornholm,Lyngby-Taarbæk,Danmark,2800,,,,Fuldtid,Akademisk arbejde,"Forskning og universitetsundervisning, naturvidenskab og teknik ","Ph.d., naturvidenskab og teknik",55.7859,12.5241,,,83955,66175,30060946,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5592554,https://job.jobnet.dk/CV/FindWork/Details/5592554,https://job.jobnet.dk/CV/FindWork/Details/5592554,True,5592554,55.7859,12.5241,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,159,Gladsaxe,4,"Hovedstaden, Sjælland og Bornholm",2800,Kongens Lyngby,,0,Primary,,,,None,83955,1003403265,30060946,None,5592554,5592554,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,58,Danmark,159,Gladsaxe,4,"Hovedstaden, Sjælland og Bornholm",2800,Kongens Lyngby,,0,Primary,,,,None,83955,1003403265,30060946,None,,2022-05-06T00:00:00,2022-06-03T00:00:00,PhD scholarship in new 'element test' specimens for the study on damage evolution in composites structures,"Would you like to take part in the future research in the damage evolution of composite structures such as wind turbine rotor blades using fracture mechanics testing and modelling?  
+ 
+ If so, you should consider applying for a 3-year position as PhD-student at the DTU Wind & Energy Systems, Division Wind Energy Materials and Components, starting in October 2022. The Ph.D. project will be supervised by Professor Bent F. Sørensen and Associate Professor Xiao Chen.  
+ 
+ Job description 
+ 
+ ""Elements test"" specimens are purposely-designed structures with the aim of checking the accuracy of model predictions of damage evolution in composite structures subjected to static and cyclic loading. For wind turbines blades, there is a need for such element test specimens for the study of damage at structural details. The project involves both design and simulation of damage growth in 2-4 different types of element specimens, and subsequently manufacturing and testing of the element specimens. The design and simulation of damage evolution of the element specimens will be made by the use of finite element modelling and cohesive zone modelling. Input to the simulations will be fracture mechanics properties of interfaces (e.g. mixed mode cohesive laws and fatigue crack growth rates) that are determined independently from mixed mode fracture experiments. The predicted damage growth from the models will be compared with the damage evolution in the real element specimens. The characterization of the damage evolution can be supported by sensors (e.g. acoustic emission), thermal and high-speed cameras and fractography in port-mortem analysis.  
+ 
+ Responsibilities and qualifications 
+ 
+ During this PhD program, you are expected to:  Conduct mixed mode fracture mechanics experiments, e.g. using double cantilever beam specimens loaded by uneven bending moments in collaboration with our research technicans  
+ Data analysis, e.g., extraction of mixed mode cohesive laws from exterimental data  
+ Develop finite element models of element specimens and sumulate progressive failure by cohesive zone modelling  
+ Plan and conduct experimental work together with development engineers and research technicians: manufacturing and mechanical testing of element specimens  
+ Disseminate the results in peer-reviewed top profile journals  
+ 
+ 
+ As a formal qualification, you must have a two-year master's degree in mechanical engineering, aerospace engineering or a similar degree with an academic level equivalent to a two-year master's degree. Furthermore, strong English communication skills are essential. Applicants should be highly motivated, ambitious, and eager to seek and share knowledge, willing and able to work independently and in a team.  
+ 
+ Preference will be given to applicant that can document experience in the following fields:  Solid mechanics  
+ Mechanics of composite materials  
+ Experimental mechanics (materials testing)  
+ Finite element modelling (e.g. by Abaqus)  
+ Cohesive zone modelling  
+ Programming involving FORTRAN, C++, Python or MATLAB  
+ 
+ 
+ Approval and Enrolment 
+ 
+ The scholarship for the PhD degree is subject to academic approval, and the candidate will be enrolled in one of the general degree programmes at DTU. For information about our enrolment requirements and the general planning of the PhD study programme, please see DTU's rules for the PhD education. https://www.dtu.dk/english/Education/PhD/Rules  
+ 
+ Assessment 
+ 
+ The assessment of the applicants will be made by Professor Bent F. Sørensen and Associate Professor Xiao Chen and Head of Division Ignacio Marti.  
+ 
+ We offer 
+ 
+ DTU is a leading technical university globally recognized for the excellence of its research, education, innovation, and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and academic freedom tempered by responsibility.  
+ 
+ Salary and appointment terms 
+ 
+ The appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed upon with the relevant union. The period of employment is 3 years.  
+ 
+ Starting date is as soon as possible according to mutual agreement.  
+ 
+ You can read more about career paths at DTU here. http://www.dtu.dk/english/about/job-and-career/working-at-dtu/career-paths  
+ 
+ Further information 
+ 
+ Further information may be obtained from Professor Bent F. Sørensen (bsqr@dtu.dk).  
+ 
+ You can read more about Department of Wind Energy & Systems at www.vindenergi.dtu.dk  
+ 
+ If you are applying from abroad, you may find useful information on working in Denmark and at DTU at DTU - Moving to Denmark. https://www.dtu.dk/english/about/job-and-career/moving-to-denmark  
+ 
+ Application procedure 
+ 
+ Your complete online application must be submitted no later than 15 June 2022 (Danish time).  
+ 
+ Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link ""Apply online"", fill out the online application form, and attach all your materials in English in one PDF file. The file must include:  A letter motivating the application (cover letter)  
+ Curriculum vitae  
+ Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale  
+ Contact of at least two reference persons.  
+ Scientific publications (if any)  
+ 
+ 
+ You may apply prior to obtaining your master's degree but cannot begin before having received it.  
+ 
+ Applications received after the deadline will not be considered.  
+ 
+ All interested candidates irrespective of age, gender,race, disability, religion or ethnic background are encouraged to apply.  
+ 
+  DTU Wind Energy 
+ is one of the largest and most well-known university department for wind energy in the world with 370 employees. The institute is in the international driving field with a unique integration of research, education, innovation and public / private government service. DTU Wind Energy & Systems has extensive expertise in wind turbine technology, focusing on the impact of loads, structural design and reliability, aeroelastic design and materials.  
+ 
+ Technology for people 
+ 
+ DTU develops technology for people. With our international elite research and study programmes, we are helping to create a better world and to solve the global challenges formulated in the UN's 17 Sustainable Development Goals. Hans Christian Ørsted founded DTU in 1829 with a clear vision to develop and create value using science and engineering to benefit society. That vision lives on today. DTU has 13,400 students and 5,800 employees. We work in an international atmosphere and have an inclusive, evolving, and informal working environment. DTU has campuses in all parts of Denmark and in Greenland, and we collaborate with the best universities around the world.",Anker Engelunds Vej 101,58,Danmark,173,Lyngby-Taarbæk,4,"Hovedstaden, Sjælland og Bornholm",2800,Kongens Lyngby,1,1,Fuldtid,None,None,1,,0,,0,0,0,,True,"{'Id': 7967176, 'Email': 'bsqr@dtu.dk', 'FaxNumber': None, 'PersonName': 'Bent F. Sørensen', 'FirstName': 'Bent F.', 'LastName': 'Sørensen', 'PositionTitle': 'Professor', 'PhoneNumbers': []}",,True,True,False,False,4,,,False,False,False,False,,,,,https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=d5d0af82-3ae7-43b4-8119-1ad1e5b160ad,False,2022-06-03T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5592554&WorkPlace=83955&Organisation=30060946,"Anker Engelunds Vej 101,2800, Kongens Lyngby",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5592554&Company.Name=Danmarks Tekniske Universitet&SubmissionDeadlineDate=2022-6-3&Title=PhD scholarship in new 'element test' specimens for the study on damage evolution in composites structures&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,PhD scholarship in new 'element test' specimens for the study on damage evolution in composites structures,True,,True,1,,5592554,,,False,False,,0,False,Danmarks Tekniske Universitet,Anker Engelunds Vej 101,,,2800,False,False,False,Kongens Lyngby,Bent F. Sørensen,,bsqr@dtu.dk,,,,,False,,2022-06-03T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Lyngby-Taarbæk kommune,False,Danmarks Tekniske Universitet,,None,,False,False,"Would you like to take part in the future research in the damage evolution of composite structures such as wind turbine rotor blades using fracture mechanics testing and modelling? 
+
+ If so, you should consider applying for a 3-year position as PhD-student at the DTU Wind  Energy Systems, Division Wind Energy Materials and Components, starting in O","""Would you like to take part in the future research in the damage evolution of composite structures such as wind turbine rotor blades using fracture mechanics testing and modelling? \n\n If so, you should consider applying for a 3-year position as PhD-student at the DTU Wind  Energy Systems, Division Wind Energy Materials and Components, starting in O""","""PhD scholarship in new \u0027element test\u0027 specimens for the study on damage evolution in composites structures""","https://www.google.dk/maps/dir//Anker+Engelunds+Vej+101,2800,+Kongens+Lyngby/","Would you like to take part in the future research in the damage evolution of composite structures such as wind turbine rotor blades using fracture mechanics testing and modelling?  
+ 
+ If so, you should consider applying for a 3-year position as PhD-student at the DTU Wind & Energy Systems, Division Wind Energy Materials and Components, starting in October 2022. The Ph.D. project will be supervised by Professor Bent F. Sørensen and Associate Professor Xiao Chen.  
+ 
+ Job description 
+ 
+ ""Elements test"" specimens are purposely-designed structures with the aim of checking the accuracy of model predictions of damage evolution in composite structures subjected to static and cyclic loading. For wind turbines blades, there is a need for such element test specimens for the study of damage at structural details. The project involves both design and simulation of damage growth in 2-4 different types of element specimens, and subsequently manufacturing and testing of the element specimens. The design and simulation of damage evolution of the element specimens will be made by the use of finite element modelling and cohesive zone modelling. Input to the simulations will be fracture mechanics properties of interfaces (e.g. mixed mode cohesive laws and fatigue crack growth rates) that are determined independently from mixed mode fracture experiments. The predicted damage growth from the models will be compared with the damage evolution in the real element specimens. The characterization of the damage evolution can be supported by sensors (e.g. acoustic emission), thermal and high-speed cameras and fractography in port-mortem analysis.  
+ 
+ Responsibilities and qualifications 
+ 
+ During this PhD program, you are expected to:  Conduct mixed mode fracture mechanics experiments, e.g. using double cantilever beam specimens loaded by uneven bending moments in collaboration with our research technicans  
+ Data analysis, e.g., extraction of mixed mode cohesive laws from exterimental data  
+ Develop finite element models of element specimens and sumulate progressive failure by cohesive zone modelling  
+ Plan and conduct experimental work together with development engineers and research technicians: manufacturing and mechanical testing of element specimens  
+ Disseminate the results in peer-reviewed top profile journals  
+ 
+ 
+ As a formal qualification, you must have a two-year master's degree in mechanical engineering, aerospace engineering or a similar degree with an academic level equivalent to a two-year master's degree. Furthermore, strong English communication skills are essential. Applicants should be highly motivated, ambitious, and eager to seek and share knowledge, willing and able to work independently and in a team.  
+ 
+ Preference will be given to applicant that can document experience in the following fields:  Solid mechanics  
+ Mechanics of composite materials  
+ Experimental mechanics (materials testing)  
+ Finite element modelling (e.g. by Abaqus)  
+ Cohesive zone modelling  
+ Programming involving FORTRAN, C++, Python or MATLAB  
+ 
+ 
+ Approval and Enrolment 
+ 
+ The scholarship for the PhD degree is subject to academic approval, and the candidate will be enrolled in one of the general degree programmes at DTU. For information about our enrolment requirements and the general planning of the PhD study programme, please see DTU's rules for the PhD education.  https://www.dtu.dk/english/Education/PhD/Rules   
+ 
+ Assessment 
+ 
+ The assessment of the applicants will be made by Professor Bent F. Sørensen and Associate Professor Xiao Chen and Head of Division Ignacio Marti.  
+ 
+ We offer 
+ 
+ DTU is a leading technical university globally recognized for the excellence of its research, education, innovation, and scientific advice. We offer a rewarding and challenging job in an international environment. We strive for academic excellence in an environment characterized by collegial respect and academic freedom tempered by responsibility.  
+ 
+ Salary and appointment terms 
+ 
+ The appointment will be based on the collective agreement with the Danish Confederation of Professional Associations. The allowance will be agreed upon with the relevant union. The period of employment is 3 years.  
+ 
+ Starting date is as soon as possible according to mutual agreement.  
+ 
+ You can read more about career paths at DTU here.  http://www.dtu.dk/english/about/job-and-career/working-at-dtu/career-paths   
+ 
+ Further information 
+ 
+ Further information may be obtained from Professor Bent F. Sørensen (bsqr@dtu.dk).  
+ 
+ You can read more about Department of Wind Energy & Systems at  www.vindenergi.dtu.dk   
+ 
+ If you are applying from abroad, you may find useful information on working in Denmark and at DTU at DTU - Moving to Denmark.  https://www.dtu.dk/english/about/job-and-career/moving-to-denmark   
+ 
+ Application procedure 
+ 
+ Your complete online application must be submitted no later than 15 June 2022 (Danish time).  
+ 
+ Applications must be submitted as one PDF file containing all materials to be given consideration. To apply, please open the link ""Apply online"", fill out the online application form, and attach all your materials in English in one PDF file. The file must include:  A letter motivating the application (cover letter)  
+ Curriculum vitae  
+ Grade transcripts and BSc/MSc diploma (in English) including official description of grading scale  
+ Contact of at least two reference persons.  
+ Scientific publications (if any)  
+ 
+ 
+ You may apply prior to obtaining your master's degree but cannot begin before having received it.  
+ 
+ Applications received after the deadline will not be considered.  
+ 
+ All interested candidates irrespective of age, gender,race, disability, religion or ethnic background are encouraged to apply.  
+ 
+  DTU Wind Energy 
+ is one of the largest and most well-known university department for wind energy in the world with 370 employees. The institute is in the international driving field with a unique integration of research, education, innovation and public / private government service. DTU Wind Energy & Systems has extensive expertise in wind turbine technology, focusing on the impact of loads, structural design and reliability, aeroelastic design and materials.  
+ 
+ Technology for people 
+ 
+ DTU develops technology for people. With our international elite research and study programmes, we are helping to create a better world and to solve the global challenges formulated in the UN's 17 Sustainable Development Goals. Hans Christian Ørsted founded DTU in 1829 with a clear vision to develop and create value using science and engineering to benefit society. That vision lives on today. DTU has 13,400 students and 5,800 employees. We work in an international atmosphere and have an inclusive, evolving, and informal working environment. DTU has campuses in all parts of Denmark and in Greenland, and we collaborate with the best universities around the world.","https://www.google.dk/maps/place/Anker+Engelunds+Vej+101,2800,+Kongens+Lyngby/",30060946,False,False,,False

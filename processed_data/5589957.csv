@@ -1,0 +1,146 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany_Name,details_JobPositionPosting_RecruitingCompany_Address_AddressLine,details_JobPositionPosting_RecruitingCompany_Address_Country_Id,details_JobPositionPosting_RecruitingCompany_Address_Country_Name,details_JobPositionPosting_RecruitingCompany_Address_Municipality_Id,details_JobPositionPosting_RecruitingCompany_Address_Municipality_Name,details_JobPositionPosting_RecruitingCompany_Address_Region_Id,details_JobPositionPosting_RecruitingCompany_Address_Region_Name,details_JobPositionPosting_RecruitingCompany_Address_PostalCode,details_JobPositionPosting_RecruitingCompany_Address_City,details_JobPositionPosting_RecruitingCompany_PhoneNumber_Number,details_JobPositionPosting_RecruitingCompany_PhoneNumber_Type,details_JobPositionPosting_RecruitingCompany_PhoneNumber_Description,details_JobPositionPosting_RecruitingCompany_FaxNumber,details_JobPositionPosting_RecruitingCompany_Email,details_JobPositionPosting_RecruitingCompany_WebAddress,details_JobPositionPosting_RecruitingCompany_Description,details_JobPositionPosting_RecruitingCompany_Logo,details_JobPositionPosting_RecruitingCompany_WorkPlaceOrganizationNumber,details_JobPositionPosting_RecruitingCompany_OrganizationNumber,details_JobPositionPosting_RecruitingCompany_OrganizationDescription,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,KORDEGN OG DAGLIG LEDER I SÆDDEN KIRKE I ESBJERG,KORDEGN OG DAGLIG LEDER I SÆDDEN KIRKE I ESBJERG,"Sædden Kirke søger en ny kordegn og daglig leder, der kan indgå aktivt i kirkens daglige liv. Tiltrædelse er 1. august 2022.
+ 
+Kordegnen har en central funktion i hele kirken og vi fo",SÆDDEN SOGNS MENIGHEDSRÅD,Fyrvej 30,6710,Esbjerg V,False,False,False,True,2022-05-04T00:00:00,2022-05-30T00:00:00,30. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5589957,Syddanmark,Esbjerg,Danmark,6710,,,,Fuldtid,"Pædagogisk, socialt og kirkeligt arbejde",Religiøst arbejde,Kordegn,55.4978,8.4046,,,108771,97895,84567310,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5589957,https://job.jobnet.dk/CV/FindWork/Details/5589957,https://job.jobnet.dk/CV/FindWork/Details/5589957,True,5589957,55.4978,8.4046,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",SÆDDEN SOGNS MENIGHEDSRÅD,Fyrvej 30,58,Danmark,561,Esbjerg,3,Syddanmark,6710,Esbjerg V,,0,Primary,,,,None,108771,1002698129,84567310,None,5589957,5589957,SÆDDEN SOGNS MENIGHEDSRÅD,Fyrvej 30,58,Danmark,561,Esbjerg,3,Syddanmark,6710,Esbjerg V,,0,Primary,,,,None,108771,1002698129,84567310,None,Jobcenter Esbjerg,Exnersgade 33,0,,0,,0,,6700,Esbjerg,76167300,0,Primary,,,,None,,,56100,None,2022-05-04T00:00:00,2022-05-30T00:00:00,KORDEGN OG DAGLIG LEDER I SÆDDEN KIRKE I ESBJERG,"Sædden Kirke søger en ny kordegn og daglig leder, der kan indgå aktivt i kirkens daglige liv. Tiltrædelse er 1. august 2022. 
+   
+ Kordegnen har en central funktion i hele kirken og vi forventer, at kordegnen kan holde ”mange bolde i luften”. 
+   
+ Vi søger en kordegn, der er imødekommende og venlig, kan arbejde selvstændigt, besidder gode samarbejdsevner, som kommunikerer tydeligt, og som har humoristisk sans. 
+   
+ Arbejdet omfatter blandt andet : 
+   
+ 
+ Personregistrering 
+ Kommunikation ud af huset, herunder information og nyhedsopdatering på hjemmeside 
+ Sekretæropgaver for menighedsrådet, udvalg og præsterne 
+ Intern mødeaktivitet og bindeled mellem MR og personalegrupperne 
+ På sigt ønskes varetagelse af kirkens regnskab og løn. Denne funktion varetages p.t. af ekstern samarbejdspartner 
+ Personaleledelse, især koordinering af arbejdsopgaver, og administration i forbindelse hermed 
+ Deltagelse i gudstjenester i begrænset omfang 
+ 
+   
+ Vi lægger vægt på, at du : 
+   
+ 
+ har erfaring, enten som kordegn, eller fra sammenlignelige arbejdsområder 
+ har gode IT-kundskaber 
+ er god til at kommunikere i skrift og tale 
+ har ordenssans, datadisciplin og overblik, og er robust 
+ har erfaring med personaleledelse og formår at fremme trivslen blandt medarbejderne og bringe deres kompetencer i spil 
+  er fortrolig med Folkekirken og har indsigt i dens liv og kultur 
+ er nysgerrig, visionær og udviklingsorienteret 
+ er empatisk og lyttende 
+ er løsningsorienteret og loyal 
+ har lyst og evner til at indgå i konstruktiv dialog og nært samarbejde med medarbejdere, præster, menighedsråd og frivillige. 
+ 
+   
+ Vi kan tilbyde dig en fuldtidsstilling (gennemsnitligt 37 timer om ugen) med et spændende og afvekslende arbejde i kontakt med mange mennesker. 
+   
+ Sædden Kirke er en moderne kirke fra 1978, der er tegnet af arkitektparret Johannes og Inger Exner. Sædden Sogn er Ribe Stifts næststørste sogn og har et befolkningstal på i alt 10.129 borgere. Der er 4 præster, to kirketjenere, to organister, 3 faste kirkesangere, et kirkekor, 1 kirke-og kulturmedarbejder, samt 1 kordegn. 
+   
+ Sædden sogn er et aktivt sogn med mange kirkelige handlinger og gudstjenester, og der er mange brugere af kirkens lokaler i det daglige. 
+ Der henvises til kirkens hjemmeside for yderligere oplysninger om kirkens ansatte og aktiviteter:  https://www.saeddenkirke.dk 
+   
+ Faktuelle oplysninger om sognet kan desuden findes på:  https://sogn.dk/saedden 
+   
+ Ansøgningsfristen er mandag d. 30.maj 2022 kl.15.00 . 
+   
+ Ansøgningen med relevante bilag sendes til  9106fortrolig@sogn.dk 
+   
+ Ansættelsessamtaler forventes afholdt i uge 23 / torsdag den 9. juni fra kl.10.00 og fremefter.  
+   
+ Menighedsrådet oplyser, at der kan blive indhentet referencer. 
+   
+ Der er pligt til at gøre tjeneste ved andre ansættelsesmyndigheder i Skads Provsti i overensstemmelse med de aftaler menighedsrådet indgår/har indgået med andre ansættelsesmyndigheder. 
+   
+ Ansættelse sker ved Sædden Sogns Menighedsråd beliggende Fyrvej 30 6710 Esbjerg V. 
+ Stillingen er indplaceret i løngruppe 3. Årslønnen aftales indenfor intervallet 356.741,49 kr. – 445.927,42 kr. (nutidskroner). Fikspunktet er 371.606,19 kr. (nutidskroner). 
+ OK tillæg på 850,58 kr. (nutidskroner) pr. år. 
+   
+ Løn forhandles efter kvalifikationer og opgaver i øvrigt. Aftale om indplacering i lønintervallet indgås mellem menighedsrådet og Danmarks Kordegneforening. 
+   
+ Nuværende tjenestemandsansatte kordegne har ret til at bevare deres tjenestemandsstatus ved ansættelse med direkte overgang. Der skal i så fald ske en klassificering af stillingen. 
+   
+ Ansættelsen vil være omfattet af Fællesoverenskomsten mellem Finansministeriet og Centralorganisation af 2010 - CO10 og organisationsaftale for kirkefunktionærer med kerneopgaver som henholdsvis kordegn, sognemedhjælper eller kirkemusiker og det tilhørende protokollat for kordegne. Aftalerne kan ses på  www.folkekirkenspersonale.dk 
+   
+ Det er en forudsætning for ansættelse, at en ansøger, der ikke allerede har gennemført kordegneuddannelsen, gennemfører den obligatoriske 5 ugers grundlæggende uddannelse indenfor 2 år efter ansættelsens start. Da der på sigt er henlagt regnskabsførerhverv til stillingen, skal de krævede regnskabsmoduler ligeledes gennemføres indenfor 2 år efter ansættelsens start. 
+   
+ Se cirkulære om uddannelseskrav for kirkefunktionærer på  www.folkekirkenspersonale.dk 
+ Yderligere oplysninger om stillingen kan opnås ved henvendelse til følgende personer:   
+   
+ Menighedsrådsformand Henny Dobrick: 40 43 71 83 
+ Kontaktperson Allan Blom Nielsen: 53 54 00 33 
+ Sognepræst (kbf.) Tage Kristian Kristensen: 29 47 24 34 / 75 15 10 13.",Fyrvej 30,58,Danmark,561,Esbjerg,3,Syddanmark,6710,Esbjerg V,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7957555, 'Email': '9106fortrolig@sogn.dk', 'FaxNumber': None, 'PersonName': 'Allan Blom Nielsen', 'FirstName': 'Allan Blom', 'LastName': 'Nielsen', 'PositionTitle': 'Kontaktperson', 'PhoneNumbers': []}",2022-08-01T00:00:00,False,False,False,False,4,,,False,False,False,False,,,9106fortrolig@sogn.dk,,,False,2022-05-30T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5589957&WorkPlace=108771&Organisation=84567310,"Fyrvej 30,6710, Esbjerg V",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5589957&Company.Name=SÆDDEN SOGNS MENIGHEDSRÅD&SubmissionDeadlineDate=2022-5-30&Title=KORDEGN OG DAGLIG LEDER I SÆDDEN KIRKE I ESBJERG&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,KORDEGN OG DAGLIG LEDER I SÆDDEN KIRKE I ESBJERG,True,,True,1,,5589957,,,False,False,,0,False,SÆDDEN SOGNS MENIGHEDSRÅD,Fyrvej 30,,,6710,False,False,False,Esbjerg V,Allan Blom Nielsen,,9106fortrolig@sogn.dk,,,,,False,,2022-05-30T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Esbjerg kommune,False,SÆDDEN SOGNS MENIGHEDSRÅD,Kontakt Jobcenter Esbjerg på telefon 76167300,None,,False,False,"S&aelig;dden Kirke s&oslash;ger en ny kordegn og daglig leder, der kan indg&aring; aktivt i kirkens daglige liv. Tiltr&aelig;delse er 1. august 2022.
+
+Kordegnen har en central funktion i hele kirken og vi forventer, at kordegnen kan holde &rdquo;mange bolde i luften&rdquo;.
+
+Vi s&oslash;ger en kordegn, der er im&oslash;dekommende og venlig, kan arb","""S\u0026aelig;dden Kirke s\u0026oslash;ger en ny kordegn og daglig leder, der kan indg\u0026aring; aktivt i kirkens daglige liv. Tiltr\u0026aelig;delse er 1. august 2022.\n\nKordegnen har en central funktion i hele kirken og vi forventer, at kordegnen kan holde \u0026rdquo;mange bolde i luften\u0026rdquo;.\n\nVi s\u0026oslash;ger en kordegn, der er im\u0026oslash;dekommende og venlig, kan arb""","""KORDEGN OG DAGLIG LEDER I SÆDDEN KIRKE I ESBJERG""","https://www.google.dk/maps/dir//Fyrvej+30,6710,+Esbjerg+V/","Sædden Kirke søger en ny kordegn og daglig leder, der kan indgå aktivt i kirkens daglige liv. Tiltrædelse er 1. august 2022. 
+   
+ Kordegnen har en central funktion i hele kirken og vi forventer, at kordegnen kan holde ”mange bolde i luften”. 
+   
+ Vi søger en kordegn, der er imødekommende og venlig, kan arbejde selvstændigt, besidder gode samarbejdsevner, som kommunikerer tydeligt, og som har humoristisk sans. 
+   
+ Arbejdet omfatter blandt andet : 
+   
+ 
+ Personregistrering 
+ Kommunikation ud af huset, herunder information og nyhedsopdatering på hjemmeside 
+ Sekretæropgaver for menighedsrådet, udvalg og præsterne 
+ Intern mødeaktivitet og bindeled mellem MR og personalegrupperne 
+ På sigt ønskes varetagelse af kirkens regnskab og løn. Denne funktion varetages p.t. af ekstern samarbejdspartner 
+ Personaleledelse, især koordinering af arbejdsopgaver, og administration i forbindelse hermed 
+ Deltagelse i gudstjenester i begrænset omfang 
+ 
+   
+ Vi lægger vægt på, at du : 
+   
+ 
+ har erfaring, enten som kordegn, eller fra sammenlignelige arbejdsområder 
+ har gode IT-kundskaber 
+ er god til at kommunikere i skrift og tale 
+ har ordenssans, datadisciplin og overblik, og er robust 
+ har erfaring med personaleledelse og formår at fremme trivslen blandt medarbejderne og bringe deres kompetencer i spil 
+  er fortrolig med Folkekirken og har indsigt i dens liv og kultur 
+ er nysgerrig, visionær og udviklingsorienteret 
+ er empatisk og lyttende 
+ er løsningsorienteret og loyal 
+ har lyst og evner til at indgå i konstruktiv dialog og nært samarbejde med medarbejdere, præster, menighedsråd og frivillige. 
+ 
+   
+ Vi kan tilbyde dig en fuldtidsstilling (gennemsnitligt 37 timer om ugen) med et spændende og afvekslende arbejde i kontakt med mange mennesker. 
+   
+ Sædden Kirke er en moderne kirke fra 1978, der er tegnet af arkitektparret Johannes og Inger Exner. Sædden Sogn er Ribe Stifts næststørste sogn og har et befolkningstal på i alt 10.129 borgere. Der er 4 præster, to kirketjenere, to organister, 3 faste kirkesangere, et kirkekor, 1 kirke-og kulturmedarbejder, samt 1 kordegn. 
+   
+ Sædden sogn er et aktivt sogn med mange kirkelige handlinger og gudstjenester, og der er mange brugere af kirkens lokaler i det daglige. 
+ Der henvises til kirkens hjemmeside for yderligere oplysninger om kirkens ansatte og aktiviteter:  https://www.saeddenkirke.dk 
+   
+ Faktuelle oplysninger om sognet kan desuden findes på:  https://sogn.dk/saedden 
+   
+ Ansøgningsfristen er mandag d. 30.maj 2022 kl.15.00 . 
+   
+ Ansøgningen med relevante bilag sendes til  9106fortrolig@sogn.dk 
+   
+ Ansættelsessamtaler forventes afholdt i uge 23 / torsdag den 9. juni fra kl.10.00 og fremefter.  
+   
+ Menighedsrådet oplyser, at der kan blive indhentet referencer. 
+   
+ Der er pligt til at gøre tjeneste ved andre ansættelsesmyndigheder i Skads Provsti i overensstemmelse med de aftaler menighedsrådet indgår/har indgået med andre ansættelsesmyndigheder. 
+   
+ Ansættelse sker ved Sædden Sogns Menighedsråd beliggende Fyrvej 30 6710 Esbjerg V. 
+ Stillingen er indplaceret i løngruppe 3. Årslønnen aftales indenfor intervallet 356.741,49 kr. – 445.927,42 kr. (nutidskroner). Fikspunktet er 371.606,19 kr. (nutidskroner). 
+ OK tillæg på 850,58 kr. (nutidskroner) pr. år. 
+   
+ Løn forhandles efter kvalifikationer og opgaver i øvrigt. Aftale om indplacering i lønintervallet indgås mellem menighedsrådet og Danmarks Kordegneforening. 
+   
+ Nuværende tjenestemandsansatte kordegne har ret til at bevare deres tjenestemandsstatus ved ansættelse med direkte overgang. Der skal i så fald ske en klassificering af stillingen. 
+   
+ Ansættelsen vil være omfattet af Fællesoverenskomsten mellem Finansministeriet og Centralorganisation af 2010 - CO10 og organisationsaftale for kirkefunktionærer med kerneopgaver som henholdsvis kordegn, sognemedhjælper eller kirkemusiker og det tilhørende protokollat for kordegne. Aftalerne kan ses på  www.folkekirkenspersonale.dk 
+   
+ Det er en forudsætning for ansættelse, at en ansøger, der ikke allerede har gennemført kordegneuddannelsen, gennemfører den obligatoriske 5 ugers grundlæggende uddannelse indenfor 2 år efter ansættelsens start. Da der på sigt er henlagt regnskabsførerhverv til stillingen, skal de krævede regnskabsmoduler ligeledes gennemføres indenfor 2 år efter ansættelsens start. 
+   
+ Se cirkulære om uddannelseskrav for kirkefunktionærer på  www.folkekirkenspersonale.dk 
+ Yderligere oplysninger om stillingen kan opnås ved henvendelse til følgende personer:   
+   
+ Menighedsrådsformand Henny Dobrick: 40 43 71 83 
+ Kontaktperson Allan Blom Nielsen: 53 54 00 33 
+ Sognepræst (kbf.) Tage Kristian Kristensen: 29 47 24 34 / 75 15 10 13.","https://www.google.dk/maps/place/Fyrvej+30,6710,+Esbjerg+V/",84567310,False,False,,False

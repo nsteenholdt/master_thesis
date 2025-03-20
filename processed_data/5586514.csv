@@ -1,0 +1,160 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Vestamager Naturbørnehave Eskebøl Allé søger pædagog 36 timer,Vestamager Naturbørnehave Eskebøl Allé søger pædagog 36 timer,"Vi søger en pædagog med engagement og faglighed, som ønsker medansvar i at varetage vores kerneopgave - at skabe trivsel, læring, udvikling og dannelse, med børnene i fokus.
+
+Vestam",Tårnby Kommune,Eskebøl Alle 1,2770,Kastrup,False,False,False,True,2022-04-29T00:00:00,2022-06-24T00:00:00,24. juni 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5586514,Hovedstaden og Bornholm,Tårnby,Danmark,2770,,,,Fuldtid,"Pædagogisk, socialt og kirkeligt arbejde",Pædagogisk arbejde,Pædagog,55.6197,12.5865,,,6281,7543,20310413,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5586514,https://job.jobnet.dk/CV/FindWork/Details/5586514,https://job.jobnet.dk/CV/FindWork/Details/5586514,True,5586514,55.6197,12.5865,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Tårnby Kommune,Amager Landevej 76,58,Danmark,185,Tårnby,4,"Hovedstaden, Sjælland og Bornholm",2770,Kastrup,,0,Primary,,,,None,,1003273158,20310413,None,5586514,5586514,Tårnby Kommune,Amager Landevej 76,58,Danmark,185,Tårnby,4,"Hovedstaden, Sjælland og Bornholm",2770,Kastrup,,0,Primary,,,,None,,1003273158,20310413,None,,2022-04-29T00:00:00,2022-06-24T00:00:00,Vestamager Naturbørnehave Eskebøl Allé søger pædagog 36 timer,"Vi søger en pædagog med engagement og faglighed, som ønsker medansvar i at varetage vores kerneopgave - at skabe trivsel, læring, udvikling og dannelse, med børnene i fokus. 
+ Vestamager Naturbørnehave er normeret til 44 børn. Børnehaven er beliggende i et roligt villakvarter tæt på Amager fælled, Naturskolen og direkte busforbindelse til Kongelundsskoven. Når du træder ind i huset, bliver du mødt af en hjemlig atmosfære, med glade børn og nærværende og faglig bevidste voksne, som brænder for det gode børnemiljø og børneliv, både inde og ude. 
+ Børnehaven er indrettet i to etager, hvor den ene gruppe børn har rum i stueetagen og den anden gruppe har rum på første salen. Børnene er fordelt med 22 børn i hver gruppe. Vi arbejder i løbet af dagen på tværs af grupperne, hvorved vi understøtter det enkelte barns adgang til børnefællesskabet. 
+ I dagligdagen har vi fokus på at danne mindre relations grupper, så vi skaber nærvær, udvikling og trivsel, og understøtter børnenes sproglige udvikling. Vi arbejder tematisk med planlagte aktiviteter ud fra de seks læreplanstemaer. Med fokus på den røde tråd gennem alle planlagte aktiviteter, inddeles børnene i løbet af dagen på tværs af grupperne. 
+ Huset danner ramme for det kreative værksted, samt uderummet hvor der er fokus på krop og bevægelse i naturen. Med særligt fokus på sidstnævnte, bruges uderummet og ture ud af huset, hvor vi blandt andet tager på fælleden, i kongelundskoven, Ugandaskoven, Blå Base m.m. Med vores fokus på udeliv og ture i naturen, skabes et unikt rum for læring, hvor børnenes nysgerrighed, virkelyst og fantasi vækkes. Vi oplever, at børnene er mere aktive, når de leger i naturlige omgivelser, da de her indgår i mere fysisk krævende lege. 
+ På husets legeplads er der opført en hytte, der fungerer som naturværksted, med et mindre dyrehold og fritgående høns. Uderummet er et dejligt område med beplantning, urtehave, bålplads og niveauforskelle, som indbyder til motoriske og sanselige oplevelser for både børn og voksne. 
+ I uderummet forsøger vi at vække børnenes opmærksomhed omkring biodiversitet og bæredygtighed (for planter og til gavn for insekter), ved at lade græs og ukrudt vokse vildt, ligesom vi sammen med børnene dyrker urtehave og planter blomster. Børnene får indsigt i den store diversitet af insekter på legepladsen, ved mulighed for at lede efterkrible krabledyr under sten og træstubbe, og mellem bambus og træer. 
+
+Fagligt er vi optagede af at:  
+
+ 
+ Organisere os i mindre grupper, så vi skaber gode muligheder for fordybelse og nærvær.  
+ Læring og trivsel sker i en vekslen mellem planlagte aktiviteter, hverdagsrutiner, børnenes leg og spontant opståede aktiviteter. 
+ Natur, krop og bevægelse, kreativitet, sprog og kommunikation er i fokus. 
+ Være medskabere af et arbejdsfællesskab med høj pædagogisk kvalitet og faglighed. 
+ 
+
+Vi ønsker at du:
+
+ 
+ Har et positivt og anerkendende børnesyn. 
+ Er tydelig og refleksiv i din faglighed. 
+ Brænder for at arbejde med børn i alderen 3-6 år. 
+ Er en god rollemodel som både kollegaer og forældre kan spejle sig i. 
+ Forstår at skabe en god og anerkendende børne-/ forældrekontakt. 
+ Har blik for og vilje til et givende og tæt samarbejde med dine kollegaer. 
+ Besidder skriftlige såvel som mundtlige kompetencer. 
+ Kan reflektere og evaluere over den pædagogiske praksis. 
+ Er omsorgsfuld, nærværende og har flair for at udvikle børnenes relationelle kompetencer, så de styrkes sprogligt, socialt og følelsesmæssigt. 
+ Er uddannet pædagog. 
+ At du ser både leg, børnefælleskaber, hverdagsrutiner og aktiviteter som vigtige arenaer for pædagogisk udvikling. 
+ Er glad for udeliv i alt slags vejr. 
+ Er omstillingsparat og kan formidle erfaringer og viden. 
+ Kan strukturere og organisere dagligdagen og samtidig være spontan og følge børnenes initiativer og interesser. 
+ 
+
+Vi kan tilbyde dig:
+
+ 
+ En unik børnehave med nogle fantastiske livsbekræftende og nysgerrige børn. 
+ Engagerede forældre, kollegaer og ledelse. 
+ En børnehave med gode traditioner. 
+ En børnehave der har en tydelig struktur, der understøtter både børn og voksnes hverdag. 
+ Overskuelighed i dine opgaver, så arbejdet skaber mening. 
+ En imødekommende kultur hvor alle føler sig velkomne. 
+ Et arbejdsmiljø der bærer præg af ansvarlighed og fællesskabsfølelse. 
+ En personalegruppe der tænker store tanker, er kreative og idérige, samt er aktive inde og ude. 
+ I kraft af vores rummelighed og tydelige struktur, arbejder vi med en inkluderende tilgang til vores pædagogiske arbejde. 
+ En børnehave hvor det pædagogiske personale formår at justere sig i forhold til vores pædagogiske arbejde. 
+ En arbejdsplads / børnehave der oplever det som en styrke, at vi er mangfoldige med forskellige behov. 
+ At arbejde med handleplaner, for at videreudvikle den pædagogiske praksis. 
+ 
+ Kan du genkende dig selv i stillingsannoncen og har du lyst til at være en del af vores børnehave, så ser vi frem til din ansøgning. 
+
+Løn- og ansættelsesvilkår
+
+ Ansættelsen sker i henhold til gældende overenskomst med BUPL efter forhandling. 
+ Kommunens ansættelsespolitik indebærer, at der ved ansættelse indhentes referencer fra tidligere og nuværende arbejdssteder. Har du været ansat i Tårnby Kommune, vil der altid blive taget reference herfra. Der skal desuden ved ansættelse forevises straffeattest og indhentes børneattest.   Ansættelsen vil være betinget af, at disse er tilfredsstillende. 
+ Tårnby Kommune tilbyder en række personalegoder. Disse kan ses  her . 
+
+Yderligere oplysninger
+
+ Ønsker du yderligere oplysninger om stillingen, er du velkommen til at rette henvendelse til leder Linette Grenaa Giessing eller souschef Sanja Jørgensen på telefon 30760472. 
+ Vi forventer at afholde ansættelsessamtaler i uge 21. Stillingsannoncen vil blive fjernet fra Tårnby Kommunes hjemmeside når rette kandidat er fundet.  
+
+Ansøgning
+
+ Ansøgning med dokumentation for uddannelse, oplysning om eventuel tidligere beskæftigelse, eventuel arbejdstilladelse og bilag sendes via nedenstående link. Vær opmærksom på, at Tårnby Kommune benytter et elektronisk rekrutteringssystem. Du bedes derfor så vidt muligt søge stillingen via nedenstående link. Såfremt du søger stillingen pr. brev, skal dette indeholde de samme oplysninger, som kræves af det elektroniske rekrutteringssystem. 
+
+Behandling af persondata
+
+ Tårnby Kommune er dataansvarlig for de personoplysninger, som du registrerer og sender til kommunen via rekrutteringssystemet eller på anden vis ved ansøgning om job. 
+ Oplysningerne vil alene blive brugt i rekrutteringsprocessen. Medlemmer af ansættelsesudvalget, for den stilling du søger, får adgang til dine registrerede personoplysninger i den tid rekrutteringsprocessen løber. Behandlingen af oplysningerne vil naturligvis være fortrolig og sikker. 
+ Vi opbevarer din ansøgning samt øvrige oplysninger i op til 6 måneder efter endt rekrutteringsproces. Herefter slettes de automatisk. 
+ Du har efter databeskyttelsesforordningen en række rettigheder. Herunder ret til at se de personoplysninger du har registreret hos os og ret til sletning af oplysninger. Læs i øvrigt  her  om dine rettigheder. Hvis du vil gøre brug af dine rettigheder skal du kontakte Tårnby Kommune, Organisations- og Personaleafdelingen. Adresse: Amager Landevej 76, 2770 Kastrup. Telefon: 3247 1280. E-mail:  op2@taarnby.dk .   
+ For henvendelse vedrørende den ledige stilling se kontaktoplysninger under overskriften 'Yderligere oplysninger'. 
+ Har du spørgsmål til behandlingen af dine personoplysninger, og til hvordan dine rettigheder bliver udøvet i henhold til databeskyttelsesreguleringen, kan du kontakte Tårnby Kommunes databeskyttelsesrådgiver. Send e-mail sikkert:  Link til Borger.dk 
+Telefon: 3247 1230. Ved brev: Tårnby Kommune, Organisations- og Personaleafdelingen, Amager Landevej 76, 2770 Kastrup, Att.: ”Databeskyttelsesrådgiver”.",Eskebøl Alle 1,58,Danmark,185,Tårnby,4,"Hovedstaden, Sjælland og Bornholm",2770,Kastrup,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7944207, 'Email': None, 'FaxNumber': None, 'PersonName': 'Linette Giessing', 'FirstName': 'Linette', 'LastName': 'Giessing', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '3076 0472', 'Type': 0, 'Description': 'Hovednummer'}]}",,False,False,False,False,4,,,False,False,False,False,,,,,https://www.taarnby.dk/om-kommunen/job/ledige-stillinger/?hr=show-job/96245,False,2022-06-24T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5586514&Organisation=20310413,"Eskebøl Alle 1,2770, Kastrup",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5586514&Company.Name=Tårnby Kommune&SubmissionDeadlineDate=2022-6-24&Title=Vestamager Naturbørnehave Eskebøl Allé søger pædagog 36 timer&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Vestamager Naturbørnehave Eskebøl Allé søger pædagog 36 timer,True,,True,1,,5586514,,,False,False,,0,False,Tårnby Kommune,Amager Landevej 76,,,2770,False,False,False,Kastrup,Linette Giessing,3076 0472,,,,,,False,,2022-06-24T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Tårnby kommune,False,Tårnby Kommune,,None,,False,False,"Vi s&oslash;ger en p&aelig;dagog med engagement og faglighed, som &oslash;nsker medansvar i at varetage vores kerneopgave - at skabe trivsel, l&aelig;ring, udvikling og dannelse, med b&oslash;rnene i fokus.
+
+Vestamager Naturb&oslash;rnehave er normeret til 44 b&oslash;rn. B&oslash;rnehaven er beliggende i et roligt villakvarter t&aelig;t p&aring;","""Vi s\u0026oslash;ger en p\u0026aelig;dagog med engagement og faglighed, som \u0026oslash;nsker medansvar i at varetage vores kerneopgave - at skabe trivsel, l\u0026aelig;ring, udvikling og dannelse, med b\u0026oslash;rnene i fokus.\r\n\r\nVestamager Naturb\u0026oslash;rnehave er normeret til 44 b\u0026oslash;rn. B\u0026oslash;rnehaven er beliggende i et roligt villakvarter t\u0026aelig;t p\u0026aring;""","""Vestamager Naturbørnehave Eskebøl Allé søger pædagog 36 timer""","https://www.google.dk/maps/dir//Eskebøl+Alle+1,2770,+Kastrup/","Vi søger en pædagog med engagement og faglighed, som ønsker medansvar i at varetage vores kerneopgave - at skabe trivsel, læring, udvikling og dannelse, med børnene i fokus. 
+ Vestamager Naturbørnehave er normeret til 44 børn. Børnehaven er beliggende i et roligt villakvarter tæt på Amager fælled, Naturskolen og direkte busforbindelse til Kongelundsskoven. Når du træder ind i huset, bliver du mødt af en hjemlig atmosfære, med glade børn og nærværende og faglig bevidste voksne, som brænder for det gode børnemiljø og børneliv, både inde og ude. 
+ Børnehaven er indrettet i to etager, hvor den ene gruppe børn har rum i stueetagen og den anden gruppe har rum på første salen. Børnene er fordelt med 22 børn i hver gruppe. Vi arbejder i løbet af dagen på tværs af grupperne, hvorved vi understøtter det enkelte barns adgang til børnefællesskabet. 
+ I dagligdagen har vi fokus på at danne mindre relations grupper, så vi skaber nærvær, udvikling og trivsel, og understøtter børnenes sproglige udvikling. Vi arbejder tematisk med planlagte aktiviteter ud fra de seks læreplanstemaer. Med fokus på den røde tråd gennem alle planlagte aktiviteter, inddeles børnene i løbet af dagen på tværs af grupperne. 
+ Huset danner ramme for det kreative værksted, samt uderummet hvor der er fokus på krop og bevægelse i naturen. Med særligt fokus på sidstnævnte, bruges uderummet og ture ud af huset, hvor vi blandt andet tager på fælleden, i kongelundskoven, Ugandaskoven, Blå Base m.m. Med vores fokus på udeliv og ture i naturen, skabes et unikt rum for læring, hvor børnenes nysgerrighed, virkelyst og fantasi vækkes. Vi oplever, at børnene er mere aktive, når de leger i naturlige omgivelser, da de her indgår i mere fysisk krævende lege. 
+ På husets legeplads er der opført en hytte, der fungerer som naturværksted, med et mindre dyrehold og fritgående høns. Uderummet er et dejligt område med beplantning, urtehave, bålplads og niveauforskelle, som indbyder til motoriske og sanselige oplevelser for både børn og voksne. 
+ I uderummet forsøger vi at vække børnenes opmærksomhed omkring biodiversitet og bæredygtighed (for planter og til gavn for insekter), ved at lade græs og ukrudt vokse vildt, ligesom vi sammen med børnene dyrker urtehave og planter blomster. Børnene får indsigt i den store diversitet af insekter på legepladsen, ved mulighed for at lede efterkrible krabledyr under sten og træstubbe, og mellem bambus og træer. 
+
+Fagligt er vi optagede af at:  
+
+ 
+ Organisere os i mindre grupper, så vi skaber gode muligheder for fordybelse og nærvær.  
+ Læring og trivsel sker i en vekslen mellem planlagte aktiviteter, hverdagsrutiner, børnenes leg og spontant opståede aktiviteter. 
+ Natur, krop og bevægelse, kreativitet, sprog og kommunikation er i fokus. 
+ Være medskabere af et arbejdsfællesskab med høj pædagogisk kvalitet og faglighed. 
+ 
+
+Vi ønsker at du:
+
+ 
+ Har et positivt og anerkendende børnesyn. 
+ Er tydelig og refleksiv i din faglighed. 
+ Brænder for at arbejde med børn i alderen 3-6 år. 
+ Er en god rollemodel som både kollegaer og forældre kan spejle sig i. 
+ Forstår at skabe en god og anerkendende børne-/ forældrekontakt. 
+ Har blik for og vilje til et givende og tæt samarbejde med dine kollegaer. 
+ Besidder skriftlige såvel som mundtlige kompetencer. 
+ Kan reflektere og evaluere over den pædagogiske praksis. 
+ Er omsorgsfuld, nærværende og har flair for at udvikle børnenes relationelle kompetencer, så de styrkes sprogligt, socialt og følelsesmæssigt. 
+ Er uddannet pædagog. 
+ At du ser både leg, børnefælleskaber, hverdagsrutiner og aktiviteter som vigtige arenaer for pædagogisk udvikling. 
+ Er glad for udeliv i alt slags vejr. 
+ Er omstillingsparat og kan formidle erfaringer og viden. 
+ Kan strukturere og organisere dagligdagen og samtidig være spontan og følge børnenes initiativer og interesser. 
+ 
+
+Vi kan tilbyde dig:
+
+ 
+ En unik børnehave med nogle fantastiske livsbekræftende og nysgerrige børn. 
+ Engagerede forældre, kollegaer og ledelse. 
+ En børnehave med gode traditioner. 
+ En børnehave der har en tydelig struktur, der understøtter både børn og voksnes hverdag. 
+ Overskuelighed i dine opgaver, så arbejdet skaber mening. 
+ En imødekommende kultur hvor alle føler sig velkomne. 
+ Et arbejdsmiljø der bærer præg af ansvarlighed og fællesskabsfølelse. 
+ En personalegruppe der tænker store tanker, er kreative og idérige, samt er aktive inde og ude. 
+ I kraft af vores rummelighed og tydelige struktur, arbejder vi med en inkluderende tilgang til vores pædagogiske arbejde. 
+ En børnehave hvor det pædagogiske personale formår at justere sig i forhold til vores pædagogiske arbejde. 
+ En arbejdsplads / børnehave der oplever det som en styrke, at vi er mangfoldige med forskellige behov. 
+ At arbejde med handleplaner, for at videreudvikle den pædagogiske praksis. 
+ 
+ Kan du genkende dig selv i stillingsannoncen og har du lyst til at være en del af vores børnehave, så ser vi frem til din ansøgning. 
+
+Løn- og ansættelsesvilkår
+
+ Ansættelsen sker i henhold til gældende overenskomst med BUPL efter forhandling. 
+ Kommunens ansættelsespolitik indebærer, at der ved ansættelse indhentes referencer fra tidligere og nuværende arbejdssteder. Har du været ansat i Tårnby Kommune, vil der altid blive taget reference herfra. Der skal desuden ved ansættelse forevises straffeattest og indhentes børneattest.   Ansættelsen vil være betinget af, at disse er tilfredsstillende. 
+ Tårnby Kommune tilbyder en række personalegoder. Disse kan ses  her . 
+
+Yderligere oplysninger
+
+ Ønsker du yderligere oplysninger om stillingen, er du velkommen til at rette henvendelse til leder Linette Grenaa Giessing eller souschef Sanja Jørgensen på telefon 30760472. 
+ Vi forventer at afholde ansættelsessamtaler i uge 21. Stillingsannoncen vil blive fjernet fra Tårnby Kommunes hjemmeside når rette kandidat er fundet.  
+
+Ansøgning
+
+ Ansøgning med dokumentation for uddannelse, oplysning om eventuel tidligere beskæftigelse, eventuel arbejdstilladelse og bilag sendes via nedenstående link. Vær opmærksom på, at Tårnby Kommune benytter et elektronisk rekrutteringssystem. Du bedes derfor så vidt muligt søge stillingen via nedenstående link. Såfremt du søger stillingen pr. brev, skal dette indeholde de samme oplysninger, som kræves af det elektroniske rekrutteringssystem. 
+
+Behandling af persondata
+
+ Tårnby Kommune er dataansvarlig for de personoplysninger, som du registrerer og sender til kommunen via rekrutteringssystemet eller på anden vis ved ansøgning om job. 
+ Oplysningerne vil alene blive brugt i rekrutteringsprocessen. Medlemmer af ansættelsesudvalget, for den stilling du søger, får adgang til dine registrerede personoplysninger i den tid rekrutteringsprocessen løber. Behandlingen af oplysningerne vil naturligvis være fortrolig og sikker. 
+ Vi opbevarer din ansøgning samt øvrige oplysninger i op til 6 måneder efter endt rekrutteringsproces. Herefter slettes de automatisk. 
+ Du har efter databeskyttelsesforordningen en række rettigheder. Herunder ret til at se de personoplysninger du har registreret hos os og ret til sletning af oplysninger. Læs i øvrigt  her  om dine rettigheder. Hvis du vil gøre brug af dine rettigheder skal du kontakte Tårnby Kommune, Organisations- og Personaleafdelingen. Adresse: Amager Landevej 76, 2770 Kastrup. Telefon: 3247 1280. E-mail:  op2@taarnby.dk .   
+ For henvendelse vedrørende den ledige stilling se kontaktoplysninger under overskriften 'Yderligere oplysninger'. 
+ Har du spørgsmål til behandlingen af dine personoplysninger, og til hvordan dine rettigheder bliver udøvet i henhold til databeskyttelsesreguleringen, kan du kontakte Tårnby Kommunes databeskyttelsesrådgiver. Send e-mail sikkert:  Link til Borger.dk 
+Telefon: 3247 1230. Ved brev: Tårnby Kommune, Organisations- og Personaleafdelingen, Amager Landevej 76, 2770 Kastrup, Att.: ”Databeskyttelsesrådgiver”.","https://www.google.dk/maps/place/Eskebøl+Alle+1,2770,+Kastrup/",20310413,False,False,,False

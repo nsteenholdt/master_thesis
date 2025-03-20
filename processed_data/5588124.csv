@@ -1,0 +1,100 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,True,1,KOKK - KJØKKENASSISTENT,KOKK - KJØKKENASSISTENT,"Vi ser etter deg som er:
+
+Blid, positiv og arbeidssom, setter høye krav til deg selv og dine kollegaer.
+God foretningsteft, strukturert, ansvarsbevist og imøte",KOKK - KJØKKENASSISTENT,,,,False,True,False,False,2022-05-02T00:00:00,2022-05-31T00:00:00,31. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5588124,,,Norge,,,,,Fuldtid,"Hotel, restauration, køkken, kantine ",Køkken- og kantinearbejde,Kok,,,,0,0,99999999,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5588124,https://job.jobnet.dk/CV/FindWork/Details/5588124,https://job.jobnet.dk/CV/FindWork/Details/5588124,False,5588124,0,0,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",KOKK - KJØKKENASSISTENT,UNDER KOLLEN  2,158,Norge,580,Aabenraa,3,Syddanmark,1680,Skjærhalden,90879721,0,Primary,,,,None,,9999999999,99999999,None,5588124,5588124,KOKK - KJØKKENASSISTENT,UNDER KOLLEN  2,158,Norge,580,Aabenraa,3,Syddanmark,1680,Skjærhalden,90879721,0,Primary,,,,None,,9999999999,99999999,None,,2022-05-02T00:00:00,2022-05-31T00:00:00,KOKK - KJØKKENASSISTENT,"Vi ser etter deg som er: 
+ 
+ Blid, positiv og arbeidssom, setter høye krav til deg selv og dine kollegaer. 
+ God foretningsteft, strukturert, ansvarsbevist og imøtekommende 
+ Ha orden og er nøyaktig og en genuin interesse for mat og drikke 
+ Er lærevillig og aller helst erfaring fra a la carte. Har du fagbrev som kokk eller relevant erfarig er det absolutt ett pluss. 
+ 
+ Kompetansekrav: 
+ 
+ Gode kommunikasjonsjonsevner på norsk og engelsk 
+ Udanning ingen nødvendighet, men en fordel og vil bli prioritert 
+ Sertifikat ingen nødvendighet, men en fordel om en ikke bor i nærheten 
+ 
+  Hvaler – Skjærhalden – Østfold  – 
+ Arbeidet gjelder dag, kveld og helg 
+ Oppstart etter avtale - med fordel i løpet av mai / juni 
+ Lønn: Følger tariff 
+ Arbeidsgiver dekker kostnader til overnatting i forbindelse med prøvejobb. 
+ Arbeidsgiver kan være behjelpelig med å skaffe bolig 
+ Antall stillinger : 4 
+ Søknadsfrist: 31/5-2022 
+ Sendes på e – mail : post@forste-reis.no 
+ Kontaktperson/ Tlf.nr: Torild – tlf 90879721 
+ E-post: post@forste-reis.no 
+ Arbeidsgiver har personalbolig for leie 
+ Arbeidsgiver: FØRSTE REIS AS 
+ Kontaktperson: TORILD SØRENSEN 
+ Telefon: 90879721 
+ Adresse: UNDER KOLLEN 2 
+ E-post post@forste-reis.no 
+ Hjemmeside  www.forste-reis.no 
+ Vertshuset Skjærhalden og Første Reis inviterer til digital jobbtreff for å gi en liten smakebit av hvordan det er å jobbe midt i ferieparadiset Hvaler! 
+ Bli kjent med deres lange tradisjon, arbeidskultur og arbeidsmiljø og se om en av de 28 ledige stillingene er stillingen for deg! 
+ Gjør deg klar den 05. mai kl. 14.00 og klikk deg in på lenken her :  https://arbeidsplassen.nav.no/jobbtreff/4b1c1488-4635-4fe0-9807-11caadb8cd29 
+ hjemmeside: https://www.vertshus.net/ Med beste beliggenhet på brygga i Skjærhalden, midti ferieparadiset Hvaler. 
+ En øygruppe tett opp til sverige bestående av over 800 store og små øyer, holmer og skjær. 
+ Her finner du Sjømatrestauranten Første Reis, vi hadde vårt første driftsår i 2009 og har siden den gang vokst. Stedet er kjent for god atmosfære, hyggelige ansatte, god mat av høy kvalitet, rause porsjoner. 
+ Heltid teller vi 8 ansatte, under høysesong er vi over 30 ansatte. Fordelt på kokker, servitører og oppvask hjelper. 
+ Vi har vært år siden starten vært så heldige at flere av våre sesongansatte kommer tilbake år etter år. 
+ Likefult er vi avhegig av å vært år rekrutere noen nye for at kvaliteten på driften til en hver tid skal være på topp. 
+ Vi kan tilby: 
+ Hyggelige og kunnskapsrike kollegaer 
+ Fantastiske gjester 
+ En liten, men stabil og trygg bedrift med gode innarbeidede rutiner og ett godt arbeidsmiljø 
+ Høyt fokus på kvalitet og gode sesong råvarer 
+ Antall ansatte: 30 ansatte",,158,Norge,0,,0,Hele landet,,,1,1,Fuldtid,None,None,3,,0,,0,0,0,,False,"{'Id': 7951236, 'Email': None, 'FaxNumber': None, 'PersonName': 'TORILD SØRENSEN', 'FirstName': 'TORILD', 'LastName': 'SØRENSEN', 'PositionTitle': 'Leder', 'PhoneNumbers': [{'Number': '90879721', 'Type': 0, 'Description': 'Hovednummer'}]}",,False,False,False,False,4,,,False,False,False,False,EURES/TRINE/72223355,,post@forste-reis.no,,,False,2022-05-31T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5588124&Organisation=99999999,"UNDER KOLLEN  2,1680, Skjærhalden",False,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5588124&Company.Name=KOKK - KJØKKENASSISTENT&SubmissionDeadlineDate=2022-5-31&Title=KOKK - KJØKKENASSISTENT&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,KOKK - KJØKKENASSISTENT,True,,True,1,,5588124,,,False,False,,0,False,KOKK - KJØKKENASSISTENT,UNDER KOLLEN  2,,,1680,False,False,False,Skjærhalden,TORILD SØRENSEN,90879721,,,,,,False,,2022-05-31T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Norge,False,KOKK - KJØKKENASSISTENT,,None,,False,False,"Vi ser etter deg som er:
+
+Blid, positiv og arbeidssom, setter h&oslash;ye krav til deg selv og dine kollegaer.
+God foretningsteft, strukturert, ansvarsbevist og im&oslash;tekommende
+Ha orden og er n&oslash;yaktig og en genuin interesse for mat og drikke
+Er l&aelig;revillig og aller helst erfaring fra a la carte. Har du fagbrev som kokk eller r","""Vi ser etter deg som er:\r\n\r\nBlid, positiv og arbeidssom, setter h\u0026oslash;ye krav til deg selv og dine kollegaer.\r\nGod foretningsteft, strukturert, ansvarsbevist og im\u0026oslash;tekommende\r\nHa orden og er n\u0026oslash;yaktig og en genuin interesse for mat og drikke\r\nEr l\u0026aelig;revillig og aller helst erfaring fra a la carte. Har du fagbrev som kokk eller r""","""KOKK - KJØKKENASSISTENT""","https://www.google.dk/maps/dir//UNDER+KOLLEN++2,1680,+Skjærhalden/","Vi ser etter deg som er: 
+ 
+ Blid, positiv og arbeidssom, setter høye krav til deg selv og dine kollegaer. 
+ God foretningsteft, strukturert, ansvarsbevist og imøtekommende 
+ Ha orden og er nøyaktig og en genuin interesse for mat og drikke 
+ Er lærevillig og aller helst erfaring fra a la carte. Har du fagbrev som kokk eller relevant erfarig er det absolutt ett pluss. 
+ 
+ Kompetansekrav: 
+ 
+ Gode kommunikasjonsjonsevner på norsk og engelsk 
+ Udanning ingen nødvendighet, men en fordel og vil bli prioritert 
+ Sertifikat ingen nødvendighet, men en fordel om en ikke bor i nærheten 
+ 
+  Hvaler – Skjærhalden – Østfold  – 
+ Arbeidet gjelder dag, kveld og helg 
+ Oppstart etter avtale - med fordel i løpet av mai / juni 
+ Lønn: Følger tariff 
+ Arbeidsgiver dekker kostnader til overnatting i forbindelse med prøvejobb. 
+ Arbeidsgiver kan være behjelpelig med å skaffe bolig 
+ Antall stillinger : 4 
+ Søknadsfrist: 31/5-2022 
+ Sendes på e – mail : post@forste-reis.no 
+ Kontaktperson/ Tlf.nr: Torild – tlf 90879721 
+ E-post: post@forste-reis.no 
+ Arbeidsgiver har personalbolig for leie 
+ Arbeidsgiver: FØRSTE REIS AS 
+ Kontaktperson: TORILD SØRENSEN 
+ Telefon: 90879721 
+ Adresse: UNDER KOLLEN 2 
+ E-post post@forste-reis.no 
+ Hjemmeside  www.forste-reis.no 
+ Vertshuset Skjærhalden og Første Reis inviterer til digital jobbtreff for å gi en liten smakebit av hvordan det er å jobbe midt i ferieparadiset Hvaler! 
+ Bli kjent med deres lange tradisjon, arbeidskultur og arbeidsmiljø og se om en av de 28 ledige stillingene er stillingen for deg! 
+ Gjør deg klar den 05. mai kl. 14.00 og klikk deg in på lenken her :  https://arbeidsplassen.nav.no/jobbtreff/4b1c1488-4635-4fe0-9807-11caadb8cd29 
+ hjemmeside: https://www.vertshus.net/ Med beste beliggenhet på brygga i Skjærhalden, midti ferieparadiset Hvaler. 
+ En øygruppe tett opp til sverige bestående av over 800 store og små øyer, holmer og skjær. 
+ Her finner du Sjømatrestauranten Første Reis, vi hadde vårt første driftsår i 2009 og har siden den gang vokst. Stedet er kjent for god atmosfære, hyggelige ansatte, god mat av høy kvalitet, rause porsjoner. 
+ Heltid teller vi 8 ansatte, under høysesong er vi over 30 ansatte. Fordelt på kokker, servitører og oppvask hjelper. 
+ Vi har vært år siden starten vært så heldige at flere av våre sesongansatte kommer tilbake år etter år. 
+ Likefult er vi avhegig av å vært år rekrutere noen nye for at kvaliteten på driften til en hver tid skal være på topp. 
+ Vi kan tilby: 
+ Hyggelige og kunnskapsrike kollegaer 
+ Fantastiske gjester 
+ En liten, men stabil og trygg bedrift med gode innarbeidede rutiner og ett godt arbeidsmiljø 
+ Høyt fokus på kvalitet og gode sesong råvarer 
+ Antall ansatte: 30 ansatte","https://www.google.dk/maps/place/UNDER+KOLLEN++2,1680,+Skjærhalden/",99999999,False,False,,False

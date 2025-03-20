@@ -1,0 +1,231 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Fachärztin/Facharzt für Anästhesie (w/m/d) zur Anstellung als Oberärztin/-arzt,Fachärztin/Facharzt für Anästhesie (w/m/d) zur Anstellung als Oberärztin/-arzt,"
+	
+		
+			
+		
+	
+
+
+Sie sind Fachärztin/Facharzt für Anästhesie (w/m/d) und suchen:
+
+
+	
+	Eine Anstellung als Oberärztin/-arzt?
+	
+	
+	Eine Arbeitsstelle mit durchschnittli",Region Sjælland,Ringstedgade 61,4700,Næstved,True,False,False,False,2022-04-29T00:00:00,2022-05-29T00:00:00,29. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5587107,Øvrige Sjælland,Næstved,Danmark,4700,,,,Fuldtid,Akademisk arbejde,"Læge, tandlæge og dyrlæge",Læge,55.2365,11.7593,,,61350,57914,29190658,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5587107,https://job.jobnet.dk/CV/FindWork/Details/5587107,https://job.jobnet.dk/CV/FindWork/Details/5587107,True,5587107,55.2365,11.7593,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Region Sjælland,Alleen 15,58,Danmark,340,Sorø,4,"Hovedstaden, Sjælland og Bornholm",4180,Sorø,,0,Primary,,,,None,61350,1003290870,29190658,None,5587107,5587107,Region Sjælland,Alleen 15,58,Danmark,340,Sorø,4,"Hovedstaden, Sjælland og Bornholm",4180,Sorø,,0,Primary,,,,None,61350,1003290870,29190658,None,,2022-04-29T00:00:00,2022-05-29T00:00:00,Fachärztin/Facharzt für Anästhesie (w/m/d) zur Anstellung als Oberärztin/-arzt,"Sie sind Fachärztin/Facharzt für Anästhesie (w/m/d) und suchen: 
+ 
+ 
+ Eine Anstellung als Oberärztin/-arzt? 
+ 
+ 
+ Eine Arbeitsstelle mit durchschnittlich 37 Wochenstunden für eine bessere 
+	Work-Life-Balance? 
+ 
+ 
+ Eine Vergütung, die Netto einem deutschen Bruttoeinkommen entsprechen kann? 
+ 
+ 
+ Die Möglichkeit sich mit den eigenen Fähig- und Fertigkeiten am Arbeitsplatz einzubringen und weiterzuentwickeln? 
+ 
+ 
+ Einen Systemwechsel weg vom DRG-System? 
+ 
+ 
+ Die Sicherheit eines öffentlichen Arbeitgebers? 
+ 
+ 
+ Eine ärztliche Tätigkeit in Dänemark? 
+ 
+ 
+ Wir suchen: 
+ 
+ 
+ Eine/n Fachärztin/Facharzt für Anästhesie (w/m/d) zur 
+ Anstellung als Oberärztin/-arzt 
+	für die anästhesiologische Abteilung  am Standort Næstved . 
+ 
+ 
+ Sie sind: 
+ 
+ 
+ Eine/ein in der Europäischen Union approbierte/r Ärztin/Arzt mit der Anerkennung als Fachärztin/-arzt für Anästhesiologie. 
+ 
+ 
+ Klinisch breit erfahren und der Spinalanästhesie sowie den peripheren Nervenblockaden gegenüber aufgeschlossen. 
+ 
+ 
+ Aufgeschlossen in einem anderen Gesundheitssystem zu arbeiten, eine neue Sprache zu erlernen und die skandinavische Kultur zu leben. Vorkenntnisse in einer skandinavischen Sprache wären wünschenswert, werden aber nicht vorausgesetzt. 
+ 
+ 
+ Empathisch, Team-orientiert und haben eine positive Grundeinstellung. 
+ 
+ 
+ Wir bieten Ihnen: 
+ 
+ 
+ Einen Arbeitsplatz mit ungefähr 7000 Anästhesien pro Jahr. Der überwiegende Teil wird in ambulanter Regie und in regionalanästhesiologischen Verfahren durchgeführt. 
+	Der Standort Næstved führt fast ausschließlich elektive Operationen in den Fachbereichen Orthopädie, (Kinder-) Urologie, Gastroenterologie und Augenheilkunde durch. 
+ 
+ 
+ Ein hervorragendes Arbeitsklima mit echten Mitgestaltungsmöglichkeiten in einem elektiven Setting, mit entsprechender Einarbeitung. 
+ 
+ 
+ Eine geplante Bereitschaftsdienst-Belastung (10 Wochen Schema) von ungefähr 7 Diensten in 10 Wochen, davon ein Wochenende. Zusatzdienste nach Verfügbarkeit möglich. 
+ 
+ 
+ Attraktive Verdienstmöglichkeiten mit Verhandlungsspielraum entsprechend Ihren Qualifikationen 
+	(z. B. Zusatzbezeichnung Intensiv/Schmerz/Notfall, Zertifikat US, etc.). 
+ 
+ 
+ Die Beantragung eines befristet herabgesetzten Steuersatzes. 
+	Dies ist abhängig von den Gehaltsverhandlungen, und der Anerkennung durch die dänische Steuerbehörde SKAT, als „højtlønnet medarbejder/forskerordning“. 
+ 
+ 
+ Teilhabe an der Entwicklung der Klinik mit Teilgebietsverantwortung bei entsprechender Qualifikation. 
+ 
+ 
+ Intensives Sprachtraining durch ein eigenes Lehrsystem für Mediziner (auch arbeitsbegleitend) sowie Relocation-Service (Hilfe bei allen Integrationsschritten/Behördengängen, Immobiliensuche/-kauf, Schulsuche, Jobsuche Partner, etc.) 
+ 
+ 
+ Einen hohen Freizeitwert durch die Nähe zur Natur/Ostsee und zur Hauptstadt Kopenhagen. (Leben und arbeiten, wo andere Urlaub machen!) 
+ 
+ 
+ Ein ärztliches Kollegium mit 10 Fachärztinnen und –ärzten, zwei nicht Fachärzten und 
+	18 Fachschwestern für Anästhesie. 
+ 
+ 
+ Die Teilnahme an Forschungsprojekten der Abteilung ( http://appraz.dk/index.html ). 
+ 
+ 
+ Die Übernahme etwaiger Vorstellungskosten 
+ 
+ 
+ Hier können Sie mehr über deutsche Ârzte lesen, die in der Region Sjælland arbeiten  
+ http://www.regionsjaelland.dk/Kampagner/medicaldoctor/Sider/default.aspx 
+ Nähere Informationen können Sie erhalten von 
+ Kontaktpersonen: 
+Chefärztin                                              Sekretärin                                        Oberarzt 
+Birgitte Marie Bonne Schousboe           Pia van der Watt                              Götz Naumann 
+ bisch@regionsjaelland.dk   piev@regionsjaelland.dk   tyn@regionsjaelland.dk 
++45 23 44 44 25                                     +45 56 51 47 96                                +45 56 51 43 82 
+Dänisch und Englisch                             Dänisch und Englisch                      Deutsch, Dänisch, Englisch 
+   
+   
+   Næstved, Slagelse og Ringsted sygehuse  
+ Sammen er vi bedst.",Ringstedgade 61,58,Danmark,370,Næstved,4,"Hovedstaden, Sjælland og Bornholm",4700,Næstved,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7945972, 'Email': None, 'FaxNumber': None, 'PersonName': 'Birgitte Schousboe', 'FirstName': 'Birgitte', 'LastName': 'Schousboe', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '+45 23444425', 'Type': 0, 'Description': 'Hovednummer'}]}",2022-08-01T00:00:00,False,False,False,False,4,,,False,False,False,False,,,,,https://www.regionsjaelland.dk/JobOgKarriere/Sider/JobSide.aspx?nr=24669,False,2022-05-29T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5587107&WorkPlace=61350&Organisation=29190658,"Ringstedgade 61,4700, Næstved",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5587107&Company.Name=Region Sjælland&SubmissionDeadlineDate=2022-5-29&Title=Fachärztin/Facharzt für Anästhesie (w/m/d) zur Anstellung als Oberärztin/-arzt&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Fachärztin/Facharzt für Anästhesie (w/m/d) zur Anstellung als Oberärztin/-arzt,True,,True,1,,5587107,,,False,False,,0,False,Region Sjælland,Alleen 15,,,4180,False,False,False,Sorø,Birgitte Schousboe,+45 23444425,,,,,,False,,2022-05-29T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Næstved kommune,False,Region Sjælland,,None,,False,False,"Sie sind Fachrztin/Facharzt fr Ansthesie (w/m/d) und suchen:
+
+
+	
+	Eine Anstellung als Oberrztin/-arzt?
+	
+	
+	Eine Arbeitsstelle mit durchschnittlich 37 Wochenstunden fr eine bessere
+	Work-Life-Balance?
+	
+	
+	Eine Vergtung, die Netto einem deutschen Bruttoeinkommen entsprechen kann?
+	
+	
+	Die Mglichkeit sich mit den eigenen Fhig- und Fert","""Sie sind Fachrztin/Facharzt fr Ansthesie (w/m/d) und suchen:\r\n\r\n\r\n\t\r\n\tEine Anstellung als Oberrztin/-arzt?\r\n\t\r\n\t\r\n\tEine Arbeitsstelle mit durchschnittlich 37 Wochenstunden fr eine bessere\r\n\tWork-Life-Balance?\r\n\t\r\n\t\r\n\tEine Vergtung, die Netto einem deutschen Bruttoeinkommen entsprechen kann?\r\n\t\r\n\t\r\n\tDie Mglichkeit sich mit den eigenen Fhig- und Fert""","""Fachärztin/Facharzt für Anästhesie (w/m/d) zur Anstellung als Oberärztin/-arzt""","https://www.google.dk/maps/dir//Ringstedgade+61,4700,+Næstved/","Sie sind Fachärztin/Facharzt für Anästhesie (w/m/d) und suchen: 
+ 
+ 
+ Eine Anstellung als Oberärztin/-arzt? 
+ 
+ 
+ Eine Arbeitsstelle mit durchschnittlich 37 Wochenstunden für eine bessere 
+	Work-Life-Balance? 
+ 
+ 
+ Eine Vergütung, die Netto einem deutschen Bruttoeinkommen entsprechen kann? 
+ 
+ 
+ Die Möglichkeit sich mit den eigenen Fähig- und Fertigkeiten am Arbeitsplatz einzubringen und weiterzuentwickeln? 
+ 
+ 
+ Einen Systemwechsel weg vom DRG-System? 
+ 
+ 
+ Die Sicherheit eines öffentlichen Arbeitgebers? 
+ 
+ 
+ Eine ärztliche Tätigkeit in Dänemark? 
+ 
+ 
+ Wir suchen: 
+ 
+ 
+ Eine/n Fachärztin/Facharzt für Anästhesie (w/m/d) zur 
+ Anstellung als Oberärztin/-arzt 
+	für die anästhesiologische Abteilung  am Standort Næstved . 
+ 
+ 
+ Sie sind: 
+ 
+ 
+ Eine/ein in der Europäischen Union approbierte/r Ärztin/Arzt mit der Anerkennung als Fachärztin/-arzt für Anästhesiologie. 
+ 
+ 
+ Klinisch breit erfahren und der Spinalanästhesie sowie den peripheren Nervenblockaden gegenüber aufgeschlossen. 
+ 
+ 
+ Aufgeschlossen in einem anderen Gesundheitssystem zu arbeiten, eine neue Sprache zu erlernen und die skandinavische Kultur zu leben. Vorkenntnisse in einer skandinavischen Sprache wären wünschenswert, werden aber nicht vorausgesetzt. 
+ 
+ 
+ Empathisch, Team-orientiert und haben eine positive Grundeinstellung. 
+ 
+ 
+ Wir bieten Ihnen: 
+ 
+ 
+ Einen Arbeitsplatz mit ungefähr 7000 Anästhesien pro Jahr. Der überwiegende Teil wird in ambulanter Regie und in regionalanästhesiologischen Verfahren durchgeführt. 
+	Der Standort Næstved führt fast ausschließlich elektive Operationen in den Fachbereichen Orthopädie, (Kinder-) Urologie, Gastroenterologie und Augenheilkunde durch. 
+ 
+ 
+ Ein hervorragendes Arbeitsklima mit echten Mitgestaltungsmöglichkeiten in einem elektiven Setting, mit entsprechender Einarbeitung. 
+ 
+ 
+ Eine geplante Bereitschaftsdienst-Belastung (10 Wochen Schema) von ungefähr 7 Diensten in 10 Wochen, davon ein Wochenende. Zusatzdienste nach Verfügbarkeit möglich. 
+ 
+ 
+ Attraktive Verdienstmöglichkeiten mit Verhandlungsspielraum entsprechend Ihren Qualifikationen 
+	(z. B. Zusatzbezeichnung Intensiv/Schmerz/Notfall, Zertifikat US, etc.). 
+ 
+ 
+ Die Beantragung eines befristet herabgesetzten Steuersatzes. 
+	Dies ist abhängig von den Gehaltsverhandlungen, und der Anerkennung durch die dänische Steuerbehörde SKAT, als „højtlønnet medarbejder/forskerordning“. 
+ 
+ 
+ Teilhabe an der Entwicklung der Klinik mit Teilgebietsverantwortung bei entsprechender Qualifikation. 
+ 
+ 
+ Intensives Sprachtraining durch ein eigenes Lehrsystem für Mediziner (auch arbeitsbegleitend) sowie Relocation-Service (Hilfe bei allen Integrationsschritten/Behördengängen, Immobiliensuche/-kauf, Schulsuche, Jobsuche Partner, etc.) 
+ 
+ 
+ Einen hohen Freizeitwert durch die Nähe zur Natur/Ostsee und zur Hauptstadt Kopenhagen. (Leben und arbeiten, wo andere Urlaub machen!) 
+ 
+ 
+ Ein ärztliches Kollegium mit 10 Fachärztinnen und –ärzten, zwei nicht Fachärzten und 
+	18 Fachschwestern für Anästhesie. 
+ 
+ 
+ Die Teilnahme an Forschungsprojekten der Abteilung ( http://appraz.dk/index.html ). 
+ 
+ 
+ Die Übernahme etwaiger Vorstellungskosten 
+ 
+ 
+ Hier können Sie mehr über deutsche Ârzte lesen, die in der Region Sjælland arbeiten  
+ http://www.regionsjaelland.dk/Kampagner/medicaldoctor/Sider/default.aspx 
+ Nähere Informationen können Sie erhalten von 
+ Kontaktpersonen: 
+Chefärztin                                              Sekretärin                                        Oberarzt 
+Birgitte Marie Bonne Schousboe           Pia van der Watt                              Götz Naumann 
+ bisch@regionsjaelland.dk   piev@regionsjaelland.dk   tyn@regionsjaelland.dk 
++45 23 44 44 25                                     +45 56 51 47 96                                +45 56 51 43 82 
+Dänisch und Englisch                             Dänisch und Englisch                      Deutsch, Dänisch, Englisch 
+   
+   
+   Næstved, Slagelse og Ringsted sygehuse  
+ Sammen er vi bedst.","https://www.google.dk/maps/place/Ringstedgade+61,4700,+Næstved/",29190658,False,False,,False

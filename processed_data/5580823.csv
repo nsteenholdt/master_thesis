@@ -1,0 +1,165 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,Administrator,Administrator,"Sct. Ols Bornholm søger en administrator. 
+ 
+Da vores administrator på Sct. Ols S/I stopper pr. 30. september 2022, søger vi en medarbejder til at va",S/I Sct. Ols,Randkløvevej 26,3751,Østermarie,False,False,False,True,2022-04-22T00:00:00,2022-05-10T00:00:00,10. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5580823,Hovedstaden og Bornholm,Bornholm,Danmark,3751,,,,Fuldtid,"Kontor, administration, regnskab og finans",Bogholderi- og regnskabsarbejde,Bogholderi- og regnskabsassistent,55.166,15.037,,Dag,14889,16081,26377153,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5580823,https://job.jobnet.dk/CV/FindWork/Details/5580823,https://job.jobnet.dk/CV/FindWork/Details/5580823,True,5580823,55.166,15.037,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",S/I Sct. Ols,Randkløvevej 26,58,Danmark,400,Bornholm,4,"Hovedstaden, Sjælland og Bornholm",3751,Østermarie,,0,Primary,,,,None,,1004596448,26377153,None,5580823,5580823,S/I Sct. Ols,Randkløvevej 26,58,Danmark,400,Bornholm,4,"Hovedstaden, Sjælland og Bornholm",3751,Østermarie,,0,Primary,,,,None,,1004596448,26377153,None,,2022-04-22T00:00:00,2022-05-10T00:00:00,Administrator,"Sct. Ols Bornholm søger en administrator.  
+   
+ Da vores administrator på Sct. Ols S/I stopper pr. 30. september 2022, søger vi en medarbejder til at varetage og overtage denne funktion. 
+   
+ Stillingsbetegnelse  
+   
+ 
+ Telefonisk kontakt med samarbejdspartner til Sct. Ols i dagtimerne 
+ Lønindberetning i samarbejde med Visma Dataløn og ferieregnskab 
+ Administrativt overblik i forhold til indtag og udskrivning af borgere til Sct. Ols. 
+ Bogholderi af regnskabet, og årsregnskab i samarbejde med Bornholms revision a/s.     
+ Opfølgning og Korrektur læsning af mindre skriftlige opgaver. 
+ Mindre opgaver omkring Edb i samarbejde med Edb udbyder. 
+ Mindre opgaver omkring personale jura. 
+ 
+   
+ Ovenstående er de overordnet funktioner en administrator varetager på Sct. Ols. Der vil i den første periode af din ansættelse, være oplæring i funktionen, i samarbejde med vores nuværende administrator. Derudover kan der planlægges diverse kurser, efteruddannelse af relevans, til opbygge yderligere kompetencer, til at varetage opgaven som administrator. 
+   
+ Derfor opfordre vi også til, at hvis du som mulig ansat på Sct. Ols mener du besidder den rette personlighed, har erfaring i forhold til regnskab og administration, men mangler viden på nogen af ovenstående områder, sender os en ansøgning. 
+   
+ Vi kan tilbyde dig som ansat på Sct. Ols.  
+   
+ 
+ En dynamisk arbejdsplads med et særligt hjerte og idelogisk ståsted i behandlingen af mennesker med rusmiddels problemer. 
+ En organisation der ønsker trivsel, et godt arbejdsmiljø og organisatorisk udvikling. 
+ En organisation der ønsker og tilstræber et respektfuldt og fagligt miljø omkring vores kerneydelse og det kollegiale klima. 
+ 
+   
+ Vores ønsker til dig som ansat på Sct. Ols.  
+   
+ 
+ At du har relevant uddannelse til at varetage en administrativ sekretær funktion, eksempelvis kontor uddannelse med speciale eller anden relevant uddannelse. 
+ Har erfaring med bogholderi og regnskab.    
+ At du har ordensans og er detalje orienteret, i forhold til administration og økonomi. 
+ Tager ansvaret for at viderefører en sund økonomisk holdning på vegne af Sct. Ols. 
+ Er motiveret for at gøre en ekstra indsats i perioder det er påkrævet. 
+ 
+   
+ Kontakt og konkrete oplysninger.   
+   
+ Telefonisk henvendelse spørgsmål vedr. stillingen, rettes til: 
+ Behandlingschef på Sct. Ols S/I Thomas Krøger 56 47 03 03 eller 25 14 49 73 
+ Eller på mail thomas@sct-ols.dk 
+   
+ Ansøgningsfrist: 10. maj 2022 
+   
+ Tiltrædelse:1. juli / 1. august 2022 eller før. 
+   
+ Ansættelsessamtaler: uge 20/ 21. 
+   
+ Ansøgning sendes pr. mail til behandlingschef Thomas Krøger på mail thomas@sct-ols.dk og 
+ vedhæft venligst relevante bilag, som f.eks. opdateret CV, anbefalinger, udtalelser og referencer mv. såfremt det er muligt. 
+   
+ Løn og vilkår fremlægges og aftales ved ansættelses samtalerne. 
+   
+ Forudsætning ved ansættelse: Kørekort B  
+   
+ Organisationen.  
+   
+ Sct. Ols S/I er en organisation inde for rusmiddelsområdet bestående af 2 døgnbehandlings afdelinger på Bornholm og en ambulant dagbehandling med bofællesskab i København. 
+ Sct. Ols organisationen har specialiseret sig i behandling med mennesker med rusmidlers problemer, der ønsker en misbrugsfri tilværelse. 
+   
+ Læs mere på  www.Sct-ols.dk     
+   
+ Målgruppen.  
+   
+ Vores målgruppe er mænd og kvinder i alderen + 18 år, og vi samarbejder med de fleste kommuner i Danmark. Behandlingsforløbne variere fra 2 – 6 mdrs. varighed i døgnbehandling efterfulgt af efterbehandlingsforløb enten i egne kommunale tilbud, eller Sct. Ols dagbehandlingen i København. Forløbslængden i Sct. Ols dagbehandling variere meget afhængigt af den sociale handleplan på vegne af borgerne, fra visiterende myndighed.   
+   
+ Typisk er borgere der ankommer til Sct. Ols fra 20 – 40 år, og med forskellige niveauer af problematikker med rusmidler, dog altid i en belastningsgrad der påkræver behandling i miljøafskærmet omgivelser. Indskrivningen på Sct. Ols er i samarbejde med borger, visiterende myndighed, og altid med et frivilligt og motiverende afsæt fra borger, i at opnå en tilværelse uden rusmidler.  
+   
+ Arbejdspladsen.  
+   
+ Personale gruppen på Sct. Ols består af forskellige fagprofessioner, og afhængigt af hvilken funktions der bestrides. Den primære personale gruppe af behandlere kan være uddannet pædagoger, socialrådgiver eller sundhedsfagligt. Derudover har vi særlige tilfælde ansat personale med psykoterapeutisk uddannelser. Dagligdagen for behandlerne tilrettelagt i fastlagt struktur, som er centreret omkring at varetage behandlingens hverdagen for brugerne. 
+   
+ Derudover er der medarbejdere der varetager administrative områder af Sct. Ols, miljøterapeuter, miljøvagter, køkkenpersonale og pedelmedarbejdere. Intentionen er at alle disse faggrupper i sammenskabelse skaber Sct. Ols organisationen og i samarbejde skaber de bedste vilkår for vores borgene i vores behandlingen og eksterne samarbejdspartnere.        
+   
+ Værdierne der arbejdes ud fra på Sct. Ols er defineret som det inkluderende terapeutiske samfund. Behandlingsmodellen tager udgangspunkt i et læringsperspektiv på udviklingen af rusmiddelsproblem, og vejen ud af.",Randkløvevej 26,58,Danmark,400,Bornholm,4,"Hovedstaden, Sjælland og Bornholm",3751,Østermarie,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7921827, 'Email': 'thomas@sct-ols.dk', 'FaxNumber': None, 'PersonName': 'Thomas Krøger', 'FirstName': 'Thomas', 'LastName': 'Krøger', 'PositionTitle': 'Behandlingschef', 'PhoneNumbers': [{'Number': '56470303', 'Type': 0, 'Description': 'Hovednummer'}, {'Number': '25144973', 'Type': 1, 'Description': 'Arbejde direkte'}]}",2022-07-01T00:00:00,True,False,False,False,4,,,False,False,False,True,,,thomas@sct-ols.dk,,,True,2022-05-10T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5580823&Organisation=26377153,"Randkløvevej 26,3751, Østermarie",True,False,/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5580823&Company.Name=S/I Sct. Ols&SubmissionDeadlineDate=2022-5-10&Title=Administrator&WeeklyWorkTime=1,00000000-0000-0000-0000-000000000000,False,0,,,Administrator,True,,True,1,,5580823,,,False,False,,0,False,S/I Sct. Ols,Randkløvevej 26,,,3751,False,False,False,Østermarie,Thomas Krøger,56470303,thomas@sct-ols.dk,,,,,False,,2022-05-10T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,Dag,Arbejdspladsen ligger på Bornholm,False,S/I Sct. Ols,,None,,False,False,"Sct. Ols Bornholm søger en administrator. 
+
+Da vores administrator på Sct. Ols S/I stopper pr. 30. september 2022, søger vi en medarbejder til at varetage og overtage denne funktion.
+
+Stillingsbetegnelse 
+
+
+Telefonisk kontakt med samarbejdspartner til Sct. Ols i dagtimerne
+Lønindberetning i samarbejde med Visma Dataløn og ferieregnskab
+Administrati","""Sct. Ols Bornholm søger en administrator. \n\nDa vores administrator på Sct. Ols S/I stopper pr. 30. september 2022, søger vi en medarbejder til at varetage og overtage denne funktion.\n\nStillingsbetegnelse \n\n\nTelefonisk kontakt med samarbejdspartner til Sct. Ols i dagtimerne\nLønindberetning i samarbejde med Visma Dataløn og ferieregnskab\nAdministrati""","""Administrator""","https://www.google.dk/maps/dir//Randkløvevej+26,3751,+Østermarie/","Sct. Ols Bornholm søger en administrator.  
+   
+ Da vores administrator på Sct. Ols S/I stopper pr. 30. september 2022, søger vi en medarbejder til at varetage og overtage denne funktion. 
+   
+ Stillingsbetegnelse  
+   
+ 
+ Telefonisk kontakt med samarbejdspartner til Sct. Ols i dagtimerne 
+ Lønindberetning i samarbejde med Visma Dataløn og ferieregnskab 
+ Administrativt overblik i forhold til indtag og udskrivning af borgere til Sct. Ols. 
+ Bogholderi af regnskabet, og årsregnskab i samarbejde med Bornholms revision a/s.     
+ Opfølgning og Korrektur læsning af mindre skriftlige opgaver. 
+ Mindre opgaver omkring Edb i samarbejde med Edb udbyder. 
+ Mindre opgaver omkring personale jura. 
+ 
+   
+ Ovenstående er de overordnet funktioner en administrator varetager på Sct. Ols. Der vil i den første periode af din ansættelse, være oplæring i funktionen, i samarbejde med vores nuværende administrator. Derudover kan der planlægges diverse kurser, efteruddannelse af relevans, til opbygge yderligere kompetencer, til at varetage opgaven som administrator. 
+   
+ Derfor opfordre vi også til, at hvis du som mulig ansat på Sct. Ols mener du besidder den rette personlighed, har erfaring i forhold til regnskab og administration, men mangler viden på nogen af ovenstående områder, sender os en ansøgning. 
+   
+ Vi kan tilbyde dig som ansat på Sct. Ols.  
+   
+ 
+ En dynamisk arbejdsplads med et særligt hjerte og idelogisk ståsted i behandlingen af mennesker med rusmiddels problemer. 
+ En organisation der ønsker trivsel, et godt arbejdsmiljø og organisatorisk udvikling. 
+ En organisation der ønsker og tilstræber et respektfuldt og fagligt miljø omkring vores kerneydelse og det kollegiale klima. 
+ 
+   
+ Vores ønsker til dig som ansat på Sct. Ols.  
+   
+ 
+ At du har relevant uddannelse til at varetage en administrativ sekretær funktion, eksempelvis kontor uddannelse med speciale eller anden relevant uddannelse. 
+ Har erfaring med bogholderi og regnskab.    
+ At du har ordensans og er detalje orienteret, i forhold til administration og økonomi. 
+ Tager ansvaret for at viderefører en sund økonomisk holdning på vegne af Sct. Ols. 
+ Er motiveret for at gøre en ekstra indsats i perioder det er påkrævet. 
+ 
+   
+ Kontakt og konkrete oplysninger.   
+   
+ Telefonisk henvendelse spørgsmål vedr. stillingen, rettes til: 
+ Behandlingschef på Sct. Ols S/I Thomas Krøger 56 47 03 03 eller 25 14 49 73 
+ Eller på mail thomas@sct-ols.dk 
+   
+ Ansøgningsfrist: 10. maj 2022 
+   
+ Tiltrædelse:1. juli / 1. august 2022 eller før. 
+   
+ Ansættelsessamtaler: uge 20/ 21. 
+   
+ Ansøgning sendes pr. mail til behandlingschef Thomas Krøger på mail thomas@sct-ols.dk og 
+ vedhæft venligst relevante bilag, som f.eks. opdateret CV, anbefalinger, udtalelser og referencer mv. såfremt det er muligt. 
+   
+ Løn og vilkår fremlægges og aftales ved ansættelses samtalerne. 
+   
+ Forudsætning ved ansættelse: Kørekort B  
+   
+ Organisationen.  
+   
+ Sct. Ols S/I er en organisation inde for rusmiddelsområdet bestående af 2 døgnbehandlings afdelinger på Bornholm og en ambulant dagbehandling med bofællesskab i København. 
+ Sct. Ols organisationen har specialiseret sig i behandling med mennesker med rusmidlers problemer, der ønsker en misbrugsfri tilværelse. 
+   
+ Læs mere på  www.Sct-ols.dk     
+   
+ Målgruppen.  
+   
+ Vores målgruppe er mænd og kvinder i alderen + 18 år, og vi samarbejder med de fleste kommuner i Danmark. Behandlingsforløbne variere fra 2 – 6 mdrs. varighed i døgnbehandling efterfulgt af efterbehandlingsforløb enten i egne kommunale tilbud, eller Sct. Ols dagbehandlingen i København. Forløbslængden i Sct. Ols dagbehandling variere meget afhængigt af den sociale handleplan på vegne af borgerne, fra visiterende myndighed.   
+   
+ Typisk er borgere der ankommer til Sct. Ols fra 20 – 40 år, og med forskellige niveauer af problematikker med rusmidler, dog altid i en belastningsgrad der påkræver behandling i miljøafskærmet omgivelser. Indskrivningen på Sct. Ols er i samarbejde med borger, visiterende myndighed, og altid med et frivilligt og motiverende afsæt fra borger, i at opnå en tilværelse uden rusmidler.  
+   
+ Arbejdspladsen.  
+   
+ Personale gruppen på Sct. Ols består af forskellige fagprofessioner, og afhængigt af hvilken funktions der bestrides. Den primære personale gruppe af behandlere kan være uddannet pædagoger, socialrådgiver eller sundhedsfagligt. Derudover har vi særlige tilfælde ansat personale med psykoterapeutisk uddannelser. Dagligdagen for behandlerne tilrettelagt i fastlagt struktur, som er centreret omkring at varetage behandlingens hverdagen for brugerne. 
+   
+ Derudover er der medarbejdere der varetager administrative områder af Sct. Ols, miljøterapeuter, miljøvagter, køkkenpersonale og pedelmedarbejdere. Intentionen er at alle disse faggrupper i sammenskabelse skaber Sct. Ols organisationen og i samarbejde skaber de bedste vilkår for vores borgene i vores behandlingen og eksterne samarbejdspartnere.        
+   
+ Værdierne der arbejdes ud fra på Sct. Ols er defineret som det inkluderende terapeutiske samfund. Behandlingsmodellen tager udgangspunkt i et læringsperspektiv på udviklingen af rusmiddelsproblem, og vejen ud af.","https://www.google.dk/maps/place/Randkløvevej+26,3751,+Østermarie/",26377153,False,False,,False

@@ -1,0 +1,170 @@
+summary_AutomatchType,summary_Abroad,summary_Weight,summary_Title,summary_JobHeadline,summary_Presentation,summary_HiringOrgName,summary_WorkPlaceAddress,summary_WorkPlacePostalCode,summary_WorkPlaceCity,summary_WorkPlaceOtherAddress,summary_WorkPlaceAbroad,summary_WorkPlaceNotStatic,summary_UseWorkPlaceAddressForJoblog,summary_PostingCreated,summary_LastDateApplication,summary_FormattedLastDateApplication,summary_AssignmentStartDate,summary_IsHotjob,summary_IsExternal,summary_Url,summary_Region,summary_Municipality,summary_Country,summary_PostalCode,summary_PostalCodeName,summary_JobAnnouncementType,summary_EmploymentType,summary_WorkHours,summary_OccupationArea,summary_OccupationGroup,summary_Occupation,summary_Location_Latitude,summary_Location_Longitude,summary_JoblogWorkTime_WorkHour,summary_JoblogWorkTime_DailyWorkTime,summary_WorkplaceID,summary_OrganisationId,summary_HiringOrgCVR,summary_UserLoggedIn,summary_AnonymousEmployer,summary_ShareUrl,summary_DetailsUrl,summary_JobLogUrl,summary_HasLocationValues,summary_ID,summary_Latitude,summary_Longitude,details_WorkSchedule,details_WorkConditions,details_EmploymentTypes,details_WorkPlace_Name,details_WorkPlace_Address_AddressLine,details_WorkPlace_Address_Country_Id,details_WorkPlace_Address_Country_Name,details_WorkPlace_Address_Municipality_Id,details_WorkPlace_Address_Municipality_Name,details_WorkPlace_Address_Region_Id,details_WorkPlace_Address_Region_Name,details_WorkPlace_Address_PostalCode,details_WorkPlace_Address_City,details_WorkPlace_PhoneNumber_Number,details_WorkPlace_PhoneNumber_Type,details_WorkPlace_PhoneNumber_Description,details_WorkPlace_FaxNumber,details_WorkPlace_Email,details_WorkPlace_WebAddress,details_WorkPlace_Description,details_WorkPlace_Logo,details_WorkPlace_WorkPlaceOrganizationNumber,details_WorkPlace_OrganizationNumber,details_WorkPlace_OrganizationDescription,details_JobPositionPosting_Id,details_JobPositionPosting_OriginalJppId,details_JobPositionPosting_HiringOrg_Name,details_JobPositionPosting_HiringOrg_Address_AddressLine,details_JobPositionPosting_HiringOrg_Address_Country_Id,details_JobPositionPosting_HiringOrg_Address_Country_Name,details_JobPositionPosting_HiringOrg_Address_Municipality_Id,details_JobPositionPosting_HiringOrg_Address_Municipality_Name,details_JobPositionPosting_HiringOrg_Address_Region_Id,details_JobPositionPosting_HiringOrg_Address_Region_Name,details_JobPositionPosting_HiringOrg_Address_PostalCode,details_JobPositionPosting_HiringOrg_Address_City,details_JobPositionPosting_HiringOrg_PhoneNumber_Number,details_JobPositionPosting_HiringOrg_PhoneNumber_Type,details_JobPositionPosting_HiringOrg_PhoneNumber_Description,details_JobPositionPosting_HiringOrg_FaxNumber,details_JobPositionPosting_HiringOrg_Email,details_JobPositionPosting_HiringOrg_WebAddress,details_JobPositionPosting_HiringOrg_Description,details_JobPositionPosting_HiringOrg_Logo,details_JobPositionPosting_HiringOrg_WorkPlaceOrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationNumber,details_JobPositionPosting_HiringOrg_OrganizationDescription,details_JobPositionPosting_RecruitingCompany,details_JobPositionPosting_PublicationStartDate,details_JobPositionPosting_PublicationEndDate,details_JobPositionPosting_JobPositionInformation_PositionTitle,details_JobPositionPosting_JobPositionInformation_Purpose,details_JobPositionPosting_JobPositionInformation_WorkLocation_AddressLine,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Country_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Municipality_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Id,details_JobPositionPosting_JobPositionInformation_WorkLocation_Region_Name,details_JobPositionPosting_JobPositionInformation_WorkLocation_PostalCode,details_JobPositionPosting_JobPositionInformation_WorkLocation_City,details_JobPositionPosting_JobPositionInformation_EmploymentType,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeId,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_TypeName,details_JobPositionPosting_JobPositionInformation_WeeklyWorkHours_Description,details_JobPositionPosting_JobPositionInformation_CompensationDescription,details_JobPositionPosting_JobPositionInformation_NumberToFill,details_JobPositionPosting_JobPositionInformation_DriverLicense,details_JobPositionPosting_JobPositionInformation_Occupation_DiscoWeb,details_JobPositionPosting_JobPositionInformation_Occupation_AlternateNames,details_JobPositionPosting_JobPositionInformation_Occupation_GroupId,details_JobPositionPosting_JobPositionInformation_Occupation_AreaId,details_JobPositionPosting_JobPositionInformation_Occupation_Id,details_JobPositionPosting_JobPositionInformation_Occupation_Name,details_JobPositionPosting_JobPositionInformation_IsGovernmentHiring,details_JobPositionPosting_JobPositionInformation_JppContacts,details_JobPositionPosting_JobPositionInformation_EmploymentDate,details_JobPositionPosting_IsRecruitmentOfForeignNationals,details_JobPositionPosting_IsWorkInDenmark,details_JobPositionPosting_IsAnonymousEmployer,details_JobPositionPosting_IsDisabilityFriendly,details_JobPositionPosting_JppType,details_JobPositionPosting_ApplicationDetails_WorkHourMax,details_JobPositionPosting_ApplicationDetails_WorkHourMin,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeWeekend,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeNight,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeEvening,details_JobPositionPosting_ApplicationDetails_DailyWorkTimeDay,details_JobPositionPosting_ApplicationDetails_ReferenceText,details_JobPositionPosting_ApplicationDetails_RemarksToApplicant,details_JobPositionPosting_ApplicationDetails_ByEmail,details_JobPositionPosting_ApplicationDetails_ByPhone,details_JobPositionPosting_ApplicationDetails_ApplyViaUrl,details_JobPositionPosting_ApplicationDetails_ReplyInWriting,details_JobPositionPosting_ApplicationDetails_ApplicationDeadlineDate,details_JobPositionPosting_ContactAuthorityPhoneNumber_Number,details_JobPositionPosting_ContactAuthorityPhoneNumber_Type,details_JobPositionPosting_ContactAuthorityPhoneNumber_Description,details_JobPositionPosting_Status,details_LogoUrl,details_Address,details_ShowMap,details_ShowShareButtonJobLog,details_JobLogUrl,details_JobLogTemplateModel_Identifier,details_JobLogTemplateModel_UseWorkPlaceAddressForJoblog,details_JobLogTemplateModel_Category,details_JobLogTemplateModel_CvCustomerIdentifier,details_JobLogTemplateModel_JobSeekingStatus,details_JobLogTemplateModel_Title,details_JobLogTemplateModel_IsApplicationSourceRequired,details_JobLogTemplateModel_ApplicationSource,details_JobLogTemplateModel_IsWeeklyWorkTimeRequired,details_JobLogTemplateModel_WeeklyWorkTime,details_JobLogTemplateModel_HoursPerWeek,details_JobLogTemplateModel_JobnetJobPostingIdentifier,details_JobLogTemplateModel_JobAdDocument_Title,details_JobLogTemplateModel_JobAdDocument_Identifier,details_JobLogTemplateModel_JobAdDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobAdDocument_IsDeletedByUser,details_JobLogTemplateModel_JobAdFile,details_JobLogTemplateModel_Company_JobLogEntryCategory,details_JobLogTemplateModel_Company_ShowAddressFieldsEvenIfEmpty,details_JobLogTemplateModel_Company_Name,details_JobLogTemplateModel_Company_Address,details_JobLogTemplateModel_Company_Country,details_JobLogTemplateModel_Company_EmploymentAreaID,details_JobLogTemplateModel_Company_PostCode,details_JobLogTemplateModel_Company_IsCountryAndTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsTownAndPostCodeEmpty,details_JobLogTemplateModel_Company_IsCountryDanmark,details_JobLogTemplateModel_Company_Town,details_JobLogTemplateModel_Company_ContactPerson,details_JobLogTemplateModel_Company_Phone,details_JobLogTemplateModel_Company_Email,details_JobLogTemplateModel_Company_Latitude,details_JobLogTemplateModel_Company_Longitude,details_JobLogTemplateModel_Company_DailyTravelTimeInMinutes,details_JobLogTemplateModel_Company_DistanceToCompanyInMeters,details_JobLogTemplateModel_Company_IsCreateMode,details_JobLogTemplateModel_TypeOfSubmission,details_JobLogTemplateModel_SubmissionDate,details_JobLogTemplateModel_SubmissionDateFormatted,details_JobLogTemplateModel_SubmissionDateTiks,details_JobLogTemplateModel_IsSubmissionDateRequired,details_JobLogTemplateModel_Status,details_JobLogTemplateModel_DateCreatedFormatted,details_JobLogTemplateModel_DateCreated,details_JobLogTemplateModel_DateModifiedFormatted,details_JobLogTemplateModel_DateModified,details_JobLogTemplateModel_LastModifiedDateTiks,details_JobLogTemplateModel_DateClosed,details_JobLogTemplateModel_JobApplicationDocument_Title,details_JobLogTemplateModel_JobApplicationDocument_Identifier,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedBySystem,details_JobLogTemplateModel_JobApplicationDocument_IsDeletedByUser,details_JobLogTemplateModel_CvDocument_Title,details_JobLogTemplateModel_CvDocument_Identifier,details_JobLogTemplateModel_CvDocument_IsDeletedBySystem,details_JobLogTemplateModel_CvDocument_IsDeletedByUser,details_JobLogTemplateModel_JobApplicationFile,details_JobLogTemplateModel_CvFile,details_JobLogTemplateModel_SubmissionDeadlineDate,details_JobLogTemplateModel_IsPersisted,details_JobLogTemplateModel_ServerValidationErrors,details_JobLogTemplateModel_HasServerValidationErrors,details_JoblogWorkTime_WorkHour,details_JoblogWorkTime_DailyWorkTime,details_Place,details_OpenPrintDialog,details_WorkPlaceInfoText,details_JobCenterContactDetails,details_WorkPlaceDescriptionText,details_FavoriteText,details_IsFavorite,details_ShowFavorite,details_MetaOgTextForSharing,details_DescriptionForSharing,details_TitleForSharing,details_RutePlan,details_FormattedPurpose,details_MapUrl,details_OrganizationNumber,details_ShowSearchJobButton,details_ShowPrint,details_BackToFindWorkButtonUrl,isExternal
+0,False,1,"Distriktspsykiatrien Roskilde søger specialpsykolog eller klinisk psykolog til F-ACT team for bostedspatienter, der udviser alvorlig selvskade og anden kompleks adfærd","Distriktspsykiatrien Roskilde søger specialpsykolog eller klinisk psykolog til F-ACT team for bostedspatienter, der udviser alvorlig selvskade og anden kompleks adfærd","
+	
+		
+			 
+		
+	
+
+
+Er du solidt forankret i din psykologfaglighed og brænder du for at gøre en forskel for nogle af de mest udsatte patienter i psykiatrien, der ofte er kendetegnet ved komplekse",Region Sjælland,Havnevej 7,4000,Roskilde,True,False,False,False,2022-04-19T00:00:00,2022-05-18T00:00:00,18. maj 2022,0001-01-01T00:00:00,False,False,https://job.jobnet.dk/CV/FindWork/Details/5578450,Øvrige Sjælland,Roskilde,Danmark,4000,,,,Fuldtid,Akademisk arbejde,Psykologarbejde,Psykolog,55.6467,12.076,,,61350,57914,29190658,False,False,https://job.jobnet.dk/CV/FindWork/DetailsSocialmedia/5578450,https://job.jobnet.dk/CV/FindWork/Details/5578450,https://job.jobnet.dk/CV/FindWork/Details/5578450,True,5578450,55.6467,12.076,"{'Id': 1, 'Name': 'Fuldtid'}, {'Id': 16, 'Name': 'Deltid'}","{'Id': 1, 'Name': 'Almindelige vilkår'}, {'Id': 2, 'Name': 'Fleksjob'}, {'Id': 3, 'Name': 'Skånejob'}, {'Id': 4, 'Name': 'Egnet til efterlønnere og seniorer'}, {'Id': 5, 'Name': 'Job med løntilskud'}, {'Id': 6, 'Name': 'Rotationsjob'}, {'Id': 7, 'Name': 'Virksomhedspraktik'}","{'Id': 1, 'Name': 'Fastansættelse'}, {'Id': 16, 'Name': 'Tidsbegrænset ansættelse'}",Region Sjælland,Alleen 15,58,Danmark,340,Sorø,4,"Hovedstaden, Sjælland og Bornholm",4180,Sorø,,0,Primary,,,,None,61350,1003290870,29190658,None,5578450,5578450,Region Sjælland,Alleen 15,58,Danmark,340,Sorø,4,"Hovedstaden, Sjælland og Bornholm",4180,Sorø,,0,Primary,,,,None,61350,1003290870,29190658,None,,2022-04-19T00:00:00,2022-05-18T00:00:00,"Distriktspsykiatrien Roskilde søger specialpsykolog eller klinisk psykolog til F-ACT team for bostedspatienter, der udviser alvorlig selvskade og anden kompleks adfærd","Er du solidt forankret i din psykologfaglighed og brænder du for at gøre en forskel for nogle af de mest udsatte patienter i psykiatrien, der ofte er kendetegnet ved komplekse patientforløb og selvskadende adfærd? Formår du at tænke ud af boksen og arbejde i mellemrummene mellem de mange forskellige aktører og på de forskellige arenaer, som ofte er involveret i den slags komplekse patientforløb, så har vi en unik psykologstilling til dig!  
+   
+ Velkommen til Distriktspsykiatrien i Roskilde 
+ Distriktspsykiatrien i Roskilde (DPR) tilbyder ambulant udredning af og tværfaglig behandling til borgere med psykoser, svære personlighedsforstyrrelser og bipolar lidelse. Personalet består af mere end 40 medarbejdere, hvoraf der aktuelt er fire psykologer (heraf en psykolog i ledelse), læger, sygeplejersker, fysioterapeut, socialrågivere og lægesekretærer – og snart også peer-medarbejdere. 
+   
+ DPR arbejder ud fra F-ACT modellen. F-ACT er en hollandsk model for ambulant psykiatrisk behandling og står for ”fleksibel udgående og opsøgende behandling i nærmiljøet”. Metoden fokuserer på ”at være der, hvor patienten er og ønsker at lykkes” og giver mulighed for fleksibelt at tilpasse behandlingsintensiteten til patientens behov. DPR er nu midt i den spændende proces med at implementere F-ACT.  I DPR har vi tre F-ACT teams: et alment for borgere i Roskilde kommune, og to specialiserede, der er dediceret henholdsvis affektive lidelser samt borgere med psykisk lidelse på bosteder. 
+   
+ Nærværende stilling er til F-ACT teamet for bostedspatienter i hele distrikt Øst. I F-ACT teamet for bostedspatienter arbejdes der ikke blot med patienterne, men også med personalet på de enkelte bosteder (fx sparring med dem), såvel som andre relevante aktører og sengeafsnit. Vi har også i F-ACT for bosteder et stort fokus på patienter med alvorlig selvskadende adfærd og gentagende indlæggelser, hvor psykologen skal indgå i tæt samarbejde med teamet omkring at bedre behandlingen for denne målgruppe. 
+   
+ Arbejdsopgaver 
+ Du skal i samarbejde med DPRs øvrige tværfaglige personale varetage udrednings- og behandlingsopgaver overfor ambulatoriets målgruppe. Dette indebærer blandt andet: 
+ 
+ 
+ Førstegangssamtaler, psykologisk testning og psykopatologisk udredning 
+ 
+ 
+ Varetage komplekse patientforløb 
+ 
+ 
+ Deltagelse i psykoedukation for patienter og pårørende 
+ 
+ 
+ Psykoterapeutiske behandlingsforløb med patienter med svær selvskade 
+ 
+ 
+ Samarbejde med interne og eksterne samarbejdspartnere 
+ 
+ 
+ Bidrage til undervisning, supervision og sparring 
+   
+ 
+ 
+ Vores ønsker eller forventninger til dig 
+ Du er specialpsykolog eller klinisk psykolog (gerne specialist eller på vej til specialist). Endvidere ser vi gerne, at du kan sætte flueben ved flere af følgende: 
+ 
+ 
+ Gode samarbejdsevner og stærke evner til at samarbejde i tværfaglige teams 
+ 
+ 
+ Erfaringer med målgruppen herunder svær selvskade 
+ 
+ 
+ Lyst til at skabe bedre sammenhængende patientforløb på kryds og tværs af enheder og sektorer 
+ 
+ 
+ Gerne psykoterapeutisk uddannelse 
+ 
+ 
+ Kan planlægge egen arbejdstid og prioritere arbejdsopgaver 
+ 
+ 
+ Lyst til at arbejde tværfagligt og helhedsorienteret med borgere med svære psykiske lidelser 
+ 
+ 
+ Du har kørekort (vi har biler og el-cykler) 
+ 
+ 
+ Lyst til at arbejde i en lærende organisation og biddrage til den fortsatte udvikling af vores behandlingstilbud i tæt samarbejde med det øvrige team og afsnitsledelsen 
+ 
+ 
+   
+   
+ Vi tilbyder 
+ Du bliver en del af en arbejdsplads, der stræber mod et højt fagligt niveau og tilbyder høj grad af selvstændighed. Da vi fortsat er undervejs i processen med at udrulle F-ACT teams, vil der også være god mulighed for selv at præge arbejdsopgaver og roller i teamet. Afsnitsledelsen vægter en flad struktur og stor autnomi til de enkelte F-ACT teams og personaler, såvel som faglig nytænkning i forhold til vores behandlingstilbud. Der er endvidere mulighed for faglig sparring med de andre psykologer i DPR samt psykologmøder på tværs af enheder i Øst. Psykologgruppen i Øst, der aktuelt består af 34 psykologer (heraf 8 specialpsykologer), har gode muligheder for efteruddannelse, at modtage supervision på tests og psykoterapi samt deltage i undervisning/klinikker. Det tværfaglige samarbejde i DPR er godt og præget af højt humør. Vi sætter faglig udvikling og ekspertise højt og prioriterer at understøtte udviklings- og forskningsprojekter, der fortløbende kan forbedre vores behandlingstilbud. Videre er sikkerhed i arbejdet også en stor prioritet. 
+   
+ Interesseret 
+ Har du lyst til at vide mere om stillingen og DPR er du velkommen til at kontakte afsnitsledende psykolog og professor Mickey Kongerslev på tlf. 58 53 77 00 eller mail:  mkon@regionsjaelland.dk . 
+   
+   
+ Løn og ansættelsesvilkår 
+ Løn og ansættelse sker i helhold til gældende overenskomst. Region Sjælland indhenter straffeattest og to referencer fra nærmeste ledere forud for ansættelse. Stillingen er fastansættelse (med tre måneders prøve periode) og på 32 til 37 timer om ugen (afhængig af ansøgers ønsker). 
+   
+   
+ Ansøgningsfrist 
+ Vi skal have din ansøgning senest d. 18.maj 2022 kl. 12.00. 
+ Ansættelsessamtaler den 25.maj 2022 
+ Ansættelsesstart 01.Juli eller snarest derefter Psykiatrien som arbejdsplads   
+ I Psykiatrien Region Sjælland kan du gøre en forskel for hele mennesket. Vi skaber håb, vilje og lyst til livet. Du gør en meningsfuld forskel, når du vælger at arbejde i Psykiatrien. Gør karriere i Psykiatrien, hvis du vil redde mere end liv. Se mere på  Jobipsykiatrien.dk  – og læs om udviklingsmuligheder, karriereveje og alt det andet som er rart at vide, når man søger nyt job. 
+ Om Psykiatrien 
+Psykiatrien Region Sjælland er en behandlingspsykiatri, der består af en række sengeafsnit og ambulante enheder rundt omkring i regionen. Vi varetager psykiatrisk udredning og behandling samt akutforpligtelsen i Region Sjælland.  
+ Vi udvikler og formidler en bred vifte af psykiatriske tilbud til regionens borgere, og vi har en anonym rådgivning, som er åben for alle, der har behov for viden eller sparring om psykisk sygdom. Vi forsker bredt med inddragelse af både patienter og pårørende. Vi ser det som en vigtig opgave at uddanne fremtidens medarbejdere, så vi varetager også en stor uddannelsesopgave.",Havnevej 7,58,Danmark,265,Roskilde,4,"Hovedstaden, Sjælland og Bornholm",4000,Roskilde,1,1,Fuldtid,None,None,1,,0,,0,0,0,,False,"{'Id': 7911693, 'Email': None, 'FaxNumber': None, 'PersonName': 'Mickey Kongerslev', 'FirstName': 'Mickey', 'LastName': 'Kongerslev', 'PositionTitle': None, 'PhoneNumbers': [{'Number': '58537682', 'Type': 0, 'Description': 'Hovednummer'}]}",2022-07-01T00:00:00,False,False,False,False,4,,,False,False,False,False,,,,,https://www.regionsjaelland.dk/JobOgKarriere/Sider/JobSide.aspx?nr=24562,False,2022-05-18T00:00:00,,0,Primary,7,/CV/FindWork/GetLogo?JobAdId=5578450&WorkPlace=61350&Organisation=29190658,"Havnevej 7,4000, Roskilde",True,False,"/CV/Jobseeking/JobLog/CreateJobSearch?JobnetJobPostingIdentifier=5578450&Company.Name=Region Sjælland&SubmissionDeadlineDate=2022-5-18&Title=Distriktspsykiatrien Roskilde søger specialpsykolog eller klinisk psykolog til F-ACT team for bostedspatienter, der udviser alvorlig selvskade og anden kompleks adfærd&WeeklyWorkTime=1",00000000-0000-0000-0000-000000000000,False,0,,,"Distriktspsykiatrien Roskilde søger specialpsykolog eller klinisk psykolog til F-ACT team for bostedspatienter, der udviser alvorlig selvskade og anden kompleks adfærd",True,,True,1,,5578450,,,False,False,,0,False,Region Sjælland,Alleen 15,,,4180,False,False,False,Sorø,Mickey Kongerslev,58537682,,,,,,False,,2022-05-18T00:00:00,,0,False,0,,,,,0,,,,False,False,,,False,False,,,,False,,False,,,Arbejdspladsen ligger i Roskilde kommune,False,Region Sjælland,,None,,False,False,"Er du solidt forankret i din psykologfaglighed og br&aelig;nder du for at g&oslash;re en forskel for nogle af de mest udsatte patienter i psykiatrien, der ofte er kendetegnet ved komplekse patientforl&oslash;b og selvskadende adf&aelig;rd? Form&aring;r du at t&aelig;nke ud af boksen og arbejde i mellemrummene mellem de mange forskellige akt&oslash;","""Er du solidt forankret i din psykologfaglighed og br\u0026aelig;nder du for at g\u0026oslash;re en forskel for nogle af de mest udsatte patienter i psykiatrien, der ofte er kendetegnet ved komplekse patientforl\u0026oslash;b og selvskadende adf\u0026aelig;rd? Form\u0026aring;r du at t\u0026aelig;nke ud af boksen og arbejde i mellemrummene mellem de mange forskellige akt\u0026oslash;""","""Distriktspsykiatrien Roskilde søger specialpsykolog eller klinisk psykolog til F-ACT team for bostedspatienter, der udviser alvorlig selvskade og anden kompleks adfærd""","https://www.google.dk/maps/dir//Havnevej+7,4000,+Roskilde/","Er du solidt forankret i din psykologfaglighed og brænder du for at gøre en forskel for nogle af de mest udsatte patienter i psykiatrien, der ofte er kendetegnet ved komplekse patientforløb og selvskadende adfærd? Formår du at tænke ud af boksen og arbejde i mellemrummene mellem de mange forskellige aktører og på de forskellige arenaer, som ofte er involveret i den slags komplekse patientforløb, så har vi en unik psykologstilling til dig!  
+   
+ Velkommen til Distriktspsykiatrien i Roskilde 
+ Distriktspsykiatrien i Roskilde (DPR) tilbyder ambulant udredning af og tværfaglig behandling til borgere med psykoser, svære personlighedsforstyrrelser og bipolar lidelse. Personalet består af mere end 40 medarbejdere, hvoraf der aktuelt er fire psykologer (heraf en psykolog i ledelse), læger, sygeplejersker, fysioterapeut, socialrågivere og lægesekretærer – og snart også peer-medarbejdere. 
+   
+ DPR arbejder ud fra F-ACT modellen. F-ACT er en hollandsk model for ambulant psykiatrisk behandling og står for ”fleksibel udgående og opsøgende behandling i nærmiljøet”. Metoden fokuserer på ”at være der, hvor patienten er og ønsker at lykkes” og giver mulighed for fleksibelt at tilpasse behandlingsintensiteten til patientens behov. DPR er nu midt i den spændende proces med at implementere F-ACT.  I DPR har vi tre F-ACT teams: et alment for borgere i Roskilde kommune, og to specialiserede, der er dediceret henholdsvis affektive lidelser samt borgere med psykisk lidelse på bosteder. 
+   
+ Nærværende stilling er til F-ACT teamet for bostedspatienter i hele distrikt Øst. I F-ACT teamet for bostedspatienter arbejdes der ikke blot med patienterne, men også med personalet på de enkelte bosteder (fx sparring med dem), såvel som andre relevante aktører og sengeafsnit. Vi har også i F-ACT for bosteder et stort fokus på patienter med alvorlig selvskadende adfærd og gentagende indlæggelser, hvor psykologen skal indgå i tæt samarbejde med teamet omkring at bedre behandlingen for denne målgruppe. 
+   
+ Arbejdsopgaver 
+ Du skal i samarbejde med DPRs øvrige tværfaglige personale varetage udrednings- og behandlingsopgaver overfor ambulatoriets målgruppe. Dette indebærer blandt andet: 
+ 
+ 
+ Førstegangssamtaler, psykologisk testning og psykopatologisk udredning 
+ 
+ 
+ Varetage komplekse patientforløb 
+ 
+ 
+ Deltagelse i psykoedukation for patienter og pårørende 
+ 
+ 
+ Psykoterapeutiske behandlingsforløb med patienter med svær selvskade 
+ 
+ 
+ Samarbejde med interne og eksterne samarbejdspartnere 
+ 
+ 
+ Bidrage til undervisning, supervision og sparring 
+   
+ 
+ 
+ Vores ønsker eller forventninger til dig 
+ Du er specialpsykolog eller klinisk psykolog (gerne specialist eller på vej til specialist). Endvidere ser vi gerne, at du kan sætte flueben ved flere af følgende: 
+ 
+ 
+ Gode samarbejdsevner og stærke evner til at samarbejde i tværfaglige teams 
+ 
+ 
+ Erfaringer med målgruppen herunder svær selvskade 
+ 
+ 
+ Lyst til at skabe bedre sammenhængende patientforløb på kryds og tværs af enheder og sektorer 
+ 
+ 
+ Gerne psykoterapeutisk uddannelse 
+ 
+ 
+ Kan planlægge egen arbejdstid og prioritere arbejdsopgaver 
+ 
+ 
+ Lyst til at arbejde tværfagligt og helhedsorienteret med borgere med svære psykiske lidelser 
+ 
+ 
+ Du har kørekort (vi har biler og el-cykler) 
+ 
+ 
+ Lyst til at arbejde i en lærende organisation og biddrage til den fortsatte udvikling af vores behandlingstilbud i tæt samarbejde med det øvrige team og afsnitsledelsen 
+ 
+ 
+   
+   
+ Vi tilbyder 
+ Du bliver en del af en arbejdsplads, der stræber mod et højt fagligt niveau og tilbyder høj grad af selvstændighed. Da vi fortsat er undervejs i processen med at udrulle F-ACT teams, vil der også være god mulighed for selv at præge arbejdsopgaver og roller i teamet. Afsnitsledelsen vægter en flad struktur og stor autnomi til de enkelte F-ACT teams og personaler, såvel som faglig nytænkning i forhold til vores behandlingstilbud. Der er endvidere mulighed for faglig sparring med de andre psykologer i DPR samt psykologmøder på tværs af enheder i Øst. Psykologgruppen i Øst, der aktuelt består af 34 psykologer (heraf 8 specialpsykologer), har gode muligheder for efteruddannelse, at modtage supervision på tests og psykoterapi samt deltage i undervisning/klinikker. Det tværfaglige samarbejde i DPR er godt og præget af højt humør. Vi sætter faglig udvikling og ekspertise højt og prioriterer at understøtte udviklings- og forskningsprojekter, der fortløbende kan forbedre vores behandlingstilbud. Videre er sikkerhed i arbejdet også en stor prioritet. 
+   
+ Interesseret 
+ Har du lyst til at vide mere om stillingen og DPR er du velkommen til at kontakte afsnitsledende psykolog og professor Mickey Kongerslev på tlf. 58 53 77 00 eller mail:  mkon@regionsjaelland.dk . 
+   
+   
+ Løn og ansættelsesvilkår 
+ Løn og ansættelse sker i helhold til gældende overenskomst. Region Sjælland indhenter straffeattest og to referencer fra nærmeste ledere forud for ansættelse. Stillingen er fastansættelse (med tre måneders prøve periode) og på 32 til 37 timer om ugen (afhængig af ansøgers ønsker). 
+   
+   
+ Ansøgningsfrist 
+ Vi skal have din ansøgning senest d. 18.maj 2022 kl. 12.00. 
+ Ansættelsessamtaler den 25.maj 2022 
+ Ansættelsesstart 01.Juli eller snarest derefter Psykiatrien som arbejdsplads   
+ I Psykiatrien Region Sjælland kan du gøre en forskel for hele mennesket. Vi skaber håb, vilje og lyst til livet. Du gør en meningsfuld forskel, når du vælger at arbejde i Psykiatrien. Gør karriere i Psykiatrien, hvis du vil redde mere end liv. Se mere på  Jobipsykiatrien.dk  – og læs om udviklingsmuligheder, karriereveje og alt det andet som er rart at vide, når man søger nyt job. 
+ Om Psykiatrien 
+Psykiatrien Region Sjælland er en behandlingspsykiatri, der består af en række sengeafsnit og ambulante enheder rundt omkring i regionen. Vi varetager psykiatrisk udredning og behandling samt akutforpligtelsen i Region Sjælland.  
+ Vi udvikler og formidler en bred vifte af psykiatriske tilbud til regionens borgere, og vi har en anonym rådgivning, som er åben for alle, der har behov for viden eller sparring om psykisk sygdom. Vi forsker bredt med inddragelse af både patienter og pårørende. Vi ser det som en vigtig opgave at uddanne fremtidens medarbejdere, så vi varetager også en stor uddannelsesopgave.","https://www.google.dk/maps/place/Havnevej+7,4000,+Roskilde/",29190658,False,False,,False
