@@ -1,3 +1,5 @@
+## Current working script for extraction, that attempts to handle potential errors or issues gracefully - besides that it is identical to "extract_all_individual_files.py"
+
 import os
 import json
 import pandas as pd
