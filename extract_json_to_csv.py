@@ -84,4 +84,4 @@ for subdir, _, files in os.walk(BASE_DIR):
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
 
-print("\n✅ Data extraction complete! Individual CSV files are stored in:", OUTPUT_DIR)
+print("\nData extraction complete! Individual CSV files are stored in:", OUTPUT_DIR)
