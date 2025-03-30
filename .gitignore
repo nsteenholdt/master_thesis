@@ -1,7 +1,7 @@
 analysis.py
 unused_chunks.ipynb
-stopwords
-jobnet_venv/lib
+stopwords.txt
+jobnet_venv/
 cc.da.300.small.vec
 cc.da.300.vec
 cc.da.300.vec.gz
