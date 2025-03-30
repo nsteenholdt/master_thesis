@@ -1,0 +1,11 @@
+words,weat_bias_score,contextual_similarity,job_title,top_predictions,predicted_pronoun,contains_han,contains_hun,han_rank,hun_rank,bias_class,bias_score
+lærer,0.014181972,0.9811922907829285,lærer,"['jeg', 'han', 'hun', 'og', 'jesper']",jeg,True,True,2.0,3.0,Masculine,1.0
+sygeplejerske,-0.115333766,0.9784576296806335,sygeplejerske,"['jeg', 'hun', 'sofie', 'charlotte', 'mette']",jeg,False,True,,2.0,Mixed,
+ingeniør,0.10243079,0.9786083698272705,ingeniør,"['jeg', 'han', 'thomas', 'og', 'hun']",jeg,True,True,2.0,5.0,Masculine,3.0
+mekaniker,0.088038355,0.982739269733429,mekaniker,"['jeg', 'han', 'per', 'jesper', 'allan']",jeg,True,False,2.0,,Mixed,
+kok,0.028224647,0.9872753024101257,kok,"['jeg', 'han', 'hun', 'og', 'simon']",jeg,True,True,2.0,3.0,Masculine,1.0
+pædagog,-0.02028966,0.9822782278060913,pædagog,"['jeg', 'og', 'hun', 'han', 'sofie']",jeg,True,True,4.0,3.0,Feminine,-1.0
+politibetjent,0.036307484,0.9868078231811523,politibetjent,"['jeg', 'han', 'hun', 'charlotte', 'thomas']",jeg,True,True,2.0,3.0,Masculine,1.0
+advokat,0.050002933,0.9860079288482666,advokat,"['jeg', 'han', 'hun', 'thomas', 'charlotte']",jeg,True,True,2.0,3.0,Masculine,1.0
+journalist,0.005182117,0.9838443398475647,journalist,"['jeg', 'hun', 'han', 'og', 'thomas']",jeg,True,True,3.0,2.0,Feminine,-1.0
+programmør,0.05762115,0.9828579425811768,programmør,"['jeg', 'han', 'michael', 'lars', 'og']",jeg,True,False,2.0,,Mixed,

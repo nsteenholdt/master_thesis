@@ -1,3 +1,5 @@
+## Current working script for extraction, that attempts to handle potential errors or issues gracefully - besides that it is identical to "extract_all_individual_files.py"
+
 import os
 import json
 import pandas as pd
@@ -84,4 +86,4 @@ for subdir, _, files in os.walk(BASE_DIR):
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
 
-print("\n✅ Data extraction complete! Individual CSV files are stored in:", OUTPUT_DIR)
+print("\nData extraction complete! Individual CSV files are stored in:", OUTPUT_DIR)

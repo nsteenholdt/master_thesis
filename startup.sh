@@ -37,5 +37,4 @@ echo "Downloading NLTK resources..."
 python -c "import nltk; nltk.download('stopwords', quiet=True); nltk.download('punkt', quiet=True)"
 
 # Done
-echo "All set. Launching Jupyter Notebook..."
-jupyter notebook
+echo "All set." 
