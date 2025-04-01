@@ -5,3 +5,12 @@ jobnet_venv/
 cc.da.300.small.vec
 cc.da.300.vec
 cc.da.300.vec.gz
+cc.da.300.bin
+df_desc.csv
+extract_all_individual_files.py
+extract_ALL_jobnet_data.py
+jobtitler.csv
+Analysis.ipynb
+10_sample_extraction.py
+jobnet_gender_bias_full.csv
+df_desc_genderword_counts.csv
