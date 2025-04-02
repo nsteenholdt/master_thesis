@@ -5,25 +5,26 @@ from transformers import pipeline, AutoTokenizer, AutoModel
 import torch
 from tqdm import tqdm
 import os
+import matplotlib.pyplot as plt
 
 # Setup
 tqdm.pandas()
 output_file = "jobnet_gender_bias_full.csv"
 grouped_file = "jobnet_gender_bias_grouped_summary.csv"
+plot_file = "plot_outputs/bias_class_by_period.png"
+os.makedirs("plot_outputs", exist_ok=True)
 
 # Load full dataset
-df = pd.read_csv("df_desc.csv")  # <-- update filename if needed
-
-# Prepare posting year
+df = pd.read_csv("df_desc.csv")
 df["summary_PostingCreated"] = pd.to_datetime(df["summary_PostingCreated"], errors="coerce")
 df["Posting_Year"] = df["summary_PostingCreated"].dt.year
 
-# Filter and drop NaNs
+# Prepare job titles
 job_df = df[["summary_Occupation", "Posting_Year"]].dropna(subset=["summary_Occupation"])
 job_df = job_df.rename(columns={"summary_Occupation": "job_title"})
 job_titles = job_df["job_title"].unique().tolist()
 
-# Load FastText
+# Load FastText vectors
 print("\nLoading FastText vectors...")
 model_static = KeyedVectors.load_word2vec_format("cc.da.300.vec")
 
@@ -36,10 +37,10 @@ def avg_cos_sim(word, group):
     except KeyError:
         return np.nan
 
-def weat_score(word):
-    male_sim = avg_cos_sim(word, male_words)
-    female_sim = avg_cos_sim(word, female_words)
-    return male_sim - female_sim
+def weat_score(title):
+    words = title.lower().split()
+    scores = [avg_cos_sim(word, male_words) - avg_cos_sim(word, female_words) for word in words if word in model_static]
+    return np.mean(scores) if scores else np.nan
 
 print("\nCalculating WEAT scores...")
 job_df["weat_bias_score"] = [weat_score(title) for title in tqdm(job_df["job_title"])]
@@ -48,7 +49,7 @@ job_df["weat_bias_score"] = [weat_score(title) for title in tqdm(job_df["job_tit
 print("\nLoading Danish BERT...")
 tokenizer = AutoTokenizer.from_pretrained("Maltehb/danish-bert-botxo")
 model = AutoModel.from_pretrained("Maltehb/danish-bert-botxo")
-fill_mask = pipeline("fill-mask", model="Maltehb/danish-bert-botxo")
+fill_mask = pipeline("fill-mask", model=model, tokenizer=tokenizer)
 
 cosine = torch.nn.functional.cosine_similarity
 
@@ -56,13 +57,15 @@ def get_word_embedding(sentence, target_word):
     tokens = tokenizer(sentence, return_tensors="pt")
     with torch.no_grad():
         outputs = model(**tokens)
-    token_ids = tokens['input_ids'][0]
+    input_ids = tokens['input_ids'][0]
     tokenized_word = tokenizer.tokenize(target_word)
-    try:
-        idx = (token_ids == tokenizer.convert_tokens_to_ids(tokenized_word[0])).nonzero(as_tuple=True)[0][0]
-        return outputs.last_hidden_state[0, idx, :]
-    except IndexError:
-        return None
+    token_ids = tokenizer.convert_tokens_to_ids(tokenized_word)
+    
+    # Find first matching subtoken index
+    for i in range(len(input_ids) - len(token_ids) + 1):
+        if list(input_ids[i:i+len(token_ids)]) == token_ids:
+            return outputs.last_hidden_state[0, i, :]
+    return None
 
 def contextual_bias(title):
     s_fem = f"Hun arbejder som {title}."
@@ -86,7 +89,6 @@ def get_pronoun_prediction(job_title):
         top_preds = [p['token_str'].strip().lower() for p in preds]
         return top_preds
     except Exception as e:
-        print(f"⚠️ Error predicting pronoun for '{job_title}': {e}")
         return []
 
 results = []
@@ -149,7 +151,17 @@ combined_df["Posting_Period"] = combined_df["Posting_Year"].apply(map_period)
 combined_df.to_csv(output_file, index=False)
 print(f"\nFull gender bias analysis saved to '{output_file}'")
 
-# Optional: Summary grouping
+# Summary grouping
 summary = combined_df.groupby(["Posting_Period", "bias_class"]).size().unstack(fill_value=0)
 summary.to_csv(grouped_file)
 print(f" Grouped summary saved to '{grouped_file}'")
+
+# Visualization
+plt.figure(figsize=(10, 6))
+summary.plot(kind="bar", stacked=True, colormap="viridis")
+plt.title("Bias Class Distribution by Posting Period")
+plt.xlabel("Posting Period")
+plt.ylabel("Number of Job Titles")
+plt.tight_layout()
+plt.savefig(plot_file)
+print(f" Plot saved to '{plot_file}'")

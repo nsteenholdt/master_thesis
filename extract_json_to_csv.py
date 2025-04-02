@@ -1,10 +1,12 @@
-## Current working script for extraction, that attempts to handle potential errors or issues gracefully - besides that it is identical to "extract_all_individual_files.py"
-
 import os
 import json
 import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+import logging
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Define base directory dynamically
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -23,11 +25,10 @@ def clean_html(text):
 def flatten_json(nested_json, parent_key='', sep='_'):
     flattened_dict = {}
     for key, value in nested_json.items():
-        new_key = f"{parent_key}{sep}{key}" if parent_key else key  # Append parent key for nested keys
+        new_key = f"{parent_key}{sep}{key}" if parent_key else key
         if isinstance(value, dict):
             flattened_dict.update(flatten_json(value, new_key, sep))
         elif isinstance(value, list):
-            # Convert lists to a readable string format
             flattened_dict[new_key] = ', '.join(str(v) for v in value)
         else:
             flattened_dict[new_key] = value
@@ -35,20 +36,25 @@ def flatten_json(nested_json, parent_key='', sep='_'):
 
 # Loop through all subdirectories
 for subdir, _, files in os.walk(BASE_DIR):
-    if ".git" in subdir:  # Skip .git and system files
+    if ".git" in subdir:
         continue
 
     for file in tqdm(files, desc=f"Processing {os.path.basename(subdir)}"):
-        # Skip files that start with 'E'
-        if file.startswith("E"):
+        if not file.lower().endswith(".json") or file.startswith("E"):
             continue
 
         file_path = os.path.join(subdir, file)
+        relative_dir = os.path.relpath(subdir, BASE_DIR).replace(os.sep, "_")
+        csv_filename = os.path.join(OUTPUT_DIR, f"{relative_dir}_{file.replace('.json', '.csv')}")
+
+        # Skip if already converted
+        if os.path.exists(csv_filename):
+            continue
 
         try:
             # Check if the file is empty
             if os.path.getsize(file_path) == 0:
-                print(f"Skipping empty file: {file_path}")
+                logging.warning(f"Skipping empty file: {file_path}")
                 continue
 
             # Read the JSON file safely
@@ -56,34 +62,28 @@ for subdir, _, files in os.walk(BASE_DIR):
                 content = f.read().strip()
 
                 if not content:
-                    print(f"Skipping file with only whitespace: {file_path}")
+                    logging.warning(f"Skipping file with only whitespace: {file_path}")
                     continue
 
-                # Attempt to parse JSON
                 try:
                     data = json.loads(content)
                 except json.JSONDecodeError:
-                    print(f"Skipping invalid JSON file: {file_path}")
+                    logging.warning(f"Skipping invalid JSON file: {file_path}")
                     continue
 
             # Flatten the JSON structure dynamically
             flattened_data = flatten_json(data)
 
-            # Clean any HTML-containing fields
+            # Clean HTML fields
             for key in flattened_data.keys():
                 if "description" in key.lower() or "purpose" in key.lower():
                     flattened_data[key] = clean_html(str(flattened_data[key]))
 
-            # Convert to DataFrame
+            # Convert to DataFrame and save
             df = pd.DataFrame([flattened_data])
-
-            # Define output CSV path
-            csv_filename = os.path.join(OUTPUT_DIR, f"{file.replace('.json', '.csv')}")
-
-            # Save each job entry as an individual CSV file
             df.to_csv(csv_filename, index=False, encoding="utf-8")
 
         except Exception as e:
-            print(f"Error processing {file_path}: {e}")
+            logging.error(f"Error processing {file_path}: {e}")
 
-print("\nData extraction complete! Individual CSV files are stored in:", OUTPUT_DIR)
+logging.info(f"\nData extraction complete. Individual CSV files are stored in: {OUTPUT_DIR}")

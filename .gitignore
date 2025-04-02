@@ -14,3 +14,6 @@ Analysis.ipynb
 10_sample_extraction.py
 jobnet_gender_bias_full.csv
 df_desc_genderword_counts.csv
+df_desc_with_chatgpt_counts.csv
+.git/objects/pack/pack-3bc524061cb9d4264d4b08efbe51a1045a46295b.pack
+*.csv

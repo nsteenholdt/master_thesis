@@ -1,43 +1,78 @@
 import pandas as pd
-import re
+import spacy
 from collections import Counter
+from tqdm import tqdm
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# --- Load your job ads dataset ---
-df = pd.read_csv("df_desc.csv")
+# --- Load Danish SpaCy model ---
+print("Loading SpaCy Danish model...")
+nlp = spacy.load("da_core_news_lg")  # Use 'lg' for better lemmatization
 
-# --- Load gendered word list ---
-gendered_words_df = pd.read_csv("gendered_words_da.csv")
-feminine_words = set(gendered_words_df[gendered_words_df['gender'] == 'feminine']['word'].str.lower())
-masculine_words = set(gendered_words_df[gendered_words_df['gender'] == 'masculine']['word'].str.lower())
+# --- Load job ad dataset ---
+print("Loading job ad dataset...")
+df = pd.read_csv("df_desc.csv", usecols=[
+    "details_JobPositionPosting_JobPositionInformation_Purpose",
+    "summary_PostingCreated"
+], low_memory=False)
 
-# --- Load ChatGPT-style word list (from file or define directly) ---
-# Option A: Load from file
-chatgpt_words_df = pd.read_csv("chatgpt_words_da.csv")
-chatgpt_words = set(chatgpt_words_df['word'].str.lower())
+# --- Define ChatGPT-style words (lemmatized lowercase) ---
+chatgpt_words = {
+    "derudover", "afslutningsvis", "desuden", "strategi", "effektivitet",
+    "tilgang", "implementering", "indsigt", "tværfaglig", "forbedre",
+    "formål", "nødvendig", "relevant", "vigtig", "kan", "bør", "skal", "ville",
+    "det", "er", "at", "dermed", "derfor", "dette", "muliggøre", "understøtte"
+}
 
-# Option B: Define directly
-# chatgpt_words = {"effektiv", "fleksibel", "proaktiv", "motiveret", "dynamisk", "nytænkende", "selvstændig"}
-
-# --- Preprocessing and word counting function ---
-def count_all_words(text):
+# --- Define counting function ---
+def count_chatgpt_words(text):
     if pd.isna(text):
-        return 0, 0, 0
-    text = text.lower()
-    words = re.findall(r'\b\w+\b', text)
-    word_counts = Counter(words)
-    fem_count = sum(word_counts[word] for word in feminine_words if word in word_counts)
-    masc_count = sum(word_counts[word] for word in masculine_words if word in word_counts)
-    gpt_count = sum(word_counts[word] for word in chatgpt_words if word in word_counts)
-    return fem_count, masc_count, gpt_count
+        return pd.Series([0, 0])
+    
+    doc = nlp(text.lower())
+    lemmas = [token.lemma_ for token in doc if token.is_alpha]
+    total_words = len(lemmas)
+    gpt_count = sum(1 for lemma in lemmas if lemma in chatgpt_words)
 
-# --- Apply the function to your job descriptions ---
-df[['feminine_word_count', 'masculine_word_count', 'chatgpt_word_count']] = df[
+    return pd.Series([gpt_count, total_words])
+
+# --- Apply counting with progress bar ---
+print("Counting ChatGPT-style words...")
+tqdm.pandas(desc="Processing job ads")
+df[['chatgpt_word_count', 'total_word_count']] = df[
     'details_JobPositionPosting_JobPositionInformation_Purpose'
-].apply(lambda x: pd.Series(count_all_words(x)))
+].progress_apply(count_chatgpt_words)
 
-# Optional: Net gender bias score
-df['gender_bias_score'] = df['feminine_word_count'] - df['masculine_word_count']
+# --- Compute normalized ratio ---
+df['chatgpt_word_ratio'] = df['chatgpt_word_count'] / df['total_word_count'].replace(0, pd.NA) * 1000
 
-# --- Save result to file ---
-df.to_csv("df_desc_with_gender_chatgpt_counts.csv", index=False)
-print("Done! Counts added and saved.")
+# --- Parse and group by time period ---
+print("Assigning job ad age group...")
+df['summary_PostingCreated'] = pd.to_datetime(df['summary_PostingCreated'], errors='coerce')
+df['group'] = df['summary_PostingCreated'].apply(
+    lambda x: 'old' if pd.notna(x) and x.year == 2022 else ('recent' if pd.notna(x) and x.year >= 2024 else pd.NA)
+)
+
+# --- Save to file ---
+output_file = "df_desc_with_chatgpt_counts.csv"
+df.to_csv(output_file, index=False)
+print(f"Done! Results saved to {output_file}")
+
+# --- Plot mean chatgpt_word_ratio by group ---
+print("Creating visualization...")
+plot_df = df[df['group'].notna()]
+
+plt.figure(figsize=(8, 5))
+sns.barplot(data=plot_df, x='group', y='chatgpt_word_ratio', estimator='mean', ci='sd')
+plt.title("Mean ChatGPT-style Word Ratio by Job Ad Group")
+plt.ylabel("ChatGPT-style Word Ratio (per 1000 words)")
+plt.xlabel("Job Ad Group")
+plt.tight_layout()
+plt.show()
+
+# Save the plot
+import os
+os.makedirs("plot_outputs", exist_ok=True)
+plt.savefig("plot_outputs/chatgpt_word_ratio_by_group.png", dpi=300)
+
+plt.show()  # Optional — you can remove this if running in non-interactive environments
