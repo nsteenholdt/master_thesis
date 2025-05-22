@@ -36,3 +36,7 @@ allfileshas.txt
 0a0a2d81-13a8-4830-8fac-b5eefe2f4b74.csv
 outputs/df_lemmatized_ads.pkl
 /Users/nannasteenholdt/Documents/jobnet/outputs/df_lemmatized_ads.pkl
+extract_all_individual_files.py
+jobnet_sample_extracted_data.csv
+json_data_preview.csv
+job_title_gender_bias_combined.csv

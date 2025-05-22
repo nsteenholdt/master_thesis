@@ -17,7 +17,7 @@ This project uses several external models and datasets that are either large or 
 - **SpaCy Danish Model (`da_core_news_lg` or alternatively `da_core_news_sm`)**  
   Used for lemmatization and tokenization of Danish job descriptions.  
   Download using:  
-  `python3 -m spacy download da_core_news_lg`
+  `python -m spacy download da_core_news_lg`
   or  `python3 -m spacy download da_core_news_lg`
 
 - **FastText Word Vectors (Danish)**  
@@ -42,23 +42,25 @@ This project uses several external models and datasets that are either large or 
     `nltk.download('punkt')`
     `nltk.download('stopwords')`
 
+### Part 0 - Unused Scripts
+These scripts were created in the process of making this analysis pipeline, but were not used in this thesis' final version of its analysis - however, some may find them relevant for other purposes, hence they have been kept in the repository.
+
+# 0_extract_ALL_jobnet_data.py 
+This script is NOT necessary to run, and is an alternative to the extract_json_to_csv.py script. Instead of processing and storing the files individually, it stores the data as one big .csv file. I dismissed this approach as the large file was difficult to work with going forward, but the script remains in the repository, in case it can be helpful for others, who may have different goals.
 
 ### Part 1 - Loading and preprocessing
 
 After running the startup file, downloading the necessary resources you can proceed to the following:
 
-# extract_json_to_csv.py
+# 1-1_extract_json_to_csv.py
 This script processes the .json files that were acquired through the jobnet scraper. 
 It takes the relevant files and transforms them to .csv files and stores them in a folder called 'processed_data'.
 The script attempts to handle and avoid potential errors gracefully.
 
-# extract_ALL_jobnet_data.py
-This script is NOT necessary to run, and is an alternative to the extract_json_to_csv.py script. Instead of processing and storing the files individually, it stores the data as one big .csv file. I dismissed this approach as the large file was difficult to work with going forward, but the script remains in the repository, in case it can be helpful for others, who may have different goals.
-
-# true_lang_filtering.py
+# 1-2_true_lang_filtering.py
 Since only Danish job ads are desired, this script will filter out English ads using a FastText model. This script was seperated from the extraction script, in case one does not need to filter English job ads out.
 
-# basic_text_cleaning.py
+# 1-3_basic_text_cleaning.py
 This script performs basic text normalization on the Danish job ads. It processes each .csv file in the processed_data_danish folder, cleans the relevant text column (lowercasing, whitespace cleanup, Unicode normalization), removes nearly empty rows, and saves the result to the processed_data_preprocessed folder. The script includes logging and is designed to be robust to missing columns or file issues.
 
 ### Part 2 - Exploring Data & Descriptive Statistics
