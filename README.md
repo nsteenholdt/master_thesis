@@ -48,6 +48,9 @@ These scripts were created in the process of making this analysis pipeline, but 
 # 0_extract_ALL_jobnet_data.py 
 This script is NOT necessary to run, and is an alternative to the extract_json_to_csv.py script. Instead of processing and storing the files individually, it stores the data as one big .csv file. I dismissed this approach as the large file was difficult to work with going forward, but the script remains in the repository, in case it can be helpful for others, who may have different goals.
 
+# 0_10_sample_extraction.py
+A script that will extracts 10 samples. Available to check if extraction works as expected.
+
 ### Part 1 - Loading and preprocessing
 
 After running the startup file, downloading the necessary resources you can proceed to the following:
@@ -65,7 +68,7 @@ This script performs basic text normalization on the Danish job ads. It processe
 
 ### Part 2 - Exploring Data & Descriptive Statistics
 
-# descriptive_stats.ipynb
+# 2-1_descriptive_stats.ipynb
 This Jupiter Notebook includes several chunks, that are meant to explore the data: 
 
 - Imports and parses the csv's as a dataframe
@@ -81,7 +84,7 @@ This Jupiter Notebook includes several chunks, that are meant to explore the dat
 - Ensures that NLTK resources are available
 - Removes data where job advertisements begin with a link 
 
-### word_count.ipynb
+### 2-2_word_count.ipynb
 Compares word count between the 2022 group and the 2024/2025 group and tests for statistical significance
 - Preprocessing
 - NA Removal
@@ -95,7 +98,7 @@ Compares word count between the 2022 group and the 2024/2025 group and tests for
 - Cohen's D (Effect Size), regular and with log-transformation
 - Robustness Check: 1) Mann-Whitney, 2) Welsch's T-test on a random subsample
 
-### lexical_diversity.ipynb
+### 2-3_lexical_diversity.ipynb
 Compares Lexical Diversity between the 2022 group and the 2024/2025 group and tests for statistical significance.
 - Preprocessing
 - NA Removal
@@ -109,7 +112,7 @@ Compares Lexical Diversity between the 2022 group and the 2024/2025 group and te
 - Cohen's D (Effect Size), regular and with log-transformation
 - Robustness Check: 1) Mann-Whitney, 2) Welsch's T-test on a random subsample
 
-### readability_score.ipynb
+### 2-4_readability_score.ipynb
 Compares the Readability Scores (Flesch-Kinkaid) between the 2022 group and the 2024/2025 group and tests for statistical significance.
 - Imports nltk corpora
 - Preprocessing
@@ -128,7 +131,7 @@ Compares the Readability Scores (Flesch-Kinkaid) between the 2022 group and the 
 
 ### Part 3 - Making a lexicon of gendered words
 
-# other_gendering_script.py 
+# 3-1_other_gendering_script.py 
 Extracts frequently used adjectives and nouns from Danish job descriptions and calculates a gender association score for each word using fastText embeddings and balanced gender reference words.
 
 ### Part 4 - Word frequencies and other tallies
