@@ -2,84 +2,88 @@ import pandas as pd
 import spacy
 from collections import Counter
 from tqdm import tqdm
-import matplotlib.pyplot as plt
-import seaborn as sns
 import os
+import pickle
 
-# --- Load SpaCy Danish model ---
+# --- Load SpaCy model ---
 print("Loading SpaCy Danish model...")
 nlp = spacy.load("da_core_news_lg")
 
-# --- Load job ad dataset ---
+# --- Load dataset ---
 print("Loading job ad dataset...")
-df = pd.read_csv("df_desc.csv", usecols=[
+df = pd.read_csv("df_desc_filt.csv", usecols=[
     "details_JobPositionPosting_JobPositionInformation_Purpose",
     "summary_PostingCreated"
 ], low_memory=False)
 
-# --- Parse posting year from ISO format and group ---
-print("Parsing posting year and creating group...")
+# --- Parse year/group ---
+print("Parsing posting year and assigning groups...")
 df['summary_PostingCreated'] = pd.to_datetime(df['summary_PostingCreated'], errors='coerce', utc=True)
 df['year'] = df['summary_PostingCreated'].dt.year
-df['group'] = df['year'].apply(lambda y: "recent" if y in [2024, 2025] else ("old" if y == 2022 else "other"))
-df = df[df['group'].isin(["old", "recent"])].copy()
+df['group'] = df['year'].apply(lambda y: "2024/2025" if y in [2024, 2025] else ("2022" if y == 2022 else "other"))
+df = df[df['group'].isin(["2022", "2024/2025"])].copy()
 
-# --- Load gendered lexicon ---
-print("Loading gendered word list...")
+# --- Load gender lexicon ---
+print("Loading gender-scored lexicon...")
 lexicon = pd.read_csv("gender_scored_lexicon_from_descriptions.csv")
 
-feminine_words = set(lexicon[lexicon["gender_score"] >= 0.05]["word"].str.lower())
-masculine_words = set(lexicon[lexicon["gender_score"] <= -0.05]["word"].str.lower())
+# --- Extract word-to-score mapping once ---
+gender_scores = lexicon.set_index("word")["gender_score"].to_dict()
 
-print(f"Using {len(feminine_words)} feminine and {len(masculine_words)} masculine words.")
-
-# --- Gender word counting function ---
-def count_gendered_words(text):
-    if pd.isna(text):
-        return pd.Series([0, 0])
-    
+# --- Preprocess job ads (SpaCy once, save lemmas) ---
+print("Parsing and lemmatizing job ad texts...")
+def lemmatize_text(text):
     doc = nlp(text.lower())
-    lemmas = [token.lemma_ for token in doc if token.is_alpha]
-    word_counts = Counter(lemmas)
+    return [token.lemma_ for token in doc if token.is_alpha]
 
-    fem_count = sum(word_counts[word] for word in feminine_words if word in word_counts)
-    masc_count = sum(word_counts[word] for word in masculine_words if word in word_counts)
+tqdm.pandas(desc="Lemmatizing")
+df['lemmas'] = df['details_JobPositionPosting_JobPositionInformation_Purpose'].fillna("").progress_apply(lemmatize_text)
 
-    return pd.Series([fem_count, masc_count])
+# --- Save intermediate for reuse ---
+os.makedirs("outputs", exist_ok=True)
+df.to_pickle("outputs/df_lemmatized_ads.pkl")
+print("Lemmas saved to 'outputs/df_lemmatized_ads.pkl'")
 
-# --- Count gendered words ---
-print("Counting gendered words per job ad...")
-tqdm.pandas(desc="Processing job ads")
-df[['feminine_word_count', 'masculine_word_count']] = df['details_JobPositionPosting_JobPositionInformation_Purpose'].progress_apply(count_gendered_words)
+# --- Function to apply gender classification at any threshold ---
+def classify_and_count(df, gender_scores, threshold=0.05):
+    print(f"Applying gender classification with threshold = ±{threshold:.2f}...")
 
-# --- Compute gender bias score and ratio ---
-df['gender_bias_score'] = df['feminine_word_count'] - df['masculine_word_count']
-df['fem_ratio'] = df['feminine_word_count'] / (df['feminine_word_count'] + df['masculine_word_count'] + 1e-6)
+    # Classify words into gender bins
+    feminine_words = {w for w, s in gender_scores.items() if s >= threshold}
+    masculine_words = {w for w, s in gender_scores.items() if s <= -threshold}
 
-# --- Summary statistics ---
-print("\nSummary statistics by group:")
-print(df.groupby("group")[["feminine_word_count", "masculine_word_count", "fem_ratio"]].describe())
+    # Count per ad
+    rows = []
+    for lemmas in tqdm(df['lemmas'], desc="Counting gendered words"):
+        counts = Counter(lemmas)
+        total = sum(counts.values())
+        fem_count = sum(counts[w] for w in feminine_words if w in counts)
+        masc_count = sum(counts[w] for w in masculine_words if w in counts)
 
-# --- Plotting fem_ratio distributions ---
-print("Plotting gendered word ratio comparison...")
-plt.figure(figsize=(10, 6))
-sns.boxplot(data=df, x="group", y="fem_ratio", palette="Set2")
-plt.title("Feminine Word Ratio by Posting Group (Old vs. Recent)")
-plt.ylabel("Feminine Word Ratio")
-plt.xlabel("Group")
-plt.grid(True, axis='y', linestyle='--', alpha=0.6)
-plt.tight_layout()
-plt.savefig("fem_ratio_boxplot.png")
-plt.show()
+        row = {
+            "feminine_word_count": fem_count,
+            "masculine_word_count": masc_count,
+            "gendered_word_count": fem_count + masc_count,
+            "total_word_count": total
+        }
+        rows.append(row)
 
-# Save the plot
-import os
-os.makedirs("plot_outputs", exist_ok=True)
-plt.savefig("plot_outputs/chatgpt_word_ratio_by_group.png", dpi=300)
+    metrics = pd.DataFrame(rows)
+    metrics["gender_bias_score"] = metrics["feminine_word_count"] - metrics["masculine_word_count"]
+    metrics["fem_ratio"] = metrics["feminine_word_count"] / (metrics["gendered_word_count"] + 1e-6)
+    metrics["masc_ratio"] = 1 - metrics["fem_ratio"]
+    metrics["gendered_ratio"] = metrics["gendered_word_count"] / (metrics["total_word_count"] + 1e-6)
+    metrics["has_feminine"] = metrics["feminine_word_count"] > 0
+    metrics["has_masculine"] = metrics["masculine_word_count"] > 0
 
-plt.show()  # Optional — you can remove this if running in non-interactive environments
+    # Combine with original
+    result = pd.concat([df.drop(columns=["lemmas"]), metrics], axis=1)
+    return result
 
-# --- Save full results ---
-output_file = "df_desc_genderword_counts_with_groups.csv"
-df.to_csv(output_file, index=False)
-print(f"Done. Results saved to {output_file}")
+# --- Apply classification with default threshold ---
+df_gender = classify_and_count(df, gender_scores, threshold=0.05)
+
+# --- Save for analysis ---
+output_file = "stats_outputs/df_genderword_analysis.csv"
+df_gender.to_csv(output_file, index=False)
+print(f"Analysis-ready output saved to: {output_file}")

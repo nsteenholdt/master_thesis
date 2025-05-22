@@ -7,6 +7,7 @@ from collections import Counter
 from tqdm import tqdm
 from datetime import datetime
 
+# define a function to log messages with timestamps
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
@@ -14,13 +15,14 @@ def log(msg):
 log("Loading SpaCy model...")
 nlp = spacy.load("da_core_news_lg")
 
-# Load dataset
+# Load dataset (the CSV file is the one XXXXXX)
 log("Loading CSV file...")
-df = pd.read_csv("df_desc.csv", usecols=["details_JobPositionPosting_JobPositionInformation_Purpose"], low_memory=False)
+
+df_gs = pd.read_csv("df_desc_filt.csv", usecols=["details_JobPositionPosting_JobPositionInformation_Purpose"], low_memory=False)
 
 # Extract and clean text
 log("Extracting and cleaning job descriptions...")
-texts = df['details_JobPositionPosting_JobPositionInformation_Purpose'].dropna().astype(str).tolist()
+texts = df_gs['details_JobPositionPosting_JobPositionInformation_Purpose'].dropna().astype(str).tolist()
 
 def extract_relevant_words(text):
     doc = nlp(text.lower())
@@ -45,8 +47,8 @@ log("Loading fastText model (cc.da.300.bin)...")
 embedding_model = load_facebook_vectors('cc.da.300.bin')
 
 # Updated reference words (balanced, person-based)
-masculine_refs = ['mand', 'han', 'far', 'bror', 'søn']
-feminine_refs = ['kvinde', 'hun', 'mor', 'søster', 'datter']
+masculine_refs = ['mand', 'han']
+feminine_refs = ['kvinde', 'hun']
 
 def get_mean_vector(words, model):
     valid_words = [w for w in words if w in model]
@@ -98,7 +100,7 @@ for word in tqdm(unique_words, desc="Scoring words"):
 log(f"{found} words found in fastText model, {not_found} missing ({not_found / len(unique_words):.1%} missing)")
 
 # Save results
-output_df = pd.DataFrame(rows)
+output_df_gs = pd.DataFrame(rows)
 output_file = "gender_scored_lexicon_from_descriptions.csv"
-output_df.to_csv(output_file, index=False)
+output_df_gs.to_csv(output_file, index=False)
 log(f"Done. Results saved to: {output_file}")

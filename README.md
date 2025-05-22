@@ -12,6 +12,36 @@ NOTE: You will have to download the following resources and put into your reposi
 
 ### Resources
 
+This project uses several external models and datasets that are either large or require separate downloading. Please make sure you download or cache the following:
+
+- **SpaCy Danish Model (`da_core_news_lg` or alternatively `da_core_news_sm`)**  
+  Used for lemmatization and tokenization of Danish job descriptions.  
+  Download using:  
+  `python3 -m spacy download da_core_news_lg`
+  or  `python3 -m spacy download da_core_news_lg`
+
+- **FastText Word Vectors (Danish)**  
+  Used to calculate WEAT gender bias scores for individual words and job titles.  
+  Download `cc.da.300.vec` from:  
+  [https://fasttext.cc/docs/en/crawl-vectors.html](https://fasttext.cc/docs/en/crawl-vectors.html)  
+  Place the file in your project root.
+
+- **Danish BERT (`Maltehb/danish-bert-botxo`)**  
+  Used for contextual embeddings and pronoun prediction in job titles.  
+  Automatically downloaded via Hugging Face Transformers when first run.  
+  You can also pre-download it using:
+  
+    `from transformers import AutoTokenizer, AutoModel`
+    `AutoTokenizer.from_pretrained("Maltehb/danish-bert-botxo")`
+    `AutoModel.from_pretrained("Maltehb/danish-bert-botxo")`
+
+- **NLTK Resources (punkt, stopwords)**
+  Used in various text processing and lexical diversity calculations.
+  Automatically downloaded by the startup.sh script, or manually using:
+    `import nltk`
+    `nltk.download('punkt')`
+    `nltk.download('stopwords')`
+
 
 ### Part 1 - Loading and preprocessing
 
@@ -25,27 +55,74 @@ The script attempts to handle and avoid potential errors gracefully.
 # extract_ALL_jobnet_data.py
 This script is NOT necessary to run, and is an alternative to the extract_json_to_csv.py script. Instead of processing and storing the files individually, it stores the data as one big .csv file. I dismissed this approach as the large file was difficult to work with going forward, but the script remains in the repository, in case it can be helpful for others, who may have different goals.
 
-# filtering_lang_descriptions.py
-Since only Danish job ads are desired, this script will filter out English ads by detecting the word "you" in the job descriptions. This script was seperated from the extraction script, in case one may need the English job ads for something later. 
+# true_lang_filtering.py
+Since only Danish job ads are desired, this script will filter out English ads using a FastText model. This script was seperated from the extraction script, in case one does not need to filter English job ads out.
+
+# basic_text_cleaning.py
+This script performs basic text normalization on the Danish job ads. It processes each .csv file in the processed_data_danish folder, cleans the relevant text column (lowercasing, whitespace cleanup, Unicode normalization), removes nearly empty rows, and saves the result to the processed_data_preprocessed folder. The script includes logging and is designed to be robust to missing columns or file issues.
 
 ### Part 2 - Exploring Data & Descriptive Statistics
 
 # descriptive_stats.ipynb
 This Jupiter Notebook includes several chunks, that are meant to explore the data: 
 
-- Imports the csv's as a dataframe
-- Provides basic info on the df
-- Provides summary statistics
+- Imports and parses the csv's as a dataframe
+- Checks for and removes potential duplciates
+- Drops empty columns and lists dropped columns
 - Checks for missing values
-- Provides a list of how many times each unique job title appears
-- Plots the Top 10 jobtitles by count
-- Plots the count of the amount of postings for each time point
-- Plots a word cloud for job titles
-- Ensures there are no duplicate job postings
-- Compares word count distribution between time groups
-- Plots the Lexical Diversity for both time groups
-- Plots the Readability Scores (Flesch-Kinkaid) for both time groups
-- Makes word clouds for most common words used in the job descriptions
+- Provides quick infor and a summary statistic
+- Plots the distributions of Job Titles
+- Plots the Top 10 most used jobtitles for each Year Group.
+- Plots bar charts showing the count of the amount of postings for the 2022 group and the 2024/2025 group
+- Plots a word cloud of most used words for job titles (the one-liner in a jobadvertisement)
+- Saves a now filtered version of the dataset
+- Ensures that NLTK resources are available
+- Removes data where job advertisements begin with a link 
+
+### word_count.ipynb
+Compares word count between the 2022 group and the 2024/2025 group and tests for statistical significance
+- Preprocessing
+- NA Removal
+- Computing Word Counts
+- Summary Statistics
+- Histogram: Word Count Distribution by Period Group 
+- Box Plot: Word Count Boxplot By Period Group
+- Q-Q Plots, regular and with log-transformation
+- Levene's Test, regular and with log-transformation
+- Welsch's T-test, regular and with log-transformation
+- Cohen's D (Effect Size), regular and with log-transformation
+- Robustness Check: 1) Mann-Whitney, 2) Welsch's T-test on a random subsample
+
+### lexical_diversity.ipynb
+Compares Lexical Diversity between the 2022 group and the 2024/2025 group and tests for statistical significance.
+- Preprocessing
+- NA Removal
+- Computing Lexical Diversity
+- Summary Statistics
+- Histogram: Distribution of Lexical Diversity by Period Group 
+- Box Plot: Lexical Diversity Boxplot By Period Group
+- Q-Q Plots, regular and with log-transformation
+- Levene's Test, regular and with log-transformation
+- Welsch's T-test, regular and with log-transformation
+- Cohen's D (Effect Size), regular and with log-transformation
+- Robustness Check: 1) Mann-Whitney, 2) Welsch's T-test on a random subsample
+
+### readability_score.ipynb
+Compares the Readability Scores (Flesch-Kinkaid) between the 2022 group and the 2024/2025 group and tests for statistical significance.
+- Imports nltk corpora
+- Preprocessing
+- NA Removal
+- Computing Readability Scores
+- Summary Statistics
+- Histogram: Distribution of Readability Scores by Period Group 
+- Box Plot: Readability Score Boxplot By Period Group
+- Q-Q Plots, regular and with log-transformation
+- Levene's Test, regular and with log-transformation
+- Welsch's T-test, regular and with log-transformation
+- Cohen's D (Effect Size), regular and with log-transformation
+- Robustness Check: 1) Mann-Whitney, 2) Welsch's T-test on a random subsample
+
+(((- Makes word clouds for most common words used in the job descriptions)))
 
 ### Part 3 - Making a lexicon of gendered words
 
@@ -60,7 +137,7 @@ Analyzes Danish job ads to count and compare gendered language over time, groupi
 # count_chat_words.py
 Analyzes Danish job ads to count and compare the amount of "ChatGPT words" over time, grouping them into "old" (2022) and "recent" (2024–2025).
 
-# gendered_titles_over_time.py
+# gendered_titles_over_time.py (dropped for thesis)
 This script identifies and counts job titles that contain explicitly gendered suffixes (e.g., *-mand*, *-inde*) and compares their frequency and proportions across two time periods: 2022 vs. 2024–2025. It outputs both summary tables and visualizations.
 
 ### Part 4 - Subtle Bias in Titles
@@ -71,10 +148,14 @@ Script that analyzes gender bias in Danish job titles using word embeddings, con
 ### Part 5 - Statistical Testing
 
 # Analysis.ipynb (WIP)
-Notebook, in which we take the results so far and test for significant differences.
-- Distribution checks
-- Normalisation checks
-- (T-test)
+Notebook, in which we take the results so far and test for significant differences for the outputs from part 3 and 4. The analyses will incude:
+- Distribution check: Histogram
+- Q-Q plot 
+- Box Plot 
+- Levene's test (Homogeneity of Variance)
+- Welsch's T-test
+- Cohen's D
+- Robustness check: Whitney-Mann U
 - ...
 
 

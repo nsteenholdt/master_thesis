@@ -4,75 +4,110 @@ from collections import Counter
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
 # --- Load Danish SpaCy model ---
 print("Loading SpaCy Danish model...")
-nlp = spacy.load("da_core_news_lg")  # Use 'lg' for better lemmatization
+nlp = spacy.load("da_core_news_lg")
 
 # --- Load job ad dataset ---
 print("Loading job ad dataset...")
-df = pd.read_csv("df_desc.csv", usecols=[
+df_ccw = pd.read_csv("df_desc_filt.csv", usecols=[
     "details_JobPositionPosting_JobPositionInformation_Purpose",
     "summary_PostingCreated"
 ], low_memory=False)
 
-# --- Define ChatGPT-style words (lemmatized lowercase) ---
-chatgpt_words = {
-    "derudover", "afslutningsvis", "desuden", "strategi", "effektivitet",
-    "tilgang", "implementering", "indsigt", "tværfaglig", "forbedre",
-    "formål", "nødvendig", "relevant", "vigtig", "kan", "bør", "skal", "ville",
-    "det", "er", "at", "dermed", "derfor", "dette", "muliggøre", "understøtte"
-}
+# --- Define raw words and phrases ---
+## Source: https://undetectable.ai/blog/da/almindelige-ai-ord/
+chatgpt_words_raw = [
+    "problemfrit", "testamente", "billedtæppe", "fremvisning", "understregningstegn",
+    "afgørende", "riget", "omhyggelig", "revolutionere", "fascinere", "gobelin",
+    "omfattende", "levende", "vital", "dynamisk", "desuden", "analyserer",
+    "udnyt", "facilitere", "løftestang", "afgørende"
+]
 
-# --- Define counting function ---
-def count_chatgpt_words(text):
-    if pd.isna(text):
-        return pd.Series([0, 0])
-    
-    doc = nlp(text.lower())
+chatgpt_phrases_raw = [
+    "dyk ned i", "naviger i landskabet", "vigtigt at overveje", "man kan sige",
+    "i særdeleshed", "husk at", "gå om bord", "gå på opdagelse", "løft dig op",
+    "udmærker sig", "når dagen er omme", "det er værd at bemærke"
+]
+
+# --- Lemmatize words ---
+chatgpt_words = set()
+for word in chatgpt_words_raw:
+    doc = nlp(word.lower())
     lemmas = [token.lemma_ for token in doc if token.is_alpha]
-    total_words = len(lemmas)
-    gpt_count = sum(1 for lemma in lemmas if lemma in chatgpt_words)
+    chatgpt_words.update(lemmas)
 
-    return pd.Series([gpt_count, total_words])
+# --- Lemmatize phrases ---
+chatgpt_phrases = set()
+for phrase in chatgpt_phrases_raw:
+    doc = nlp(phrase.lower())
+    lemmas = [token.lemma_ for token in doc if token.is_alpha]
+    chatgpt_phrases.add(" ".join(lemmas))
 
-# --- Apply counting with progress bar ---
-print("Counting ChatGPT-style words...")
-tqdm.pandas(desc="Processing job ads")
-df[['chatgpt_word_count', 'total_word_count']] = df[
-    'details_JobPositionPosting_JobPositionInformation_Purpose'
-].progress_apply(count_chatgpt_words)
+
+# --- Prepare text column ---
+print("Filtering and cleaning text column...")
+text_col = 'details_JobPositionPosting_JobPositionInformation_Purpose'
+valid_mask = df_ccw[text_col].notna()
+texts = df_ccw.loc[valid_mask, text_col].str.lower().tolist()
+
+# --- Apply SpaCy using nlp.pipe ---
+print("Processing text with SpaCy...")
+gpt_counts, total_counts = [], []
+
+for doc in tqdm(nlp.pipe(texts, batch_size=32, disable=["ner", "parser"]), total=len(texts)):
+    lemmas = [token.lemma_ for token in doc if token.is_alpha]
+    total = len(lemmas)
+    
+    # Count word matches
+    word_matches = sum(1 for lemma in lemmas if lemma in chatgpt_words)
+    
+    # Count phrase matches
+    joined_lemmas = ' '.join(lemmas)
+    phrase_matches = sum(joined_lemmas.count(phrase) for phrase in chatgpt_phrases)
+
+    # Total GPT-like matches
+    gpt = word_matches + phrase_matches
+
+    total_counts.append(total)
+    gpt_counts.append(gpt)
+
+# --- Assign results back to DataFrame ---
+df_ccw.loc[valid_mask, 'chatgpt_word_count'] = gpt_counts
+df_ccw.loc[valid_mask, 'total_word_count'] = total_counts
 
 # --- Compute normalized ratio ---
-df['chatgpt_word_ratio'] = df['chatgpt_word_count'] / df['total_word_count'].replace(0, pd.NA) * 1000
+df_ccw['chatgpt_word_ratio'] = df_ccw['chatgpt_word_count'] / df_ccw['total_word_count'].replace(0, pd.NA) * 1000
 
 # --- Parse and group by time period ---
 print("Assigning job ad age group...")
-df['summary_PostingCreated'] = pd.to_datetime(df['summary_PostingCreated'], errors='coerce')
-df['group'] = df['summary_PostingCreated'].apply(
-    lambda x: 'old' if pd.notna(x) and x.year == 2022 else ('recent' if pd.notna(x) and x.year >= 2024 else pd.NA)
+df_ccw['summary_PostingCreated'] = pd.to_datetime(df_ccw['summary_PostingCreated'], errors='coerce')
+df_ccw['group'] = df_ccw['summary_PostingCreated'].apply(
+    lambda x: '2022' if pd.notna(x) and x.year == 2022 else ('2024/2025' if pd.notna(x) and x.year >= 2024 else pd.NA)
 )
 
 # --- Save to file ---
 output_file = "df_desc_with_chatgpt_counts.csv"
-df.to_csv(output_file, index=False)
-print(f"Done! Results saved to {output_file}")
+df_ccw.to_csv(output_file, index=False)
+print(f"Done. Results saved to {output_file}")
 
-# --- Plot mean chatgpt_word_ratio by group ---
+# --- Plot ChatGPT word ratio by group as boxplot ---
 print("Creating visualization...")
-plot_df = df[df['group'].notna()]
+plot_df = df_ccw[df_ccw['group'].notna()]
 
 plt.figure(figsize=(8, 5))
-sns.barplot(data=plot_df, x='group', y='chatgpt_word_ratio', estimator='mean', ci='sd')
-plt.title("Mean ChatGPT-style Word Ratio by Job Ad Group")
+sns.boxplot(data=plot_df, x='group', y='chatgpt_word_ratio', whis=1.5)
+plt.title("ChatGPT-style Word Ratio by Job Ad Group")
 plt.ylabel("ChatGPT-style Word Ratio (per 1000 words)")
 plt.xlabel("Job Ad Group")
+plt.ylim(0, 10)  # Optional: zoom to typical range
 plt.tight_layout()
-plt.show()
+
+print(plot_df.groupby('group')['chatgpt_word_ratio'].describe())
 
 # Save the plot
-import os
 os.makedirs("plot_outputs", exist_ok=True)
 plt.savefig("plot_outputs/chatgpt_word_ratio_by_group.png", dpi=300)
-
-plt.show()  # Optional — you can remove this if running in non-interactive environments
+plt.show()
