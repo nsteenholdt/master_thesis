@@ -7,6 +7,16 @@ from tqdm import tqdm
 import os
 import matplotlib.pyplot as plt
 from functools import lru_cache  
+import seaborn as sns
+
+import torch
+
+if torch.cuda.is_available():
+    print("✅ GPU is available!")
+    print("Device name:", torch.cuda.get_device_name(0))
+else:
+    print("❌ GPU is NOT available.")
+
 
 # Setup
 tqdm.pandas()
@@ -16,13 +26,16 @@ plot_file = "plot_outputs/bias_class_by_period.png"
 os.makedirs("plot_outputs", exist_ok=True)
 
 # Load full dataset
-df_jtgba = pd.read_csv("df_desc_filt.csv")
+df_jtgba = pd.read_csv("df_desc_filt.csv", low_memory=False)
+
 df_jtgba["summary_PostingCreated"] = pd.to_datetime(df_jtgba["summary_PostingCreated"], errors="coerce")
 df_jtgba["Posting_Year"] = df_jtgba["summary_PostingCreated"].dt.year
 
 # Prepare job titles
 job_df = df_jtgba[["summary_Occupation", "Posting_Year"]].dropna(subset=["summary_Occupation"])
 job_df = job_df.rename(columns={"summary_Occupation": "job_title"})
+
+print(job_df.head())
 
 # Load FastText vectors
 print("\nLoading FastText vectors...")
@@ -163,14 +176,14 @@ summary_df = pd.read_csv("jobnet_gender_bias_grouped_summary.csv")
 # import matplotlib.pyplot as plt
 import seaborn as sns
 
-# --- Load summary (optional if running separately) ---
-#summary_df = pd.read_csv("jobnet_gender_bias_grouped_summary.csv", index_col=0)
+# Load summary (optional if running separately)
+summary_df = pd.read_csv("jobnet_gender_bias_grouped_summary.csv", index_col=0)
 
-# --- Ensure correct order (optional but recommended) ---
+# Ensure correct order (optional but recommended)
 desired_order = ["2022", "2024/2025"]
 summary_df = summary_df.reindex([p for p in desired_order if p in summary_df.index])
 
-# ✅ Option 1: FIXED version of Pandas default bar plot
+# Option 1: FIXED version of Pandas default bar plot
 summary_df.plot(kind="bar", stacked=True, colormap="Set2", figsize=(10, 6))
 plt.title("Bias Class Distribution by Posting Period")
 plt.xlabel("Posting Period")
@@ -180,7 +193,7 @@ plt.tight_layout()
 plt.savefig("plot_outputs/bias_class_by_period_fixed.png", dpi=300)
 plt.show()
 
-# ✅ Option 2 (Recommended): Seaborn version with cleaner look
+# Option 2 (Recommended): Seaborn version with cleaner look
 # Convert to long format for seaborn
 summary_long = summary_df.reset_index().melt(id_vars="Posting_Period", 
                                               var_name="Bias Class", 

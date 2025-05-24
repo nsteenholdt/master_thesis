@@ -51,3 +51,4 @@ job_title_gender_bias_combined.csv
 old_analysis.ipynb
 filtering_lang_descriptions.py
 full_chat_count.py
+checker.py
