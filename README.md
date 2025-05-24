@@ -1,5 +1,6 @@
-# master_thesis
-Repository for my Master's Thesis
+# Master's Thesis
+### Nanna Marie Steenholdt 
+This repository is authored by Nanna Marie Steenholdt for her Master's Thesis at Aarhus University, June 2025.
 
 Start by running the startup.sh file by executing the following in a bash terminal:
 ./startup.sh
@@ -50,6 +51,9 @@ This script is NOT necessary to run, and is an alternative to the extract_json_t
 
 ### 0_10_sample_extraction.py
 A script that will extracts 10 samples. Available to check if extraction works as expected.
+
+### gendered_titles_over_time.py 
+This script identifies and counts job titles that contain explicitly gendered suffixes (e.g., *-mand*, *-inde*) and compares their frequency and proportions across two time periods: 2022 vs. 2024–2025. It outputs both summary tables and visualizations. NB: This specific analysis was dropped in the effort of saving time and to focus on the remaining analyses. It can be used for future studies though.
 
 ## Part 1 - Loading and preprocessing
 
@@ -127,8 +131,6 @@ Compares the Readability Scores (Flesch-Kinkaid) between the 2022 group and the 
 - Cohen's D (Effect Size), regular and with log-transformation
 - Robustness Check: 1) Mann-Whitney, 2) Welsch's T-test on a random subsample
 
-(((- Makes word clouds for most common words used in the job descriptions)))
-
 ## Part 3 - Making a lexicon of gendered words
 
 ### 3-1_other_gendering_script.py 
@@ -136,14 +138,11 @@ Extracts frequently used adjectives and nouns from Danish job descriptions and c
 
 ## Part 4 - Word frequencies and other tallies
 
-### counting_gendered_words.py
+### 4-1_counting_gendered_words.py
 Analyzes Danish job ads to count and compare gendered language over time, grouping them into "old" (2022) and "recent" (2024–2025) based on the frequency and ratio of feminine and masculine-coded words.
 
-### count_chat_words.py
+### 4-2_count_chat_words.py
 Analyzes Danish job ads to count and compare the amount of "ChatGPT words" over time, grouping them into "old" (2022) and "recent" (2024–2025).
-
-### gendered_titles_over_time.py (dropped for thesis)
-This script identifies and counts job titles that contain explicitly gendered suffixes (e.g., *-mand*, *-inde*) and compares their frequency and proportions across two time periods: 2022 vs. 2024–2025. It outputs both summary tables and visualizations.
 
 ## Part 4 - Subtle Bias in Titles
 
