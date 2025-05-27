@@ -15,7 +15,7 @@ def log(msg):
 log("Loading SpaCy model...")
 nlp = spacy.load("da_core_news_lg")
 
-# Load dataset (the CSV file is the one XXXXXX)
+# Load dataset
 log("Loading CSV file...")
 
 df_gs = pd.read_csv("df_desc_filt.csv", usecols=["details_JobPositionPosting_JobPositionInformation_Purpose"], low_memory=False)
@@ -81,9 +81,9 @@ for word in tqdm(unique_words, desc="Scoring words"):
     net_score = fem_sim - masc_sim
 
     # Label word
-    if net_score > 0.05:
+    if net_score > 0.022:
         label = "feminine"
-    elif net_score < -0.05:
+    elif net_score < -0.022:
         label = "masculine"
     else:
         label = "neutral"

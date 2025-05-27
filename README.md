@@ -27,6 +27,8 @@ This project uses several external models and datasets that are either large or 
   [https://fasttext.cc/docs/en/crawl-vectors.html](https://fasttext.cc/docs/en/crawl-vectors.html)  
   Place the file in your project root.
 
+  Download `lid.176.bin` through the scripts. 
+
 - **Danish BERT (`Maltehb/danish-bert-botxo`)**  
   Used for contextual embeddings and pronoun prediction in job titles.  
   Automatically downloaded via Hugging Face Transformers when first run.  
@@ -53,7 +55,7 @@ This script is NOT necessary to run, and is an alternative to the extract_json_t
 A script that will extracts 10 samples. Available to check if extraction works as expected.
 
 ### gendered_titles_over_time.py 
-This script identifies and counts job titles that contain explicitly gendered suffixes (e.g., *-mand*, *-inde*) and compares their frequency and proportions across two time periods: 2022 vs. 2024–2025. It outputs both summary tables and visualizations. NB: This specific analysis was dropped in the effort of saving time and to focus on the remaining analyses. It can be used for future studies though.
+This script identifies and counts job titles that contain explicitly gendered suffixes (e.g., *-mand*, *-inde*) and compares their frequency and proportions across two time periods: 2022 vs. 2024–2025. It outputs both summary tables and visualisations. NB: This specific analysis was dropped in the effort of saving time and to focus on the remaining analyses. It can be used for future studies though.
 
 ## Part 1 - Loading and preprocessing
 
@@ -68,7 +70,7 @@ The script attempts to handle and avoid potential errors gracefully.
 Since only Danish job ads are desired, this script will filter out English ads using a FastText model. This script was seperated from the extraction script, in case one does not need to filter English job ads out.
 
 ### 1-3_basic_text_cleaning.py
-This script performs basic text normalization on the Danish job ads. It processes each .csv file in the processed_data_danish folder, cleans the relevant text column (lowercasing, whitespace cleanup, Unicode normalization), removes nearly empty rows, and saves the result to the processed_data_preprocessed folder. The script includes logging and is designed to be robust to missing columns or file issues.
+This script performs basic text normalisation on the Danish job ads. It processes each .csv file in the processed_data_danish folder, cleans the relevant text column (lowercasing, whitespace cleanup, Unicode normalisation), removes nearly empty rows, and saves the result to the processed_data_preprocessed folder. The script includes logging and is designed to be robust to missing columns or file issues.
 
 ## Part 2 - Exploring Data & Descriptive Statistics
 
@@ -134,32 +136,148 @@ Compares the Readability Scores (Flesch-Kinkaid) between the 2022 group and the 
 ## Part 3 - Making a lexicon of gendered words
 
 ### 3-1_other_gendering_script.py 
-Extracts frequently used adjectives and nouns from Danish job descriptions and calculates a gender association score for each word using fastText embeddings and balanced gender reference words.
+
+Text extraction and lemmatization using SpaCy
+
+Frequency counting of relevant words (nouns/adjectives)
+
+Vector-based gender scoring with fastText embeddings
+
+Explicit labeling as masculine, feminine, or neutral
+
+Logging progress and saving results
+
+### 3-2_threshold_justification.py
+Provides a statistical framework for selecting and justifying the optimal gender association threshold used to classify Danish words as masculine, feminine, or neutral. It analyses the distribution of gender scores from a previously generated lexicon and explores multiple threshold selection methods, including:
+
+Percentile-based thresholding (e.g., 25th/75th percentiles)
+
+K-means clustering of score distributions
+
+Variance-based separation ratio for within vs. between-group spread
+
+Custom scoring of candidate thresholds based on balance and separation quality
+
+The script outputs a detailed justification report summarising the statistical properties of the distribution, the classification impact at the chosen threshold, and the agreement between different methods.
 
 ## Part 4 - Word frequencies and other tallies
 
 ### 4-1_counting_gendered_words.py
-Analyzes Danish job ads to count and compare gendered language over time, grouping them into "old" (2022) and "recent" (2024–2025) based on the frequency and ratio of feminine and masculine-coded words.
+This script conducts a full analysis of gendered language in Danish job advertisements using a validated gender-scored lexicon. It performs preprocessing and lemmatization of job ad text, applies gender bias classification based on a selected threshold, and validates results through lexicon quality checks, threshold sensitivity analysis, and sampling of classified ads. The script compares gendered language use across time periods (2022 vs. 2024/2025) using statistical tests, and generates summary statistics, visualisations, and output files for further review. All results are saved in structured directories for validation, plots, and statistical summaries.
+This is the main analysis script that processes Danish job ads, classifies gendered language, and validates results. It generates datasets, statistical test results, and visualizations used in subsequent analysis.
 
-### 4-2_count_chat_words.py
-Analyzes Danish job ads to count and compare the amount of "ChatGPT words" over time, grouping them into "old" (2022) and "recent" (2024–2025).
+Main tasks and methods:
 
-## Part 4 - Subtle Bias in Titles
+- Text preprocessing and lemmatization (using SpaCy)
 
-### job_titles_gender_bias_analysis.py
-Script that analyzes gender bias in Danish job titles using word embeddings, contextual similarity, and pronoun prediction, and classifies each title as masculine, feminine, mixed, or unclear.
+- Gender classification using a validated threshold
 
-## Part 5 - Statistical Testing
+- Lexicon validation:
 
-### Analysis.ipynb (WIP)
-Notebook, in which we take the results so far and test for significant differences for the outputs from part 3 and 4. The analyses will incude:
-- Distribution check: Histogram
-- Q-Q plot 
-- Box Plot 
-- Levene's test (Homogeneity of Variance)
-- Welsch's T-test
-- Cohen's D
-- Robustness check: Whitney-Mann U
-- ...
+- Top word inspection
 
+- Gender label distribution
+
+Threshold sensitivity analysis:
+
+- Classification coverage
+
+- Bias score differences
+
+- Job ad sampling for manual inspection
+
+- Danish context analysis (temporal and lexical trends)
+
+Statistical tests performed:
+
+- Welch’s t-test and Mann-Whitney U (bias score comparison)
+
+- Levene’s test (equality of variance)
+
+- Proportion Z-tests:
+
+- Proportion of ads with gendered language
+
+- Proportion of masculine-biased ads
+
+- Chi-squared test (bias category distribution)
+
+### 4-2_gender_wordcount.ipynb
+This notebook analyzes the distribution and temporal change in gendered language usage in Danish job advertisements. It uses preprocessed output from the validated classification script and performs statistical comparisons between time periods (2022 vs. 2024/2025). The notebook includes analysis of gendered word ratios and gender bias scores, using:
+
+- Descriptive statistics
+
+- Histograms, boxplots, and Q-Q plots
+
+- Welch’s t-tests, Mann-Whitney U, Levene’s test
+
+- Cohen’s d for effect size estimation
+
+### 4-3_count_chat_words.py
+
+This script identifies and quantifies the use of ChatGPT-style language in Danish job advertisements from 2022 and 2024/2025. It scans job descriptions for a predefined list of GPT-like words and phrases, lemmatized using SpaCy, and calculates their frequency and normalized occurrence rate per ad. The output includes:
+
+- Counts and ratios of GPT-style expressions per ad
+
+- Aggregated frequency data by year group
+
+- Horizontal bar plots showing the top 10 GPT-style words and phrases in each period
+
+- A processed dataset saved as outputs/df_desc_with_chatgpt_counts.csv for downstream analysis
+
+### 4-4_chatgpt_words.ipynb
+This notebook analyzes the intensity and distribution of ChatGPT-style language in Danish job advertisements, using the output generated by the detect_chatgpt_language.py script. It focuses on comparing the normalized frequency of GPT-like words and phrases across two time periods: 2022 and 2024/2025.
+
+The notebook includes:
+
+- Summary statistics and distributions of GPT-style word/phrase usage
+
+"Histograms, Q-Q plots, and boxplots (including log-transformed values)"
+
+Statistical tests:
+
+Levene’s test, Welch’s t-test, Mann-Whitney U (log-transformed ratios)
+
+Proportion Z-test (presence vs. absence of GPT-style words)
+
+A grouped bar chart showing the proportion of ads containing GPT-like language
+
+All visualizations are saved to the plot_outputs/ directory for reporting.
+### 4-5_gendered_titles.py
+This script analyzes gender bias in Danish job titles based on linguistic suffixes traditionally associated with masculine or feminine forms. It processes job ads from 2022 and 2024/2025, classifies titles using an enhanced rule-based method, and compares distributions across time.
+
+The analysis includes:
+
+- Cleaning and validating job title data
+
+- Rule-based gender classification using both word-final and embedded suffix patterns
+
+- Aggregation of gendered title counts and percentages
+
+- Stacked bar plots for overall and gendered-only distributions
+
+- Statistical testing:
+
+- Z-tests comparing feminine and masculine title proportions
+
+- Confidence intervals and Cohen’s h effect sizes
+
+- Bonferroni-adjusted significance thresholds
+
+Outputs are saved to the stats_outputs/ and plot_outputs/ directories, including descriptive summaries, statistical results, and comparison visuals.
+
+### 4-6_title_bias.ipynb
+This notebook analyzes the distribution of gender-coded job titles across time periods (2022 vs. 2024/2025). It uses pre-labeled job titles classified as feminine, masculine, both, or none, and focuses on titles with a clear gender association.
+
+The notebook includes:
+
+- Filtering of job titles to only feminine and masculine categories
+
+- Aggregation of gendered title counts and percentages by period
+
+- Stacked bar plots visualizing gendered title distributions over time
+
+- Proportion Z-tests comparing changes in feminine title usage between periods
+
+Outputs include CSV summaries and plots saved to the appropriate output directories for downstream reporting.
 
