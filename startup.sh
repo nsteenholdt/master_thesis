@@ -3,6 +3,7 @@
 # Navigate to the jobnet folder
 cd "$(dirname "$0")"
 
+
 # Check for virtual environment
 if [ ! -d "jobnet_venv" ]; then
     echo "Error: Virtual environment 'jobnet_venv' not found!"
