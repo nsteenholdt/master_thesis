@@ -60,7 +60,12 @@ job_title_gender_bias_analysis.py
 count_gender_word_old.py
 count_filtering.py
 copy_paste.py
-run_all_script
+run_all_scripts.py
 threshold_justification.py
 validation_outputs/*.csv
 count_filtering.py
+outputs/final_gender_analysis_dataset.pkl
+gfds.py
+stat_analysis.ipynb
+fdg.py
+job_title_gender_bias_analysis.py
