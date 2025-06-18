@@ -77,4 +77,4 @@ df = pd.DataFrame(job_data)
 output_file = "jobnet_sample_extracted_data.csv"
 df.to_csv(output_file, index=False, encoding="utf-8")
 
-print(f"\nSample extraction complete! Saved to {output_file}")
+print(f"\nSample extraction complete. Saved to {output_file}")

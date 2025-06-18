@@ -1,0 +1,11 @@
+Levene’s Test:
+Raw: stat = 43.671, p = 0.0000
+Log: stat = 74.586, p = 0.0000
+
+Welch’s T-test:
+Raw: stat = -5.454, p = 0.0000
+Log: stat = -6.677, p = 0.0000
+
+Cohen's d:
+Raw: d = 0.070
+Log: d = 0.085

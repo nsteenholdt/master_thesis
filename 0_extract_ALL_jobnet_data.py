@@ -33,6 +33,7 @@ def flatten_json(nested_json, parent_key='', sep='_'):
 # Loop through all subdirectories
 for subdir, _, files in os.walk(BASE_DIR):
     for file in tqdm(files, desc=f"Processing {os.path.basename(subdir)}"):
+        
         # Skip files that start with 'E'
         if file.startswith("E"):
             continue

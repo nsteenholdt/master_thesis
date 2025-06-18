@@ -1,0 +1,4 @@
+
+Cohen's d:
+Raw: d = 0.070
+Log: d = 0.085

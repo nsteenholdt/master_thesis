@@ -3,30 +3,42 @@ import pandas as pd
 import re
 import unicodedata
 import logging
+import spacy
+from nltk.corpus import stopwords
+import nltk
+nltk.download("stopwords")
 
-# --- Configuration ---
+# Load SpaCy and Danish stopwords
+nlp = spacy.load("da_core_news_lg")
+stop_words = set(stopwords.words("danish"))
+
+
+# Configuration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_DIR = os.path.join(BASE_DIR, "processed_data_danish")
 OUTPUT_DIR = os.path.join(BASE_DIR, "processed_data_preprocessed")
 TEXT_COLUMN = "details_JobPositionPosting_JobPositionInformation_Purpose"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# --- Logging setup ---
+# Logging setup 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# --- Preprocessing function ---
+# Preprocessing function 
 def basic_cleaning(text):
     try:
-        text = unicodedata.normalize("NFKC", str(text))
-        text = text.lower()
-        text = text.strip()
-        text = re.sub(r"\s+", " ", text)  # collapse multiple whitespace
-        return text
+        # Use SpaCy to tokenize, lemmatize, remove punctuation and stopwords
+        doc = nlp(str(text).lower())
+        cleaned_tokens = [
+            token.lemma_ for token in doc
+            if token.is_alpha and token.lemma_ not in stop_words and not token.is_stop
+        ]
+        return " ".join(cleaned_tokens)
     except Exception as e:
         logging.error(f"Error cleaning text: {e}")
         return ""
 
-# --- Processing loop ---
+
+# Processing loop 
 for file in os.listdir(INPUT_DIR):
     if not file.endswith(".csv"):
         continue

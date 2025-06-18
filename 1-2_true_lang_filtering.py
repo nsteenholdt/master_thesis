@@ -1,9 +1,9 @@
 import os
 import pandas as pd
-import fasttext
+import fasttext # Ensure you have the fasttext model downloaded and in directory
 import logging
 
-# --- Configuration ---
+# Configuration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_DIR = os.path.join(BASE_DIR, "processed_data")
 OUTPUT_DIR = os.path.join(BASE_DIR, "processed_data_danish")
@@ -17,7 +17,7 @@ TEXT_COLUMNS = [
 # Confidence threshold for FastText language detection
 MIN_CONFIDENCE = 0.90
 
-# --- Logging setup ---
+# Logging setup 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
